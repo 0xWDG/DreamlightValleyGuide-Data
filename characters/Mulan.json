@@ -1,0 +1,24 @@
+{
+    "name": "Mulan",
+    "origin": "Mulan",
+    "house": "Mulan's House",
+    "description": "Mulan is a character from the Disney film Mulan (1998).",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Fa Family Wardrobe",
+        "Warrior Silhouette Motif",
+        "StarCoins 500",
+        "Carved Jade Bracelet",
+        "Mulan Profile Motif",
+        "StarCoins 1000",
+        "Hexagonal Window",
+        "Cri-Kee Lily Pad Motif",
+        "Imperial Silk Ensemble"
+    ],
+    "dlc": 2,
+    "quests": [
+        "mulan.realm",
+        "mulan.friendship"
+    ]
+}
