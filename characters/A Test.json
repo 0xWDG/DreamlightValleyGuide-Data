@@ -1,0 +1,23 @@
+{
+    "name": "A Test",
+    "origin": "A Test",
+    "house": "Frozen Castle",
+    "description": "Anna is a character from the Disney films Frozen (2013), Frozen II (2019).\r\nShe's unlocked after traveling to the Frozen Realm.",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Painted Double Door",
+        "Arendelle Decoration Motif",
+        "StarCoins 500",
+        "Four-Poster Bed",
+        "Anna Motif",
+        "StarCoins 1000",
+        "Banner",
+        "Arendelle Crest Motif",
+        "\"Fall's Bounty\" Gown"
+    ],
+    "quests": [
+        "anna.friendship",
+        "anna.realm"
+    ]
+}
