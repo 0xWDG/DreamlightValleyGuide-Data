@@ -1,0 +1,10 @@
+{
+    "name": "Emerald",
+    "description": "A deep green gem that can be mined.",
+    "icon": "\ud83d\udc8e",
+    "price": 325,
+    "found": [
+        "Forest of Valor",
+        "Glade of Trust"
+    ]
+}

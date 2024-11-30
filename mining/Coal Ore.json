@@ -1,0 +1,9 @@
+{
+    "name": "Coal Ore",
+    "description": "Coal is a must to keep any oven running warm.",
+    "icon": "\ud83d\udd25",
+    "price": 5,
+    "found": [
+        "All Biomes"
+    ]
+}

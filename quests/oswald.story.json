@@ -1,0 +1,27 @@
+{
+    "name": "oswald.story",
+    "quests": [
+        {
+            "name": "The Spark of Imagination",
+            "id": "oswald.story.1",
+            "objectives": [
+                "Talk to the peculiar rabbit.",
+                "Search for something to repair the bridge lever.",
+                "Fix the lever to reach the next platform.",
+                "Follow Oswald.",
+                "The bridge should rotate... Come up with a solution using everything you can find.",
+                "Activate the wheel to turn the bridge.",
+                "Follow Oswald to the next platform.",
+                "Use everything you've learned to fix the platform and reach the Spark of Imagination.",
+                "Pick up the Spark of Imagination!",
+                "Talk to Merlin.",
+                "Return to Oswald."
+            ],
+            "rewards": [
+                "Unlock Oswald"
+            ],
+            "dlc": true,
+            "friendship": 0
+        }
+    ]
+}

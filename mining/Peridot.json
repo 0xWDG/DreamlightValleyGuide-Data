@@ -1,0 +1,10 @@
+{
+    "name": "Peridot",
+    "description": "A light green mineral that can be mined.",
+    "icon": "\ud83d\udc8e",
+    "price": 200,
+    "found": [
+        "Dazzle Beach",
+        "Peaceful Meadow"
+    ]
+}

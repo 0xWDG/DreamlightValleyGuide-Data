@@ -1,0 +1,14 @@
+{
+    "name": "Pebbles",
+    "description": "You need a lot of pebbles to make a mountain...",
+    "icon": "\ud83e\udea8",
+    "price": 10,
+    "maxSpawns": 0,
+    "found": [
+        "Kristoff's Stall Digging",
+        "Dazzle Beach",
+        "Forest of Valor",
+        "Sunlit Plateau",
+        "Forgotten Lands"
+    ]
+}

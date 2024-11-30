@@ -1,0 +1,14 @@
+{
+    "name": "Fish 'n' Chips",
+    "description": "Battered fish and salted fries.",
+    "type": "Entr\u00e9es",
+    "stars": 4,
+    "energy": 697,
+    "price": 392,
+    "ingredients": [
+        "Wheat",
+        "Canola",
+        "Potato",
+        "Any Fish"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Vegetarian Taco",
+    "description": "A tortilla with various grilled veggies.",
+    "type": "Entr\u00e9es",
+    "stars": 4,
+    "energy": 925,
+    "price": 423,
+    "ingredients": [
+        "Any Vegetable",
+        "Corn",
+        "Chili Pepper",
+        "Cheese"
+    ]
+}

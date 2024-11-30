@@ -1,0 +1,13 @@
+{
+    "name": "Apple Sorbet",
+    "description": "A light, frozen dessert with an apple flavor.",
+    "type": "Desserts",
+    "stars": 3,
+    "energy": 1077,
+    "price": 271,
+    "ingredients": [
+        "Slush Ice",
+        "Apple",
+        "Sugarcane"
+    ]
+}

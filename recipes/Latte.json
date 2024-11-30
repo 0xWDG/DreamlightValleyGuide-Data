@@ -1,0 +1,12 @@
+{
+    "name": "Latte",
+    "description": "Strong coffee with a dollop of perfectly steamed milk on top.",
+    "type": "Appetizers",
+    "stars": 2,
+    "energy": 1358,
+    "price": 345,
+    "ingredients": [
+        "Coffee Bean",
+        "Milk"
+    ]
+}

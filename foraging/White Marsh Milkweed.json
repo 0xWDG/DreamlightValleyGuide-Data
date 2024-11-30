@@ -1,0 +1,10 @@
+{
+    "name": "White Marsh Milkweed",
+    "description": "Small white bulbs bloom atop long stalks.",
+    "icon": "\ud83c\udf3a",
+    "price": 33,
+    "maxSpawns": 4,
+    "found": [
+        "Glade of Trust"
+    ]
+}

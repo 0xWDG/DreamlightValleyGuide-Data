@@ -1,0 +1,12 @@
+{
+    "name": "Scrambled Egg",
+    "description": "A hearty meal perfect for almost every occasion.",
+    "type": "Entr\u00e9es",
+    "stars": 2,
+    "energy": 1070,
+    "price": 520,
+    "ingredients": [
+        "Egg",
+        "Cheese"
+    ]
+}

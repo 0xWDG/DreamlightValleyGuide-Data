@@ -1,0 +1,13 @@
+{
+    "name": "Apple-Cider-Glazed Salmon",
+    "description": "A cut of salmon glazed to perfection with a reduction of apple cider.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
+    "energy": 1572,
+    "price": 271,
+    "ingredients": [
+        "Apple",
+        "Salmon",
+        "Sugarcane"
+    ]
+}

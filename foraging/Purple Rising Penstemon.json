@@ -1,0 +1,10 @@
+{
+    "name": "Purple Rising Penstemon",
+    "description": "Purple wildflowers that rise when in bloom.",
+    "icon": "\ud83c\udf3a",
+    "price": 25,
+    "maxSpawns": 4,
+    "found": [
+        "Peaceful Meadow"
+    ]
+}

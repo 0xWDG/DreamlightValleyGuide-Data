@@ -1,0 +1,15 @@
+{
+    "name": "Pastry Cream and Fruits",
+    "description": "Fruits and cream: an iconic combination!",
+    "type": "Desserts",
+    "stars": 5,
+    "energy": 2332,
+    "price": 497,
+    "ingredients": [
+        "Any Fruit",
+        "Any Fruit",
+        "Any Fruit",
+        "Milk",
+        "Sugarcane"
+    ]
+}

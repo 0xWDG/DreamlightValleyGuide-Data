@@ -1,0 +1,13 @@
+{
+    "name": "Coconut Boba Tea",
+    "description": "A delicious sugary treat that you're sure to go (coco)nuts for.",
+    "type": "Desserts",
+    "stars": 3,
+    "energy": 1653,
+    "price": 406,
+    "ingredients": [
+        "Milk",
+        "Sugarcane",
+        "Coconut"
+    ]
+}

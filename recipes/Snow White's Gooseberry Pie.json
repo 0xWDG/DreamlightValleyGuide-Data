@@ -1,0 +1,13 @@
+{
+    "name": "Snow White's Gooseberry Pie",
+    "description": "Snow White's famously delicious pie!",
+    "type": "Desserts",
+    "stars": 3,
+    "energy": 1677,
+    "price": 338,
+    "ingredients": [
+        "Gooseberry",
+        "Wheat",
+        "Butter"
+    ]
+}

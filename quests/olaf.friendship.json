@@ -1,0 +1,120 @@
+{
+    "name": "olaf.friendship",
+    "quests": [
+        {
+            "name": "A Place for Joy",
+            "id": "olaf.friendship.1",
+            "objectives": [
+                "Gather some gifts for the Villagers:\r\n  \u2027 3 Salmon\r\n  \u2027 4 Red Bromeliad\r\n  \u2027 4 White Passion Lily\r\n  \u2027 1 Blue Passion Lily",
+                "Bring what you've gathered to Olaf.",
+                "Watch Olaf give the gift to Mother Gothel",
+                "Talk to Olaf",
+                "Bring the flowers to Scar on Olaf's behalf.",
+                "Meet Olaf at the bridge on the Sunlit Plateau",
+                "A Memory appeared!",
+                "Pick up the Memory near the bridge on the Sunlit Plateau",
+                "Talk to Olaf",
+                "Gather the following materials:\r\n  \u2027 4 Softwood\r\n  \u2027 4 Iron Ingot\r\n  \u2027 4 Rope",
+                "Talk to Minnie to get a Curtain",
+                "Craft the Stage",
+                "Make sure you have the Stage in your Inventory",
+                "Bring the Stage to Olaf."
+            ],
+            "rewards": [
+                "260 Friendship"
+            ],
+            "friendship": 2
+        },
+        {
+            "name": "A Story to Tell",
+            "id": "olaf.friendship.2",
+            "objectives": [
+                "Talk to Remy",
+                "Gather the following Ingredients to make a snack for Olaf:\r\n  \u2027 2 Corn\r\n  \u2027 1 Sugarcane\r\n  \u2027 1 Butter",
+                "Talk to Elsa to get some Pure Ice",
+                "Cook Olaf a snack using 2 Corn, 1 Butter, 1 Sugarcane, and 1 Pure Ice",
+                "Make sure you have Sweet Frost Popcorn in your Inventory",
+                "Bring the Sweet Frost Popcorn to Olaf",
+                "Talk to\r\n  \u2027 Kristoff\r\n  \u2027 Donald",
+                "Return to Olaf",
+                "Take a picture of the following locations:\r\n  \u2027 The Pillar of Courage from the Forest of Valor\r\n  \u2027 The Elephant Graveyard on the Sunlit Plateau\r\n  \u2027 The ruins in the Forgotten Lands",
+                "Talk to Olaf"
+            ],
+            "rewards": [
+                "510 Friendship"
+            ],
+            "friendship": 4
+        },
+        {
+            "name": "The Role of a Lifetime",
+            "id": "olaf.friendship.3",
+            "objectives": [
+                "Gather the following materials:\r\n  \u2027 12 Softwood\r\n  \u2027 3 Purple Marsh Milkweed\r\n  \u2027 1 Empty Vial",
+                "Craft everything Olaf needs to write the play:\r\n  \u2027 3 High-Quality Paper\r\n  \u2027 1 Purple Ink",
+                "Bring the High-Quality Paper and Purple Ink to Donald Duck",
+                "Make sure you have the following items in your Inventory.\r\n  \u2027 3 High-Quality Paper\r\n  \u2027 1 Purple Ink",
+                "Tell Olaf the bad news",
+                "Ask the following Villagers to audition for Olaf's play:\r\n  \u2027 Scrooge McDuck\r\n  \u2027 Buzz Lightyear\r\n  \u2027 Anna",
+                "Talk to Olaf",
+                "Listen to Anna's audition with Olaf.",
+                "Talk to Olaf"
+            ],
+            "rewards": [
+                "1280 Friendship"
+            ],
+            "friendship": 7
+        },
+        {
+            "name": "Olaf Presents...\"Dreamlight Valley\"",
+            "id": "olaf.friendship.4",
+            "objectives": [
+                "Gather the following materials:\r\n  \u2027 12 Dry Wood\r\n  \u2027 4 Green Passion Lily\r\n  \u2027 2 White Impatiens\r\n  \u2027 2 Orange Marsh Milkweed",
+                "Craft the Cutouts",
+                "Bring the Cutouts to Olaf",
+                "Talk to Anna",
+                "Gather the following materials\r\n  \u2027 15 Fiber\r\n  \u2027 6 Softwood\r\n  \u2027 3 Fabric",
+                "Search Donald's House to find 4 Donald's Feathers",
+                "Bring what you've gathered to Anna",
+                "Make sure you have the Donald Duck Mask in your Backpack",
+                "Talk to Olaf",
+                "Wear the Donald Duck Mask",
+                "Rehearse with Olaf",
+                "Place the Stage anywhere in the Frosted Heights",
+                "Put on Olaf's play in the Frosted Heights.",
+                "Talk to Olaf"
+            ],
+            "rewards": [
+                "1790 Friendship",
+                "Donald Duck Mask",
+                "Theatrical Supplies (Contains Stage, Raccoon Cutout, Rock and Ferns Cutout, Pine Tree Cutout, Oak Tree Cutout)",
+                "Permafrost Cloud"
+            ],
+            "friendship": 10
+        },
+        {
+            "name": "A Sticky Situation",
+            "id": "olaf.friendship.extra.1",
+            "objectives": [
+                "Uh-oh. Olaf's been learning how to use Crafting Stations...\r\n  \u2027 Check in on Olaf."
+            ],
+            "rewards": [
+                "10 Sturdy Chair"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "A Holiday Treat for Olaf",
+            "id": "olaf.friendship.jack.1",
+            "objectives": [
+                "Gather the following material:\r\n  \u2027 4 Fabric.\r\n  \u2027 6 Dark Wood.\r\n  \u2027 12 Fiber.",
+                "Craft a Blank Book.",
+                "Make sure you have the 3 Blank Book in your Inventory.",
+                "Bring the Blank Book to Jack Skellington."
+            ],
+            "rewards": [
+                "875 Friendship"
+            ],
+            "friendship": 0
+        }
+    ]
+}

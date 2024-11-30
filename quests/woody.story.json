@@ -1,0 +1,29 @@
+{
+    "name": "woody.story",
+    "quests": [
+        {
+            "name": "You're My Favorite Deputy",
+            "id": "woody.story.1",
+            "objectives": [
+                "Talk to Woody in the Toy Story Realm",
+                "Gather the following materials in the Toy Story Realm:\r\n  \u2027 8 Ice Pop Stick\r\n  \u2027 5 Pipe Cleaner",
+                "Bring the materials to Woody",
+                "Gather the rest of the materials in Dreamlight Valley:\r\n  \u2027 2 Yellow Daisy\r\n  \u2027 Talk to Buzz about something to hold the farm together.",
+                "Make sure you have the following materials in your Inventory:\r\n  \u2027 2 Yellow Daisy\r\n  \u2027 1 Adhesive Bonding Agent",
+                "Bring the materials to Woody in the Toy Story Realm",
+                "Go meet Woody at Bonnie's farm beside the bed.",
+                "Talk to Woody",
+                "Search the room for the Origami Animal (5)",
+                "Bring the Origami Animals to Woody.",
+                "Place Woody's Carousel in Dreamlight Valley.",
+                "Use the Scrooge McDuck sign to pay for the construction of Woody's Carousel.",
+                "Use the Scrooge McDuck sign to pay for the construction of Woody's Carousel.",
+                "Welcome Woody to the Village"
+            ],
+            "rewards": [
+                "Unlock Woody"
+            ],
+            "friendship": 0
+        }
+    ]
+}

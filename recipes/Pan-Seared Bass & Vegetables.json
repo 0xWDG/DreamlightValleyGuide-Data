@@ -1,0 +1,13 @@
+{
+    "name": "Pan-Seared Bass & Vegetables",
+    "description": "A thick cut of perfectly cooked bass.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
+    "energy": 394,
+    "price": 57,
+    "ingredients": [
+        "Bass",
+        "Any Vegetable",
+        "Any Vegetable"
+    ]
+}

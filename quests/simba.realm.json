@@ -1,0 +1,37 @@
+{
+    "name": "simba.realm",
+    "quests": [
+        {
+            "name": "Stars to Guide Us",
+            "id": "simba.realm.1",
+            "objectives": [
+                "Talk to Simba in The Lion King Realm.",
+                "Follow Simba deeper into the jungle.",
+                "Talk to Simba.",
+                "Return to Dreamlight Valley and talk to Merlin.",
+                "Gather the following materials:\r\n  \u2027 5 Softwood\r\n  \u2027 5 Fiber\r\n  \u2027 2 Purified Night Shard",
+                "Craft Rafiki's Walking Stick.",
+                "Return to The Lion King Realm.",
+                "Make sure you have Rafiki's Walking Stick in your Inventory.",
+                "Bring Rafiki's Walking Stick to Simba in The Lion King Realm.",
+                "Place Rafiki's Walking Stick on the stone mound.",
+                "Return to Simba.",
+                "Follow Simba to the dried-out oasis.",
+                "Talk to Simba..",
+                "Gather the following seeds:\r\n  \u2027 3 Jungle Fern Seed\r\n  \u2027 3 Waterfall Plant Seeds\r\n  \u2027 3 Clearing Tree Seeds",
+                "Go back to the dried-out oasis to meet Simba.",
+                "Talk to Simba...",
+                "Plant the seeds around the oasis:\r\n  \u2027 3 Jungle Fern Seed\r\n  \u2027 3 Waterfall Plant Seeds\r\n  \u2027 3 Clearing Tree Seeds",
+                "Talk to Simba....",
+                "Use your Pickaxe to free the water source.",
+                "Talk to Simba.....",
+                "Return to Dreamlight Valley.",
+                "Welcome Simba to Dreamlight Valley.",
+                "Talk to Simba. . ."
+            ],
+            "rewards": [
+                "Unlock Simba"
+            ]
+        }
+    ]
+}

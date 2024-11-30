@@ -1,0 +1,13 @@
+{
+    "name": "Seafood Pie",
+    "description": "A savory pie filled with shrimp and scallops.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
+    "energy": 813,
+    "price": 331,
+    "ingredients": [
+        "Any Seafood",
+        "Wheat",
+        "Butter"
+    ]
+}

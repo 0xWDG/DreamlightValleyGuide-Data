@@ -1,0 +1,97 @@
+{
+    "name": "jafar.story",
+    "quests": [
+        {
+            "name": "The Secrets of Eternity Isle",
+            "id": "jafar.story.1",
+            "objectives": [
+                "Use the Mysterious Device in the corner of the Plaza to talk to Jafar.",
+                "Complete \"The Port of Many Worlds\" Quest to proceed to Eternity Isle.",
+                "Go to the Stardust Port in the Dream Castle.",
+                "Interact with the Ancient Vessel to travel to Eternity Isle.",
+                "Welcome to Eternity Isle!\r\n  \u2027 Find the Hologram Station that will allow you to speak to Jafar.",
+                "Interact with the Hologram Station to talk to Jafar.",
+                "Reach the Ancient Gate that leads deeper into Eternity Isle.\r\n  \u2027 Clear away the Splinters of Fate by approaching them",
+                "Talk to Jafar using the Hologram Station beside the Ancient Gate.",
+                "Find the pieces of the Ancient Sphere as you explore Ancient's Landing.",
+                "Repair the Ancient Sphere at a Crafting Station.",
+                "Put the Ancient Sphere in the receptacle next to the Ancient Gate.",
+                "Open the Ancient Gate.",
+                "Go deeper into Eternity Isle.",
+                "Meet Jafar by the broken bridge in the Courtyard area.",
+                "Talk to Jafar at the Hologram Station."
+            ],
+            "rewards": [
+                "Pickaxe Upgrade"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "The Flying Metal Nuisance",
+            "id": "jafar.story.2",
+            "objectives": [
+                "Search for the \"flying metal nuisance\" to get the Royal Hourglass.",
+                "Talk to the \"flying metal nuisance.\"",
+                "Talk to Jafar at one of the Hologram Stations around Ancient's Landing.",
+                "Go inside EVE's House in Ancient's Landing.",
+                "Remove the Piles of Junk inside EVE's House to find a clue.",
+                "Pick up the paper on the ground.",
+                "Return to Jafar at one of the Hologram Stations around Ancient's Landing.",
+                "Look for the hidden area shown in the Memory.",
+                "Search for both parts of the Robot Costume in the secret area behind the waterfall.",
+                "Dress up using the items you found in the hidden area:\r\n  \u2027 Robot Hat.\r\n  \u2027 Robot Costume.",
+                "Talk to EVE while wearing the Robot Hat and Robot Costume.",
+                "Investigate the Best Fish Forever Recipe in your Inventory.",
+                "Unlock Goofy's Stall in Ancient's Landing.",
+                "(Find the broken half Goofy's Stall Sign in Ancient's Landing, then complete the \"Give Me a Sign\" Quest.)",
+                "Gather the following items from Ancient's Landing to make the recipe:\r\n  \u2027 1 Robot Fish.\r\n  \u2027 1 Cumin. (Some of the white flowers around here might be cumin...)\r\n  \u2027 1 Celery.\r\n  \u2027 1 Sea Snail.",
+                "Cook the Best Fish Forever for EVE.",
+                "Make sure the Best Fish Forever is in your Inventory.",
+                "Bring the food to EVE.",
+                "Pick up the Royal Hourglass.",
+                "Return to the Broken Bridge.",
+                "Talk to Jafar at the Hologram Station."
+            ],
+            "rewards": [
+                "Royal Hourglass",
+                "Royal Hourglass Upgrade (Remove Small Swirling Sands)"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "The Sands in the Hourglass",
+            "id": "jafar.story.3",
+            "objectives": [
+                "Reach the Secluded Beach down the passage to the right of the broken bridge.",
+                "Talk to Jafar at the Hologram Station.",
+                "Use your Hourglass to search the Secluded Beach for what you need to repair the Statue:\r\n  \u2027 2 Ancient Statue Fragment.",
+                "Use your Hourglass to search for more materials lost in time around Ancient's Landing:\r\n  \u2027 3 Ancient Plate.",
+                "Return to Jafar on the Secluded Beach.",
+                "Talk to Jafar.",
+                "Use the Detailed Statue-Repair Instructions in your Inventory.",
+                "Craft the Statue's Arm at a Timebending Table.",
+                "Put the Statue's Arm back in its socket.",
+                "Return to the broken bridge in the Courtyard area.",
+                "Return to Jafar.",
+                "Search for Mist with your Hourglass, or access the Dreamlight menu and investigate your new Mist Duties",
+                "Repair the broken bridge in the Courtyard area by using Mist."
+            ],
+            "rewards": [],
+            "friendship": 0
+        },
+        {
+            "name": "Your Eternal Reward",
+            "id": "jafar.story.4",
+            "objectives": [
+                "Find the remaining two Jewels of Time by investigating:\r\n  \u2027 The Wild Tangle.\r\n  \u2027 The Glittering Dunes.",
+                "Talk to Jafar at a Hologram Station.",
+                "Unlock the Borderlands in the Glittering Dunes to reach the palace.\r\n  \u2027 Search for Mist with your Hourglass, or access the Dreamlight menu and investigate your new Mist Duties",
+                "Interact with the Time Anomaly in front of the door to Jafar's Palace.",
+                "Talk to Jafar.",
+                "Jafar has vanished. But you get the feeling he'll be back...\r\n  \u2027 Talk to Merlin."
+            ],
+            "rewards": [],
+            "friendship": 0
+        }
+    ]
+}

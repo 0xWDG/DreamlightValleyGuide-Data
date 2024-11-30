@@ -1,0 +1,9 @@
+{
+    "name": "Crystal",
+    "description": "A pretty, rare crystal used for crafting.",
+    "icon": "\ud83d\udc8e",
+    "price": 30,
+    "found": [
+        "Forgotten Lands"
+    ]
+}

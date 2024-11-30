@@ -1,0 +1,24 @@
+{
+    "name": "Mike Wazowski",
+    "origin": "Monsters, Inc.",
+    "house": "Mike and Sulley's Apartment",
+    "description": "Mike Wazowski is a character from the Disney-Pixar film Monsters, Inc. (2001).",
+    "rewards": [
+        "",
+        "",
+        "Laugh Floor Chair",
+        "Student Mike Motif",
+        "500 StarCoins",
+        "Knitted Mike Hat",
+        "Little Mikey Motif",
+        "1000 StarCoins",
+        "Monsters, Inc. Phone",
+        "Monster Pattern Motif",
+        "Monstrous Mini Dress"
+    ],
+    "dlc": 0,
+    "quests": [
+        "mikewazowski.realm",
+        "mikewazowski.friendship"
+    ]
+}

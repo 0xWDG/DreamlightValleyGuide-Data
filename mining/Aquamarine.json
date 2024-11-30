@@ -1,0 +1,10 @@
+{
+    "name": "Aquamarine",
+    "description": "A light blue mineral that can be mined.",
+    "icon": "\ud83d\udc8e",
+    "price": 250,
+    "found": [
+        "Dazzle Beach",
+        "Forest of Valor"
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "name": "ursula.friendship",
+    "quests": [
+        {
+            "name": "Lair Sweet Lair",
+            "id": "ursula.friendship.1",
+            "objectives": [
+                "Place Ursula's House in the water.",
+                "Use the Scrooge McDuck sign to finish building Ursula's House.",
+                "Talk to Ursula to see what she thinks of her new home.",
+                "Talk to Merlin about what to do about Ursula's request.",
+                "Gather Paper for Ursula from the Village's houses. (3)",
+                "Bring the Paper to Ursula.",
+                "Gather the following items to craft the Magical Scroll and Ink Kit:\r\n  \u2027 6 Dream Shard\r\n  \u2027 2 Craft Purple Pigment\r\n  \u2027 1 Craft Empty Vial",
+                "Craft the Magical Scroll and Ink Kit.",
+                "Bring the Magical Scroll and Ink Kit to Ursula."
+            ],
+            "rewards": [
+                "180 Friendship",
+                "Shrimp",
+                "Bream"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "Magic Moments",
+            "id": "ursula.friendship.2",
+            "objectives": [
+                "Ask Mother Gothel about the curse.",
+                "Cook the following meals for Mother Gothel:\r\n  \u2027 Sushi\r\n  \u2027 Lobster Roll",
+                "Bring the Sushi and Lobster Roll to Mother Gothel.",
+                "Bring the mysterious flower to Ursula."
+            ],
+            "rewards": [
+                "350 Friendship"
+            ],
+            "friendship": 4
+        },
+        {
+            "name": "The Ritual",
+            "id": "ursula.friendship.3",
+            "objectives": [
+                "Get a Seashell from Moana",
+                "Gather the following items for Ursula's spell:\r\n  \u2027 5 Aquamarine\r\n  \u2027 6 Squid\r\n  \u2027 1 Empty Vial",
+                "Craft the Enchantment Potion for Ursula.",
+                "Bring the Enchantment Potion to Ursula.",
+                "Place the Enchanted Flower near the entrance to the Mystical Cave on the Beach.",
+                "Watch Ursula's Spell.",
+                "Tell Ursula about what just happened."
+            ],
+            "rewards": [
+                "880 Friendship"
+            ],
+            "friendship": 7
+        },
+        {
+            "name": "A Deal with Ursula",
+            "id": "ursula.friendship.4",
+            "objectives": [
+                "Investigate the ruins in the Forgotten Lands.",
+                "Pick up the Dark Crystal from the pedestal.",
+                "Bring the Dark Crystal to Ursula.",
+                "Find the 4 remaining Crystals in the Village",
+                "Place the Crystals on the Pedestals in the ruins of the Forgotten Lands.",
+                "Pick up the Magical Crystal that appeared.",
+                "Bring the Magical Crystal to Ursula to seal your deal."
+            ],
+            "rewards": [
+                "1230 Friendship",
+                "Sea Witch's Gown"
+            ],
+            "spoilers": [
+                {
+                    "title": "Crystal Glade of Trust",
+                    "objective": "Beside the door to Mother Gothel's tree house, on the ground to the right near a large root."
+                },
+                {
+                    "title": "Crystal Frosted Heights",
+                    "objective": "On the east bank of the northern-most point in the river on the ground."
+                },
+                {
+                    "title": "Crystal Sunlit Plateau",
+                    "objective": "The east side of the watering hole on the ground next to the water."
+                }
+            ],
+            "friendship": 10
+        },
+        {
+            "name": "Villager of the Month: Ursula",
+            "id": "ursula.friendship.votm.1",
+            "objectives": [
+                "Gather the Ingredients for the Perfume of the Sea Enchantment:\r\n  \u2027 6 Seaweed.\r\n  \u2027 3 Purple Hydrangeas.\r\n  \u2027 6 Purple Rising Penstemons.\r\n  \u2027 3 Empty Vials.",
+                "Craft 3 Perfume of the Sea Enchantment at a Crafting Station.",
+                "Make sure the 3 Perfume of the Sea Enchantments are in your Inventory.",
+                "Bring the Perfume of the Sea Enchantments to Ursula.",
+                "Bring the Perfume of the Sea Enchantment to the following Villagers:\r\n  \u2027 Make sure the Perfume of the Sea Enchantment is in your Inventory.\r\n  \u2027 \u2027 Merlin.\r\n  \u2027 Make sure the Perfume of the Sea Enchantment is in your Inventory.\r\n  \u2027 \u2027 Mike.\r\n  \u2027 Make sure the Perfume of the Sea Enchantment is in your Inventory.\r\n  \u2027 \u2027 Goofy.",
+                "Return to Ursula."
+            ],
+            "rewards": [],
+            "dlc": 0,
+            "friendship": 0
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Wedding Cake",
+    "description": "A tiered cake to celebrate a beautiful union.",
+    "type": "Desserts",
+    "stars": 5,
+    "energy": 1680,
+    "price": 785,
+    "ingredients": [
+        "Butter",
+        "Sugarcane",
+        "Vanilla",
+        "Egg",
+        "Wheat"
+    ]
+}

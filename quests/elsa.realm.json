@@ -1,0 +1,32 @@
+{
+    "name": "elsa.realm",
+    "quests": [
+        {
+            "name": "Chasing The Wind",
+            "id": "elsa.realm.1",
+            "objectives": [
+                "Meet Elsa on the other side of the bridge.",
+                "Gather the materials for the Wind Chimes:\r\n  \u2027 15 Softwood\r\n  \u2027 3 Iron Ingot\r\n  \u2027 3 Twine",
+                "Craft 3 Wind Chimes",
+                "Return to the Frozen Realm and find your way back to Elsa.",
+                "Place all three Wind Chimes in different trees near Elsa.",
+                "Talk to Elsa"
+            ],
+            "rewards": [],
+            "friendship": 0
+        },
+        {
+            "name": "Welcoming Elsa",
+            "id": "elsa.realm.2",
+            "objectives": [
+                "Go to the Frozen Realm and talk to Elsa",
+                "Return to Dreamlight Valley",
+                "Welcome Elsa to Dreamlight Valley"
+            ],
+            "rewards": [
+                "Unlock Elsa"
+            ],
+            "friendship": 0
+        }
+    ]
+}

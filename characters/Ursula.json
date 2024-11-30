@@ -1,0 +1,23 @@
+{
+    "name": "Ursula",
+    "origin": "The Little Mermaid",
+    "house": "Ursula's Lair",
+    "description": "Ursula is a character from the Disney film The Little Mermaid (1989).",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Dark Blue Button-Up Vest",
+        "Seashell Motif",
+        "StarCoins 500",
+        "Nautilus Bedside Lamp",
+        "Trident Motif",
+        "StarCoins 1000",
+        "Poor Unfortunate Bookcase",
+        "Sea Witch Motif",
+        "Sea Witch's Gown"
+    ],
+    "quests": [
+        "ursula.friendship",
+        "ursula.story"
+    ]
+}

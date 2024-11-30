@@ -1,0 +1,33 @@
+{
+    "name": "mothergothel.story",
+    "quests": [
+        {
+            "name": "The Curse",
+            "id": "mothergothel.story.1",
+            "objectives": [
+                "Talk to Merlin.",
+                "Investigate the cursed tree in the Glade of Trust.",
+                "Explore the cabin inside the giant tree.",
+                "Introduce yourself to Mother Gothel.",
+                "Follow Mother Gothel to the Pillar of Trust in the Glade.",
+                "Talk to Mother Gothel.",
+                "Find Merlin.",
+                "Listen to Merlin and Ursula.",
+                "Find out if Ursula can help you.",
+                "Talk to Merlin about the curse.",
+                "Gather the following Ingredients for the enchantment:",
+                "-5 Night Shard",
+                "-5 Dream Shard",
+                "Convince Kristoff to help you with the spell.",
+                "Meet Ursula in the cave where you first met.",
+                "Give the Ingredients to Ursula.",
+                "Retrieve the Orb of Trust from the floating island.",
+                "Put the Orb of Trust back into the Pillar.",
+                "Talk to Mother Gothel."
+            ],
+            "rewards": [
+                "1000 Friendship"
+            ]
+        }
+    ]
+}

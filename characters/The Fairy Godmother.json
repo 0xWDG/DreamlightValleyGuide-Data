@@ -1,0 +1,23 @@
+{
+    "name": "The Fairy Godmother",
+    "origin": "Cinderella",
+    "house": "Pumpkin House",
+    "description": "The Fairy Godmother is a character from the Disney film Cinderella (1950).",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Pumpkin Carriage Planter",
+        "Fairy Godmother Motif",
+        "StarCoins 500",
+        "Enchanted Stone Bench",
+        "Pumpkin Motif",
+        "StarCoins 1000",
+        "Enchanted Cage Lanterns",
+        "Fairy Godmother Motif",
+        "Pumpkin Carriage"
+    ],
+    "quests": [
+        "fairygodmother.friendship",
+        "fairygodmother.story"
+    ]
+}

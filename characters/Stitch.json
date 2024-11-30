@@ -1,0 +1,22 @@
+{
+    "name": "Stitch",
+    "origin": "Lilo & Stitch",
+    "house": "Stitch's House",
+    "description": "Stitch, also known as Experiment 626, is a character from the 2002 animated film Lilo & Stitch and its franchise.",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Ugly Duckling Book",
+        "Stitch Sitting Motif",
+        "StarCoins 500",
+        "Stitch Hat",
+        "Stitch Drawing Motif",
+        "StarCoins 1000",
+        "City Model",
+        "Stitch Reading to Ducklings Motif",
+        "Stitch's Little Red Ship"
+    ],
+    "quests": [
+        "stitch.friendship"
+    ]
+}

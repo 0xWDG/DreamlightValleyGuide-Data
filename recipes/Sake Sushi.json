@@ -1,0 +1,12 @@
+{
+    "name": "Sake Sushi",
+    "description": "Thin cuts of salmon over cooked rice.",
+    "type": "Entr\u00e9es",
+    "stars": 2,
+    "energy": 1000,
+    "price": 274,
+    "ingredients": [
+        "Salmon",
+        "Rice"
+    ]
+}

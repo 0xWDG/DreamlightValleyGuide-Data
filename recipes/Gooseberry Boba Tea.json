@@ -1,0 +1,13 @@
+{
+    "name": "Gooseberry Boba Tea",
+    "description": "A sugary treat that's berry delicious.",
+    "type": "Desserts",
+    "stars": 3,
+    "energy": 1833,
+    "price": 418,
+    "ingredients": [
+        "Milk",
+        "Sugarcane",
+        "Gooseberry"
+    ]
+}

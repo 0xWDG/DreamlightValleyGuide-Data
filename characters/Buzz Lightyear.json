@@ -1,0 +1,23 @@
+{
+    "name": "Buzz Lightyear",
+    "origin": "Toy Story",
+    "house": "Buzz's RV",
+    "description": "Buzz Lightyear is a character from Disney and Pixar's Toy Story franchise.",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Outer Space Wallpaper",
+        "Buzz Buttons Motif",
+        "StarCoins 500",
+        "Pixar Ball",
+        "Zurg Motif",
+        "StarCoins 1000",
+        "Arched Window to Deep Space",
+        "Buzz Portrait Motif",
+        "Buzz Lightyear's Space Pack"
+    ],
+    "quests": [
+        "buzzlightyear.friendship",
+        "buzzlightyear.story"
+    ]
+}

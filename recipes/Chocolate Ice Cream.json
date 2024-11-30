@@ -1,0 +1,14 @@
+{
+    "name": "Chocolate Ice Cream",
+    "description": "Rich, decadent scoops of chilled deliciousness.",
+    "type": "Desserts",
+    "stars": 4,
+    "energy": 2074,
+    "price": 655,
+    "ingredients": [
+        "Slush Ice",
+        "Cocoa Bean",
+        "Sugarcane",
+        "Milk"
+    ]
+}

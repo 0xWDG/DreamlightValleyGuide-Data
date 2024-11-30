@@ -1,0 +1,15 @@
+{
+    "name": "Dream Shard",
+    "description": "A crystallized form of Dreamlight magic.",
+    "icon": "\ud83d\udc8e",
+    "price": 0,
+    "found": [
+        "Plaza",
+        "Peaceful Meadow",
+        "Forest of Valor",
+        "Glade of Trust",
+        "Sunlit Plateau",
+        "Frosted Heights",
+        "Forgotten Lands"
+    ]
+}

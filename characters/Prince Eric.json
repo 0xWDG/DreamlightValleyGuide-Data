@@ -1,0 +1,22 @@
+{
+    "name": "Prince Eric",
+    "origin": "The Little Mermaid",
+    "house": "Prince Eric's Castle",
+    "description": "Prince Eric is a character from the Disney film The Little Mermaid (1989).",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Seaside Prince Side Part",
+        "Max Motif",
+        "StarCoins 500",
+        "Purple Chaise and Anchor Pillow",
+        "Kiss the Girl Motif",
+        "StarCoins 1000",
+        "White and Blue Officer Jacket",
+        "Sailing Ship Motif",
+        "Eric's Miniature Boat"
+    ],
+    "quests": [
+        "princeeric.friendship"
+    ]
+}

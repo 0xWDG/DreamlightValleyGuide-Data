@@ -1,0 +1,15 @@
+{
+    "name": "Large Seafood Platter",
+    "description": "A large selection of various seafood treats.",
+    "type": "Appetizers",
+    "stars": 5,
+    "energy": 1810,
+    "price": 340,
+    "ingredients": [
+        "Any Seafood",
+        "Any Seafood",
+        "Any Seafood",
+        "Any Seafood",
+        "Lemon"
+    ]
+}

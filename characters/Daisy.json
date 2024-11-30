@@ -1,0 +1,23 @@
+{
+    "name": "Daisy",
+    "origin": "Mickey & Friends",
+    "house": "Daisy's House",
+    "description": "Daisy Duck is a character from the classic Disney cartoons.",
+    "rewards": [
+        "",
+        "",
+        "Pink Bow Headband",
+        "Daisy Portrait Motif",
+        "StarCoins 500",
+        "Daisy Salon Chair",
+        "Daisy Pattern Motif",
+        "StarCoins 1000",
+        "Daisy Vanity Mirror",
+        "Design Motif",
+        "\"Dots & Daisies\" Dress"
+    ],
+    "dlc": 0,
+    "quests": [
+        "daisy.friendship"
+    ]
+}

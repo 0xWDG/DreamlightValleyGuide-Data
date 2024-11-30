@@ -1,0 +1,12 @@
+{
+    "name": "Lemon Sorbet",
+    "description": "A light, frozen dessert with a citrus-y kick.",
+    "type": "Desserts",
+    "stars": 2,
+    "energy": 1112,
+    "price": 237,
+    "ingredients": [
+        "Slush Ice",
+        "Lemon"
+    ]
+}

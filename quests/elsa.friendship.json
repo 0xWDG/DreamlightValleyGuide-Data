@@ -1,0 +1,93 @@
+{
+    "name": "elsa.friendship",
+    "quests": [
+        {
+            "name": "Breaking the Ice",
+            "id": "elsa.friendship.1",
+            "objectives": [
+                "Follow Elsa to the Ice Cavern.",
+                "Gather the following Ingredients for the Warmth of Summer Potion:\r\n  \u2027 1 Vial of Ocean Water\r\n  \u2027 5 Sunflower\r\n  \u2027 5 Lemon\r\n  \u2027 2 Sugarcane\r\n  \u2027 3 Garlic",
+                "Craft the Warmth of Summer Potion.",
+                "Bring the Warmth of Summer Potion to Elsa.",
+                "Enter the Ice Cavern",
+                "Clear the ice blocks inside the Ice Cavern.",
+                "Follow Elsa to Explore the Ice Cavern.",
+                "Talk to Elsa",
+                "Find the origin of the sound deeper in the Cave.",
+                "Pick up the Blue Crest from the ground.",
+                "Talk to Elsa",
+                "Place the Blue Crest on the sculpted wall."
+            ],
+            "rewards": [
+                "180 Friendship",
+                "Upgrade Pickaxe to clear small ice blocks"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "What Home Feels Like",
+            "id": "elsa.friendship.2",
+            "objectives": [
+                "Gather the Ingredients for the Dandelion Syrup:\r\n  \u2027 1 Lemon\r\n  \u2027 5 Dandelion\r\n  \u2027 3 Garlic\r\n  \u2027 2 Onion\r\n  \u2027 1 Empty Vial",
+                "Bring the Ingredients to Elsa.",
+                "Catch the Glittering Herring in the Glade on a rainy day.",
+                "Make sure to have the Ingredients in your Inventory:\r\n  \u2027 Wheat\r\n  \u2027 Butter",
+                "Cook an Arendellian Fish Pie",
+                "Make sure you have Arendellian Pickled Herring in your Inventory.",
+                "Make sure you have Arendellian Fish Pie in your Inventory.",
+                "Bring the meals to Elsa",
+                "Dig out Elsa's Secret Chest near the Ice Cavern.",
+                "Pick up Elsa's Secret Chest near the Ice Cavern.",
+                "Give the Arendellian Arendellian Extra-Pickled Herring to Elsa.",
+                "Place the Purple Crest on the wall of the Ice Cavern.",
+                "Return to Elsa"
+            ],
+            "rewards": [
+                "350 Friendship"
+            ],
+            "friendship": 3
+        },
+        {
+            "name": "The Singing Ice",
+            "id": "elsa.friendship.3",
+            "objectives": [
+                "Follow Elsa deeper into the Ice Cavern.",
+                "Gather the Flowers to turn them into an Icy Bouquet.\r\n  \u2027 White Daisy\r\n  \u2027 Red Falling Penstemon\r\n  \u2027 Pink Bromeliad",
+                "Bring the Flowers back to Elsa.",
+                "Gather the Ingredients for the spell:\r\n  \u2027 5 Ice Chunk\r\n  \u2027 1 Icy Bouquet\r\n  \u2027 1 Vial of Freezing Water\r\n  \u2027 3 Snowball",
+                "Craft the Cold of Winter Potion.",
+                "Return to Elsa",
+                "Break the big ice block where the sound comes from.",
+                "Get the Orange Crest from the Ice Cavern.",
+                "Place the new Orange Crest on the wall of the Ice Cavern.",
+                "Return to Elsa"
+            ],
+            "rewards": [
+                "880 Friendship",
+                "Upgrade Pickaxe to break large ice blocks"
+            ],
+            "friendship": 6
+        },
+        {
+            "name": "The Ice Cavern Mystery",
+            "id": "elsa.friendship.4",
+            "objectives": [
+                "Go to the Ice Cavern.",
+                "Follow Elsa to the ice statues.",
+                "Talk to Anna",
+                "Take the Green Crest from Anna's House.",
+                "Finally the last Crest! Place it on the wall of the Ice Cavern.",
+                "Return to Elsa.",
+                "Place the following items on the pedestals:\r\n  \u2027 Arendellian Pickled Herring\r\n  \u2027 White Passion Lily\r\n  \u2027 Carrot\r\n  \u2027 Gold Ingot",
+                "Talk to Elsa",
+                "Open the Icy Chest to reveal its contents.",
+                "Give what you've found to Elsa."
+            ],
+            "rewards": [
+                "1230 Friendship",
+                "Gleaming Ice Gown"
+            ],
+            "friendship": 10
+        }
+    ]
+}

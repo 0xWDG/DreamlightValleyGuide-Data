@@ -1,0 +1,46 @@
+{
+    "name": "anna.realm",
+    "quests": [
+        {
+            "name": "The Spirits Of Nature",
+            "id": "anna.realm.1",
+            "objectives": [
+                "Explore the Frozen Realm.",
+                "Search the wood for the Fire Spirit, Bruni.\r\n  \u2027 Use your Watering Can to clear a path through the fire.",
+                "You're found the Fire Spirit, Bruni!",
+                "Catch Bruni.",
+                "Return to Anna near the entrance to the Frozen Realm",
+                "Bring the Fire Spirit to Anna.",
+                "Follow Anna.",
+                "Talk to Anna.",
+                "Gather the Ingredients to prepare a Stone Soup:\r\n  \u2027 Search the ground for 3 Craggy Rock\r\n  \u2027 Basil\r\n  \u2027 Oregano",
+                "Cook Stone Soup using the Craggy Rocks, Basil, and Oregano.",
+                "Place the Stone Soup on the pile of rocks near the Earth Giant's foot.",
+                "Talk to Anna.",
+                "Explore deeper in the Enchanted Forest and find Elsa.",
+                "Use your Shovel and Pickaxe to clear the path.",
+                "Oh no! The Bridge is flooded!",
+                "Talk to Anna.",
+                "Follow Anna to the calm pond.",
+                "Talk to Anna",
+                "Fish in the pond in the Frozen Realm.",
+                "Bring the Engagement Ring to Anna"
+            ],
+            "rewards": []
+        },
+        {
+            "name": "Welcoming Anna",
+            "id": "anna.realm.2",
+            "objectives": [
+                "Talk to Anna in the Frozen Realm and invite her to Dreamlight Valley.",
+                "Return to Dreamlight Valley.",
+                "Welcome Anna in Dreamlight Valley.",
+                "Talk to Anna."
+            ],
+            "rewards": [
+                "Unlock Anna"
+            ],
+            "friendship": 0
+        }
+    ]
+}

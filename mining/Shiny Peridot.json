@@ -1,0 +1,10 @@
+{
+    "name": "Shiny Peridot",
+    "description": "A rare light-green mineral that can be mined.",
+    "icon": "\ud83d\udc8e",
+    "price": 800,
+    "found": [
+        "Dazzle Beach",
+        "Peaceful Meadow"
+    ]
+}

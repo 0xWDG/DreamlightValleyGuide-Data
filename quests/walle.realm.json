@@ -1,0 +1,34 @@
+{
+    "name": "walle.realm",
+    "quests": [
+        {
+            "name": "The Shy Little Robot",
+            "id": "walle.realm.1",
+            "objectives": [
+                "Explore WALL-E Realm.",
+                "Search the Realm to find a way to repair WALL-E.",
+                "You found WALL-E's Track! Go bring it to him.",
+                "Gather 60 Trash by removing Trash Piles.",
+                "Use the Crafting Station to craft 6 Trash Cubes.",
+                "Bring the Trash Cubes to WALL-E.",
+                "Plant 8 WALL-E's Special Seeds and help them grow in the Realm.",
+                "Beautiful. Go see what WALL-E thinks.",
+                "Ask Merlin for help with WALL-E.",
+                "Talk to Scrooge McDuck.",
+                "Mine for 2 Garnet around the Village.",
+                "Bring the Garnets to Scrooge.",
+                "Talk to:\r\n  \u2027 Mickey.\r\n  \u2027 Goofy.",
+                "Gather these items:\r\n  \u2027 Collect the Ball inside Mickey's House.\r\n  \u2027 Fish the Sprout Boot from one of the Meadow's ponds.",
+                "Make sure you have the following items in your Inventory...\r\n  \u2027 Fire Extinguisher\r\n  \u2027 Ball\r\n  \u2027 Sprout Boot",
+                "You found everything! Bring the items to WALL-E.",
+                "Make sure WALL-E is comfortable in the Village by placing his House.",
+                "Use the Scrooge McDuck sign to pay for the construction of WALL-E's House.",
+                "Everything is ready for WALL-E. Welcome him to the Village.",
+                "Beautiful. Go see what WALL-E thinks."
+            ],
+            "rewards": [
+                "Unlock WALL-E"
+            ]
+        }
+    ]
+}

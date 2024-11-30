@@ -1,0 +1,172 @@
+{
+    "name": "scroogemcduck.story",
+    "quests": [
+        {
+            "name": "Making Cents of Things",
+            "id": "scroogemcduck.story.1",
+            "objectives": [
+                "Find Goofy in the Meadow.",
+                "Help Goofy get back in business.",
+                "Talk to Scrooge McDuck.",
+                "Earn Star Coins to repair Scrooge McDuck's Store. (1K)",
+                "Use the sign outside Scrooge McDuck's store to repair it.",
+                "Talk to Scrooge McDuck.",
+                "Buy something from Scrooge McDuck's Store.",
+                "You did it! Go see what Scrooge McDuck thinks."
+            ],
+            "rewards": [
+                "300 Friendship"
+            ]
+        },
+        {
+            "name": "Scrooge McDuck's Grand Re-opening",
+            "id": "scroogemcduck.story.2",
+            "objectives": [
+                "Scrooge McDuck has something else for you. Talk to him.",
+                "Put on the Scrooge's Store promotional T-shirt.",
+                "Show Scrooge McDuck your outfit.",
+                "Gather 12 Softwood around the Village.",
+                "Return to Scrooge McDuck.",
+                "Craft the 4 sign for Scrooge's Store using a Crafting Station.",
+                "Place 4 Scrooge's Store signs around the Village.",
+                "Talk to Scrooge McDuck.",
+                "Gather the following items:\r\n  \u2027 2 Dandelion\r\n  \u2027 2 Purple Rising Penstemon",
+                "Craft Dandelion and Rising Penstemon Pot using the items collected. (2)",
+                "Place the Dandelion and Rising Penstemon Pot near Scrooge's Store. (2)",
+                "Return to Scrooge McDuck."
+            ],
+            "rewards": [
+                "500 Friendship",
+                "Scrooge McDuck Wall Sign",
+                "Iron Crafting Station"
+            ]
+        },
+        {
+            "name": "Rebuild the Valley: Peaceful Meadow",
+            "id": "scroogemcduck.story.3",
+            "objectives": [
+                "Decorate the Peaceful Meadow.\r\n  \u2027 Place 10 pieces of furniture.",
+                "Talk to Scrooge."
+            ],
+            "rewards": [
+                "500 Friendship"
+            ]
+        },
+        {
+            "name": "Rebuild the Valley: Dazzle Beach",
+            "id": "scroogemcduck.story.4",
+            "objectives": [
+                "Decorate the Dazzle Beach.\r\n  \u2027 Place 10 pieces of furniture.",
+                "Talk to Scrooge."
+            ],
+            "rewards": [
+                "500 Friendship"
+            ]
+        },
+        {
+            "name": "Rebuild the Valley: Forest of Valor",
+            "id": "scroogemcduck.story.5",
+            "objectives": [
+                "Decorate the Forest of Valor.\r\n  \u2027 Place 10 pieces of furniture.",
+                "Talk to Scrooge."
+            ],
+            "rewards": [
+                "500 Friendship"
+            ]
+        },
+        {
+            "name": "Rebuild the Valley: Glade of Trust",
+            "id": "scroogemcduck.story.6",
+            "objectives": [
+                "Decorate the Glade of Trust.\r\n  \u2027 Place 10 pieces of furniture.",
+                "Talk to Scrooge."
+            ],
+            "rewards": [
+                "500 Friendship"
+            ]
+        },
+        {
+            "name": "Rebuild the Valley: Sunlit Plateau",
+            "id": "scroogemcduck.story.7",
+            "objectives": [
+                "Decorate the Sunlit Plateau.\r\n  \u2027 Place 10 pieces of furniture.",
+                "Talk to Scrooge."
+            ],
+            "rewards": [
+                "500 Friendship"
+            ]
+        },
+        {
+            "name": "Rebuild the Valley: Frosted Heights",
+            "id": "scroogemcduck.story.8",
+            "objectives": [
+                "Decorate the Frosted Heights.\r\n  \u2027 Place 10 pieces of furniture.",
+                "Talk to Scrooge."
+            ],
+            "rewards": [
+                "500 Friendship"
+            ]
+        },
+        {
+            "name": "Rebuild the Valley: Forgotten Lands",
+            "id": "scroogemcduck.story.9",
+            "objectives": [
+                "Decorate the Forgotten Lands.\r\n  \u2027 Place 10 pieces of furniture.",
+                "Talk to Scrooge."
+            ],
+            "rewards": [
+                "500 Friendship"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "The Haunting of Dreamlight Valley",
+            "id": "scroogemcduck.story.10",
+            "objectives": [
+                "Ach! You hear a frustrated cry from Scrooge McDuck. Go check on him.",
+                "Search for the specter in the Dream Castle.",
+                "Talk to the \"specter.\""
+            ],
+            "rewards": [
+                "500 Friendship"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "A Garden in the Desert",
+            "id": "scroogemcduck.story.rift.1",
+            "objectives": [
+                "Scrooge McDuck has some tips for you about Eternity Isle's economy.\r\n  \u2027 Talk to him.",
+                "Unlock Goofy's Stalls in:\r\n  \u2027 The Wild Tangle.\r\n  \u2027 The Glittering Dunes.",
+                "Plant and harvest a garden in the Glittering Dunes:\r\n  \u2027 6 Celery.\r\n  \u2027 6 Broccoli.\r\n  \u2027 6 Cabbage.",
+                "Return to Scrooge McDuck."
+            ],
+            "rewards": [
+                "1000 Friendship",
+                "250 Mist",
+                "3 Shiny Evergem"
+            ],
+            "dlc": 1,
+            "friendship": 0
+        },
+        {
+            "name": "New Ventures (and Adventures)",
+            "id": "scroogemcduck.story.rift.2",
+            "objectives": [
+                "Make sure you have the Condemned Building Sign in your Inventory.",
+                "Give the  Condemned Building Sign to Scrooge McDuck.",
+                "Follow Scrooge McDuck.",
+                "Gather the following from around Ancient's Landing:\r\n  \u2027 Mine 25 Copper from rocks.\r\n  \u2027 Dig up 24 Pearls from the ground.\r\n  \u2027 Mine 15 Quartz from rocks.",
+                "Bring the materials to Scrooge.",
+                "Unlock Scrooge's Store in Ancient's Landing by interacting with the Scrooge McDuck Sign beside it.",
+                "Talk to Scrooge McDuck."
+            ],
+            "rewards": [
+                "500 Friendship",
+                "1000 StarCoins"
+            ],
+            "dlc": 1,
+            "friendship": 0
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Orange & Red Marsh Milkweed",
+    "description": "Small orange-red bulbs bloom atop long stalks.",
+    "icon": "\ud83c\udf3a",
+    "price": 66,
+    "maxSpawns": 2,
+    "found": [
+        "Glade of Trust"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Blue Marsh Milkweed",
+    "description": "A rare blue variant of white marsh milkweed.",
+    "icon": "\ud83c\udf3a",
+    "price": 48,
+    "maxSpawns": 3,
+    "found": [
+        "Glade of Trust"
+    ]
+}

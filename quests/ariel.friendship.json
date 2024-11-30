@@ -1,0 +1,89 @@
+{
+    "name": "ariel.friendship",
+    "quests": [
+        {
+            "name": "The Lonely Island",
+            "id": "ariel.friendship.1",
+            "objectives": [
+                "Explore the island to see if it's inhabited.",
+                "Someone is in the water!\r\n  \u2027 Talk to Her",
+                "Return to Dreamlight Valley",
+                "Place Ariel's Sea Castle in the water near Dazzle Beach",
+                "Use the Scrooge McDuck sign to finish building Ariel's House.",
+                "Welcome Ariel to the Village.",
+                "Talk to Ariel."
+            ],
+            "rewards": [
+                "180 Friendship",
+                "Unlock Ariel"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "The Missing Prince",
+            "id": "ariel.friendship.2",
+            "objectives": [
+                "Ask the following Villagers about Eric's whereabouts:\r\n  \u2027 Merlin\r\n  \u2027 Maui\r\n  \u2027 Kristoff",
+                "Search Kristoff's House for the Expedition Record",
+                "Get the Expedition Records in Kristoff's House",
+                "Bring the Expedition Record to Kristoff.",
+                "Search for clues near Skull Rock on Dazzle Beach",
+                "Try to fish out the clue to the Right of Skull Rock on Dazzle Beach.",
+                "Bring what you've found to Ariel.",
+                "Bring the piece of Eric's Statue to Kristoff.",
+                "Search Kristoff's House for a Statue Piece",
+                "Ask Donald about Eric's Statue.",
+                "Search for the second Statue Piece in the ground near the water in the Glade of Trust",
+                "Talk to Scrooge McDuck about the Statue Piece he owns.",
+                "Find 5 Peridot for Scrooge.",
+                "Bring 5 Peridot to Scrooge McDuck.",
+                "Tell Ariel you've gathered all the pieces of the statue.",
+                "Fix the broken statue at a Crafting Station.",
+                "Place Prince Eric's Statue near the base of the big staircase on Dazzle Beach",
+                "Pick up the Memory to reveal what's inside.",
+                "Tell Ariel what you've just seen."
+            ],
+            "rewards": [
+                "350 Friendship"
+            ],
+            "friendship": 3
+        },
+        {
+            "name": "Thingamabobs, Gadgets, and Gizmos",
+            "id": "ariel.friendship.3",
+            "objectives": [
+                "Talk to WALL-E",
+                "Find every item on Ariel's wish list:\r\n  \u2027 Spinning Top at Donald's House.\r\n  \u2027 Gramophone at Minnie's House.\r\n  \u2027 Kitchen Whisk at Remy's House.",
+                "Make sure you have everything Ariel asked for.\r\n  \u2027 Spinning Top at Donald's House.\r\n  \u2027 Gramophone at Minnie's House.\r\n  \u2027 Kitchen Whisk at Remy's House.\r\n  \u2027 Story Book that WALL-E gave you.",
+                "Give Ariel the items for her collection.",
+                "Gather the Ingredients for Ariel's Crafting Station:\r\n  \u2027 40 Sand\r\n  \u2027 20 Hardwood\r\n  \u2027 10 Scallop\r\n  \u2027 10 Gold Ingot\r\n  \u2027 5 Aquamarine",
+                "Craft Ariel's Crafting Station.",
+                "Make sure you have Ariel's Crafting Station in your Inventory."
+            ],
+            "rewards": [
+                "880 Friendship"
+            ],
+            "friendship": 7
+        },
+        {
+            "name": "The Ancient Doorway",
+            "id": "ariel.friendship.4",
+            "objectives": [
+                "Talk to Merlin about the Stone Slab.",
+                "Talk to Ariel.",
+                "Talk to Remy about his passions.",
+                "Talk to Moana about excitement.",
+                "Talk to Ursula about anger.",
+                "Figure out where to place the Stone Slab in the Mystical Cave.",
+                "Pick up the Mystical Crystal.",
+                "Meet with Ariel at her House."
+            ],
+            "rewards": [
+                "1230 Friendship",
+                "Ariel's Seafoam Gown",
+                "Ariel's Seafoam Suit"
+            ],
+            "friendship": 10
+        }
+    ]
+}

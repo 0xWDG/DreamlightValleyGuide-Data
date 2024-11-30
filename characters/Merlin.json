@@ -1,0 +1,23 @@
+{
+    "name": "Merlin",
+    "origin": "The Sword in the Stone",
+    "house": "Dreamlight Library",
+    "description": "Merlin is a character from the Disney film The Sword in the Stone (1963).\r\nHe is the first villager players encounter when beginning the game.",
+    "rewards": [
+        "",
+        "Unlocked character",
+        "Bag of Tricks",
+        "Design Motif",
+        "StarCoins 500",
+        "Phial Holder",
+        "Design Motif",
+        "StarCoins 1000",
+        "Potion Cupboard",
+        "Owl Design Motif",
+        "Merlin's Marvelous Wizard Hat"
+    ],
+    "quests": [
+        "merlin.friendship",
+        "merlin.story"
+    ]
+}

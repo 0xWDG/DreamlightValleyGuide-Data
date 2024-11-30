@@ -1,0 +1,17 @@
+{
+    "name": "Soil",
+    "description": "A clump of soil that's perfect for gardening.",
+    "icon": "\ud83c\udf0d",
+    "price": 3,
+    "maxSpawns": 0,
+    "found": [
+        "Digging",
+        "Plaza",
+        "Peaceful Meadow",
+        "Forest of Valor",
+        "Glade of Trust",
+        "Sunlit Plateau",
+        "Frosted Heights",
+        "Forgotten Lands"
+    ]
+}

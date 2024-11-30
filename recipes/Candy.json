@@ -1,0 +1,11 @@
+{
+    "name": "Candy",
+    "description": "A sweet sugar confectionery to brighten your day.",
+    "type": "Desserts",
+    "stars": 1,
+    "energy": 123,
+    "price": 22,
+    "ingredients": [
+        "Any Sweets"
+    ]
+}

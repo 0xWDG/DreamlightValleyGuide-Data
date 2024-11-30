@@ -1,0 +1,37 @@
+{
+    "name": "remy.realm",
+    "quests": [
+        {
+            "name": "An Important Night at the Restaurant",
+            "id": "remy.realm.1",
+            "objectives": [
+                "Explore the Ratatouille Realm.",
+                "Use your Watering Can to wash 3 Dirty Dishes.",
+                "Return to Remy to tell him the dishes are clean.",
+                "Find a Fish in Remy's kitchen and prepare any meal using it.",
+                "Show Remy what you made.",
+                "Find a Fruit in Remy's kitchen and prepare any meal using it.",
+                "Show Remy what recipe you prepared using Fruit.",
+                "Prepare a Hearty Salad using ingredients from Remy's kitchen.",
+                "Bring the appetizer you cooked to Remy.",
+                "Find the Cookbook in Remy's Kitchen.",
+                "Improve the basic Pizza recipe by adding some spices or herbs listed in the recipe from the book. (Margherita Pizza)",
+                "OR Improve the basic Veggie Casserole recipe by adding some spices or herbs listed in the recipe from the book. (Veggie Casserole)",
+                "Bring the main course you created to Remy.",
+                "Prepare a Banana Pie using ingredients from Remy's kitchen.",
+                "Present Remy with your version of the dessert.",
+                "Order up! Cook 1 Ranch Salad and place it on the Serving Hatch.",
+                "Remy wants to talk to you. Go see him.",
+                "Prepare and serve the food critic an order of Ratatouille.",
+                "Talk to Remy.",
+                "Place Remy's House in the Village.",
+                "Remy needs a real pied-\u00e0-terre.",
+                "Time to welcome Remy in the Village.",
+                "Talk with Remy to learn about his first impressions of the Village."
+            ],
+            "rewards": [
+                "Unlock Remy"
+            ]
+        }
+    ]
+}

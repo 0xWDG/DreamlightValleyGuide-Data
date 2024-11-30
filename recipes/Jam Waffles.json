@@ -1,0 +1,14 @@
+{
+    "name": "Jam Waffles",
+    "description": "Fluffy waffles slathered in sweet jam.",
+    "type": "Desserts",
+    "stars": 4,
+    "energy": 1843,
+    "price": 709,
+    "ingredients": [
+        "Any Fruit",
+        "Wheat",
+        "Egg",
+        "Milk"
+    ]
+}

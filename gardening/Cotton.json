@@ -1,0 +1,14 @@
+{
+    "name": "Cotton",
+    "description": "Cotton is a seed-hair fiber made mostly of cellulose. The fibers are composed of about 87 to 90 percent cellulose (a carbohydrate plant substance), 5 to 8 percent water, and 4 to 6 percent natural impurities.",
+    "icon": "\ud83c\udf3e",
+    "type": "Material",
+    "biome": "Sunlit Plateau",
+    "grow": "25min",
+    "water": 4,
+    "yield": 1,
+    "seed": 42,
+    "sell": 37,
+    "profit": -5,
+    "coins": "\u22120.2"
+}

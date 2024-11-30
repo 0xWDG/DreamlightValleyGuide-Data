@@ -1,0 +1,14 @@
+{
+    "name": "Fish Pasta",
+    "description": "Fish and thin pasta in a light sauce.",
+    "type": "Entr\u00e9es",
+    "stars": 4,
+    "energy": 1282,
+    "price": 475,
+    "ingredients": [
+        "Any Fish",
+        "Garlic",
+        "Wheat",
+        "Milk"
+    ]
+}

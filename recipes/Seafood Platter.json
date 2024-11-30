@@ -1,0 +1,12 @@
+{
+    "name": "Seafood Platter",
+    "description": "An assortment of select seafood.",
+    "type": "Appetizers",
+    "stars": 2,
+    "energy": 458,
+    "price": 116,
+    "ingredients": [
+        "Any Seafood",
+        "Any Seafood"
+    ]
+}

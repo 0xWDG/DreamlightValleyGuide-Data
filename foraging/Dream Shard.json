@@ -1,0 +1,12 @@
+{
+    "name": "Dream Shard",
+    "description": "A crystallized form of Dreamlight magic.",
+    "icon": "\ud83d\udc8e",
+    "price": 0,
+    "maxSpawns": 0,
+    "found": [
+        "Dig sparkling holes",
+        "Feeding critters",
+        "Remove Night Thorns"
+    ]
+}

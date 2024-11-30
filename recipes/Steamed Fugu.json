@@ -1,0 +1,13 @@
+{
+    "name": "Steamed Fugu",
+    "description": "Delicate slices of fugu steamed to perfection.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
+    "energy": 3668,
+    "price": 1400,
+    "ingredients": [
+        "Fugu",
+        "Ginger",
+        "Garlic"
+    ]
+}

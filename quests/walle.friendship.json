@@ -1,0 +1,113 @@
+{
+    "name": "walle.friendship",
+    "quests": [
+        {
+            "name": "It's Good to Be Home!",
+            "id": "walle.friendship.1",
+            "objectives": [
+                "Introduce WALL-E to a friendly neighbor by talking to Goofy.",
+                "Listen as Goofy and WALL-E talk to each other.",
+                "Talk to WALL-E",
+                "Feed 1 animal around the Village any food they like.",
+                "Pick 3 different Flowers with WALL-E.",
+                "Return to WALL-E."
+            ],
+            "rewards": [
+                "90 Friendship"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "Village Project: The Garden",
+            "id": "walle.friendship.2",
+            "objectives": [
+                "Follow WALL-E.",
+                "Talk to WALL-E.",
+                "Gather the items required to start the Garden:\r\n  \u2027 5 Sugarcane Seed\r\n  \u2027 5 Wheat Seed",
+                "Craft the following items:\r\n  \u2027 Craft 1 Trellis\r\n  \u2027 Craft 3 Burlap Bags",
+                "Bring WALL-E the items required to start the Garden."
+            ],
+            "rewards": [
+                "180 Friendship",
+                "WALL-E's Garden"
+            ],
+            "friendship": 2
+        },
+        {
+            "name": "The Compressed Garbage Incident",
+            "id": "walle.friendship.3",
+            "objectives": [
+                "Follow WALL-E.",
+                "Talk to WALL-E.",
+                "Remove the Compressed Garbage that WALL-E created in the Village.",
+                "A strange machine was hidden in one of the cubes of Compressed Garbage. Pick it up!",
+                "A strange machine was hidden in one of the cubes of Compressed Garbage. Bring it to WALL-E."
+            ],
+            "rewards": [
+                "350 Friendship"
+            ],
+            "friendship": 4
+        },
+        {
+            "name": "The Broken Memory",
+            "id": "walle.friendship.4",
+            "objectives": [
+                "Go see WALL-E.",
+                "Search WALL-E's House for Electronic Component.",
+                "Bring the Electronic Components you found to WALL-E.",
+                "Follow WALL-E.",
+                "Talk to WALL-E.",
+                "Explore WALL-E Realm to find another Electronic Component.",
+                "Bring the Electronic Components to WALL-E.",
+                "Craft 12 Tinkering Parts",
+                "Craft the repaired F02937 M3 N07 machine.",
+                "Bring the repaired F02937 M3 N07 machine to WALL-E."
+            ],
+            "rewards": [
+                "530 Friendship"
+            ],
+            "friendship": 6
+        },
+        {
+            "name": "The Broken Memory",
+            "id": "walle.friendship.5",
+            "objectives": [
+                "Go see WALL-E",
+                "Talk to Ariel about the Memory.",
+                "Talk to WALL-E",
+                "Find the objects mentioned by Ariel\r\n  \u2027 Bowling Pin\r\n  \u2027 Light Bulb\r\n  \u2027 Toy Train",
+                "Bring the items to WALL-E",
+                "Listen to WALL-E and Ariel as they exchange gifts.",
+                "Return to WALL-E"
+            ],
+            "rewards": [
+                "700 Friendship"
+            ],
+            "friendship": 8
+        },
+        {
+            "name": "The Astronomy Club",
+            "id": "walle.friendship.6",
+            "objectives": [
+                "Go see WALL-E",
+                "Listen to WALL-E as he invites Merlin.",
+                "Talk to WALL-E to see what went wrong.",
+                "Gather the items needed to prepare Invitations:\r\n  \u2027 9 Black Passion Lily\r\n  \u2027 12 Softwood",
+                "Craft these items:\r\n  \u2027 3 Ink Vial\r\n  \u2027 3 Paper\r\n  \u2027 3 Astronomy Club Invitation",
+                "Bring the Astronomy Club Invitations to WALL-E.",
+                "Craft 6 Tinkering Parts",
+                "Gather the following items to craft a Telescope\r\n  \u2027 4 Iron Ingot\r\n  \u2027 2 Gold Ingot\r\n  \u2027 5 Glass",
+                "Craft the new Astronomy Club Telescope.",
+                "Tell WALL-E you have his new Telescope",
+                "Place the new Telescope in a location of your choosing.",
+                "Take part in WALL-E's Astronomy Club.",
+                "Talk to WALL-E"
+            ],
+            "rewards": [
+                "700 Friendship",
+                "WALL-E Companion Pack"
+            ],
+            "friendship": 10
+        }
+    ]
+}

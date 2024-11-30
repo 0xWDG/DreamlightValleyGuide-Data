@@ -1,0 +1,10 @@
+{
+    "name": "Yellow Daisy",
+    "description": "Bright yellow petals surround a black bulb.",
+    "icon": "\ud83c\udf3a",
+    "price": 20,
+    "maxSpawns": 6,
+    "found": [
+        "Peaceful Meadow"
+    ]
+}

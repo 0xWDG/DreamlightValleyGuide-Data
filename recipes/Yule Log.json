@@ -1,0 +1,14 @@
+{
+    "name": "Yule Log",
+    "description": "A delicious treat to share at a festive celebration... or eat all by yourself.",
+    "type": "Desserts",
+    "stars": 4,
+    "energy": 2147,
+    "price": 213,
+    "ingredients": [
+        "Wheat",
+        "Cocoa Bean",
+        "Vanilla",
+        "Cherry"
+    ]
+}

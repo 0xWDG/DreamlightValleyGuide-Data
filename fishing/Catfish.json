@@ -1,0 +1,10 @@
+{
+    "name": "Catfish",
+    "description": "A large fish with cat-like \"whiskers.\"",
+    "rarity": "Gold",
+    "price": 550,
+    "energy": 1,
+    "found": [
+        "Peaceful Meadow"
+    ]
+}

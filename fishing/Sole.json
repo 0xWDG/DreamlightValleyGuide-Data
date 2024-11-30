@@ -1,0 +1,10 @@
+{
+    "name": "Sole",
+    "description": "A flatfish that is shaped like a tongue!",
+    "rarity": "White",
+    "price": 200,
+    "energy": 500,
+    "found": [
+        "Forgotten Lands"
+    ]
+}

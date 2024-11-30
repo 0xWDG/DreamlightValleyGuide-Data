@@ -1,0 +1,10 @@
+{
+    "name": "Anglerfish",
+    "description": "Bony fish with large mouths and sharp teeth!",
+    "rarity": "Gold",
+    "price": 1,
+    "energy": 2,
+    "found": [
+        "Forgotten Lands"
+    ]
+}

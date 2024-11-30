@@ -1,0 +1,9 @@
+{
+    "name": "Ruby",
+    "description": "A red mineral that can be mined.",
+    "icon": "\ud83d\udc8e",
+    "price": 350,
+    "found": [
+        "Vitalys Mine"
+    ]
+}

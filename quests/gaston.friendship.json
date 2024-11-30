@@ -1,0 +1,134 @@
+{
+    "name": "gaston.friendship",
+    "quests": [
+        {
+            "name": "Center of Attention",
+            "id": "gaston.friendship.1",
+            "objectives": [
+                "Meet Gaston inside his lodge in the Wastes.",
+                "Talk to Gaston.\r\n  \u2027 5 Clean up Gaston's lodge:\r\n  \u2027 5 Dig up the sand piles inside Gaston's lodge.",
+                "Revert the ruined portrait in Gaston's lodge by interacting with it.",
+                "Talk to Gaston..",
+                "Find various gems to trade with Scrooge McDuck:\r\n  \u2027 Alexandrite.\r\n  \u2027 Jade.\r\n  \u2027 Spinel.",
+                "Bring the gems to Scrooge McDuck.",
+                "Gather more materials to repair the old lodge:\r\n  \u2027 1 Crate of Gastonian Furniture.\r\n  \u2027 1 Gaston's Antler Chair.\r\n  \u2027 15 Copper.\r\n  \u2027 10 Oasis Glass.\r\n  \u2027 15 Tropical Wood.",
+                "Bring the materials and furniture crate to Gaston.",
+                "Meet with Gaston by his lodge in the Glittering Dunes.",
+                "Repair Gaston's lodge using the Scrooge McDuck Sign.",
+                "Enter Gaston's lodge.",
+                "Talk to Gaston...",
+                "Check out the blueprints for the Freezer of Infinite Meat in your Inventory.",
+                "Search for Freezer Fragments in the Wild Tangle using the Hourglass:\r\n  \u2027 In the lower Grasslands.\r\n  \u2027 In the upper Grasslands.\r\n  \u2027 In the Grove.",
+                "Assemble the Freezer of Infinite Meat at a Timebending Table.",
+                "Make sure you have the Freezer of Infinite Meat in your Inventory.",
+                "Bring the Freezer of Infinite Meat to Gaston.",
+                "Go re-open Gaston's old Stall in the desert using the Scrooge McDuck Sign.",
+                "Return to Gaston.",
+                "Experiment with these new Ingredients:\r\n  \u2027 Cook any meat-based Meal of 2 Stars or higher for Gaston. (4)",
+                "Bring the meals back to Gaston's lodge.",
+                "Give the meals to Gaston.",
+                "Mingle with the guests in Gaston's lodge:\r\n  \u2027 Rapunzel.\r\n  \u2027 Scrooge McDuck.\r\n  \u2027 Remy.",
+                "Return to Gaston."
+            ],
+            "rewards": [
+                "440 Friendship",
+                "Gaston's Stall"
+            ],
+            "friendship": 2
+        },
+        {
+            "name": "Gaston the... Hero?",
+            "id": "gaston.friendship.2",
+            "objectives": [
+                "Catch either an Electric Eel, a Piranha, or a Prisma Shrimp in the Wild Tangle.",
+                "Make sure you have one of the following in your Inventory:\r\n  \u2027 Piranha, Electric Eel, Prisma Shrimp.",
+                "Show Gaston what you've caught.",
+                "Find Compass Fragments near water using the Hourglass:\r\n  \u2027 At the Docks.\r\n  \u2027 In the Oasis.\r\n  \u2027 In the Grasslands.",
+                "Reassemble the compass at a Timebending Table.",
+                "Investigate the Gaston's Repaired Compass in your Inventory.",
+                "Talk to Gaston.",
+                "Dig up the treasures in each Biome based on the Memory:\r\n  \u2027 Ancient's Landing.\r\n  \u2027 - The Wild Tangle.",
+                "The Glittering Dunes.",
+                "Make sure you found all the treasures:\r\n  \u2027 Mysterious Light Bulb.\r\n  \u2027 Mysterious Brush.\r\n  \u2027 Mysterious Climbing Pick.",
+                "Show the treasures to Gaston.",
+                "Find the owners of each treasure.\r\n  \u2027 The Brush.\r\n  \u2027 The Light Bulb.\r\n  \u2027 The Climbing Pick.",
+                "Return to Gaston."
+            ],
+            "rewards": [
+                "880 Friendship",
+                "Golden Eel Trophy",
+                "Golden Piranha Trophy",
+                "Golden Prisma Shrimp Trophy"
+            ],
+            "friendship": 4
+        },
+        {
+            "name": "No One Heroes Like Gaston",
+            "id": "gaston.friendship.3",
+            "objectives": [
+                "Mimic Gaston's style with the following clothing:\r\n  \u2027 Red Top.\r\n  \u2027 Black Pants.\r\n  \u2027 Brown Shoes.\r\n  \u2027 Any Gloves.\r\n  \u2027 (Optional) Order a Red Polo Shirt, Black Pants and Brown Lace-Up Boots from Scrooge McDuck.",
+                "Return to Gaston.",
+                "Gather a dangerous breakfast for Gaston:\r\n  \u2027 5 Piles of Cobra Eggs from the Glittering Dunes.\r\n  \u2027 2 Piranha.",
+                "**(Workout Shakes Option)**",
+                "Get yourself 3 Workout Shakes.",
+                "Make sure you gathered what Gaston wanted:\r\n  \u2027 5 Egg Pile.\r\n  \u2027 2 Piranha.",
+                "Bring the dangerous breakfast to Gaston.",
+                "Consume 3 Workout Shakes.",
+                "**(Dangerous Breakfast Option)**",
+                "Make sure you gathered what Gaston wanted:\r\n  \u2027 5 Egg Pile.\r\n  \u2027 2 Piranha.",
+                "Bring the dangerous breakfast to Gaston.",
+                "Eat Gaston's special dangerous breakfast:\r\n  \u2027 As many Egg cartons as you can.\r\n  \u2027 A Raw Piranha.",
+                "**Continue**",
+                "Return to Gaston..",
+                "Gather materials for Gaston's gym:\r\n  \u2027 20 Coconut.\r\n  \u2027 2 Brass Ingot.\r\n  \u2027 30 Tropical Wood.\r\n  \u2027 30 Stone.\r\n  \u2027 20 Fiber.",
+                "Get everything for the gym.\r\n  \u2027 Craft Gaston's Coconut Gym.\r\n  \u2027 Order a Queen of the Sea Mirror from Scrooge McDuck.",
+                "Place near the entrance docks in Ancient's Landing.\r\n  \u2027 Gaston's Coconut Gym.\r\n  \u2027 Queen of the Sea Mirror.",
+                "Invite Maui to train with you and Gaston.",
+                "Meet Maui and Gaston at the gym.",
+                "An emotionally shattered Gaston is waiting for you near the gym.",
+                "Talk to Gaston.",
+                "Take 3 pictures of Gaston.",
+                "Show the pictures to Gaston.",
+                "Bring a picture of a fit Gaston and you to:\r\n  \u2027 Scrooge McDuck.\r\n  \u2027 Rapunzel.\r\n  \u2027 Maui.",
+                "Return to Gaston."
+            ],
+            "rewards": [
+                "2200 Friendship"
+            ],
+            "friendship": 7
+        },
+        {
+            "name": "Dreamlight Valley's Next Top LeFou",
+            "id": "gaston.friendship.4",
+            "objectives": [
+                "Talk to potential new sidekicks:\r\n  \u2027 Stitch.\r\n  \u2027 Donald Duck.\r\n  \u2027 Olaf.\r\n  \u2027 Minnie Mouse.\r\n  \u2027 Vanellope.",
+                "Talk to Gaston.",
+                "Talk to Stitch.",
+                "Make sure Stitch hangs out with you to continue the test.",
+                "Cook with Stitch watching you.\r\n  \u2027 Hard-Boiled Eggs.\r\n  \u2027 Scrambled Egg.\r\n  \u2027 Omelet.\r\n  \u2027 Coffee.\r\n  \u2027 Coconut Cake.",
+                "Make sure you have the meals in your Inventory:\r\n  \u2027 1 Omelet.\r\n  \u2027 1 Hard-Boiled Eggs.\r\n  \u2027 1 Scrambled Egg.\r\n  \u2027 1 Coffee.\r\n  \u2027 1 Coconut Cake.",
+                "Bring the meals to Stitch.",
+                "Talk to Olaf.",
+                "Have Olaf hang out with you to continue the tests.",
+                "Conquer nature with Olaf by removing:\r\n  \u2027 3 Glass Stalagmite.\r\n  \u2027 5 Swirling Sands.\r\n  \u2027 5 Copper Rocks.\r\n  \u2027 Pick up 5 flowers from Eternity Isle.",
+                "Make sure you have 5 flowers in your Inventory.",
+                "Bring the flowers to Olaf.",
+                "Perform 3 Dreamlight Duties while Olaf reports to Gaston.",
+                "Talk to Gaston..",
+                "Gather materials for the Gastonian Appreciation Stage:\r\n  \u2027 30 Tropical Wood.\r\n  \u2027 5 Copper.\r\n  \u2027 5 Plastic Scrap.\r\n  \u2027 5 Blue Glass-Like Flowers.\r\n  \u2027 5 Blue Luminescent Flower.",
+                "Craft the Gastonian Appreciation Stage.",
+                "Place the Gastonian Appreciation Stage to start the gathering.",
+                "Take a picture of the contestants as the Gastonian Appreciation Party ends.",
+                "Return to Gaston.",
+                "Let Gaston congratulate his new sidekick.",
+                "Congratulate Olaf \/ Stitch.",
+                "Return to Gaston."
+            ],
+            "rewards": [
+                "3080 Friendship",
+                "Gaston's Portrait"
+            ],
+            "friendship": 10
+        }
+    ]
+}

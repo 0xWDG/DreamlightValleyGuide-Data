@@ -1,0 +1,13 @@
+{
+    "name": "Kappa Maki",
+    "description": "Cucumber spears wrapped in rice and seaweed.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
+    "energy": 462,
+    "price": 335,
+    "ingredients": [
+        "Seaweed",
+        "Cucumber",
+        "Rice"
+    ]
+}

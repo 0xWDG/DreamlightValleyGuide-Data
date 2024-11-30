@@ -1,0 +1,14 @@
+{
+    "name": "Sole Meuni\u00e8re",
+    "description": "A fillet of sole, pan-fried and simmered in butter alongside an array of simple yet satisfying flavors.",
+    "type": "Entr\u00e9es",
+    "stars": 4,
+    "energy": 2337,
+    "price": 637,
+    "ingredients": [
+        "Sole",
+        "Wheat",
+        "Butter",
+        "Lemon"
+    ]
+}

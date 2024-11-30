@@ -1,0 +1,14 @@
+{
+    "name": "Fish Tacos",
+    "description": "The perfect beachside snack!",
+    "type": "Entr\u00e9es",
+    "stars": 4,
+    "energy": 1171,
+    "price": 448,
+    "ingredients": [
+        "Any Fish",
+        "Corn",
+        "Chili Pepper",
+        "Cheese"
+    ]
+}

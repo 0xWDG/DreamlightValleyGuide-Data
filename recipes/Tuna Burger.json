@@ -1,0 +1,15 @@
+{
+    "name": "Tuna Burger",
+    "description": "A tuna patty grilled to perfection between two sesame seed buns.",
+    "type": "Entr\u00e9es",
+    "stars": 5,
+    "energy": 1922,
+    "price": 491,
+    "ingredients": [
+        "Tuna",
+        "Wheat",
+        "Lemon",
+        "Onion",
+        "Any Vegetable"
+    ]
+}

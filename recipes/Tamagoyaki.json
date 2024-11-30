@@ -1,0 +1,12 @@
+{
+    "name": "Tamagoyaki",
+    "description": "Lightly fried mounds of fluffy omelet eggs!",
+    "type": "Entr\u00e9es",
+    "stars": 2,
+    "energy": 689,
+    "price": 310,
+    "ingredients": [
+        "Egg",
+        "Sugarcane"
+    ]
+}

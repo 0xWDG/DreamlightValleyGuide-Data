@@ -1,0 +1,99 @@
+{
+    "name": "kristoff.friendship",
+    "quests": [
+        {
+            "name": "Leaving The Woods Behind",
+            "id": "kristoff.friendship.1",
+            "objectives": [
+                "Get the Burned Logs from Kristoff's old campfire in the Forest of Valor.",
+                "Grind the Burned Logs into Ashes at a Crafting Station.",
+                "Boil the Ashes at any Cooking Station to extract Lye.",
+                "Bring the Lye to Kristoff.",
+                "Talk to Maui.",
+                "Gather the Soap ingredients for Kristoff:\r\n  \u2027 20 Carrot\r\n  \u2027 12 Coconut",
+                "Show Kristoff the Coconuts.",
+                "Craft the Carrot Soap.",
+                "Bring the Carrot Soap to Kristoff."
+            ],
+            "rewards": [
+                "330 Friendship"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "Frozen Memories",
+            "id": "kristoff.friendship.2",
+            "objectives": [
+                "Talk to Elsa",
+                "Gather the Ingredients for the spell:\r\n  \u2027 6 Aquamarine\r\n  \u2027 3 Swamp Water",
+                "Bring the ingredients to Elsa",
+                "Talk to Anna to get a lock of her hair.",
+                "Make sure you have Anna's Hair in your Inventory\r\n  \u2027 Anna's Hair",
+                "Bring Anna's Hair back to Elsa.",
+                "Place the Magic Ice Block somewhere in the Village.",
+                "Sculpt the Magic Ice Block using your Pickaxe.",
+                "Talk to Kristoff."
+            ],
+            "rewards": [
+                "670 Friendship"
+            ],
+            "friendship": 3
+        },
+        {
+            "name": "Village Project: A Mountain Man's Stall",
+            "id": "kristoff.friendship.3",
+            "objectives": [
+                "Talk to Goofy.",
+                "Gather the materials for a Stall:\r\n  \u2027 50 Softwood\r\n  \u2027 50 Stone\r\n  \u2027 35 Hardwood\r\n  \u2027 10 Iron Ingot",
+                "Return to Kristoff.",
+                "Craft Kristoff's Stall.",
+                "Place Kristoff's Stall anywhere you like in the Valley.",
+                "Talk to Kristoff."
+            ],
+            "rewards": [
+                "1670 Friendship",
+                "Unlocks Kristoff's Stall"
+            ],
+            "friendship": 6
+        },
+        {
+            "name": "A Broken Sled",
+            "id": "kristoff.friendship.4",
+            "objectives": [
+                "Follow Kristoff to his Sled.",
+                "Free Kristoff's Sled from the ice.",
+                "Retrieve the Sled.",
+                "Show Kristoff his broken Sled.",
+                "Get the book called \"Ice-cident: How to Fix Your Sled\" from the library in Kristoff's House.",
+                "Gather the materials for the repairs:\r\n  \u2027 50 Fiber\r\n  \u2027 30 Hardwood\r\n  \u2027 10 Iron Ingot\r\n  \u2027 9 Tinkering Parts",
+                "Repair the Sled at a Crafting Station.",
+                "Get the Sled and bring it back to Kristoff.",
+                "Bring the Sled back to Kristoff.",
+                "Get a sample of the following materials for Kristoff:\r\n  \u2027 Fiber\r\n  \u2027 Brick\r\n  \u2027 Glass\r\n  \u2027 Iron Ingot",
+                "Bring the samples of the refined materials to Kristoff."
+            ],
+            "rewards": [
+                "2330 Friendship",
+                "Kristoff's Sled",
+                "Upgrade Kristoff's Stall"
+            ],
+            "friendship": 10
+        },
+        {
+            "name": "Kristoff: A Romantic in the Making",
+            "id": "kristoff.friendship.daisy.1",
+            "objectives": [
+                "Drop or place 20 Flowers all around Arendelle Castle and water them. (20)",
+                "Cook 10 meals with Cocoa for Anna. (10)",
+                "Make sure you have the 10 meals with Cocoa in your Inventory. (10)",
+                "Bring the meals you cooked with Cocoa to Kristoff.",
+                "Return to Daisy."
+            ],
+            "rewards": [
+                "1000 Friendship"
+            ],
+            "dlc": 1,
+            "friendship": 0
+        }
+    ]
+}

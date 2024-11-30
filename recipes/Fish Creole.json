@@ -1,0 +1,15 @@
+{
+    "name": "Fish Creole",
+    "description": "A spicy sauce of fish and veggies over rice.",
+    "type": "Entr\u00e9es",
+    "stars": 5,
+    "energy": 822,
+    "price": 280,
+    "ingredients": [
+        "Any Fish",
+        "Any Vegetable",
+        "Garlic",
+        "Rice",
+        "Tomato"
+    ]
+}

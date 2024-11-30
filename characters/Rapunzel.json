@@ -1,0 +1,24 @@
+{
+    "name": "Rapunzel",
+    "origin": "Tangled",
+    "house": "Rapunzel's Tower",
+    "description": "Rapunzel is a character from the Disney film Tangled (2010).",
+    "dlc": 1,
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Sundrop Cloche",
+        "Winding Flowers Motif",
+        "StarCoins 500",
+        "Sundrop Rug",
+        "Pascal Motif",
+        "StarCoins 1000",
+        "Tower Fireplace",
+        "Tangled Frying Pan Motif",
+        "Glowing Floral Gown\r\nGlowing Floral Suit"
+    ],
+    "quests": [
+        "rapunzel.friendship",
+        "rapunzel.story"
+    ]
+}

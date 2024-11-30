@@ -1,0 +1,12 @@
+{
+    "name": "Pebbles",
+    "description": "You need a lot of pebbles to make a mountain...",
+    "icon": "\ud83e\udea8",
+    "price": 10,
+    "found": [
+        "Dazzle Beach",
+        "Forest of Valor",
+        "Sunlit Plateau",
+        "Forgotten Lands"
+    ]
+}

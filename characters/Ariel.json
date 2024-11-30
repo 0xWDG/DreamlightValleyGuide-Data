@@ -1,0 +1,22 @@
+{
+    "name": "Ariel",
+    "origin": "The Little Mermaid",
+    "house": "Ariel's Sea Castle",
+    "description": "Ariel is a character from the Disney film The Little Mermaid (1989).\r\nShe lives in the water, which can make speaking with her difficult if she's too far from shore. After completing Prince Eric's friendship quest Part of His World, she'll be able to return to land, making speaking to her much easier.",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Lagoon Mirror",
+        "Fork Motif",
+        "StarCoins 500",
+        "Green Off-the-Shoulder Shell Crop Top",
+        "Bubbles Motif",
+        "StarCoins 1000",
+        "Coral Reef Lounge",
+        "Ariel Silhouette Motif",
+        "Ariel's Seafoam Gown,\r\nAriel's Seafoam Suit"
+    ],
+    "quests": [
+        "ariel.friendship"
+    ]
+}

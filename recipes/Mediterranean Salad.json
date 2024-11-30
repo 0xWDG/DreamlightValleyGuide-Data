@@ -1,0 +1,15 @@
+{
+    "name": "Mediterranean Salad",
+    "description": "Olive oil, feta cheese, and leafy greens!",
+    "type": "Entr\u00e9es",
+    "stars": 5,
+    "energy": 976,
+    "price": 605,
+    "ingredients": [
+        "Cucumber",
+        "Tomato",
+        "Onion",
+        "Lettuce",
+        "Any Spice"
+    ]
+}

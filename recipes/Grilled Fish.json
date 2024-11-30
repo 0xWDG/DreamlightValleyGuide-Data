@@ -1,0 +1,11 @@
+{
+    "name": "Grilled Fish",
+    "description": "Perfectly cooked fish fresh from the grill.",
+    "type": "Entr\u00e9es",
+    "stars": 1,
+    "energy": 290,
+    "price": 30,
+    "ingredients": [
+        "Any Fish"
+    ]
+}

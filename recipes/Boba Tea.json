@@ -1,0 +1,12 @@
+{
+    "name": "Boba Tea",
+    "description": "A delicious sugary treat.",
+    "type": "Desserts",
+    "stars": 2,
+    "energy": 714,
+    "price": 323,
+    "ingredients": [
+        "Milk",
+        "Sugarcane"
+    ]
+}

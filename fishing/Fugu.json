@@ -1,0 +1,10 @@
+{
+    "name": "Fugu",
+    "description": "These fish inflate themselves when threatened!",
+    "rarity": "Gold",
+    "price": 900,
+    "energy": 1,
+    "found": [
+        "Dazzle Beach"
+    ]
+}

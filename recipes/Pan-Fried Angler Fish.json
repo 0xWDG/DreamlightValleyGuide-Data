@@ -1,0 +1,14 @@
+{
+    "name": "Pan-Fried Angler Fish",
+    "description": "A peculiar dinner you won't soon forget!",
+    "type": "Entr\u00e9es",
+    "stars": 4,
+    "energy": 4194,
+    "price": 2500,
+    "ingredients": [
+        "Anglerfish",
+        "Tomato",
+        "Zucchini",
+        "Potato"
+    ]
+}

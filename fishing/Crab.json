@@ -1,0 +1,10 @@
+{
+    "name": "Crab",
+    "description": "A tough little crustacean with sharp claws.",
+    "rarity": "Blue",
+    "price": 600,
+    "energy": 1,
+    "found": [
+        "Frosted Heights"
+    ]
+}

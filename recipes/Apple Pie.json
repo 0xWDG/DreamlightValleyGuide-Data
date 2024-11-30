@@ -1,0 +1,13 @@
+{
+    "name": "Apple Pie",
+    "description": "A warm, delicious apple pie.",
+    "type": "Desserts",
+    "stars": 3,
+    "energy": 1137,
+    "price": 303,
+    "ingredients": [
+        "Apple",
+        "Wheat",
+        "Butter"
+    ]
+}

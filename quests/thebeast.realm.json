@@ -1,0 +1,34 @@
+{
+    "name": "thebeast.realm",
+    "quests": [
+        {
+            "name": "A Prince in Disguise",
+            "id": "thebeast.realm.1",
+            "objectives": [
+                "Talk to The Beast.",
+                "Follow Lumiere's clues to find the Key Pieces:\r\n  \u2027 Hidden in a hot place.\r\n  \u2027 Hidden in a place where silence roars.\r\n  \u2027 Hidden in a thorny place.",
+                "Bring the Key Pieces to The Beast.",
+                "Open the chest and collect the Enchanted Mirror.",
+                "Bring the Enchanted Mirror to The Beast.",
+                "Gather the following materials:\r\n  \u2027 20 Fiber.\r\n  \u2027 3 Purple Falling Penstemon.\r\n  \u2027 1 Empty Vial.",
+                "Ask a Villager for a Feather.",
+                "Craft a Book Kit.",
+                "Make sure you have the Book Kit in your Inventory.",
+                "Bring the Book Kit to The Beast.",
+                "Search the Beast's room for the following items:\r\n  \u2027 Beast's Brush.\r\n  \u2027 Princely Cologne.\r\n  \u2027 Princely Shampoo.",
+                "Bring what you've gathered to The Beast.",
+                "Listen to Beast's apology to Belle in the garden.",
+                "Talk to Belle.",
+                "Place the Beast's Castle in Dreamlight Valley.",
+                "Use the Scrooge McDuck sign to pay for the construction of the Beast's Castle.",
+                "Talk to Belle.",
+                "Make sure you have Belle's Note in your Inventory.",
+                "Bring Belle's Note to Beast.",
+                "Unlock the Beast.",
+                "Talk to the Beast."
+            ],
+            "rewards": [],
+            "friendship": 0
+        }
+    ]
+}

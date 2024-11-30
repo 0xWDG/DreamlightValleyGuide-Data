@@ -1,0 +1,9 @@
+{
+    "name": "Shiny Diamond",
+    "description": "A rare clear mineral that can be mined.",
+    "icon": "\ud83d\udc8e",
+    "price": 2,
+    "found": [
+        "Forgotten Lands"
+    ]
+}

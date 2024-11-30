@@ -1,0 +1,12 @@
+{
+    "name": "Stone",
+    "description": "Some imagination can turn stone into art.",
+    "icon": "\ud83e\udea8",
+    "price": 2,
+    "maxSpawns": 0,
+    "found": [
+        "Kristoff's Stall Mining",
+        "All Biomes",
+        "Removing rocks"
+    ]
+}

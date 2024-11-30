@@ -1,0 +1,10 @@
+{
+    "name": "White Passion Lily",
+    "description": "A vibrant bloom of purples and whites.",
+    "icon": "\ud83c\udf3a",
+    "price": 38,
+    "maxSpawns": 4,
+    "found": [
+        "Frosted Heights"
+    ]
+}

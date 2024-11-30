@@ -1,0 +1,15 @@
+{
+    "name": "Vegetarian Pizza",
+    "description": "A thin pizza topped with many vegetables.",
+    "type": "Entr\u00e9es",
+    "stars": 5,
+    "energy": 754,
+    "price": 350,
+    "ingredients": [
+        "Any Vegetable",
+        "Any Vegetable",
+        "Tomato",
+        "Cheese",
+        "Wheat"
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "name": "buzzlightyear.friendship",
+    "quests": [
+        {
+            "name": "A Space Ranger Recruit",
+            "id": "buzzlightyear.friendship.1",
+            "objectives": [
+                "Gather materials for the Space Ranger Ship:\r\n  \u2027 3 Glass\r\n  \u2027 10 Hardwood\r\n  \u2027 5 Iron Ingot",
+                "Craft the Space Ranger Ship",
+                "Place the Space Ranger Ship near Buzz's RV.",
+                "Return to Buzz",
+                "Talk to Scrooge McDuck",
+                "Gather the ingredients for the Navy Blue Dye\r\n  \u2027 3 Blue Falling Penstemon\r\n  \u2027 10 Coal Ore\r\n  \u2027 15 Blueberry\r\n  \u2027 1 Empty Vial",
+                "Craft some Navy Navy Blue Dye",
+                "Gather what Scrooge McDuck asked for:\r\n  \u2027 15 Fiber\r\n  \u2027 15 Softwood\r\n  \u2027 1 Navy Blue Dye\r\n  \u2027 1 Topaz",
+                "Bring the materials to Scrooge McDuck",
+                "Put on the Space Ranger Uniform:\r\n  \u2027 Space Ranger Helmet\r\n  \u2027  Space Ranger Wings",
+                "Report to Buzz"
+            ],
+            "rewards": [
+                "260 Friendship"
+            ],
+            "friendship": 2
+        },
+        {
+            "name": "A Space Ranger Reputation",
+            "id": "buzzlightyear.friendship.2",
+            "objectives": [
+                "Listen to Buzz and Ursula",
+                "Talk to Buzz after his defeat",
+                "Go to the Toy Story Realm",
+                "Gather 3 Buzz Lightyear Playing Cards hidden in the books around Bonnie's Room",
+                "Return to Buzz",
+                "Search Merlin's, Donald's and Mickey's Houses for Blank Sheet of Paper (3)",
+                "Craft 3 Buzz Lightyear Leaflet",
+                "Bring Buzz Lightyear Leaflets to Buzz",
+                "Bring a Buzz Lightyear Leaflet to\r\n  \u2027 Donald Duck\r\n  \u2027 Maui\r\n  \u2027 Ursula",
+                "Return to Buzz"
+            ],
+            "rewards": [
+                "510 Friendship"
+            ],
+            "friendship": 4
+        },
+        {
+            "name": "The Fragmented Past",
+            "id": "buzzlightyear.friendship.3",
+            "objectives": [
+                "Go to the river in the Forest of Valor with Buzz",
+                "Search for a buried clue about Buzz's past along the river in the Forest of Valor.",
+                "Talk to Buzz",
+                "Talk to Scar",
+                "Gathering the following meals\r\n  \u2027 Fish Soup\r\n  \u2027 Tuna Burger",
+                "Bring the meals to Scar",
+                "Search Scar's Cave for an object proving his past friendship with Buzz",
+                "You found another part of the Memory! Talk to Buzz.",
+                "Fish the next clue from the river on the Sunlit Plateau.",
+                "Open your Inventory and investigate the Old Fishing Rod.",
+                "Talk to Buzz.",
+                "Listen as Buzz talks to Scar",
+                "Return to Buzz."
+            ],
+            "rewards": [
+                "1280 Friendship"
+            ],
+            "friendship": 6
+        },
+        {
+            "name": "The Definition of a Hero",
+            "id": "buzzlightyear.friendship.4",
+            "objectives": [
+                "Witness as Buzz apologizes to Ursula",
+                "Talk to Buzz",
+                "Gather the materials for the Space Ranger Badges:\r\n  \u2027 3 Iron Ingot\r\n  \u2027 3 Fabric\r\n  \u2027 3 Blue Ink",
+                "Craft Space Ranger Badge (3)",
+                "Talk to Buzz",
+                "Bring the Space Ranger Badges to\r\n  \u2027 Remy\r\n  \u2027 Moana\r\n  \u2027 Scar",
+                "Talk to Buzz",
+                "Craft what's needed for the Star Command Academy Grand Opening:\r\n  \u2027 20 Asphalt\r\n  \u2027 1 Blue and Silver Balloon Arch",
+                "Place everything for the Grand Opening around Buzz's RV:\r\n  \u2027 20 Asphalt\r\n  \u2027 1 Blue and Silver Balloon Arch",
+                "Return to Buzz",
+                "Place the  Space Ranger Buffet near Buzz's RV.",
+                "Put on your Space Ranger Uniform (optional)\r\n  \u2027 Space Ranger Helmet\r\n  \u2027 Space Ranger Wings",
+                "Launch the Star Command Academy Grand Opening",
+                "Return to Buzz"
+            ],
+            "rewards": [
+                "1790 Friendship",
+                "Buzz Lightyear's Space Pack"
+            ],
+            "friendship": 10
+        },
+        {
+            "name": "Collect 'Em All: Little Green Men!",
+            "id": "buzzlightyear.friendship.alien.1",
+            "objectives": [
+                "Calling all Space Rangers! Star Command alert!",
+                "Report to Buzz",
+                "Keep an eye out for Alien Toys scattered around the Biomes of the Village! (25)",
+                "Bring the  Alien Toys to Buzz"
+            ],
+            "rewards": [
+                "Space Ranger Supply Kit"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "Collect 'Em All: Strangers from the Outside!",
+            "id": "buzzlightyear.friendship.alien.2",
+            "objectives": [
+                "Calling all Space Rangers! Another intergalactic threat has been spotted!",
+                "Report to Buzz",
+                "Keep an eye out for Alien Toys in Villagers' Houses (15)",
+                "Bring the Alien Toys to Buzz"
+            ],
+            "rewards": [
+                "Space Ranger Supply Kit"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "Collect 'Em All: Attic Mode",
+            "id": "buzzlightyear.friendship.alien.3",
+            "objectives": [
+                "Calling all Space Rangers! Star Command alert!\r\n  \u2027 Report to Buzz",
+                "Keep an eye out for Alien Toys scattered in common areas and secret spots. (15)"
+            ],
+            "rewards": [],
+            "friendship": 0
+        },
+        {
+            "name": "We Are Eternally Grateful!",
+            "id": "buzzlightyear.friendship.extra.1",
+            "objectives": [
+                "Calling all Space Rangers!",
+                "Report to Buzz",
+                "Create the perfect \"Alien Habitat\" in the Village:\r\n  \u2027 Place 10 Playful Furniture (10)\r\n  \u2027 Place 3 Red Furniture (3)\r\n  \u2027 Place 2 Purple Furniture (2)\r\n  \u2027 Place 4 Alien Toys (4)",
+                "Take a picture of your Alien Habitat",
+                "Report to Buzz"
+            ],
+            "rewards": [
+                "10 Friendship",
+                "Space Ranger Supply Kit",
+                "4 Alien Toys"
+            ],
+            "friendship": 10
+        }
+    ]
+}

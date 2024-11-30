@@ -1,0 +1,26 @@
+{
+    "name": "remy.story",
+    "quests": [
+        {
+            "name": "Ancient's Landing Fine Dining",
+            "id": "remy.story.rift.1",
+            "objectives": [
+                "Make sure you have the Menu in your Inventory.",
+                "Give the Menu to Remy.",
+                "Follow Remy to the restaurant on Eternity Isle.",
+                "Talk to Remy.",
+                "Gather some fresh Eternity Isle Ingredients for Remy:\r\n  \u2027 5 Fish from Ancient's Landing:\r\n  \u2027 6 Cumin.\r\n  \u2027 6 Strawberries.",
+                "Bring the Ingredients to Remy.",
+                "Unlock Chez Remy on Eternity Isle by interacting with the Scrooge McDuck Sign beside it.",
+                "Talk to Remy."
+            ],
+            "rewards": [
+                "500 Friendship",
+                "Basil Berry Salad",
+                "Conch Seviche reipce"
+            ],
+            "dlc": 1,
+            "friendship": 0
+        }
+    ]
+}

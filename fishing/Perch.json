@@ -1,0 +1,11 @@
+{
+    "name": "Perch",
+    "description": "A rare fish found only in a special spot.",
+    "rarity": "White",
+    "price": 80,
+    "energy": 400,
+    "found": [
+        "Forest of Valor",
+        "sSunlit Plateau"
+    ]
+}

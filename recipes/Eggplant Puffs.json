@@ -1,0 +1,13 @@
+{
+    "name": "Eggplant Puffs",
+    "description": "Small, flaky pastries stuffed with eggplant.",
+    "type": "Appetizers",
+    "stars": 3,
+    "energy": 1941,
+    "price": 991,
+    "ingredients": [
+        "Eggplant",
+        "Egg",
+        "Cheese"
+    ]
+}

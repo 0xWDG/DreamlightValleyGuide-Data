@@ -1,0 +1,13 @@
+{
+    "name": "Pawpsicle",
+    "description": "A small, frozen treat shaped like a fox's paw.",
+    "type": "Desserts",
+    "stars": 3,
+    "energy": 987,
+    "price": 265,
+    "ingredients": [
+        "Slush Ice",
+        "Sugarcane",
+        "Any Fruit"
+    ]
+}

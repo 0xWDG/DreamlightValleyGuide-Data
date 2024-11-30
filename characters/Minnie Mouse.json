@@ -1,0 +1,22 @@
+{
+    "name": "Minnie Mouse",
+    "origin": "Mickey & Friends",
+    "house": "Minnie Mouse's House",
+    "description": "Minnie Mouse is a character from the classic Disney cartoons.",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Classic Minnie Ears Headband",
+        "Bow Motif",
+        "StarCoins 500",
+        "Polka Dot Armchair",
+        "Mouse Balloon Motif",
+        "StarCoins 1000",
+        "Cute Bow Bed",
+        "Looking-Sharp Minnie Motif",
+        "Minnie's Dinner Party Gown"
+    ],
+    "quests": [
+        "minniemouse.friendship"
+    ]
+}

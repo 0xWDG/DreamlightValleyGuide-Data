@@ -1,0 +1,14 @@
+{
+    "name": "Peanut Butter Waffles",
+    "description": "Fluffy waffles slathered in peanut butter.",
+    "type": "Desserts",
+    "stars": 4,
+    "energy": 1938,
+    "price": 978,
+    "ingredients": [
+        "Peanut",
+        "Wheat",
+        "Egg",
+        "Milk"
+    ]
+}

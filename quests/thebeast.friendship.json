@@ -1,0 +1,104 @@
+{
+    "name": "thebeast.friendship",
+    "quests": [
+        {
+            "name": "The Beast with No Bite",
+            "id": "thebeast.friendship.1",
+            "objectives": [
+                "Hang out with Beast to give him a tour and take some stylish pictures.",
+                "Take photos of Beast in different settings:\r\n  \u2027 In the Castle.\r\n  \u2027 In Remy's Restaurant.\r\n  \u2027 Any exterior in the Village.",
+                "Talk to Beast about the photo session.",
+                "Ask Villagers about relationships:\r\n  \u2027 Mickey Mouse.\r\n  \u2027 Mirabel.",
+                "Return to The Beast to discuss the advice.",
+                "Order a Date-Night Exterior Table from Scrooge McDuck.",
+                "Make sure you have the Date-Night Exterior Table in your Inventory.",
+                "Touch base with Beast about the romantic date.",
+                "Create the perfect romantic dinner date for Belle and Beast:\r\n  \u2027 2 Cook Vegetable Soup.\r\n  \u2027 2 Cook Seafood Pasta.\r\n  \u2027 2 Cook Gray Stuff.",
+                "Wait until after sunset on a night with clear skies.",
+                "Make sure you have the food for the romantic dinner in your Inventory.",
+                "Bring the food to Beast.",
+                "Set up the romantic table for the date."
+            ],
+            "rewards": [
+                "400 Friendship",
+                "Date-Night Exterior Table"
+            ],
+            "friendship": 2
+        },
+        {
+            "name": "Be Our Friend",
+            "id": "thebeast.friendship.2",
+            "objectives": [
+                "Gather books for Belle from Merlin's library. (3)",
+                "Bring the books to Belle on Beast's behalf.",
+                "Ask these Villagers about meeting with Beast:\r\n  \u2027 Mirabel.\r\n  \u2027 WALL-E.",
+                "Return to The Beast.",
+                "Hang out with Beast to make sure a catastrophe doesn't develop.",
+                "MIRABEL:\r\n  \u2027 Show Beast how to craft what Mirabel will need:\r\n  \u2027 \u2027 Craft 20 Fiber.\r\n  \u2027 \u2027 Craft 3 Empty Vial.\r\n  \u2027 Talk to Beast.\r\n  \u2027 Take Beast to meet with Mirabel.\r\n  \u2027 Check up on Beast.",
+                "WALL-E:\r\n  \u2027 Teach Beast the secrets of gardening:\r\n  \u2027 \u2027 How to plant crops. (10)\r\n  \u2027 \u2027 How to harvest crops. (10)",
+                "Talk to Beast.",
+                "Take Beast to meet with WALL-E.",
+                "Check up on Beast.",
+                "Ask Kristoff about his fishing contest.",
+                "Talk to Beast.",
+                "Participate in the contest by catching at least:\r\n  \u2027 2 Saltwater Fish.\r\n  \u2027 2 Freshwater Fish.\r\n  \u2027 1 Fish of 3 lbs. or more.\r\n  \u2027 1 A Herring.\r\n  \u2027 1 A Bream.",
+                "Meet with Beast and Kristoff again.",
+                "Return to Beast."
+            ],
+            "rewards": [
+                "810 Friendship"
+            ],
+            "friendship": 4
+        },
+        {
+            "name": "The Crown or the Claw",
+            "id": "thebeast.friendship.3",
+            "objectives": [
+                "Follow Beast to see his confrontation with Mother Gothel.",
+                "Check in with Beast.",
+                "Give Beast some space and try to defuse the situation:\r\n  \u2027 Let Beast cool off for a while.\r\n  \u2027 Get Mother Gothel's side of the story.",
+                "Ask how Beast is doing now.",
+                "Pick up the 5 broken pieces of furniture in Beast's castle.",
+                "Gather what's needed to repair Beast's furniture.\r\n  \u2027 12 Hardwood.\r\n  \u2027 20 Softwood.\r\n  \u2027 10 Dry Wood.\r\n  \u2027 5 Fabric.",
+                "Repair the furniture at a Crafting Station.\r\n  \u2027 Repaired Regal Plush Couch.\r\n  \u2027 Repaired Regal Low Table.",
+                "Meet Beast inside his castle.",
+                "Make sure you have the furniture in your Inventory.\r\n  \u2027 1 Repaired Regal Plush Couch.\r\n  \u2027 1 Repaired Regal Low Table.",
+                "Give the repaired furniture to Beast.",
+                "Talk to Merlin.",
+                "Gather materials for the Mirror of True Seeing:\r\n  \u2027 1 Gold Ingot.\r\n  \u2027 3 Purified Night Shard.\r\n  \u2027 5 Glass.\r\n  \u2027 5 Dream Shard.",
+                "Craft the Mirror of True Seeing.",
+                "Place the mirror by the entrance of the Giant Willow Tree.",
+                "Talk to Mother Gothel.",
+                "Return to Beast."
+            ],
+            "rewards": [
+                "2020 Friendship"
+            ],
+            "friendship": 7
+        },
+        {
+            "name": "A Gift in Crimson",
+            "id": "thebeast.friendship.4",
+            "objectives": [
+                "Gather materials for Beast's Greenhouse:\r\n  \u2027 20 Glass.\r\n  \u2027 10 Dry Wood.\r\n  \u2027 5 Gold Ingot.\r\n  \u2027 5 Crystal.\r\n  \u2027 30 Soil.",
+                "Craft the Greenhouse.",
+                "Place the Greenhouse in the Village.",
+                "Return to Beast.",
+                "Go to the Beauty and the Beast Realm.",
+                "Gather roses from the Beast's old garden:\r\n  \u2027 12 Water dry roses from the dead bushes.\r\n  \u2027 12 Pick up healthy roses.",
+                "Gather the 12 roses from the Beauty and the Beast Realm.",
+                "Bring the roses to Beast.",
+                "Bring roses as a token of friendship from Beast:\r\n  \u2027 WALL-E.\r\n  \u2027 Mirabel.\r\n  \u2027 Mother Gothel.",
+                "Talk to Beast.",
+                "Watch as Beast gives his most beautiful rose to Belle.",
+                "Return to Beast."
+            ],
+            "rewards": [
+                "2830 Friendship",
+                "The Beast's Royal Blue Brocade Suit",
+                "Beast's Greenhouse"
+            ],
+            "friendship": 10
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Veggie Pie",
+    "description": "A warm and savory pie filled with veggies.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
+    "energy": 634,
+    "price": 279,
+    "ingredients": [
+        "Any Vegetable",
+        "Butter",
+        "Wheat"
+    ]
+}

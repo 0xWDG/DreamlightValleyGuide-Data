@@ -1,0 +1,107 @@
+{
+    "name": "moana.friendship",
+    "quests": [
+        {
+            "name": "Fixing the Boat",
+            "id": "moana.friendship.1",
+            "objectives": [
+                "Follow Moana to the Broken Boat.",
+                "Talk to Moana about fixing the boat.",
+                "Gather the following items to fix the Broken Boat:\r\n  \u2027 50 Softwood\r\n  \u2027 70 Fiber\r\n  \u2027 3 Pink Hydrangea",
+                "Craft the following items to fix the Broken Boat:\r\n  \u2027 3 Rustic Wooden Case\r\n  \u2027 3 Basket\r\n  \u2027 4 Rope",
+                "Meet Moana at the Broken Boat.",
+                "Gather the following items to fix the Broken Boat:\r\n  \u2027 20 Softwood\r\n  \u2027 20 Fiber\r\n  \u2027 4 Rope\r\n  \u2027 3 Rustic Wooden Case\r\n  \u2027 3 Basket",
+                "Give the items you gathered to Moana.",
+                "A strange object appeared after fixing the boat. Pick it up.",
+                "Give the strange object to Moana."
+            ],
+            "rewards": [
+                "180 Friendship",
+                "Moana's Boat"
+            ],
+            "friendship": 2
+        },
+        {
+            "name": "Peacemakers",
+            "id": "moana.friendship.2",
+            "objectives": [
+                "Cook the following meals for Maui\r\n  \u2027 Seafood Salad\r\n  \u2027 Fruit Salad\r\n  \u2027 Seafood Platter",
+                "Bring Maui the meals you prepared.",
+                "Go back to Moana",
+                "Gather the following items to craft an Oar for Maui\r\n  \u2027 10 Softwood",
+                "Craft an Oar for Maui",
+                "Bring the Oar to Moana",
+                "Listen as Moana gives her gift to Maui",
+                "Another Leader Shard appeared! Pick it up!",
+                "Bring Moana the newly found fragment"
+            ],
+            "rewards": [
+                "350 Friendship"
+            ],
+            "friendship": 4
+        },
+        {
+            "name": "The Remembering",
+            "id": "moana.friendship.3",
+            "objectives": [
+                "Remove the Night Thorns from Moana's House.",
+                "Talk to Moana",
+                "Find 10 flowers from Moana's Memory.",
+                "Investigate the new Memory that appeared.",
+                "Talk to Moana.",
+                "Talk to Maui.",
+                "Another piece of Moana's Memory! Investigate It.",
+                "Talk to Moana",
+                "Harvest 6 fruits in the Forest of Valor.",
+                "A fourth piece of Moana's Memory! Investigate it.",
+                "Moana had a breakthrough! Talk to her!",
+                "Gather 3 Coconuts",
+                "Bring Moana the Coconuts.",
+                "Pick up the Leader Shard that just appeared."
+            ],
+            "rewards": [
+                "530 Friendship"
+            ],
+            "friendship": 6
+        },
+        {
+            "name": "The Remembering",
+            "id": "moana.friendship.4",
+            "objectives": [
+                "Follow Moana to the Fishing Boat",
+                "Talk to Moana",
+                "Track Pua in the Meadow.",
+                "More Pua hoofprints! Talk to Moana.",
+                "Track Pua near the Restaurant.",
+                "Leftover food! Talk to Moana about it.",
+                "Track Pua in the Forest.",
+                "Oh no! Pua is trapped! Free the little pig from the Night Thorns.",
+                "Pick up the new Leader Shard.",
+                "Give Moana the new Leader Shard."
+            ],
+            "rewards": [
+                "700 Friendship",
+                "Unlock Pua as a companion pet"
+            ],
+            "friendship": 8
+        },
+        {
+            "name": "The Ceremony",
+            "id": "moana.friendship.5",
+            "objectives": [
+                "Gather the following items to craft the Honored Place:\r\n  \u2027 50 Stone\r\n  \u2027 10 Iron Ingot\r\n  \u2027 10 Conch (in the Moana Realm)",
+                "Craft the Honored Place.",
+                "Place the Honored Place near your House.",
+                "Talk to Moana.",
+                "Place the fragments onto the Honored Place.",
+                "Celebrate your leadership with Moana.",
+                "Talk to Moana."
+            ],
+            "rewards": [
+                "700 Friendship",
+                "Tropical Flourish Gown"
+            ],
+            "friendship": 10
+        }
+    ]
+}

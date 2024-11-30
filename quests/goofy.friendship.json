@@ -1,0 +1,116 @@
+{
+    "name": "goofy.friendship",
+    "quests": [
+        {
+            "name": "A Warm Welcome",
+            "id": "goofy.friendship.1",
+            "objectives": [
+                "Gather the following Herbs in the Meadow and the Plaza:\r\n  \u2027 3 Basil\r\n  \u2027 3 Oregano",
+                "Talk to Goofy.",
+                "Cook a meal using Basil or Oregano.",
+                "Go back to Goofy with your meal."
+            ],
+            "rewards": [
+                "190 Friendship"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "Photographic Memory",
+            "id": "goofy.friendship.2",
+            "objectives": [
+                "Take photos of the following trees when they're full of Fruit:\r\n  \u2027 Apple Tree.\r\n  \u2027 Raspberry Bush.\r\n  \u2027 Banana Tree.",
+                "Talk to Goofy.",
+                "Take photos of the following in the Plaza and the Meadow:\r\n  \u2027 Squirrel.\r\n  \u2027 Rabbit.",
+                "Talk to Goofy.",
+                "Take photos of the following in the Plaza and the Meadow:\r\n  \u2027 Red Daisy\r\n  \u2027 Green Rising Penstemon\r\n  \u2027 White & Pink Falling Penstemon\r\n  \u2027 Dandelion",
+                "Return to Goofy to show him your photos!"
+            ],
+            "rewards": [
+                "350 Friendship"
+            ],
+            "friendship": 4
+        },
+        {
+            "name": "Dinner with a Friend",
+            "id": "goofy.friendship.3",
+            "objectives": [
+                "Catch fresh Seafood with Goofy at the Beach:\r\n  \u2027 2 Shrimp\r\n  \u2027 2 Pick up Clam\r\n  \u2027 2 Pick up Scallop",
+                "Talk to Goofy.",
+                "Cook 2 Bouillabaisse",
+                "Bring the 2 Bouillabaisse to Goofy."
+            ],
+            "rewards": [
+                "530 Friendship"
+            ],
+            "friendship": 6
+        },
+        {
+            "name": "Photo Fervor",
+            "id": "goofy.friendship.4",
+            "objectives": [
+                "Take photos of the following landmarks in Dreamlight Valley:\r\n  \u2027 The Swamp's Giant Willow Tree.\r\n  \u2027 The Plateau's Elephant Graveyard.\r\n  \u2027 Scrooge's Store.\r\n  \u2027 Remy's Restaurant.\r\n  \u2027 Dream Castle.",
+                "Talk to Goofy.",
+                "Take photos of the following Pillars in Dreamlight Valley:\r\n  \u2027 Pillar of Friendship (Peaceful Meadow).\r\n  \u2027 Pillar of Power (Dazzle Beach).\r\n  \u2027 Pillar of Courage (Forest of Valor).\r\n  \u2027 Pillar of Trust (Glade of Trust).",
+                "Talk to Goofy.",
+                "Put on a Hat for the photo.",
+                "Take a selfie with Goofy!",
+                "Show Goofy the Photo you've taken together."
+            ],
+            "rewards": [
+                "700 Friendship"
+            ],
+            "friendship": 8
+        },
+        {
+            "name": "Scrapbook Blitz",
+            "id": "goofy.friendship.5",
+            "objectives": [
+                "Take 6 pictures of Villagers, including Donald & Mickey\r\n  \u2027 Donald\r\n  \u2027 Mickey",
+                "Return to Goofy",
+                "Place the scrapbook in your favorite place in the Village.",
+                "Start the party with your Villagers!"
+            ],
+            "rewards": [
+                "790 Friendship",
+                "Goofy's Signature Hat"
+            ],
+            "friendship": 10
+        },
+        {
+            "name": "The Mysterious Wreck",
+            "id": "goofy.friendship.wreck",
+            "objectives": [
+                "You need to find someone who's good at fixing things.",
+                "Find the Mysterious Paddle on the Beach.",
+                "Talk to Goofy about the Wrecked Raft.",
+                "Gather the materials to repair the Wrecked Raft:\r\n  \u2027 30 Hardwood\r\n  \u2027 7 Rope\r\n  \u2027 25 Clay\r\n  \u2027 10 Iron Ingot",
+                "Talk to Goofy",
+                "Craft a Raft Repair Kit at a Crafting Station",
+                "Talk to Goofy."
+            ],
+            "rewards": [
+                "500 Friendship"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "The Ones That Got Away",
+            "id": "goofy.friendship.rift.1",
+            "objectives": [
+                "Goofy must be fascinated by all the strange new fish around Eternity Isle!\r\n  \u2027 Talk to Goofy.",
+                "Catch some off the strange new fish around the Isle:\r\n  \u2027 2 Dunebopper\r\n  \u2027 2 Robot Fish\r\n  \u2027 2 Prisma Shrimp",
+                "Bring everything you caught to Goofy.",
+                "Cook any meal using the Dunebopper, Robot Fish, or Prisma Shrimp.",
+                "Tell Goofy about what you made."
+            ],
+            "rewards": [
+                "1000 Friendship",
+                "250 Mist",
+                "Mooncake"
+            ],
+            "dlc": 1,
+            "friendship": 0
+        }
+    ]
+}

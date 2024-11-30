@@ -1,0 +1,15 @@
+{
+    "name": "Ranch Salad",
+    "description": "A simple salad served with a rich dressing.",
+    "type": "Entr\u00e9es",
+    "stars": 5,
+    "energy": 714,
+    "price": 396,
+    "ingredients": [
+        "Lettuce",
+        "Bell Pepper",
+        "Corn",
+        "Tomato",
+        "Onion"
+    ]
+}

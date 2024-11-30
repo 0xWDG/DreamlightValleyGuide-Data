@@ -1,0 +1,22 @@
+{
+    "name": "Vanellope",
+    "origin": "Wreck-It Ralph",
+    "house": "Sugar Rush",
+    "description": "Vanellope is a character from the Disney film Wreck-It Ralph (2012).",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Icing Socks",
+        "Candy Trees Motif",
+        "StarCoins 500",
+        "Neapolitan Racing Jacket",
+        "Candy Titles Motif",
+        "StarCoins 1000",
+        "Sugar Rush Arcade Cabinet",
+        "Vanellope Portrait Motif",
+        "Vanellope's Sugar Rush Racer"
+    ],
+    "quests": [
+        "vanellope.friendship"
+    ]
+}

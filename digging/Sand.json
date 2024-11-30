@@ -1,0 +1,9 @@
+{
+    "name": "Sand",
+    "description": "An important item for building sand castles.",
+    "icon": "\ud83c\udfd6\ufe0f",
+    "price": 8,
+    "found": [
+        "Dazzle Beach"
+    ]
+}

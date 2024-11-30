@@ -1,0 +1,13 @@
+{
+    "name": "Fish Steak",
+    "description": "A slab of fish seared to perfection.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
+    "energy": 537,
+    "price": 100,
+    "ingredients": [
+        "Any Fish",
+        "Tomato",
+        "Basil"
+    ]
+}

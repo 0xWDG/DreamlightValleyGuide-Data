@@ -1,0 +1,12 @@
+{
+    "name": "Baked Carp",
+    "description": "A cut of carp baked to perfection.",
+    "type": "Entr\u00e9es",
+    "stars": 2,
+    "energy": 1894,
+    "price": 767,
+    "ingredients": [
+        "Carp",
+        "Butter"
+    ]
+}

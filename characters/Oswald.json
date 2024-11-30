@@ -1,0 +1,24 @@
+{
+    "name": "Oswald",
+    "origin": "Oswald the Lucky Rabbit",
+    "house": "Oswald's House",
+    "description": "Oswald is a character from several animated short films under the series \"Oswald the Lucky Rabbit\" released to theaters from 1927 to 1938, and is notable as one of Walt Disney's early creations prior to creating Mickey Mouse.",
+    "rewards": [
+        "",
+        "",
+        "Oswaldian Fedora",
+        "Oswald Title Card Motif",
+        "StarCoins 500",
+        "Oswald's Car",
+        "Oswald Driving Motif",
+        "StarCoins 1000",
+        "Oswald Deco Door",
+        "Oswald Performing Motif",
+        "Oswaldian Zoot Suit"
+    ],
+    "dlc": 2,
+    "quests": [
+        "oswald.story",
+        "oswald.friendship"
+    ]
+}

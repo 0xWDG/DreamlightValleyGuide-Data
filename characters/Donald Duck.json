@@ -1,0 +1,22 @@
+{
+    "name": "Donald Duck",
+    "origin": "Mickey & Friends",
+    "house": "S.S. Daisy",
+    "description": "Donald Duck is a character from the classic Disney cartoons.\r\nThe player will first encounter Donald's boat-home floating on the water after unlocking Dazzle Beach. Donald himself can be found after completing the Story Quest Lost in the Dark Grove from Kristoff in the Forest of Valor.",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Blue Minnie Backpack",
+        "Ship Wheel Motif",
+        "StarCoins 500",
+        "Refreshment Chest",
+        "Donald Duck Laughing Motif",
+        "StarCoins 1000",
+        "Helm Bookshelf",
+        "Donald Duck Winking Motif",
+        "Donald's Sailor Coat"
+    ],
+    "quests": [
+        "donaldduck.friendship"
+    ]
+}

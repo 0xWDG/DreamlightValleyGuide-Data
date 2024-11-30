@@ -1,0 +1,13 @@
+{
+    "name": "Spaghetti Arrabbiata",
+    "description": "A savory dish of pasta and tomato sauce.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
+    "energy": 373,
+    "price": 141,
+    "ingredients": [
+        "Tomato",
+        "Wheat",
+        "Chili Pepper"
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "name": "donaldduck.friendship",
+    "quests": [
+        {
+            "name": "A House Fit for a Duck",
+            "id": "donaldduck.friendship.1",
+            "objectives": [
+                "Talk to Scrooge McDuck about Donald's House.",
+                "Gather the following materials for the Boat Repair Kit:\r\n  \u2027 16 Softwood\r\n  \u2027 8 Hardwood\r\n  \u2027 2 Iron Ingot\r\n  \u2027 4 Rope",
+                "Craft the Boat Repair Kit at a Crafting Station.",
+                "Make sure you have the Boat Repair Kit in your Inventory.",
+                "Bring the Boat Repair Kit to Donald.",
+                "Follow Donald to his House.",
+                "Use the Scrooge McDuck Sign at Donald's House to get it fixed up.",
+                "Go inside Donald's House to clean it up.",
+                "Help Donald clean his House by gathering:\r\n  \u2027 2 Donald's Award.\r\n  \u2027 2 Jug.\r\n  \u2027 2 Donald's Book.\r\n  \u2027 1 Mysterious Junk.",
+                "Bring what you've gathered to Donald.",
+                "Open the Rusty Time Capsule in your Inventory.",
+                "Talk to Donald about the Time Capsule."
+            ],
+            "rewards": [
+                "800 Friendship"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "A Fishy Dispute",
+            "id": "donaldduck.friendship.2",
+            "objectives": [
+                "Put on the fishing outfit that Donald gave you.",
+                "Catch 10 fish in the ocean.",
+                "Talk to Donald about the fish you've caught.",
+                "Follow Donald to where he saw the catfish.",
+                "Catch the catfish.",
+                "Make sure you have the Time Capsule in your Inventory.",
+                "Bring what you've found to Donald.",
+                "Open the Time Capsule to discover what's inside.",
+                "Talk to Donald about what you've uncovered.",
+                "Go to the Sunlit Plateau and find the location from the Memory.",
+                "Investigate the Biome to see if there's anything buried here.",
+                "Bring what you've found to Donald."
+            ],
+            "rewards": [
+                "350 Friendship"
+            ],
+            "friendship": 4
+        },
+        {
+            "name": "The Forgotten Project",
+            "id": "donaldduck.friendship.3",
+            "objectives": [
+                "Talk to Merlin about the Time Capsule.",
+                "Gather the Ingredients for the Odorous Magnificus enchantment:\r\n  \u2027 2 Yellow Bromeliad\r\n  \u2027 3 Pink Houseleek\r\n  \u2027 2 White Marsh Milkweed\r\n  \u2027 2 Yellow Bromeliad\r\n  \u2027 3 Blue Hydrangea\r\n  \u2027 1 Empty Vial",
+                "Craft the Odorous Magnificus at a Crafting Station.",
+                "Make sure you have the Odorous Magnificus in your Inventory.",
+                "Bring the Odorous Magnificus to Merlin.",
+                "Open the Time Capsule to discover what's inside.",
+                "Talk to Donald about what you've uncovered.",
+                "Go to the Sunlit Plateau and find the locations shown in the Memory.",
+                "Talk to Donald about the mysterious Wooden Crates.",
+                "Talk to Mickey about the Dreamlight Magnifier he owns.",
+                "Use the Dreamlight Magnifier on the Crates in the Sunlit Plateau.",
+                "Bring the Crates to Donald."
+            ],
+            "rewards": [
+                "880 Friendship"
+            ],
+            "friendship": 6
+        },
+        {
+            "name": "The Dreamlight Fountain",
+            "id": "donaldduck.friendship.4",
+            "objectives": [
+                "Follow Donald to the campsite in the Sunlit Plateau.",
+                "Search the campsite in the Sunlit Plateau.",
+                "Bring what you've found to Donald.",
+                "Find the second campsite in the Forgotten Lands.",
+                "Dig around the campsite to find the instructions for the Dreamlight Fountain.",
+                "Pick up the Memory.",
+                "Talk to Donald about what you've discovered.",
+                "Gather the following materials to make the Dreamlight Fountain\r\n  \u2027 35 Stone\r\n  \u2027 5 Iron Ingot\r\n  \u2027 18 Soil\r\n  \u2027 8 Hardwood\r\n  \u2027 10 Clay",
+                "Craft the Dreamlight Fountain.",
+                "Meet Donald in the Forgotten Lands",
+                "Bring the Dreamlight Fountain to Donald.",
+                "Place the Celebration Ribbon close to the Dreamlight Fountain.",
+                "Celebrate the new Dreamlight Fountain in the Forgotten Lands."
+            ],
+            "rewards": [
+                "1230 Friendship",
+                "Donald's Sailor Coat"
+            ],
+            "friendship": 10
+        },
+        {
+            "name": "The Dreamlight Fountain",
+            "id": "donaldduck.friendship.socks.1",
+            "objectives": [
+                "You found a stocking with the initials \"DD\" sewn into the lining.",
+                "Find the Villager who owns the Slimy Stocking.",
+                "Make sure you have the Slimy Stocking in your Inventory.",
+                "Search Donald's House for a clue.",
+                "Look for a clue by removing the trash in Donald's House (5)",
+                "Pick up the Strange Device",
+                "Bring the Strange Device to Donald"
+            ],
+            "rewards": [],
+            "friendship": 0
+        },
+        {
+            "name": "The Sock-Stealing Space Alien Strikes Again!",
+            "id": "donaldduck.friendship.socks.2",
+            "objectives": [
+                "You found another sock! This one has a \"G\" sewn into it.\r\n  \u2027 Find the Villager who owns the Chewed-Up Sock\r\n  \u2027 Make sure you have the Chewed-Up Sock in your Inventory.",
+                "Search Goofy's House for a clue.",
+                "Look for a clue by removing the trash in Goofy's House (5)",
+                "You found a clue by removing the trash in Goofy's House (5)",
+                "Bring the Blue Fur to Donald."
+            ],
+            "rewards": [],
+            "friendship": 0
+        },
+        {
+            "name": "Built to Destroy!",
+            "id": "donaldduck.friendship.socks.3",
+            "objectives": [
+                "Another sock! To find out who this one belongs to you might need to ask around a bit.\r\n  \u2027 Talk to Mickey\r\n  \u2027 Talk to Kristoff\r\n  \u2027 Talk to Merlin",
+                "Make sure you have the Knitted Orange Sock in your inventory.",
+                "Search Merlin's library for a clue",
+                "Remove the trash in Merlin's library to find a clue. (5)",
+                "You found a clue in Merlin's library! Pick it up!",
+                "Bring the Mysterious Claw to Donald",
+                "Place the Homing Beacon on Skull Rock.",
+                "Talk to the sock-stealing space alien.",
+                "Talk to Donald",
+                "Place Stitch's House in Dreamlight Valley",
+                "Use the Scrooge McDuck sign to pay for the construction of Stitch's House",
+                "Find Stitch and tell him about his new home."
+            ],
+            "rewards": [
+                "Stitch's Sock Stash"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "Villager of the Month: Donald",
+            "id": "donaldduck.friendship.votm.1",
+            "objectives": [
+                "Take 3 pictures of Donald next to the Trash on Dazzle Beach.",
+                "Talk to Donald.",
+                "Remove the Trash from Dazzle Beach. (8)",
+                "Talk to Donald.",
+                "Make sure the Photo of Donald is in your Inventory.",
+                "Bring the Photo of Donald to Sulley."
+            ],
+            "rewards": [],
+            "dlc": 0,
+            "friendship": 0
+        }
+    ]
+}

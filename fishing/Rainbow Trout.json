@@ -1,0 +1,11 @@
+{
+    "name": "Rainbow Trout",
+    "description": "Its unique scales give the fish its name.",
+    "rarity": "White",
+    "price": 50,
+    "energy": 300,
+    "found": [
+        "Peaceful Meadow",
+        "Forest of Valor"
+    ]
+}

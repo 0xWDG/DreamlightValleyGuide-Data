@@ -1,0 +1,172 @@
+{
+    "name": "eve.friendship",
+    "quests": [
+        {
+            "name": "Directive: Danger!",
+            "id": "eve.friendship.1",
+            "objectives": [
+                "EVE still seems a bit nervous...\r\n  \u2027 Talk to EVE.",
+                "Take pictures around the Docks area of Ancient's Landing to reassure EVE:\r\n  \u2027 A giant tree with hanging lanterns near the well.",
+                "The small wooden boat you arrived in.\r\n  \u2027 A giant statue face in a hallway.\r\n  \u2027 A strange sunken doorway between two waterfalls.",
+                "Return to EVE.",
+                "Fix the bridge between the Glittering Dunes and the Wild Tangle by progressing through the main story.",
+                "Take pictures of possible dangers in the Wild Tangle and Glittering Dunes:\r\n  \u2027 A lady with long, braided blonde hair.\r\n  \u2027 A misplaced boat high up in the jungle.\r\n  \u2027 A plant with very pointy teeth.\r\n  \u2027 A man with an impossibly thick neck.\r\n  \u2027 A snake.\r\n  \u2027 A waterfall of sand.",
+                "Return to EVE"
+            ],
+            "rewards": [
+                "1000 Friendship",
+                "250 Mist"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "A New Directive",
+            "id": "eve.friendship.2",
+            "objectives": [
+                "Feed 2 Monkeys.",
+                "Return to EVE.",
+                "Follow EVE.",
+                "Talk to EVE.",
+                "Visit Ancient's Landing.",
+                "Find a way to open the door.",
+                "Follow EVE to the other side of the gate.",
+                "Follow EVE.",
+                "Talk to EVE.",
+                "Exit the secret garden.",
+                "Use your Hourglass to find the last objects in the Swirling Sands around Ancient's Landing:\r\n  \u2027 BnL Picnic Blanket.\r\n  \u2027 BnL Trashcan Planter.",
+                "Gather Flowers:\r\n  \u2027 3 Orange Birds of Paradise.\r\n  \u2027 3 Yellow Birds of Paradise.\r\n  \u2027 3 White Birds of Paradise.\r\n  \u2027 3 Red Luminescent Flowers.\r\n  \u2027 2 Jade.",
+                "Make sure you have all the materials for EVE:\r\n  \u2027 1 BnL Picnic Blanket.\r\n  \u2027 1 BnL Trashcan Planter.\r\n  \u2027 3 Orange Birds of Paradise.\r\n  \u2027 3 Yellow Birds of Paradise.\r\n  \u2027 3 White Birds of Paradise.\r\n  \u2027 3 Red Luminescent Flowers.\r\n  \u2027 2 Jade.",
+                "Bring all the materials to EVE.",
+                "Listen to EVE and WALL-E's discussion.",
+                "Take 3 pictures of EVE and WALL-E.",
+                "Talk to EVE."
+            ],
+            "rewards": [
+                "440 Friendship"
+            ],
+            "friendship": 2
+        },
+        {
+            "name": "Lasers & Crafts",
+            "id": "eve.friendship.3",
+            "objectives": [
+                "Go to the secret garden with EVE.",
+                "Use your Watering Can on 5 Fires.",
+                "Talk to EVE.",
+                "Talk to Mirabel.",
+                "Return to EVE.",
+                "Use your Hourglass to find 2 Ancient Gemstones around Ancient's Landing.",
+                "Now that you have the Ancient Gemstones, it's time to melt them.\r\n  \u2027 Bring the Ancient Gemstones to EVE.\r\n  \u2027 Make sure you have 2 Ancient Gemstones in your Inventory.",
+                "Follow EVE to a mystery location.",
+                "Talk to EVE.",
+                "Use your Royal Tools to remove:\r\n  \u2027 6 Fire.\r\n  \u2027 2 Craters.",
+                "Pick up 3 Melted Ancient Gemstones.",
+                "Talk to EVE.",
+                "Craft the Stone Canvas.",
+                "Make sure you have the Stone Canvas in your Inventory.",
+                "Bring the Stone Canvas to EVE.",
+                "Follow EVE.",
+                "Talk to EVE."
+            ],
+            "rewards": [
+                "880 Friendship"
+            ],
+            "friendship": 4
+        },
+        {
+            "name": "Directive: Plant",
+            "id": "eve.friendship.4",
+            "objectives": [
+                "Go to EVE's House.",
+                "Talk to EVE.",
+                "Gather the materials:\r\n  \u2027 3 Ancient Gears with the Hourglass.\r\n  \u2027 3 Craft Mechanical Parts at a Crafting Table.\r\n  \u2027 10 Copper.",
+                "Craft the Scanner Accessory.",
+                "Go to EVE's House.",
+                "Make sure the Scanner Accessory is in your Inventory.",
+                "Give the Scanner Accessory to EVE.",
+                "Inspect the Dreamlight Cobra Lily.",
+                "Return to EVE.",
+                "Find the Ingredients:\r\n  \u2027 Sea Snail.\r\n  \u2027 Sand Worm.\r\n  \u2027 Scorpion.",
+                "Cook a plate of Gourmet Grubs.",
+                "Give EVE the Gourmet Grubs."
+            ],
+            "rewards": [
+                "2200 Friendship",
+                "Dreamlight Cobra Lily"
+            ],
+            "friendship": 7
+        },
+        {
+            "name": "When Things Go Boom",
+            "id": "eve.friendship.5",
+            "objectives": [
+                "Talk to Stitch.",
+                "Return to EVE.",
+                "Collect the Dreamlight Cobra Lily Extract from the Dreamlight Cobra Lily in EVE's House.",
+                "Cook the Experimental Fireworks.",
+                "Make sure you have the Experimental Fireworks in your Inventory.",
+                "Bring the Experimental Fireworks to EVE.",
+                "Follow EVE.",
+                "Talk to EVE.",
+                "Remove 15 Fires.",
+                "Talk to EVE.",
+                "Talk to Stitch.",
+                "Search for 3 Socks with the Royal Hourglass.",
+                "Make sure the Socks are in your Inventory.",
+                "Bring the Socks to Stitch.",
+                "Gather materials:\r\n  \u2027 10 Dream Shards.\r\n  \u2027 5 Red Pitcher Plants.",
+                "Make sure the materials are in your Inventory:\r\n  \u2027 10 Dream Shards.\r\n  \u2027 5 Red Pitcher Plants.",
+                "Bring the materials to EVE.",
+                "Add some Furniture to the Island.\r\n  \u2027 3 Cute Rugs.\r\n  \u2027 6 Cute Chairs.\r\n  \u2027 4 Cute Decorations.",
+                "Return to EVE.",
+                "Place the Firework Launcher.",
+                "(Optional) Wait for night.",
+                "Enjoy the Fireworks.",
+                "Talk to EVE."
+            ],
+            "rewards": [
+                "3080 Friendship",
+                "Retro-tastic Jacket",
+                "Retro-tastic Minidress"
+            ],
+            "friendship": 10
+        },
+        {
+            "name": "Does Not Compute",
+            "id": "eve.friendship.compute.1",
+            "objectives": [
+                "Talk to EVE.",
+                "Investigate the map in your Inventory.",
+                "Use all of your Tools to find ancient artifacts around Eternity Isle:\r\n  \u2027 Ancient Slate.\r\n  \u2027 Ancient Dictionary.\r\n  \u2027 Ancient Processor Blueprint.\r\n  \u2027 Ancient Processor Crystal.\r\n  \u2027 Ancient Power Sphere.",
+                "Gather ancient material with your Hourglass to make the Ancient Processor:\r\n  \u2027 3 Ancient Gear.\r\n  \u2027 3 Ancient Plate.\r\n  \u2027 3 Ancient Magnet.",
+                "Repair the Ancient Processor at a Timebending Table.\r\n  \u2027 Make sure you have the Ancient Processor in your Inventory.",
+                "Bring the Ancient Processor to EVE.",
+                "You need to replicate EVE's tech. Take some pictures of items in EVE's House:\r\n  \u2027 Something round with holes.\r\n  \u2027 Some sort of power output.\r\n  \u2027 Some glassy globes.",
+                "Gather materials for the Universal Adapter:\r\n  \u2027 10 Oasis Glass.\r\n  \u2027 15 Plastic Scrap.\r\n  \u2027 15 Copper.\r\n  \u2027 3 Mechanical Parts.\r\n  \u2027 2 Brass Ingot.",
+                "Craft the Universal Adapter.\r\n  \u2027 Make sure you have the Universal Adapter in your Inventory.",
+                "Bring the Universal Adapter to EVE."
+            ],
+            "rewards": [
+                "1000 Friendship"
+            ],
+            "dlc": 1,
+            "friendship": 0
+        },
+        {
+            "name": "EVE's Challenge",
+            "id": "eve.friendship.oswald.1",
+            "objectives": [
+                "Talk to EVE.",
+                "Gather gems for EVE\r\n  \u2027 5 Evergem\r\n  \u2027 5 Bumblestone\r\n  \u2027 5 Spinel",
+                "Talk to Oswald to see what kind of gems he brought for EVE.",
+                "Make sure you have EVE's gems in your Inventory.\r\n  \u2027 5 Evergem\r\n  \u2027 5 Bumblestone\r\n  \u2027 5 Spinel\r\n  \u2027 4 Coal",
+                "Show the results to EVE."
+            ],
+            "rewards": [
+                "1000 Friendship"
+            ],
+            "dlc": 1,
+            "friendship": 0
+        }
+    ]
+}

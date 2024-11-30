@@ -1,0 +1,10 @@
+{
+    "name": "Shiny Garnet",
+    "description": "A rare red mineral that can be mined.",
+    "icon": "\ud83d\udc8e",
+    "price": 640,
+    "found": [
+        "Peaceful Meadow",
+        "Plaza"
+    ]
+}

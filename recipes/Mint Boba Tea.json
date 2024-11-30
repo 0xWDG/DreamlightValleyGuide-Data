@@ -1,0 +1,13 @@
+{
+    "name": "Mint Boba Tea",
+    "description": "A delicious sugary treat with just a hint of mint.",
+    "type": "Desserts",
+    "stars": 3,
+    "energy": 1032,
+    "price": 460,
+    "ingredients": [
+        "Milk",
+        "Sugarcane",
+        "Mint"
+    ]
+}

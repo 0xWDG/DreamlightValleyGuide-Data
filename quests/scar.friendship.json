@@ -1,0 +1,111 @@
+{
+    "name": "scar.friendship",
+    "quests": [
+        {
+            "name": "Friends Aren't Food",
+            "id": "scar.friendship.1",
+            "objectives": [
+                "Talk to Mother Gothel",
+                "Gather the materials needed for the coat:\r\n  \u2027 10 Fiber\r\n  \u2027 4 Fabric\r\n  \u2027 2 Citrine\r\n  \u2027 1 Iron Ingot",
+                "Bring the materials to Mother Gothel",
+                "Put on the Brown Faux-Fur-Trimmed Jacket",
+                "Return to Scar",
+                "Talk to Remy",
+                "Prepare Scar's dinner:\r\n  \u2027 2 Tekka Maki\r\n  \u2027 2 Sake Maki",
+                "Make sure you have everything to feed Scar in your Inventory.",
+                "Bring the sushi to Remy",
+                "Follow Remy as he gives Scar his food.",
+                "Talk to Scar"
+            ],
+            "rewards": [
+                "260 Friendship"
+            ],
+            "friendship": 2
+        },
+        {
+            "name": "Breaking Bones",
+            "id": "scar.friendship.2",
+            "objectives": [
+                "Talk to Scrooge McDuck",
+                "Return to Scar",
+                "Gather the materials to improve your Royal Shovel:\r\n  \u2027 5 Lion's Claw buried near the cliffs on the Sunlit Plateau.\r\n  \u2027 5 Dry Wood\r\n  \u2027 5 Iron Ingot",
+                "Craft the Lion's Claw Shovel Head.",
+                "Improve the Shovel by using the new Lion's Claw Shovel Head.",
+                "Remove 5 small wildebeest bones littering the Sunlit Plateau",
+                "Return to Scar"
+            ],
+            "rewards": [
+                "510 Friendship",
+                "Shovel Upgrade (can remove Small Wildebeest Bones)"
+            ],
+            "friendship": 4
+        },
+        {
+            "name": "The Circle of Life",
+            "id": "scar.friendship.4",
+            "objectives": [
+                "Talk to Mother Gothel.",
+                "Gather the materials for the upgrade:\r\n  \u2027 10 Purified Night Shard\r\n  \u2027 Old Bones in the mines under the Sunlit Plateau",
+                "Return to Scar",
+                "Place the Old Bones in the Volcanic Geyser in Scar's Cave.",
+                "Pick up the Ashes.",
+                "Plant the Ashes anywhere on the Sunlit Plateau.",
+                "Care for the Flower of Bones",
+                "Craft the Roaring Shovel Head."
+            ],
+            "rewards": [
+                "1280 Friendship",
+                "Shovel Upgrade (can remove Large Wildebeest Bones)"
+            ],
+            "spoilers": [
+                {
+                    "title": "Old Bones location",
+                    "objective": "During this quest Mother Gothel gives directions through the Vitalys Mine to the location of the Old Bones, they read: \"When you walk into the mines, take a left, walk for a bit, take the first right you see, then take another left\"."
+                },
+                {
+                    "title": "Flower of Bones cultivation time",
+                    "objective": "..."
+                }
+            ],
+            "friendship": 7
+        },
+        {
+            "name": "The Making of a Monarch",
+            "id": "scar.friendship.5",
+            "objectives": [
+                "Meet Scar at his Cave",
+                "Gather the meals for your dinner at Scar's.\r\n  \u2027 Teriyaki Salmon\r\n  \u2027 Snow White's Gooseberry Pie",
+                "Make sure you have the meals for your dinner with Scar in your Inventory.",
+                "Give the meals to Scar.",
+                "Talk to Merlin.",
+                "Gather the materials for the Sunbird Feeders:\r\n  \u2027 40 Softwood\r\n  \u2027 20 Cotton\r\n  \u2027 10 Dark Wood\r\n  \u2027 6 Red Bromeliad\r\n  \u2027 6 Pink Houseleek",
+                "Craft the Sunbird Feeders (2)",
+                "Place the Sunbird Feeders near the pond on the Sunlit Plateau. (2)",
+                "Return to Scar",
+                "Feed Flowers to the Sunbirds on the Plateau (2)",
+                "Return to Scar",
+                "Return to Scar's Cave",
+                "Talk to Scar",
+                "Pick up the Mysterious Mirror Shard that just appeared in Scar's Cave."
+            ],
+            "rewards": [
+                "1280 Friendship",
+                "Volcanic Stove"
+            ],
+            "friendship": 10
+        },
+        {
+            "name": "A Holiday Treat for Scar",
+            "id": "scar.friendship.jack.1",
+            "objectives": [
+                "Plant, grow and harvest the following vegetables in the Forgotten Lands:\r\n  \u2027 6 Bell Pepper.\r\n  \u2027 6 Tomato.\r\n  \u2027 8 Potato.\r\n  \u2027 12 Zucchini.",
+                "Make sure you have the following vegetable in your Inventory:\r\n  \u2027 6 Bell Pepper.\r\n  \u2027 6 Tomato.\r\n  \u2027 8 Potato.\r\n  \u2027 12 Zucchini.",
+                "Bring the Vegetables to Jack Skellington."
+            ],
+            "rewards": [
+                "875 Friendship"
+            ],
+            "friendship": 0
+        }
+    ]
+}

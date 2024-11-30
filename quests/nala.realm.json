@@ -1,0 +1,40 @@
+{
+    "name": "nala.realm",
+    "quests": [
+        {
+            "name": "Eyes in the Dark",
+            "id": "nala.realm.1",
+            "objectives": [
+                "Explore The Lion King Realm",
+                "Dig out the dried thorn bushes to find some Thorn Bush Seed (5)",
+                "Plant the seeds in the holes near the ledge in the dried-out oasis, then water them until they grow (5)",
+                "Water the seeds close to the ledge at the far side of the dried-out oasis (5)",
+                "Talk to Nala",
+                "Find a way into the cave so you can reach the jungle",
+                "Talk to Nala.",
+                "Find a way to lower the log near the waterfall",
+                "Cross the river and search the other side for Simba",
+                "Talk to Simba",
+                "Follow Simba to Nala and watch their joyous reunion",
+                "Talk to Simba.",
+                "Collect the following bugs:\r\n  \u2027 Find the Colorful Bug (6) in the dried-out oasis\r\n  \u2027 Fish the Slimy Bug (3) out of the river",
+                "Return to Simba",
+                "Remove the stump deeper in the jungle to find the Red Bugs",
+                "Catch the Red Bug (6)",
+                "Cook three Bug Platter using the Red Bugs, Colorful Bugs, and Slimy Bugs.",
+                "Make sure you have the Bug Platter (3) in your Inventory.",
+                "Bring the Bug Platter (3) to Nala",
+                "Go back to Dreamlight Valley and talk to Scrooge McDuck",
+                "Gather the following materials to repair the Sound System:\r\n  \u2027 10 Softwood\r\n  \u2027 5 Hardwood\r\n  \u2027 2 Iron Ingot",
+                "Repair the Sound System at a Crafting Station.",
+                "Return to The Lion King Realm",
+                "Bring the Sound System back to Nala",
+                "Place Pride Rock in the Village.",
+                "Welcome Nala to Dreamlight Valley"
+            ],
+            "rewards": [
+                "Unlock Nala"
+            ]
+        }
+    ]
+}

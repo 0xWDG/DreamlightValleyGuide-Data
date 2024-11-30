@@ -1,0 +1,15 @@
+{
+    "name": "Potato Leek Soup",
+    "description": "A hearty soup sure to give you energy!",
+    "type": "Appetizers",
+    "stars": 5,
+    "energy": 1984,
+    "price": 1400,
+    "ingredients": [
+        "Leek",
+        "Potato",
+        "Milk",
+        "Onion",
+        "Garlic"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Seafood Pasta",
+    "description": "Seafood and thin pasta in a light sauce.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
+    "energy": 921,
+    "price": 387,
+    "ingredients": [
+        "Any Seafood",
+        "Wheat",
+        "Milk"
+    ]
+}

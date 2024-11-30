@@ -1,0 +1,23 @@
+{
+    "name": "Nala",
+    "origin": "The Lion King",
+    "house": "Pride Rock",
+    "description": "Nala is a character from the Disney film The Lion King (1994).",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Lioness Wooden Mask",
+        "Nala Cub Portrait Motif",
+        "StarCoins 500",
+        "Mighty Jungle Wallpaper",
+        "Palm Leaf Motif 1",
+        "StarCoins 1000",
+        "Lioness Living Partition",
+        "Sunrise Motif",
+        "Nala's Waterfall"
+    ],
+    "quests": [
+        "nala.realm",
+        "nala.friendship"
+    ]
+}

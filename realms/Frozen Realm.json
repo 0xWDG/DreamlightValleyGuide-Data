@@ -1,0 +1,8 @@
+{
+    "name": "Frozen Realm",
+    "price": 4000,
+    "characters": [
+        "Anna",
+        "Elsa"
+    ]
+}

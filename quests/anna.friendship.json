@@ -1,0 +1,87 @@
+{
+    "name": "anna.friendship",
+    "quests": [
+        {
+            "name": "An Icy Invitation",
+            "id": "anna.friendship.1",
+            "objectives": [
+                "Follow Anna to the bridge in the Forest of Valor",
+                "Talk to Anna about the stumps blocking the bridge in the Forest.",
+                "Search for the right book in Anna's House.",
+                "Bring the book to Anna.",
+                "Gather the materials to upgrade your shovel\r\n  \u2027 10 Softwood\r\n  \u2027 4 Hardwood\r\n  \u2027 4 Iron Ingot\r\n  \u2027 3 Tinkering Parts",
+                "Craft the Shovel Blade at a Crafting Station",
+                "Use the Shovel Blade in your inventory",
+                "Remove the tree stumps blocking the wooden bridge in the Forest of Valor",
+                "Talk to Anna to tell her the bridge is clear.",
+                "Visit the Ice Cavern with Anna",
+                "Take a picture of the Ice Cavern",
+                "Show the picture to Anna",
+                "Make sure you have Anna's Letter in your Backpack",
+                "Bring Anna's Letter to Elsa in the Frozen Realm",
+                "Tell Anna the good news."
+            ],
+            "rewards": [
+                "180 Friendship",
+                "Shovel upgrade"
+            ],
+            "friendship": 2
+        },
+        {
+            "name": "Lost Loves and Missing Memories",
+            "id": "anna.friendship.2",
+            "objectives": [
+                "Listen as Anna talks to Kristoff.",
+                "Talk to Anna.",
+                "Look for Kristoff's Climbing Gear on Dazzle Beach near the cliffs.",
+                "Bring Kristoff's Climbing Gear to Anna",
+                "Gather the materials to fix Kristoff's Climbing Gear:\r\n  \u2027 8 Hardwood\r\n  \u2027 5 Fabric\r\n  \u2027 3 Rope\r\n  \u2027 3 Iron Ingot",
+                "Repair Kristoff's Climbing Gear at a Crafting Station",
+                "Make sure you have Kristoff's Climbing Gear in your Backpack.",
+                "Bring Kristoff's Climbing Gear to Anna",
+                "Listen as Anna gives Kristoff his climbing gear",
+                "See how Anna feels"
+            ],
+            "rewards": [
+                "350 Friendship"
+            ],
+            "friendship": 4
+        },
+        {
+            "name": "The Enchanted Ring",
+            "id": "anna.friendship.3",
+            "objectives": [
+                "Talk to Merlin",
+                "Talk to Anna to get her Engagement Ring.",
+                "Gather the following Ingredients\r\n  \u2027 10 Dream Shard\r\n  \u2027 3 Red Mushroom from the Giant Willow Tree in the Glade of Trust",
+                "Enchant the Engagement Ring at a Crafting Station.",
+                "Bring the Enchanted Ring to Anna.",
+                "Listen as Anna shows Kristoff the ring.",
+                "Talk to Anna to see how she's feeling."
+            ],
+            "rewards": [
+                "880 Friendship"
+            ],
+            "friendship": 7
+        },
+        {
+            "name": "Do You Wanna Build a Snowman?",
+            "id": "anna.friendship.4",
+            "objectives": [
+                "Get these items for Elsa:\r\n  \u2027 Birthday Cake\r\n  \u2027 Book of Portraits",
+                "Bring the Birthday Cake and Book of Portraits to Elsa.",
+                "Talk to Anna.",
+                "Gather the materials to craft a Snow Family:\r\n  \u2027 40 Snowball\r\n  \u2027 12 Pebbles\r\n  \u2027 8 Fabric\r\n  \u2027 8 Dry Wood\r\n  \u2027 8 Carrot",
+                "Talk to Anna.",
+                "Craft the Snow Family.",
+                "Place the Snow Family in the Forest of Valor",
+                "Attend the party with the Snow Family"
+            ],
+            "rewards": [
+                "1230 Friendship",
+                "\"Fall's Bounty\" Gown"
+            ],
+            "friendship": 10
+        }
+    ]
+}

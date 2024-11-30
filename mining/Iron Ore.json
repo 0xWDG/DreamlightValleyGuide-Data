@@ -1,0 +1,14 @@
+{
+    "name": "Iron Ore",
+    "description": "A chunk of raw iron that becomes ingots.",
+    "icon": "\u2692\ufe0f",
+    "price": 10,
+    "found": [
+        "Forest of Valor",
+        "Glade of Trust",
+        "Sunlit Plateau",
+        "Frosted Heights",
+        "Forgotten Lands",
+        "Vitalys Mine"
+    ]
+}

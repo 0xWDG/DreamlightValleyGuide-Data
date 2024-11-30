@@ -1,0 +1,12 @@
+{
+    "name": "Seafood Salad",
+    "description": "Leafy greens with tomato and fresh seafood.",
+    "type": "Entr\u00e9es",
+    "stars": 2,
+    "energy": 349,
+    "price": 68,
+    "ingredients": [
+        "Any Seafood",
+        "Lettuce"
+    ]
+}

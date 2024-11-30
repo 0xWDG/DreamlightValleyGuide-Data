@@ -1,0 +1,11 @@
+{
+    "name": "Jafar",
+    "origin": "Aladdin",
+    "house": "Jafar's Palace",
+    "description": "Jafar is a character from the Disney film Aladdin (1992).",
+    "dlc": 1,
+    "rewards": [],
+    "quests": [
+        "jafar.story"
+    ]
+}

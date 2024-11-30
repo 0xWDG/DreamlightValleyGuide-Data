@@ -1,0 +1,103 @@
+{
+    "name": "minniemouse.friendship",
+    "quests": [
+        {
+            "name": "The Language of Flowers",
+            "id": "minniemouse.friendship.1",
+            "objectives": [
+                "Pick 6 Blue Star Lilies in the Forest with Minnie.",
+                "Make sure you have the 6 Blue Star Lilies in your inventory",
+                "Bring the Blue Star Lilies to Minnie",
+                "Gather the following items to Craft Minnie's Flower Arrangement.",
+                "-1 Minnie's Special Flower Pot\r\n  \u2027 1 White & Red Hydrangea\r\n  \u2027 4 Red Bell Flower\r\n  \u2027 6 Blue Star Lily",
+                "Craft Minnie's Flower Arrangement.",
+                "Talk to Minnie",
+                "Deliver Minnie's Flower Arrangement to Mickey on Minnie's behalf.",
+                "Return to Minnie"
+            ],
+            "rewards": [
+                "180 Friendship"
+            ],
+            "friendship": 2
+        },
+        {
+            "name": "On The Trail of Minnie's Memory",
+            "id": "minniemouse.friendship.2",
+            "objectives": [
+                "Bring the Dreamlight Magnifier to the Sparkling",
+                "Interact with the Sparkling Fishing Pole.",
+                "Talk to Minnie",
+                "Find another lost Memory on the Beach using the Dreamlight Magnifier.",
+                "Interact with the floating Sparkling Hat.",
+                "Talk to Minnie",
+                "Investigate the Forest of Valor to find another Lost Memory using the Dreamlight Magnifier.",
+                "Interact with the floating Sparkling Package.",
+                "Talk to Minnie",
+                "Go see Mickey with Minnie.",
+                "Listen as Minnie talks to Mickey.",
+                "Talk to Mickey",
+                "Talk to Minnie"
+            ],
+            "rewards": [
+                "350 Friendship"
+            ],
+            "friendship": 4
+        },
+        {
+            "name": "Remembering Old Times",
+            "id": "minniemouse.friendship.3",
+            "objectives": [
+                "Gather the following items to craft a Rustic Clock Tower.\r\n  \u2027 100 Stone\r\n  \u2027 100 Hardwood\r\n  \u2027 30 Iron Ingot\r\n  \u2027 200 Clay",
+                "Talk to Minnie.",
+                "Craft a Rustic Clock Tower.",
+                "Place the Rustic Clock Tower somewhere in the Village.",
+                "Return to Minnie"
+            ],
+            "rewards": [
+                "880 Friendship",
+                "Straw Sunhat with Orange Band",
+                "Blue Jean Overalls"
+            ],
+            "friendship": 7
+        },
+        {
+            "name": "The Club Renewal",
+            "id": "minniemouse.friendship.4",
+            "objectives": [
+                "Investigate the Glade of Trust for a long-lost banner.",
+                "Go talk to Minnie about it.",
+                "Gather the following items to craft the Cheerful Chums Club Banner.\r\n  \u2027 20 Fabric\r\n  \u2027 10 Gold Nugget\r\n  \u2027 Craft a Red Dye",
+                "Craft the Cheerful Chums Banner",
+                "Go to your House",
+                "Place the Cheerful Chums Club Banner in a nice spot of your choosing in your House.",
+                "Relaunch the Cheerful Chums Club.",
+                "Go talk to Minnie about the Club."
+            ],
+            "rewards": [
+                "1230 Friendship",
+                "Minnie's Dinner Party Gown"
+            ],
+            "friendship": 10
+        },
+        {
+            "name": "Very Magical Minnie",
+            "id": "minniemouse.friendship.extra.1",
+            "objectives": [
+                "You found a tattered old spellbook with sticky notes throughout covered in Minnie's handwriting.\r\n  \u2027 Return the Borrowed Spellbook to Minnie.",
+                "Talk to Merlin about Minnie's predicament.",
+                "Talk to Moana.",
+                "Talk to Anna.",
+                "Talk to Elsa.",
+                "Gather everything you'll need for Merlin's Enchantment:\r\n  \u2027 Dream Shard (6)",
+                "Gather Dream Shard (6) to finish Merlin's spell.",
+                "Return to Merlin to complete the spell.",
+                "Talk to Minnie."
+            ],
+            "rewards": [
+                "Clay 50",
+                "StarCoins 500"
+            ],
+            "friendship": 0
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Maguro Sushi",
+    "description": "Thin cuts of tuna over cooked rice.",
+    "type": "Entr\u00e9es",
+    "stars": 4,
+    "energy": 1206,
+    "price": 413,
+    "ingredients": [
+        "Tuna",
+        "Rice",
+        "Seaweed",
+        "Ginger"
+    ]
+}

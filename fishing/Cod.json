@@ -1,0 +1,12 @@
+{
+    "name": "Cod",
+    "description": "A common fish that prefers cold water.",
+    "rarity": "None",
+    "price": 35,
+    "energy": 150,
+    "found": [
+        "Dazzle Beach",
+        "Forgotten Lands",
+        "Glade of Trust"
+    ]
+}

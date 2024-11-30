@@ -1,0 +1,14 @@
+{
+    "name": "Carrot Cake",
+    "description": "A delicious cake with carrots and cinnamon.",
+    "type": "Desserts",
+    "stars": 4,
+    "energy": 908,
+    "price": 427,
+    "ingredients": [
+        "Carrot",
+        "Wheat",
+        "Egg",
+        "Sugarcane"
+    ]
+}

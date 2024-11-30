@@ -1,0 +1,10 @@
+{
+    "name": "Blue Falling Penstemon",
+    "description": "Blue wildflowers that droop when in bloom.",
+    "icon": "\ud83c\udf3a",
+    "price": 23,
+    "maxSpawns": 4,
+    "found": [
+        "Plaza"
+    ]
+}

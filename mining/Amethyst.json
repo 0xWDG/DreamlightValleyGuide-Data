@@ -1,0 +1,10 @@
+{
+    "name": "Amethyst",
+    "description": "A purple gem that can be mined.",
+    "icon": "\ud83d\udc8e",
+    "price": 500,
+    "found": [
+        "Forgotten Lands",
+        "Frosted Heights"
+    ]
+}

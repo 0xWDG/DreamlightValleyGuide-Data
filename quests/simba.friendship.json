@@ -1,0 +1,100 @@
+{
+    "name": "simba.friendship",
+    "quests": [
+        {
+            "name": "Hakuna Matata",
+            "id": "simba.friendship.1",
+            "objectives": [
+                "Put together a Casual outfit (3)",
+                "Return to Simba",
+                "Add some relaxing Furniture to the Peaceful Meadow.\r\n  \u2027 3 Seating\r\n  \u2027 5 Landscaping",
+                "Return to Simba.",
+                "Talk to Scrooge McDuck.",
+                "Order the pool from Scrooge's Store for 9000 Star Coins.",
+                "Or trade it by gathering the following:\r\n  \u2027 2 Shiny Aquamarine\r\n  \u2027 2 Shiny Peridot\r\n  \u2027 3 Topaz\r\n  \u2027 5 Peridot\r\n  \u2027 5 Garnet",
+                "Place the Relaxing Oasis in the Meadow.",
+                "Return to Simba.."
+            ],
+            "rewards": [
+                "260 Friendship"
+            ],
+            "friendship": 2
+        },
+        {
+            "name": "The Great Gathering",
+            "id": "simba.friendship.2",
+            "objectives": [
+                "Talk to Remy.",
+                "Figure out the last Ingredient for the cake. It asks for Eggs, Milk, Fruit, Wheat, and... something sweet?",
+                "Cook the Meals for Simba's gathering:\r\n  \u2027 Aurora's Cake (Wheat, Egg, Milk, Any Fruit, Sugarcane)\r\n  \u2027 Large Seafood Platter. (Any Seafood (4), Lemon)",
+                "Bring the Meals to Simba",
+                "Invite the following Villagers to Simba's gathering:\r\n  \u2027 Goofy.\r\n  \u2027 Minnie.\r\n  \u2027 Maui.",
+                "Return to Simba",
+                "Place the \"No Worries\" Banquet.",
+                "Throw Simba's great gathering.",
+                "Return to Simba.",
+                "Listen to Simba apologize to Nala.",
+                "Talk to Simba.",
+                "Plant and grow Carrots in the Meadow (9)",
+                "Feed some animals around the Valley (5)",
+                "Talk to Nala.",
+                "Return to Simba.."
+            ],
+            "rewards": [],
+            "friendship": 4
+        },
+        {
+            "name": "Seed of Memories",
+            "id": "simba.friendship.3",
+            "objectives": [
+                "Talk to Scar.",
+                "Search the Sunlit Plateau's Mines for a hidden entrance.",
+                "Interact with the strange rocks.",
+                "Investigate the objects in the room:",
+                "The drawing on the wall.",
+                "The table full of tubes and beakers.",
+                "Talk to Merlin about what you saw.",
+                "Gather the following materials:\r\n  \u2027 3 Dream Shard\r\n  \u2027 3 Night Shard\r\n  \u2027 6 Blueberry\r\n  \u2027 3 Orange Marsh Milkweed\r\n  \u2027 2 Empty Vial",
+                "Craft the following potions:\r\n  \u2027 Potion of Growth\r\n  \u2027 Potion of Dust",
+                "Place the Potions in the empty spaces on the Table in the Herbalist Room.",
+                "Get the Dreamlight Tree Seed from the Alchemist's Table in the Herbalist Room",
+                "Return to Simba",
+                "Follow Simba",
+                "Plant the Dreamlight Tree Seed near the pond on the Sunlit Plateau",
+                "Water the Dreamlight Tree Seed (Can be done with Miracle Elixir to speed the growth)",
+                "Listen to Simba and Scar's conversation.",
+                "Talk to Simba"
+            ],
+            "rewards": [
+                "1280 Friendship",
+                "Dreamlight Fruit tree in Valley"
+            ],
+            "friendship": 7
+        },
+        {
+            "name": "The Dreamlight Grove",
+            "id": "simba.friendship.4",
+            "objectives": [
+                "Harvest some Dreamlight Fruit for Simba.",
+                "Give a Dreamlight Fruit to Simba.",
+                "Talk to Mother Gothel.",
+                "Gather the following materials:\r\n  \u2027 5 Vitalys Crystal\r\n  \u2027 2 Purified Night Shard\r\n  \u2027 1 Sunlit Plateau Water\r\n  \u2027 3 Dreamlight Fruit\r\n  \u2027 1 Empty Vial",
+                "Craft the Dreamlight Tree Fertilizer.",
+                "Use the Dreamlight Tree Fertilizer in your Inventory.",
+                "Return to Simba",
+                "Water the flowers in the following parts of the Valley:\r\n  \u2027 5 in the Forgotten Lands.\r\n  \u2027 5 in the Frosted Heights.\r\n  \u2027 5 in the Glade of Trust.",
+                "Return to Simba.",
+                "Follow Simba to the Dreamlight Tree.",
+                "Talk to Simba",
+                "Listen to Simba and Nala",
+                "Talk to Simba."
+            ],
+            "rewards": [
+                "1790 Friendship",
+                "Simba's \"Circle of Life\" Window",
+                "Three more Dreamlight Fruit trees grow in the Valley"
+            ],
+            "friendship": 10
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "name": "maui.friendship",
+    "quests": [
+        {
+            "name": "Burying the Eel",
+            "id": "maui.friendship.1",
+            "objectives": [
+                "Talk to Goofy.",
+                "Gather the following items:\r\n  \u2027 3 Worms\r\n  \u2027 8 Softwood",
+                "Craft a Fishing Trap.",
+                "Place the Fishing Trap near the dock on Dazzle Beach.",
+                "Talk to Maui.",
+                "Catch an Eel attracted by the bait in the Fishing Trap.",
+                "Bring the Eel to Maui.",
+                "Bury the Eel at the Beach.",
+                "Tend to the crop until it grows into a Coconut Tree.",
+                "Harvest the Coconut from the new Coconut Tree.",
+                "Bring the Coconut to Maui."
+            ],
+            "rewards": [
+                "180 Friendship",
+                "Coconut Trees spawn on Dazzle Beach"
+            ],
+            "friendship": 2
+        },
+        {
+            "name": "A Tale of Stone and Fire",
+            "id": "maui.friendship.2",
+            "objectives": [
+                "Follow Maui to Dazzle Beach.",
+                "Talk to Maui.",
+                "Gather the 5 items needed for Maui from his basket in the Moana Realm.",
+                "Bring Maui the items you gathered.",
+                "Cook a fresh 5-star meal for Maui.",
+                "Make sure you have a 5-star meal in your Inventory.",
+                "Bring the meal you cooked to Maui.",
+                "Follow Maui back to the sea debris.",
+                "Break the sea debris and collect what you find inside.",
+                "Show Maui what you found.",
+                "Gather the following items to craft a Granite Fire Bowl:\r\n  \u2027 20 Sand\r\n  \u2027 25 Stone\r\n  \u2027 10 Coal Ore\r\n  \u2027 3 Red Falling Penstemon",
+                "Craft a Granite Fire Bowl.",
+                "Place the Granite Fire Bowl in the Village.",
+                "Return to talk to Maui."
+            ],
+            "rewards": [
+                "350 Friendship",
+                "Upgrade for Pickaxe"
+            ],
+            "friendship": 4
+        },
+        {
+            "name": "Demigod of the Wind and Sun",
+            "id": "maui.friendship.3",
+            "objectives": [
+                "Gather the follow items to craft some Kites:\r\n  \u2027 18 Softwood\r\n  \u2027 30 Fiber",
+                "Craft 3 Kite",
+                "Show the Kites to Maui.",
+                "Bring a Kite to:\r\n  \u2027 Goofy.\r\n  \u2027 Merlin.\r\n  \u2027 WALL-E.",
+                "Go back to Maui.",
+                "Follow Maui to the location of the Missing Island.",
+                "Talk to Maui.",
+                "Fish where the island used to be.",
+                "Bring Maui what you've found."
+            ],
+            "rewards": [
+                "880 Friendship"
+            ],
+            "friendship": 7
+        },
+        {
+            "name": "The Heart of Dreamlight Valley",
+            "id": "maui.friendship.4",
+            "objectives": [
+                "Clear the crust off the Limestone at your Crafting Station.",
+                "Show the Shard you found to Maui.",
+                "Get to the Fountain at the top of the Castle.",
+                "Look for the missing Piece of the Heart of Dreamlight Valley",
+                "Talk to Maui",
+                "Talk to Merlin",
+                "Gather the following ingredients to fix the Heart of Dreamlight Valley:\r\n  \u2027 3 Purified Night Shard\r\n  \u2027 Water from the Forgotten Lands\r\n  \u2027 Water from the Frosted Heights",
+                "Make the Heart of Dreamlight Valley whole again at your Crafting Station.",
+                "Bring the Heart of Dreamlight Valley to Maui.",
+                "Place the Heart of Dreamlight Valley in the hand of the Statue in the Castle.",
+                "Talk to Maui"
+            ],
+            "rewards": [
+                "1230 Friendship",
+                "Maui's #1 Fan"
+            ],
+            "friendship": 10
+        }
+    ]
+}

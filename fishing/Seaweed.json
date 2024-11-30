@@ -1,0 +1,10 @@
+{
+    "name": "Seaweed",
+    "description": "A type of algae found in the ocean.",
+    "rarity": "None",
+    "price": 20,
+    "energy": 25,
+    "found": [
+        "All Biomes"
+    ]
+}

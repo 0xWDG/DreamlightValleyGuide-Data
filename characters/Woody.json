@@ -1,0 +1,23 @@
+{
+    "name": "Woody",
+    "origin": "Toy Story",
+    "house": "Woody's Carousel",
+    "description": "Woody is a character from Disney and Pixar's Toy Story franchise.",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Amoozing Pattern",
+        "Sheriff Star Motif",
+        "StarCoins 500",
+        "Writer Blocks Column",
+        "Snake in my Boot Motif",
+        "StarCoins 1000",
+        "\"Hats Off\" Lamp",
+        "Woody Portrait Motif",
+        "Woody's Pull String"
+    ],
+    "quests": [
+        "woody.friendship",
+        "woody.story"
+    ]
+}

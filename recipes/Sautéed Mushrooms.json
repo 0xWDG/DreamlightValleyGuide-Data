@@ -1,0 +1,12 @@
+{
+    "name": "Saut\u00e9ed Mushrooms",
+    "description": "Freshly picked mushrooms cooked in fat.",
+    "type": "Appetizers",
+    "stars": 2,
+    "energy": 712,
+    "price": 286,
+    "ingredients": [
+        "Mushroom",
+        "Butter"
+    ]
+}

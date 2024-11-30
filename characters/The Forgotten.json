@@ -1,0 +1,10 @@
+{
+    "name": "The Forgotten",
+    "origin": "Dreamlight Valley",
+    "house": "Dark Castle",
+    "description": "The Forgotten is a character original to Disney Dreamlight Valley, is the main antagonist of Act 1 of the game's story, and is responsible for the Forgetting that has darkened the Valley and erased the Villager's memories.",
+    "rewards": [],
+    "quests": [
+        "theforgotten.friendship"
+    ]
+}

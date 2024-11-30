@@ -1,0 +1,91 @@
+{
+    "name": "fairygodmother.friendship",
+    "quests": [
+        {
+            "name": "Fire Alarm",
+            "id": "fairygodmother.friendship.1",
+            "objectives": [
+                "Listen to the Fairy Godmother and Merlin.",
+                "Talk to the Fairy Godmother.",
+                "Gather materials for the Icy Enchantment:\r\n  \u2027 3 Tourmaline.\r\n  \u2027 15 Snowball.\r\n  \u2027 5 Dream Shard.\r\n  \u2027 5 Purple Impatiens.\r\n  \u2027 1 Empty Vial.",
+                "Craft the Icy Enchantment.",
+                "Use the Icy Enchantment in your Inventory.",
+                "Use your Watering Can to remove 5 Green Fires in the Forgotten Lands.",
+                "Report back to the Fairy Godmother.",
+                "Decorate the Forgotten Lands to make them more appealing by adding:\r\n  \u2027 3 Seating.\r\n  \u2027 4 Outdoor Lighting.\r\n  \u2027 25 Paths.",
+                "Talk to the Fairy Godmother.",
+                "Follow the Fairy Godmother.",
+                "Talk to the Fairy Godmother."
+            ],
+            "rewards": [
+                "350 Friendship",
+                "Royal Watering Can upgrade (can remove Green Fires)"
+            ],
+            "friendship": 2
+        },
+        {
+            "name": "A Lost Book",
+            "id": "fairygodmother.friendship.2",
+            "objectives": [
+                "Fulfill the Villagers' Wishes:\r\n  \u2027 Cook some Pumpkin Soup for Anna.\r\n  \u2027 \u2027 Bring some Pumpkin Soup to Anna.\r\n  \u2027 Gather 100 Sticks of any type for Olaf.\r\n  \u2027 \u2027 Bring the Sticks to Olaf.\r\n  \u2027 Gather 3 Amethyst for Ursula.\r\n  \u2027 \u2027 Bring the Amethysts to Ursula.",
+                "Talk to the Fairy Godmother.",
+                "Clean up the Fairy Godmother's House to find Merlin's Book.",
+                "Talk to the Fairy Godmother.",
+                "Put Merlin's Book back on the bookshelf on the left in the Library.",
+                "Return to the Fairy Godmother."
+            ],
+            "rewards": [
+                "700 Friendship"
+            ],
+            "friendship": 4
+        },
+        {
+            "name": "Bibbidi-Bobbidi-Oops",
+            "id": "fairygodmother.friendship.3",
+            "objectives": [
+                "Prepare some Peppermint Tea for Minnie.",
+                "Make sure you have a Peppermint Tea in your Inventory.",
+                "Bring the Peppermint Tea to Minnie.",
+                "Take a picture of an object that looks out of place in Minnie's House.",
+                "Return to the Fairy Godmother.",
+                "Gather the materials:\r\n  \u2027 2 Diamond.\r\n  \u2027 3 Glass.\r\n  \u2027 5 Dream Shard.\r\n  \u2027 5 Crystal.",
+                "Ask WALL-E for a Lens.",
+                "Bring the materials to the Fairy Godmother.",
+                "Use the Enchanted Lens in your Inventory.",
+                "Take a picture of the Broken Object in Minnie's House between 4 p.m. and midnight.",
+                "Take a picture of the Transformed Objects in the Village between 4 p.m. and midnight.\r\n  \u2027 Goofy's new yellow bicycle.\r\n  \u2027 Remy's new Espresso Machine.\r\n  \u2027 Olaf's parasol.\r\n  \u2027 Mother Gothel's mirror.",
+                "Return to the Fairy Godmother."
+            ],
+            "rewards": [
+                "1760 Friendship"
+            ],
+            "friendship": 7
+        },
+        {
+            "name": "A Magical Moment",
+            "id": "fairygodmother.friendship.4",
+            "objectives": [
+                "Talk to Merlin.",
+                "Gather the following materials:\r\n  \u2027 Cook a Mint Chocolate.\r\n  \u2027 Craft a Basket.\r\n  \u2027 3 White Impatiens.",
+                "Talk to Ursula.",
+                "Craft the Care Package.",
+                "Bring the Care Package to the Fairy Godmother.",
+                "Talk to Merlin about the party.",
+                "Gather the materials:\r\n  \u2027 80 Dry Wood.\r\n  \u2027 30 Glass.\r\n  \u2027 10 Fabric.\r\n  \u2027 9 Yellow Daisy.",
+                "Craft the Fairytale Gazebo.",
+                "(Optional) Put on some Elegant Clothing.",
+                "Place the Fairytale Gazebo on the Beach.",
+                "Celebrate the Fairy Godmother with the Villagers.",
+                "Talk to the Fairy Godmother.",
+                "Follow the Fairy Godmother to the Forgotten Lands.",
+                "Talk to the Fairy Godmother.",
+                "Follow the Fairy Godmother to the RIGHT location.",
+                "Return to the Fairy Godmother."
+            ],
+            "rewards": [
+                "1760 Friendship"
+            ],
+            "friendship": 10
+        }
+    ]
+}

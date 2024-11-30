@@ -1,0 +1,14 @@
+{
+    "name": "Cucumber",
+    "description": "Cucumber is a highly refreshing vegetable thanks to its water content, it has a low content of lipids, carbohydrates and proteins. The great vitamin C and B9 content is the most outstanding characteristic, along with its laxative properties and its capacity to relieve kidney disorders.",
+    "icon": "\ud83e\udd52",
+    "type": "Vegetables",
+    "biome": "Frosted Heights",
+    "grow": "1h 15min",
+    "water": 1,
+    "yield": 1,
+    "seed": 40,
+    "sell": 159,
+    "profit": 119,
+    "coins": "1.59"
+}

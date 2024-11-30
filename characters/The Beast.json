@@ -1,0 +1,23 @@
+{
+    "name": "The Beast",
+    "origin": "Beauty and the Beast",
+    "house": "Beast's Castle",
+    "description": "The Beast is a character from the Disney film Beauty and the Beast (1991).",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "The Beast's Floral Pillar",
+        "Beast's Claw Motif",
+        "StarCoins 500",
+        "The Beast's Horns",
+        "Beast's Teeth Motif",
+        "StarCoins 1000",
+        "The Beast's Enchanted Rose",
+        "Beast's Pendant Motif",
+        "The Beast's Royal Blue Brocade Suit"
+    ],
+    "quests": [
+        "thebeast.friendship",
+        "thebeast.realm"
+    ]
+}
