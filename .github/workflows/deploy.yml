@@ -21,6 +21,7 @@ jobs:
 
     - name: push to Github Pages
       run: |
+        git worktree add build
         git --work-tree build add --all
         git commit -m "Automatic Deploy action"
         git push origin HEAD:gh-pages --force
