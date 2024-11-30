@@ -1,79 +1,115 @@
 <!DOCTYPE html>
-<meta charset='utf-8'>
-<script>
-    var $ = function (el) {
-        return document.querySelector(el)
-    }
+<html>
 
-    function generate() {
-        document.title = 'DDLV Data Maker - ' + $('input[name=name]').value + ' (' + $('input[name=id]').value + ')'
-        var rewards = $('textarea[name=rewards]').value.split('\n').map(function (m) {
-            return m.trim()
-        }).filter(function (m) {
-            return m.length > 0
-        })
-
-        var tempDict = {
-            "name": $('input[name=name]').value,
-            "id": $('input[name=id]').value,
-            "objectives": $('textarea[name=objectives]')
-                .value
-                .replaceAll("\n- ", '$NL$  ‧ ')
-                .replaceAll(/\. \(\d+\)/gi, '')
-                .split('\n')
-                .map(function (m) {
-                    return m.replaceAll("$NL$", "\r\n")
-                }
-                ),
-            "rewards": rewards,
-            "dlc": $('input[name=dlc]').checked,
-            "friendship": parseInt($('input[name=fl]').value)
+<head>
+    <meta charset='utf-8'>
+    <link rel="stylesheet" href="https://wesleydegroot.nl/assets/styles/style.css">
+    <script>
+        var $ = function (el) {
+            return document.querySelector(el)
         }
 
-        $('.generated').value = JSON.stringify(tempDict, null, 4);
+        function generate() {
+            document.title = 'DDLV Data Maker - ' + $('input[name=name]').value + ' (' + $('input[name=id]').value + ')'
+            var rewards = $('textarea[name=rewards]').value.split('\n').map(function (m) {
+                return m.trim()
+            }).filter(function (m) {
+                return m.length > 0
+            })
 
-        // if generated contains .png make the background red
-        if ($('.generated').value.includes('.png')) {
-            $('.generated').style.backgroundColor = 'red'
-        } else {
-            $('.generated').style.backgroundColor = 'white'
+            var tempDict = {
+                "name": $('input[name=name]').value,
+                "id": $('input[name=id]').value,
+                "objectives": $('textarea[name=objectives]')
+                    .value
+                    .replaceAll("\n- ", '$NL$  ‧ ')
+                    .replaceAll(/\. \(\d+\)/gi, '')
+                    .split('\n')
+                    .map(function (m) {
+                        return m.replaceAll("$NL$", "\r\n")
+                    }
+                    ),
+                "rewards": rewards,
+                "dlc": $('input[name=dlc]').checked,
+                "friendship": parseInt($('input[name=fl]').value)
+            }
+
+            $('.generated').value = JSON.stringify(tempDict, null, 4);
+
+            // if generated contains png make the background red
+            if ($('.generated').value.includes('.png')) {
+                $('.generated').style.backgroundColor = 'red'
+            } else {
+                $('.generated').style.backgroundColor = 'white'
+            }
         }
-    }
 
-    window.setInterval(generate, 1000);
-</script>
-<table>
-    <tr>
-        <td>
-            <table>
-                <tr>
-                    <td>Name:</td>
-                    <td><input type='text' name='name'></td>
-                </tr>
-                <tr>
-                    <td>ID:</td>
-                    <td><input type='text' name='id'></td>
-                </tr>
-                <tr>
-                    <td>Objectives:</td>
-                    <td><textarea name='objectives' rows='10' cols='50'></textarea></td>
-                </tr>
-                <tr>
-                    <td>Rewards:</td>
-                    <td><textarea name='rewards' rows='4' cols='50'></textarea></td>
-                </tr>
-                <tr>
-                    <td>DLC:</td>
-                    <td><input type='checkbox' name='dlc'></td>
-                </tr>
-                <tr>
-                    <td>FL:</td>
-                    <td><input type='text' name='fl' value='0'></td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <textarea onclick='this.select()' class='generated' rows='30' cols='50' readonly></textarea>
-        </td>
-    </tr>
-</table>
+        window.setInterval(generate, 1000);
+    </script>
+    <style>
+        input[type=text] {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <article>
+            <div>
+                <h1>
+                    <a href='https://apps.apple.com/us/app/dreamlight-valley-guide/id6446436161'>DV Guide</a> Data Maker
+                </h1>
+                <h3>
+                    Create quest data for Dreamlight Valley Guide.
+                </h3>
+                <table>
+                    <tr>
+                        <td>
+                            <table>
+                                <tr>
+                                    <td>Quest Name:</td>
+                                    <td><input type='text' name='name' placeholder="Quest name"></td>
+                                </tr>
+                                <tr>
+                                    <td>Quest Identifier:</td>
+                                    <td><input type='text' name='id' placeholder="character.friendship.1"></td>
+                                </tr>
+                                <tr>
+                                    <td>Objectives:</td>
+                                    <td><textarea name='objectives' rows='10' cols='50'>objective 1
+objective 2
+- With sub task 1
+- With sub task 2</textarea></td>
+                                </tr>
+                                <tr>
+                                    <td>Rewards:</td>
+                                    <td><textarea name='rewards' rows='4' cols='50'>Reward 1
+Reward 2</textarea></td>
+                                </tr>
+                                <tr>
+                                    <td>DLC:</td>
+                                    <td><input type='checkbox' name='dlc'></td>
+                                </tr>
+                                <tr>
+                                    <td>Friendship Level (0-10):</td>
+                                    <td><input type='text' name='fl' value='0'></td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td>
+                            <textarea onclick='this.select()' class='generated' rows='30' cols='50' readonly></textarea>
+                        </td>
+                    </tr>
+                </table>
+
+                <hr />
+                Data: <u><a href='data.json' download>data.json</a></u> | Pretty Printed <u><a
+                        href='data_pp.json'>data_pp.json</a></u>
+            </div>
+        </article>
+    </main>
+</body>
+
+</html>
