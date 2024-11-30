@@ -1,0 +1,26 @@
+name: Deploy Updated Data
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Run & Deploy
+      run: |
+        php merge_data.php
+
+    - name: setup github env
+      run: |
+        git config --global user.name "${GITHUB_ACTOR}"
+        git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+
+    - name: push to Github Pages
+      run: |
+        git --work-tree build add --all
+        git commit -m "Automatic Deploy action"
+        git push origin HEAD:gh-pages --force
