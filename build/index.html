@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<meta charset='utf-8'>
+<script>
+    var $ = function (el) {
+        return document.querySelector(el)
+    }
+
+    function generate() {
+        document.title = 'DDLV Data Maker - ' + $('input[name=name]').value + ' (' + $('input[name=id]').value + ')'
+        var rewards = $('textarea[name=rewards]').value.split('\n').map(function (m) {
+            return m.trim()
+        }).filter(function (m) {
+            return m.length > 0
+        })
+
+        var tempDict = {
+            "name": $('input[name=name]').value,
+            "id": $('input[name=id]').value,
+            "objectives": $('textarea[name=objectives]')
+                .value
+                .replaceAll("\n- ", '$NL$  ‧ ')
+                .replaceAll(/\. \(\d+\)/gi, '')
+                .split('\n')
+                .map(function (m) {
+                    return m.replaceAll("$NL$", "\r\n")
+                }
+                ),
+            "rewards": rewards,
+            "dlc": $('input[name=dlc]').checked,
+            "friendship": parseInt($('input[name=fl]').value)
+        }
+
+        $('.generated').value = JSON.stringify(tempDict, null, 4);
+
+        // if generated contains .png make the background red
+        if ($('.generated').value.includes('.png')) {
+            $('.generated').style.backgroundColor = 'red'
+        } else {
+            $('.generated').style.backgroundColor = 'white'
+        }
+    }
+
+    window.setInterval(generate, 1000);
+</script>
+<table>
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <td>Name:</td>
+                    <td><input type='text' name='name'></td>
+                </tr>
+                <tr>
+                    <td>ID:</td>
+                    <td><input type='text' name='id'></td>
+                </tr>
+                <tr>
+                    <td>Objectives:</td>
+                    <td><textarea name='objectives' rows='10' cols='50'></textarea></td>
+                </tr>
+                <tr>
+                    <td>Rewards:</td>
+                    <td><textarea name='rewards' rows='4' cols='50'></textarea></td>
+                </tr>
+                <tr>
+                    <td>DLC:</td>
+                    <td><input type='checkbox' name='dlc'></td>
+                </tr>
+                <tr>
+                    <td>FL:</td>
+                    <td><input type='text' name='fl' value='0'></td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <textarea onclick='this.select()' class='generated' rows='30' cols='50' readonly></textarea>
+        </td>
+    </tr>
+</table>
