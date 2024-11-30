@@ -10,9 +10,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Setup work-tree
-      run: |
-        git worktree add --track -B gh-pages build;
+    # - name: Setup work-tree
+    #   run: |
+        # git worktree add --track -B gh-pages build;
 
     - name: Run & Deploy
       run: |
