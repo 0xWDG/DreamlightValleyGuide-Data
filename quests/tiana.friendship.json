@@ -1,0 +1,154 @@
+{
+    "name": "tiana.friendship",
+    "quests": [
+        {
+            "name": "Back from the Bayou",
+            "id": "tiana.friendship.1",
+            "objectives": [
+                "Place Tiana's Palace in the Valley.",
+                "Meet Tiana inside Tiana's Palace.",
+                "Talk to Tiana about being back in her restaurant.",
+                "Gather materials for Tiana's Meal Stall:\r\n  \u2027 15 Glass.\r\n  \u2027 5 Brick.\r\n  \u2027 10 Hardwood.\r\n  \u2027 25 Softwood.",
+                "Craft Tiana's Meal Stall.",
+                "Place Tiana's Meal Stall in the Valley near her Palace.",
+                "Purchase the first meal from Tiana's Meal Stall.",
+                "Check back with Tiana about her Stall.",
+                "Invite Villagers to the Grand Opening of Tiana's Meal Stall.\r\n  \u2027 Mother Gothel.\r\n  \u2027 Moana.\r\n  \u2027 (Optional) Listen to Tiana and Remy discuss their respective menus",
+                "Head back into Tiana's Palace to check in on Tiana's progress.",
+                "Talk to Tiana.",
+                "Gather the materials to craft the Bistro Tables and Chairs:\r\n  \u2027 30 Softwood.\r\n  \u2027 24 Hardwood.\r\n  \u2027 18 Fiber.\r\n  \u2027 9 Green Rising Penstemon.",
+                "Craft the Outdoor Furnishings for Tiana.\r\n  \u2027 3 Bistro Table.\r\n  \u2027 6 Bistro Chair.",
+                "Decorate Tiana's \"Terrace\" area outside her restaurant.\r\n  \u2027 3 Bistro Table.\r\n  \u2027 6 Bistro Chair.\r\n  \u2027 2 Elegant Decorations.",
+                "Head back inside Tiana's Palace.",
+                "Talk to Tiana.",
+                "Place the Inauguration Ribbon near Tiana's Meal Stall to kick off the Grand Opening.",
+                "Gather and appreciate the Grand Opening of Tiana's Meal Stall.",
+                "Check in with everyone to see if they like Tiana's Meal Stall.\r\n  \u2027 Remy.\r\n  \u2027 Moana.\r\n  \u2027 Mother Gothel.",
+                "Talk to Tiana about her Grand Opening."
+            ],
+            "rewards": [
+                "440 Friendship",
+                "Unlock Tiana's Palace",
+                "Unlock Tiana's Meal Stall"
+            ],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "Little Louis's Big Break",
+            "id": "tiana.friendship.2",
+            "objectives": [
+                "Follow Tiana into the Glade of Trust.",
+                "Talk to Tiana about Little Louis.",
+                "Head inside the Giant Willow Tree to ask Mother Gothel about Little Louis.",
+                "Little Louis is caged?! Ask Mother Gothel why.",
+                "Gather materials for Mother Gothel's new garden.\r\n  \u2027 10 Okra Seed.\r\n  \u2027 10 Rice Seed.\r\n  \u2027 10 Spinach Seed.\r\n  \u2027 48 White Picket Fence.",
+                "Rebuild Mother Gothel's Garden in the Glade of Trust.\r\n  \u2027 Replant the garden seeds.\r\n  \u2027  \u2027 10 Spinach Seed.\r\n  \u2027  \u2027 10 Rice Seed.\r\n  \u2027  \u2027 10 Okra Seed.\r\n  \u2027Protect the seedlings with a new fence (17).",
+                "See if Mother Gothel likes her new garden enough to free Little Louis.",
+                "Open the cage in Mother Gothel's House to free Little Louis.",
+                "Little Louis ran for it! Talk to Tiana about the newly freed croc.",
+                "Gather materials for Little Louis's new House.\r\n  \u2027 15 Hardwood.\r\n  \u2027 5 Blue Marsh Milkweed.\r\n  \u2027 1 Orange & Red Marsh Milkweed.\r\n  \u2027 10 Clay.\r\n  \u2027 1 Okra Seed.",
+                "Craft a Bayou Companion Home.",
+                "Place the Bayou Companion Home in the Glade of Trust.",
+                "Ask if Tiana is satisfied with Little Louis's new home."
+            ],
+            "rewards": [
+                "880 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 4
+        },
+        {
+            "name": "Dreamlight Gastronomy",
+            "id": "tiana.friendship.3",
+            "objectives": [
+                "Try to recruit Villagers to participate in Tiana's culinary contest.\r\n  \u2027 Woody.\r\n  \u2027 Anna.\r\n  \u2027 Kristoff.\r\n  \u2027 Mike Wazowski.\r\n  \u2027 Mulan.",
+                "Go inside Remy's House.",
+                "Talk to Tiana.",
+                "Use your Royal Tools to prepare the various Ingredients.",
+                "Chop and gather 4 Potatoes and Corn.",
+                "Wash and collect the 4 Herbs.",
+                "Catch Seafood for the Boil.\r\n  \u2027 2 Crab.\r\n  \u2027 2 Shrimp.\r\n  \u2027 2 Lobster.",
+                "Return to Remy's House.",
+                "Make sure you have Tiana's Seafood Boil Ingredients in your Inventory.\r\n  \u2027 4 Sliced Potatoes and Corn.\r\n  \u2027 4 Clean Bundle of Fresh Herbs.\r\n  \u2027 2 Crab.\r\n  \u2027 2 Shrimp.\r\n  \u2027 2 Lobster.",
+                "Bring the Seafood Boil Ingredients to Tiana.",
+                "Consume the Seafood Boil from your Inventory.",
+                "Talk with Tiana.",
+                "Gather materials to craft a Sandwich Board Menu.\r\n  \u2027 15 Stone.\r\n  \u2027 20 Hardwood.\r\n  \u2027 5 Egg.\r\n  \u2027 10 Wheat.",
+                "Craft a Sandwich Board.",
+                "Return to Remy's House.",
+                "Make sure you have the Sandwich Board in your Inventory.",
+                "Bring the Sandwich Board to Tiana.",
+                "Take a picture of everyone with their meals.",
+                "Pick up the meals from the table and have a taste of everyone's meal.\r\n  \u2027 Mike's Okra Soup\r\n  \u2027 Anna's Fish Creole\r\n  \u2027 Kristoff's Beignets",
+                "Listen to Remy and Tiana react to the contestants' meals.",
+                "Talk to each contestant to give them feedback on their culinary experiment.\r\n  \u2027  Anna.\r\n  \u2027  Kristoff.\r\n  \u2027  Mike Wazowski.",
+                "Talk to Tiana about the contestants' meals.",
+                "Talk to Tiana about the contest."
+            ],
+            "spoilers": [
+                {
+                    "title": "ANNA PATH",
+                    "objective": "\u2027 Talk to Anna about her winning Fish Creole.\r\n\u2027 Place Anna's Victory Sandwich Board outside of Tiana's Palace.\r\n\u2027 Head near Tiana's Palace to listen to her congratulate Anna."
+                },
+                {
+                    "title": "KRISTOFF PATH",
+                    "objective": "\u2027 Talk to Kristoff about his winning Beignets.\r\n\u2027 Place Kristoff's Victory Sandwich Board near Tiana's Palace.\r\n\u2027 Head near Tiana's Palace to listen to her congratulate Kristoff."
+                },
+                {
+                    "title": "MIKE WAZOSKI PATH",
+                    "objective": "\u2027 Talk to Mike Wazowski about his winning Okra Soup.\r\n\u2027 Place Mike's Victory Sandwich Board outside of Tiana's Palace.\r\n\u2027 Head near Tiana's Palace to listen to her congratulate Mike."
+                }
+            ],
+            "rewards": [
+                "2200 Friendship",
+                "If Anna is chosen as the winner -  Anna's Victory Sandwich Board",
+                "If Kristoff is chosen as the winner -  Kristoff's Victory Sandwich Board",
+                "If Mike Wazowski is chosen as the winner -  Mike's Victory Sandwich Board",
+                "Unlock Blank Sandwich Board Recipe"
+            ],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "Villagers on Parade",
+            "id": "tiana.friendship.4",
+            "objectives": [
+                "Ask Daisy about a Parade Float Mask.",
+                "Gather Materials for the New Orleans Parade Arch:\r\n  \u2027 10 Gold Ingot.\r\n  \u2027 15 Yellow Daisy.\r\n  \u2027 15 Purple Marsh Milkweed.\r\n  \u2027 15 Green Passion Lily.",
+                "Craft a Parade Festival Arch.",
+                "Return to Tiana with the New Orleans Parade Arch.",
+                "Follow Tiana to the New Orleans Parade starting location.",
+                "Check in with Tiana.",
+                "Get ready for the New Orleans Parade! Put on:\r\n  \u2027 1 Parade Festival Mask.\r\n  \u2027 3 Quirky or Bold clothes.",
+                "Place the New Orleans Parade Arch near Skull Rock.",
+                "Follow Tiana as she leads the New Orleans Parade.",
+                "Quick! — collect the 5 Parade Throws!",
+                "Follow Tiana as she leads the Parade through the Plaza.",
+                "Collect the 10 Parade Throws in the Plaza.",
+                "Follow Tiana as she leads the Parade through the Peaceful Meadow.",
+                "Collect the 15 throws in the Peaceful Meadow.",
+                "Follow Tiana back to where the parade started.",
+                "Make sure you have 15 Parade Throws in your Inventory.",
+                "Bring the Parade Throws to Tiana.",
+                "Place the Banquet Table on Skull Rock Island.",
+                "Have fun!",
+                "See how Tiana found the New Orleans parade event."
+            ],
+            "rewards": [
+                "3080 Friendship",
+                "Green Flapper Dress",
+                "Green Flapper Dress with Boa",
+                "Antique Lace-Up Boots",
+                "Green Pearled Heels",
+                "Vintage Trousers",
+                "Green Vintage Waistcoat",
+                "Frog Plushy",
+                "Layered Pearls",
+                "Parade Festival Mask"
+            ],
+            "dlc": false,
+            "friendship": 10
+        }
+    ]
+}

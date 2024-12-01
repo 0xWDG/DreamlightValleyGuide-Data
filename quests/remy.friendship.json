@@ -124,6 +124,33 @@
             ],
             "dlc": false,
             "friendship": 0
+        },
+        {
+            "name": "A Taste for Literature",
+            "id": "remy.friendship.6",
+            "objectives": [
+                "Head over to Chez Remy to consult about the mysterious cookbook.",
+                "Consult with Remy about the mysterious cookbook.",
+                "A Memory appeared in the restaurant! What could it depict?",
+                "Talk to Remy about what you saw in the Memory.",
+                "Talk to the Villagers from the Memory.",
+                "Gather the rest of the Ingredients for the Cajun recipe.\r\n  \u2027 Shrimp.\r\n  \u2027 Onion.\r\n  \u2027 Rice.\r\n  \u2027 Milk.",
+                "Cook the mysterious Cajun recipe.",
+                "Share the Enchanted Shrimp Étouffée with the Villagers.\r\n  \u2027 Moana.\r\n  \u2027 Mickey Mouse.\r\n  \u2027 Merlin.\r\n  \u2027 Remy.",
+                "Unlock Tiana.",
+                "Make sure you have some Enchanted Shrimp Étouffée left to share with Tiana.",
+                "Bring some of the Enchanted Shrimp Étouffée to Tiana for a taste.",
+                "Place Tiana's House in the Valley.",
+                "Interact with the Scrooge McDuck Sign to Rebuild Tiana's House.",
+                "Make sure you have the Mysterious Cajun Recipe Book in your Inventory.",
+                "Bring the Mysterious Cajun Recipe Book to Tiana for safekeeping."
+            ],
+            "rewards": [
+                "500 Friendship",
+                "Unlock Tiana"
+            ],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }
