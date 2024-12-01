@@ -1,0 +1,11 @@
+{
+    "name": "The Lorekeeper",
+    "origin": "Dreamlight Valley",
+    "house": "The Library of Lore",
+    "description": "The Lorekeeper is a character original to Disney Dreamlight Valley, and is the Player's guide through The Storybook Vale expansion pass, helping them to defeat the Neverafter",
+    "rewards": [],
+    "quests": [
+        "hades.story",
+        "hades.friendship"
+    ]
+}

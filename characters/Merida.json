@@ -1,0 +1,23 @@
+{
+    "name": "Merida",
+    "origin": "Brave",
+    "house": "Merida's House",
+    "description": "Merida is a character from the Disney-Pixar film Brave (2012). She is encountered in the first biome in The Storybook Vale, The Bind.",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Merida's Fireplace",
+        "Brave Knot Motif",
+        "StarCoins 500",
+        "Merida's Curls",
+        "Brave Plaid Motif",
+        "StarCoins 1000",
+        "Callanish Standing Stones",
+        "Brave Arrow Motif",
+        "Tartan Celebration Outfit"
+    ],
+    "quests": [
+        "merida.story",
+        "merida.friendship"
+    ]
+}

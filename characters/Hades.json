@@ -1,0 +1,23 @@
+{
+    "name": "Hades",
+    "origin": "Hercules",
+    "house": "Hades' Lair",
+    "description": "Hades is a character from the Disney film Hercules (1997). He is encountered during the Story quest Guts & Glory in one of the Mythopia Trials.",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Underworld Torch Stand",
+        "Hercules Square Pattern Motif",
+        "StarCoins 500",
+        "Underworld Sandals",
+        "Hercules Wave Pattern Motif",
+        "StarCoins 1000",
+        "Underworld Throne",
+        "Hercules Thunder Bolt Motif",
+        "Armor of the Styx"
+    ],
+    "quests": [
+        "hades.story",
+        "hades.friendship"
+    ]
+}
