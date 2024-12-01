@@ -1,0 +1,23 @@
+{
+    "name": "Timon",
+    "origin": "The Lion King",
+    "house": "Pride Rock",
+    "description": "Timon is a character from the Disney film The Lion King (1994). He is unlocked after opening The Lion King Realm, and completing the quest Where's Pumbaa?.",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Jungle Gladiator Sandals",
+        "Timon Portrait Motif",
+        "StarCoins 500",
+        "Artisan Jungle Chair",
+        "Jungle Bug Motif",
+        "StarCoins 1000",
+        "Artisan Firefly Lamppost",
+        "Jungle Leaves Motif",
+        "Jungle Couture Gown"
+    ],
+    "quests": [
+        "timon.friendship",
+        "timon.story"
+    ]
+}

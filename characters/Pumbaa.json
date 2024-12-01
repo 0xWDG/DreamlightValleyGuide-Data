@@ -1,0 +1,23 @@
+{
+    "name": "Pumbaa",
+    "origin": "The Lion King",
+    "house": "Pride Rock",
+    "description": "Pumbaa is a character from the Disney film The Lion King (1994). He is unlocked after opening The Lion King Realm, and completing the quest Where's Pumbaa?.",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Jungle Butterfly Fountain",
+        "Pumbaa Portrait Motif",
+        "StarCoins 500",
+        "Bejeweled Insect Necklace",
+        "Pumbaa Walking Pattern Motif",
+        "StarCoins 1000",
+        "Cozy Tree Bed",
+        "Jungle Bug Swarm Motif",
+        "Jungle Couture Ensemble"
+    ],
+    "quests": [
+        "pumbaa.friendship",
+        "pumbaa.story"
+    ]
+}
