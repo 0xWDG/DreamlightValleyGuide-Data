@@ -40,20 +40,14 @@
 
             // if generated contains png make the background red
             if ($('.generated').value.includes('.png')) {
-                $('.generated').style.backgroundColor = 'red'
+                $('.generated').style.border = '1px solid red'
             } else {
-                $('.generated').style.backgroundColor = 'white'
+                $('.generated').style.border = '1px solid green'
             }
         }
 
         window.setInterval(generate, 1000);
     </script>
-    <style>
-        input[type=text] {
-            width: 100%;
-            height: 100%;
-        }
-    </style>
 </head>
 
 <body>
