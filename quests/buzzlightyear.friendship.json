@@ -144,6 +144,20 @@
                 "4 Alien Toys"
             ],
             "friendship": 10
+        },
+        {
+            "name": "Training Games: The Space Ranger",
+            "id": "buzzlightyear.friendship.training.1",
+            "objectives": [
+                "Talk to Buzz Lightyear.",
+                "Dig somewhere sunny (Sunlit Plateau) with trees and bones for Buzz's Flag.",
+                "Bring Buzz's Flag to Buzz."
+            ],
+            "rewards": [
+                "1000 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }

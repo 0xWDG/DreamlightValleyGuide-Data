@@ -84,6 +84,20 @@
                 "Nala's Waterfall"
             ],
             "friendship": 10
+        },
+        {
+            "name": "Training Games: The Lioness",
+            "id": "nala.friendship.5",
+            "objectives": [
+                "Talk to Nala.",
+                "Find Nala's Flag by fishing somewhere that smells like salt, fish, and sand. (Dazzle Beach)",
+                "Bring the Nala's Flag to Nala."
+            ],
+            "rewards": [
+                "1000 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }

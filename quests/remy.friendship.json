@@ -105,6 +105,25 @@
                 "Banana Split"
             ],
             "friendship": 0
+        },
+        {
+            "name": "Wrought Iron",
+            "id": "remy.friendship.5",
+            "objectives": [
+                "Investigate the strange Menu in your Inventory.",
+                "Talk to Remy.",
+                "Bring Villagers some free samples to show them Chez Remy Mobile is open for business:\r\n  \u2027 Bring something made with Slush Ice to Elsa.\r\n  \u2027 Get something made with Slush Ice for Elsa.\r\n  \u2027 Bring a Dessert to Belle.\r\n  \u2027 Get a Dessert for Belle.\r\n  \u2027 Bring a meal made with fish to Nala.\r\n  \u2027 Get a meal made with fish for Nala.\r\n  \u2027 Bring a 5-Star Meal to Ariel.\r\n  \u2027 Get a 5-Star Meal for Ariel.",
+                "Return to Remy.",
+                "Craft any of the following using Wrought Iron:\r\n  \u2027 (Complete daily deliveries for Remy if you need more Wrought Iron!)\r\n  \u2027 Parisian Chair.\r\n  \u2027 Parisian Table.\r\n  \u2027 Ornate Parisian Chair.\r\n  \u2027 Ornate Parisian Table.",
+                "Decorate around Chez Remy in Dreamlight Valley with any of the following:\r\n  \u2027 Parisian Chair.\r\n  \u2027 Parisian Table.\r\n  \u2027 Ornate Parisian Chair.\r\n  \u2027 Ornate Parisian Table.",
+                "Return to Remy."
+            ],
+            "rewards": [
+                "1000 Friendship",
+                "3 Wrought Iron"
+            ],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }
