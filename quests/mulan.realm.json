@@ -6,9 +6,9 @@
             "id": "mulan.realm.1",
             "objectives": [
                 "Complete Mulan's training exercises:",
-                "(Fishing for Precision) Fish to exercise your precision and patience.\r\n  ‧ Catch 10 Salmon in Mulan's Realm\r\n  ‧ Return to Mulan.\r\n  ‧ Put the Fish in the cauldron.",
-                "(Brick Breaking) Break bricks to develop your strength.\r\n  ‧ Break 8 Training Bricks.",
-                "(Orienteering) Go orienteering to challenge your endurance.\r\n  ‧ Talk to Mulan to start the Orienteering challenge.\r\n  ‧ Follow Mulan.\r\n  ‧ Open the door to the Training Maze.\r\n  ‧ Equip the Training Weights.\r\n  ‧ Talk to Mulan.\r\n  ‧ Search the Maze for the 8 Pebbles.\r\n  ‧ Bring the Pebbles to Mulan.",
+                "(Fishing for Precision) Fish to exercise your precision and patience.\r\n  \u2027 Catch 10 Salmon in Mulan's Realm\r\n  \u2027 Return to Mulan.\r\n  \u2027 Put the Fish in the cauldron.",
+                "(Brick Breaking) Break bricks to develop your strength.\r\n  \u2027 Break 8 Training Bricks.",
+                "(Orienteering) Go orienteering to challenge your endurance.\r\n  \u2027 Talk to Mulan to start the Orienteering challenge.\r\n  \u2027 Follow Mulan.\r\n  \u2027 Open the door to the Training Maze.\r\n  \u2027 Equip the Training Weights.\r\n  \u2027 Talk to Mulan.\r\n  \u2027 Search the Maze for the 8 Pebbles.\r\n  \u2027 Bring the Pebbles to Mulan.",
                 "Return to Mulan."
             ],
             "rewards": [],
@@ -31,11 +31,11 @@
             "name": "Protecting the Camp",
             "id": "mulan.realm.3",
             "objectives": [
-                "Gather and fish out:\r\n  ‧ The 10 Broken Logs.",
-                "Remove:\r\n  ‧ The 8 Sand Piles.\r\n  ‧ The 7 Rocks.",
-                "Return to Mulan.\r\n  ‧ Water the 10 Tree Seeds.\r\n  ‧ Plant 10 Mulan's Tree Seeds in the patches of soil.",
+                "Gather and fish out:\r\n  \u2027 The 10 Broken Logs.",
+                "Remove:\r\n  \u2027 The 8 Sand Piles.\r\n  \u2027 The 7 Rocks.",
+                "Return to Mulan.\r\n  \u2027 Water the 10 Tree Seeds.\r\n  \u2027 Plant 10 Mulan's Tree Seeds in the patches of soil.",
                 "Talk to Mulan.",
-                "Gather Materials:\r\n  ‧ 40 Brown Sand.\r\n  ‧ 15 Fiber.\r\n  ‧ Craft 20 Sandbags.",
+                "Gather Materials:\r\n  \u2027 40 Brown Sand.\r\n  \u2027 15 Fiber.\r\n  \u2027 Craft 20 Sandbags.",
                 "Make sure you have the Sandbags in your Inventory.",
                 "Bring the Sandbags to Mulan.",
                 "Follow Mulan to the tents.",

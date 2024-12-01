@@ -1,0 +1,197 @@
+{
+    "name": "mushu.friendship",
+    "quests": [
+        {
+            "name": "A Reminder in Stone",
+            "id": "mushu.friendship.1",
+            "objectives": [
+                "Go back to the Mulan Realm.",
+                "Chase and catch three Lucky Bugs:\r\n  \u2027 In the Southern Field.\r\n  \u2027 In the Training Camp.\r\n  \u2027 In the Eastern Forest.",
+                "Make sure you have the 3 Lucky Bugs in your Inventory.",
+                "Bring the Lucky Bugs to Mushu.",
+                "Equip the Incense Lantern.",
+                "Scout different Biomes with your Incense Lantern.\r\n  \u2027 The Plaza.\r\n  \u2027 The Peaceful Meadow.\r\n  \u2027 Dazzle Beach.",
+                "Talk to Mushu.",
+                "Collect materials to construct the Great Stone Dragon Statue.\r\n  \u2027 25 Softwood.\r\n  \u2027 40 Stones.",
+                "Craft the Great Stone Dragon Statue.",
+                "Place the Great Stone Dragon Statue in the Valley.",
+                "Talk to Mushu.",
+                "Find extra decorations for the statue.\r\n  \u2027 10 Red Flowers.\r\n  \u2027 5 Garnets.\r\n  \u2027 5 Aquamarines.\r\n  \u2027 5 Topaz.",
+                "Make sure you have Red Flowers, Garnets, Aquamarines, and Topazes in your Inventory.\r\n  \u2027 10 Red Flowers.\r\n  \u2027 5 Garnets.\r\n  \u2027 5 Aquamarines.\r\n  \u2027 5 Topazes.",
+                "Give the decorations to Mushu.",
+                "Place a Garnet on the Great Stone Dragon Statue.",
+                "Talk to Mushu.",
+                "Break the 3 gold and black Flint Rocks on Dazzle Beach with your Pickaxe.",
+                "Gather 3 Flint for Mushu.",
+                "Give the Flint to Mushu.",
+                "Light the two torches:\r\n  \u2027 Left torch.\r\n  \u2027 Right torch.",
+                "Talk with Mushu about the completed statue."
+            ],
+            "rewards": [
+                "440 Friendship",
+                "Incense Lantern",
+                "Great Stone Dragon Statue"
+            ],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "The M.U.S.H.U. Program",
+            "id": "mushu.friendship.2",
+            "objectives": [
+                "Talk to The Beast about the M.U.S.H.U. program.",
+                "Check back with Mushu.",
+                "Collect materials from Villagers for Mushu:\r\n  \u2027 Quality Ink from Belle.\r\n  \u2027 Specialty Paper from Mulan.",
+                "Make sure you have Quality Ink and Specialty Paper in your Inventory.\r\n  \u2027 Specialty Paper.\r\n  \u2027 Quality Ink.",
+                "Bring both ink and paper to Mushu.",
+                "Open your Ink Blot Test from your Inventory.",
+                "Talk with Mushu about your Ink Blot Test.",
+                "Place the Beast's Test near his Castle.",
+                "Listen to Mushu and the Beast discuss the Ink Blot Test.",
+                "Talk to Mushu about the Beast's reaction to the test.",
+                "Place the 4 Old Furniture near the Beast's Castle.",
+                "Talk with The Beast.",
+                "Destroy 2 Old Furniture near the Beast's House with him.",
+                "Talk to The Beast.",
+                "Check back with Mushu.",
+                "Gather Mushu's supplies from the Villagers:\r\n  \u2027 Something from Daisy.\r\n  \u2027 Something from Stitch.\r\n  \u2027 The Beast's old clothes from the Beauty and the Beast Realm.",
+                "Craft a Beastly Mannequin.",
+                "Place the Beastly Mannequin near the Beast's House.",
+                "Observe Mushu's role play conversation with the Beast.",
+                "Talk with Mushu.",
+                "Read the Wonton Soup Recipe in your Inventory.",
+                "Gather Wonton Soup Ingredients.\r\n  \u2027 2 Eggs.\r\n  \u2027 2 Shrimp.\r\n  \u2027 2 Wheat.\r\n  \u2027 2 Onion.",
+                "Cook 2 Wonton Soups.",
+                "Make sure you have the Wonton Soups in your Inventory.\r\n  \u2027 Bring a Wonton Soup to the Beast.\r\n  \u2027 Bring the other Wonton Soup to Mushu.",
+                "Review the M.U.S.H.U. program with Mushu."
+            ],
+            "rewards": [
+                "880 Friendship",
+                "Beastly Mannequin",
+                "2 The Beast's Test"
+            ],
+            "dlc": false,
+            "friendship": 4
+        },
+        {
+            "name": "The Guardian Party",
+            "id": "mushu.friendship.3",
+            "objectives": [
+                "Meet Mushu in the Vitalys Mines.",
+                "Talk with Mushu.",
+                "Deliver invitations for Mushu's celebration to his guests.\r\n  \u2027 The Beast.\r\n  \u2027 Mulan.\r\n  \u2027 Simba.\r\n  \u2027 Mirabel.",
+                "Report back to Mushu about his guests.",
+                "Gather materials for the Modular Dragon Decorations.\r\n  \u2027 28 Bricks\r\n  \u2027 35 Hardwood\r\n  \u2027 7 Rubies\r\n  \u2027 2 Gold Ingots",
+                "Craft two complete Modular Dragon Decorations.\r\n  \u2027 2 Modular Dragon Head\r\n  \u2027 3 Modular Dragon Body\r\n  \u2027 2 Modular Dragon Tail",
+                "Decorate the Village with complete Modular Dragon Decorations.\r\n  \u2027 2 Modular Dragon Head\r\n  \u2027 2 Modular Dragon Body\r\n  \u2027 2 Modular Dragon Tail",
+                "Return to the Vitalys Mines.",
+                "Speak with Mushu.",
+                "Ring the gong to start Mushu's celebration.",
+                "(Optional) Dress in red and gold for the celebration.",
+                "Talk to Mushu about celebration activities.",
+                "Complete celebration activities.\r\n  \u2027 The Red Pouch Hunt\r\n  \u2027 Cooking Sesame Balls.\r\n  \u2027 Mushu's Piñata Extravaganza.",
+                "Recap the party with Mushu.",
+                "Take a picture of Mushu at the celebration.",
+                "Talk with Mushu about his party."
+            ],
+            "rewards": [
+                "2200 Friendship",
+                "2 Modular Dragon Head",
+                "3 Modular Dragon Body",
+                "2 Modular Dragon Tail"
+            ],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "The Tiny Villagers Society",
+            "id": "mushu.friendship.4",
+            "objectives": [
+                "Ask the tiny Villagers about Scar's behavior:\r\n  \u2027 Buzz.\r\n  \u2027 Woody.\r\n  \u2027 Stitch.\r\n  \u2027 Remy.",
+                "Report back to Mushu.",
+                "Gather materials for a set of Tiny Chairs.\r\n  \u2027 25 Softwood.\r\n  \u2027 5 Iron Ingots.\r\n  \u2027 5 Fabric.",
+                "Craft 5 Tiny Chairs.",
+                "Make sure you have 5 Tiny Chairs in your Inventory.",
+                "Bring the Tiny Chairs to Mushu.",
+                "Talk to Remy about a tiny meal for the meeting.",
+                "Plant the Miniature Leek Seeds.",
+                "Water the Miniature Leeks and harvest them when they're ready.",
+                "Gather the remaining Ingredients for the Miniature Leek Soup.\r\n  \u2027 3 Onion.\r\n  \u2027 3 Mushroom.\r\n  \u2027 3 Butter.\r\n  \u2027 3 Miniature Leeks.",
+                "Cook 3 Miniature Leek Soups.",
+                "Make sure you have the 3 Miniature Leek Soups in your Inventory.",
+                "Bring Mushu the Miniature Leek Soups.",
+                "Meet Mushu in his House for the first meeting of The Tiny Villagers Society.",
+                "Listen to the first meeting of The Tiny Villagers Society in Mushu's House.",
+                "Talk to Mushu about the next step.",
+                "Return to the Mulan Realm.",
+                "Find a Hand Fan in the Training Camp in the Realm.",
+                "Report back to Mushu.",
+                "Meet Mushu inside Scar's House.",
+                "Make sure you have the Hand Fan in your Inventory.",
+                "Give the Hand Fan to Mushu.",
+                "Talk to Scar and find a way to lure him to his House.",
+                "Meet Scar inside his House for a discussion with Mushu.",
+                "Watch Mushu confront Scar.",
+                "Check in with Mushu.",
+                "Meet Mushu in his House for another gathering of The Tiny Villagers Society.",
+                "Listen to the Tiny Villagers Society's second meeting.",
+                "Talk with Mushu.",
+                "Decorate outdoors with the Tiny Party Set.",
+                "Celebrate with the tiny Villagers.",
+                "Check in with Mushu about the future of The Tiny Villagers Society."
+            ],
+            "rewards": [
+                "3080 Friendship",
+                "Guardian Track Jacket",
+                "Mushu Patch Motif",
+                "4 Tiny Chair (4)"
+            ],
+            "dlc": false,
+            "friendship": 10
+        },
+        {
+            "name": "The Red Pouch Hunt",
+            "id": "mushu.friendship.5",
+            "objectives": [
+                "Find 5 Red Pouches in the Vitalys Mines.",
+                "(Optional) Open your remaining Red Pouches.",
+                "Return to the main celebration area in the Vitalys Mines."
+            ],
+            "rewards": [
+                "500 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "Cooking Sesame Balls",
+            "id": "mushu.friendship.6",
+            "objectives": [
+                "Read the Sesame Ball recipe in your Inventory.",
+                "Gather the Ingredients for the Sesame Balls in the Valley outside the Vitalys Mines.\r\n  \u2027 Wheat.\r\n  \u2027 Ginger.\r\n  \u2027 Rice.\r\n  \u2027 Seaweed.\r\n  \u2027 Soya.",
+                "Cook some Sesame Balls.",
+                "Make sure you have Sesame Balls in your Inventory for Mushu.",
+                "Give Mushu a plate of Sesame Balls."
+            ],
+            "rewards": [
+                "500 Friendship",
+                "Sesame Balls"
+            ],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "Mushu's Piñata Extravaganza",
+            "id": "mushu.friendship.7",
+            "objectives": [
+                "Find and break open 3 Mushu's piñatas in the Vitalys Mines with your Pickaxe.",
+                "Collect the 10 candy from the piñatas!"
+            ],
+            "rewards": [
+                "500 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 0
+        }
+    ]
+}

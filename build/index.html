@@ -23,11 +23,12 @@
                 "id": $('input[name=id]').value,
                 "objectives": $('textarea[name=objectives]')
                     .value
-                    .replaceAll("\n- ", '$NL$  ‧ ')
+                    .replaceAll("\n- ", '$NL$  \u2027 ')
                     .replaceAll(/\. \(\d+\)/gi, '')
                     .split('\n')
                     .map(function (m) {
-                        return m.replaceAll("$NL$", "\r\n")
+                        return m
+                            .replaceAll("$NL$", "\r\n")
                     }
                     ),
                 "rewards": rewards,
@@ -35,7 +36,7 @@
                 "friendship": parseInt($('input[name=fl]').value)
             }
 
-            $('.generated').value = JSON.stringify(tempDict, null, 4);
+            $('.generated').value = JSON.stringify(tempDict, null, 4).replaceAll("\u2027", "\\u2027");
 
             // if generated contains png make the background red
             if ($('.generated').value.includes('.png')) {
