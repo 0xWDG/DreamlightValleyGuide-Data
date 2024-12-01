@@ -1,0 +1,159 @@
+{
+    "name": "jafar.friendship",
+    "quests": [
+        {
+            "name": "The Optics of a Second Chance",
+            "id": "jafar.friendship.1",
+            "objectives": [
+                "Find Jafar's tools in the Cave of Wonders.\r\n  \u2027 1 Polished Mirror.\r\n  \u2027 2 Photonic Lever.",
+                "Search in EVE's House for:\r\n  \u2027 3 Power Cables.",
+                "Make sure you have all of Jafar's tools:\r\n  \u2027 1 Polished Mirror.\r\n  \u2027 2 Photonic Lever.\r\n  \u2027 3 Power Cables.",
+                "Bring Jafar's tools back to him.",
+                "Find Gems on Eternity Isle:\r\n  \u2027 Jade.\r\n  \u2027 Spinel.\r\n  \u2027 Bumblestone.\r\n  \u2027 Alexandrite.\r\n  \u2027 Evergem.",
+                "Craft the Dimensional Prism.",
+                "Meet Jafar at his Laboratory in the Palace.",
+                "Talk to Jafar in his Laboratory.",
+                "Install everything for the experiment:\r\n  \u2027 Plug in the cables from the Power Coil to the Door.",
+                "Open the Experiment Chamber using the door lever.",
+                "Place the Dimensional Prism on the Pedestal.",
+                "Enter the Experiment Chamber and install the Geometrically Impaired Objects in the Experiment Slots.",
+                "Proceed with Jafar's optics experiment:\r\n  \u2027 Close the door.",
+                "Proceed with Jafar's optics experiment:\r\n  \u2027 Activate the power lever near the Mirror.",
+                "Open the door to the Experiment Chamber and gather the repaired items:\r\n  \u2027 Geometrically Stabilized Cactus.\r\n  \u2027 Geometrically Stabilized Statue.\r\n  \u2027 Geometrically Stabilized Tree.",
+                "Show the repaired items to Jafar.",
+                "Decorate with the stabilized objects in their proper Biomes:\r\n  \u2027 Geometrically Stabilized Cactus.\r\n  \u2027 Geometrically Stabilized Statue.\r\n  \u2027 Geometrically Stabilized Tree.",
+                "Check back with Jafar about the anomaly."
+            ],
+            "rewards": [
+                "440 Friendship",
+                "Prism & Pedestal"
+            ],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "The Alchemical Revolution",
+            "id": "jafar.friendship.2",
+            "objectives": [
+                "Find Iron Ore to bring to EVE",
+                "Bring Iron Ore to EVE.",
+                "Meet Jafar in his laboratory.",
+                "Return to Jafar's Laboratory.",
+                "Talk to Jafar about the next Alchemical step.",
+                "Perform your first alchemical experiment:\r\n  \u2027 Turn Iron Dust into Gold by mixing it at the Alchemy Table.",
+                "Make sure you have the Alchemical Gold in your Inventory.",
+                "Give the Alchemical Gold to Jafar.",
+                "Approach other alchemically minded Villagers.\r\n  \u2027 Ursula.\r\n  \u2027 Jack Skellington.\r\n  \u2027 The Fairy Godmother.",
+                "Gather the unique Alchemical Ingredients:\r\n  \u2027 Fish an Ancient Sand-Polished Stone from quicksand in The Borderlands.\r\n  \u2027 Grow a Mini Holiday Tree using Jack Skellington's Holiday Seeds.\r\n  \u2027 Catch the Book flying around Ancient's Landing.",
+                "Make sure you have all the unique Alchemical Ingredients in your Inventory:\r\n  \u2027 Ancient Sand-Polished Stone.\r\n  \u2027 Mini Holiday Tree.\r\n  \u2027 Book of Fairy Magic.",
+                "Return to Jafar's Laboratory in the Palace.",
+                "Make sure you have in your Inventory:\r\n  \u2027 Ancient Sand-Polished Stone.\r\n  \u2027 Mini Holiday Tree.\r\n  \u2027 Book of Fairy Magic.",
+                "Give the Alchemical Ingredients to Jafar.",
+                "Mix Minor Essences to brew the Major Essences for the Gilded Stone (Use any combination of 3 Minor Essences from the resource table).\r\n  \u2027 Essence of Will.\r\n  \u2027 Essence of Wonder.\r\n  \u2027 Essence of Wishes.",
+                "Make sure you have the 3 Major Essences:\r\n  \u2027 Major Essence of Will.\r\n  \u2027 Major Essence of Wonder.\r\n  \u2027 Major Essence of Wishes.",
+                "Bring the 3 Major Essences to Jafar.",
+                "Return to the Alchemy Table in Jafar's Laboratory.",
+                "Try to create the Gilded Stone using your 3 Major Essences.",
+                "Make sure you have the Mysterious Stone in your Inventory.",
+                "Your experimentation produced something strange! Show the Mysterious Stone to Jafar.",
+                "Seek the Emotive Essences by:\r\n  \u2027 5 Gifting favorite items to Villagers.\r\n  \u2027 5 Performing Dreamlight Duties.",
+                "Look around the center Wishing Well on Eternity Isle for:\r\n  \u2027 Essence of Wisdom.\r\n  \u2027 Essence of Benevolence.",
+                "Show the Emotive Essences to Jafar."
+            ],
+            "rewards": [
+                "880 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 4
+        },
+        {
+            "name": "The Serpent's Gift",
+            "id": "jafar.friendship.3",
+            "objectives": [
+                "Decorate with Jafar's Imagination Generators in:\r\n  \u2027 Lagoon.\r\n  \u2027 Borderlands.\r\n  \u2027 Docks.\r\n  \u2027 Near Oswald's House.",
+                "Wait 10 minutes for Jafar's machines to start working.",
+                "Talk to Oswald to see if Jafar's machines cheered him up.",
+                "Cook up a Poutine for Oswald.",
+                "Bring the Poutine to Oswald to fill him up.",
+                "Oswald is still feeling odd. Check up on other Villagers.\r\n  \u2027 Gaston.\r\n  \u2027 Scrooge McDuck.\r\n  \u2027 Rapunzel.",
+                "Everyone is acting strangely — maybe check in with EVE.",
+                "Investigate the three Villagers' homes for whatever Jafar planted.\r\n  \u2027 Rapunzel's Tower.\r\n  \u2027 Gaston's Lodge.\r\n  \u2027 Scrooge McDuck's Store.",
+                "Make sure everyone is feeling normal once more:\r\n  \u2027 Listen to Rapunzel and Scrooge McDuck just outside Scrooge's Store.",
+                "Make sure everyone is feeling normal once more:\r\n  \u2027 Check in with Gaston.",
+                "Investigate the Ancient Ruins.\r\n  \u2027 Search for Jafar's secret machine.",
+                "Confront Jafar about his sinister plot.",
+                "Find the 3 power sources to Jafar's Machines and short-circuit them with your Royal Watering Can.",
+                "Break 3 Jafar's Machines using your Pickaxe while Jafar is distracted.",
+                "Check in with Oswald.",
+                "Confront Jafar."
+            ],
+            "rewards": [
+                "1320 Friendship",
+                "Imagination Generator",
+                "Poutine Recipe"
+            ],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "The Trial of Eternity",
+            "id": "jafar.friendship.4",
+            "objectives": [
+                "Prepare for the Trial with the Villagers:\r\n  \u2027 Rapunzel.\r\n  \u2027 Gaston.\r\n  \u2027 Oswald.\r\n  \u2027 Remy.\r\n  \u2027 EVE.\r\n  \u2027 Scrooge McDuck.",
+                "Gather the resources needed to craft the Trial furnishings:\r\n  \u2027 20 Tropical Wood.\r\n  \u2027 10 Brass Ingots.\r\n  \u2027 10 Plastic Scraps.\r\n  \u2027 6 Bamboo.\r\n  \u2027 2 Fiber.",
+                "Craft the trial furnishings:",
+                "-2 Attorney Stands.\r\n  \u2027 2 Bamboo Benches.",
+                "Head to the Ancient Ruins to oversee the progress on the courtroom.",
+                "Make sure you have:\r\n  \u2027 2 Attorney Stands.\r\n  \u2027 2 Benches.",
+                "Bring the Trial furniture to Gaston.",
+                "Check in with Oswald about his hunt for a Dreamlight Judge.",
+                "Dress up like a fancy Judge using:\r\n  \u2027 The Commodore's Powdered Wig.\r\n  \u2027 Some Elegant Clothing.",
+                "(Optional: Order the Commodore's Powdered Wig from Scrooge McDuck's Store).",
+                "Return to the Ancient Ruins to begin the Trial.",
+                "Begin the Trial:\r\n  \u2027 Go near the Judge's Chair in the Ancient Ruins.\r\n  \u2027 Let Scrooge and Jafar debate.",
+                "Talk to Gaston to hear his testimony.",
+                "Listen to the debate in the courtroom.",
+                "Let Oswald come to the Witness Stand next.\r\n  \u2027 Stay near the Judge's Chair in the Ancient Ruins.",
+                "Let Oswald come to the Witness Stand next.\r\n  \u2027 Talk to Oswald and hear his testimony.",
+                "Use the Royal Hourglass to track down good memories of Jafar in:\r\n  \u2027 The Borderlands.\r\n  \u2027 The Lagoon.\r\n  \u2027 The Overlook.",
+                "Return to your Judge's chair in the courtroom in the Ancient Ruins.",
+                "Give your final judgement to Jafar."
+            ],
+            "rewards": [
+                "1760 Friendship",
+                "Jeweled Vizier Top",
+                "Jeweled Vizier Trousers"
+            ],
+            "dlc": false,
+            "friendship": 10
+        },
+        {
+            "name": "Making Amends",
+            "id": "jafar.friendship.5",
+            "objectives": [
+                "Wait 1 hour for Jafar to reflect on his sentence.",
+                "Talk to Jafar about his community service.",
+                "Guide Jafar to goodness by cooking some tasty meals:\r\n  \u2027 Falafel.\r\n  \u2027 Makrout.\r\n  \u2027 Shish Taouk.",
+                "Make sure you have Jafar's favorite meals in your Inventory.\r\n  \u2027 Falafel.\r\n  \u2027 Makrout.\r\n  \u2027 Shish Taouk.",
+                "Bring the meals to Jafar.",
+                "Make sure you are hanging out with Jafar and feed each type of animal on Eternity Isle.\r\n  \u2027 A Monkey.\r\n  \u2027 A Cobra.\r\n  \u2027 A Capybara.",
+                "See how Jafar liked feeding the animals.",
+                "Get impressions from Eternity Isle Villagers about the newly \"reformed\" Jafar:\r\n  \u2027 EVE.\r\n  \u2027 Gaston.\r\n  \u2027 Rapunzel.\r\n  \u2027 Oswald.",
+                "Ask Merlin about his impression of Jafar.",
+                "Decorate to Jafar's tastes near the Palace in the Borderlands or Promenade:\r\n  \u2027 Red.\r\n  \u2027 Black.\r\n  \u2027 Bold.\r\n  \u2027 Traditional.\r\n  \u2027 Elegant.",
+                "Place the Homage to Iago when you are ready.",
+                "Take a picture of everyone at the celebration.",
+                "See how Jafar liked the celebration."
+            ],
+            "rewards": [
+                "1000 Friendship",
+                "Iago Statue",
+                "Falafel Recipe",
+                "Makrout Recipe",
+                "Shish Taouk Recipe"
+            ],
+            "dlc": false,
+            "friendship": 10
+        }
+    ]
+}
