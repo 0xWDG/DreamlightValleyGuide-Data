@@ -163,6 +163,28 @@
             ],
             "dlc": 1,
             "friendship": 0
+        },
+        {
+            "name": "Use Your Imagination: Gaston",
+            "id": "gaston.story.rift.5",
+            "objectives": [
+                "Follow Gaston to the Time Rift in his camp.",
+                "Talk to Oswald.",
+                "Return to Gaston.",
+                "Follow Gaston to the place where he first got shipwrecked on Eternity Isle.",
+                "Talk to Gaston.",
+                "Follow Gaston to higher ground.",
+                "Talk to Gaston.",
+                "Gather the following materials for Gaston:\r\n  \u2027 20 Softwood.\r\n  \u2027 8 Glass.",
+                "Bring the materials for the Ship in a Bottle to Gaston.",
+                "Follow Gaston to the rift in his camp.",
+                "Talk to Gaston."
+            ],
+            "rewards": [
+                "500 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }

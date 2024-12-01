@@ -357,6 +357,25 @@
             ],
             "dlc": 1,
             "friendship": 0
+        },
+        {
+            "name": "Mysterious Mickey",
+            "id": "rapunzel.story.rift.5",
+            "objectives": [
+                "Some pretty weird things are happening around Eternity Isle...\r\n  \u2027 Talk to Merlin on Eternity Isle.",
+                "Talk to Mickey.",
+                "Return to Merlin.",
+                "Follow Merlin to the secret entrance in the Promenade on Eternity Isle.",
+                "Talk to Oswald.",
+                "Talk to the following Villagers about the rifts around Eternity Isle:\r\n  \u2027 Rapunzel.\r\n  \u2027 Gaston.\r\n  \u2027 EVE.\r\n  \u2027 Mickey Mouse.",
+                "Close the rifts around Eternity Isle by completing the following \"Use Your Imagination\" quests:\r\n  \u2027 Rapunzel.\r\n  \u2027 Gaston.\r\n  \u2027 EVE.\r\n  \u2027 Mickey.",
+                "Return to Merlin.",
+                "Follow Merlin to the secret entrance in the Promenade on Eternity Isle.",
+                "Talk to Merlin."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }

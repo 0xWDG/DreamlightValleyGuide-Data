@@ -169,6 +169,68 @@
             ],
             "dlc": 1,
             "friendship": 0
+        },
+        {
+            "name": "The Now and Then",
+            "id": "merlin.story.rift.1",
+            "objectives": [
+                "Explore the mysterious Black and White Island.",
+                "Is that... Mickey? How did he get here?\r\n  \u2027 Talk to Mickey.",
+                "Search the island for the \"funny lookin' projector\" Mickey saw.",
+                "Bring the Film Projector to Mickey.",
+                "Search the black and white island for things you can use to build something",
+                "Bring everything to Mickey.",
+                "Confront Jafar in the palace throne room.",
+                "Talk to Mickey.",
+                "Pick up Jafar's Lamp.",
+                "Grab the Spark of Imagination.",
+                "Talk to Merlin inside Jafar's Palace.",
+                "Meet Merlin outside Jafar's Palace on Eternity Isle."
+            ],
+            "rewards": [
+                "Mickey's Steamboat",
+                "Steamboat Mickey Dream Style",
+                "Jafar's Lamp"
+            ],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Jafar's Laboratory",
+            "id": "merlin.story.rift.2",
+            "objectives": [
+                "Explore the palace to try to find the key.",
+                "Explore Jafar's Laboratory.",
+                "Look around for a clue about what to feed the bird.",
+                "Try to figure out what the bird wants to eat by mixing Ingredients at the Cooking Station.",
+                "Bring the meal to the bird.",
+                "Search for where the \"shiny thing\" belongs.",
+                "Align the light beam to open the door.",
+                "Pick up the key in the chamber.",
+                "Use the key to unlock the gate to the throne room."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "The Palace of Time",
+            "id": "merlin.story.rift.3",
+            "objectives": [
+                "Enter the palace through the trap door hidden in the Promenade.",
+                "Find a way to get across the chasm.",
+                "Find a way to get through the door.",
+                "Explore further in the passage.",
+                "Find a way to deactivate the door.",
+                "Get through the door.",
+                "Confront Jafar in the throne room.",
+                "Explore the palace to find the key that unlocks the gate.",
+                "Get inside the throne room.",
+                "There's no way to get to Jafar!\r\n  \u2027 Step inside the mysterious Time Rift in the palace."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }

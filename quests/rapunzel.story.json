@@ -89,6 +89,26 @@
             ],
             "dlc": 1,
             "friendship": 0
+        },
+        {
+            "name": "Use Your Imagination: Rapunzel",
+            "id": "rapunzel.story.rift.1",
+            "objectives": [
+                "Follow Rapunzel to the rift in time near the Sundial Island.",
+                "Gather the following materials:\r\n  \u2027 25 Tropical Wood.\r\n  \u2027 10 Bamboo.\r\n  \u2027 3 Rope.",
+                "Craft a Floating Lantern.",
+                "Make sure you have the Floating Lantern in your Inventory.",
+                "Bring the Floating Lantern to Rapunzel.",
+                "Ask the following Villagers about their deepest wishes:\r\n  \u2027 Mickey.\r\n  \u2027 Gaston.\r\n  \u2027 Oswald.\r\n  \u2027 EVE.",
+                "Return to Rapunzel.",
+                "Follow Rapunzel to the Time Rift near the Sundial Island.",
+                "Talk to Rapunzel."
+            ],
+            "rewards": [
+                "500 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }

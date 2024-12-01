@@ -80,6 +80,28 @@
                 "200 Mist"
             ],
             "friendship": 0
+        },
+        {
+            "name": "Use Your Imagination: Mickey",
+            "id": "mickey.story.rift.1",
+            "objectives": [
+                "Follow Mickey to the rift on the Secluded Beach.",
+                "Gather the following materials for the roaster:\r\n  \u2027 8 Brass Ingots.\r\n  \u2027 8 Bronze Ingots.",
+                "Craft the Hot Dog Cart.",
+                "Make sure the Hot Dog Cart is in your Inventory.",
+                "Bring the Hot Dog Cart to Mickey.",
+                "Gather the Ingredients for the Hot Dogs:\r\n  \u2027 2 Venison.\r\n  \u2027 2 Poultry.\r\n  \u2027 2 Pork.\r\n  \u2027 2 Wheat.\r\n  \u2027 2 Toon Sauce.",
+                "Cook the 2 Hot Dogs.",
+                "Make sure you have the 2 Hot Dog in your Inventory.",
+                "Bring the Hot Dogs to Mickey.",
+                "Follow Mickey back to the rift on the Secluded Beach.",
+                "Talk to Mickey."
+            ],
+            "rewards": [
+                "500 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }
