@@ -88,6 +88,22 @@
                 "Maui's #1 Fan"
             ],
             "friendship": 10
+        },
+        {
+            "name": "Training Games: The Shapeshifter",
+            "id": "maui.friendship.5",
+            "objectives": [
+                "Talk to Maui.",
+                "Gather the items from Maui's clue:\r\n  \u2027 Maui's Frozen Flag.\r\n  \u2027 Mint.\r\n  \u2027 Ginger.\r\n  \u2027 2 Carrot.",
+                "Find a way to combine the Mini Flag with the gathered Ingredients.",
+                "Make sure you have Maui's Flag in your Inventory.",
+                "Bring Maui's Flag to Maui."
+            ],
+            "rewards": [
+                "1000 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }
