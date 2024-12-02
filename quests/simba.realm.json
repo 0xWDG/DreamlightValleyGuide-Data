@@ -32,6 +32,43 @@
             "rewards": [
                 "Unlock Simba"
             ]
+        },
+        {
+            "name": "Finding Old Friends",
+            "id": "simba.realm.2",
+            "objectives": [
+                "Visit The Lion King Realm.",
+                "Find Timon in The Lion King Realm.",
+                "In The Lion King Realm, gather:\r\n  \u2027 4Jungle Stones.\r\n  \u2027 4 Jungle Wood.\r\n  \u2027 4 Red Jungle Leaves.",
+                "Make sure you have the jungle materials in your Inventory.\r\n  \u2027 4 Jungle Stones.\r\n  \u2027 4 Jungle Wood.",
+                "Give the jungle building materials to Timon.",
+                "Craft your own mane in The Lion King Realm using Red Jungle Leaves.",
+                "Dress up in your Red Jungle Mane.",
+                "Speak with Timon.",
+                "Follow Timon and Pumbaa into the jungle.",
+                "Listen to Timon and Pumbaa.",
+                "Speak with Timon in the jungle camp.",
+                "Craft an Empty Vial.",
+                "Search for a crown poking out of the water in The Lion King Realm and fish it out.",
+                "Make sure you have the Forgotten Crown and the Empty Vial in your Inventory.\r\n  \u2027 Lost Crown\r\n  \u2027 Empty Vial",
+                "Bring the Forgotten Crown and the Empty Vial to Timon.",
+                "Break the Lost Crown with your Royal Pickaxe.",
+                "Talk to Timon.",
+                "Follow Timon to the jungle river.",
+                "Speak with Timon.",
+                "Put the Bottle of Worries in the The Lion King Realm's river.",
+                "Go back to Timon and Pumbaa's jungle camp.",
+                "Talk with Timon.",
+                "Prepare some leafy beds with your Shovel:\r\n  \u2027 Timon's bed.\r\n  \u2027 Pumbaa's bed.\r\n  \u2027 Your bed.",
+                "Say goodnight to Timon and Pumbaa.",
+                "Lie down on your leafy bed in The Lion King Realm.",
+                "Listen to Timon and Pumbaa talk."
+            ],
+            "rewards": [
+                "Red Leafy Mane"
+            ],
+            "dlc": false,
+            "friendship": 10
         }
     ]
 }
