@@ -1,0 +1,132 @@
+{
+    "name": "pumbaa.friendship",
+    "quests": [
+        {
+            "name": "Something's Off",
+            "id": "pumbaa.friendship.1",
+            "objectives": [
+                "Ask the following Villagers why they left Chez Remy when Pumbaa entered:\r\n  \u2027 Daisy.\r\n  \u2027 Elsa.",
+                "Ask Remy about Pumbaa's restaurant orders.",
+                "Cook the following meals for Pumbaa:\r\n  \u2027 Roasted Asparagus.\r\n  \u2027 Onion Puffs.\r\n  \u2027 Minnie's Gingerbread Cookies.",
+                "Bring the test meals to Pumbaa.",
+                "Gather materials for Pumbaa's mud bath:\r\n  \u2027 8 Soil.\r\n  \u2027 10 Sand.\r\n  \u2027 12 Dry Wood.\r\n  \u2027 15 Stone.",
+                "Craft a Luxury Mud Bath.",
+                "Place Pumbaa's Mud Bath anywhere in the Valley.",
+                "Tell Pumbaa it's mud bath time.",
+                "Ask Sulley for toothpaste.",
+                "Ask The Beast for a toothbrush.",
+                "Ask Minnie Mouse for a breath freshener.",
+                "Search the Beast's and Sulley's Houses for:\r\n  \u2027 Spare Toothbrush.\r\n  \u2027 Praying Mint-is Toothpaste.\r\n  \u2027 Gather 3 Mint in the Frosted Heights.",
+                "Bring everything to Pumbaa.",
+                "Meet Pumbaa inside Chez Remy.",
+                "Listen to Pumbaa and Timon.",
+                "Check in with Pumbaa."
+            ],
+            "rewards": [
+                "440 Friendship",
+                "Luxury Mud Bath"
+            ],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "Fine Arts for Warthogs",
+            "id": "pumbaa.friendship.2",
+            "objectives": [
+                "Get advice from Rapunzel/Minnie Mouse on hosting a pottery class.",
+                "Gather the following materials:\r\n  \u2027 2 Tinkering Parts.\r\n  \u2027 5 White Marsh Milkweed.\r\n  \u2027 7 Red Bell Flower.\r\n  \u2027 8 Clay.\r\n  \u2027 8 Hardwood.",
+                "Craft 4 Pottery Wheels for Pumbaa's pottery class.",
+                "Make sure you have the 4 Pottery Wheel in your Inventory.",
+                "Bring the Pottery Wheels to Pumbaa.",
+                "Invite the following Villagers to Pumbaa's pottery party:\r\n  \u2027 Timon.\r\n  \u2027 Simba.\r\n  \u2027 Nala.",
+                "Go inside Pride Rock to start Pumbaa's pottery class.",
+                "Talk to Pumbaa to begin the class.",
+                "Help Pumbaa's friends with their pottery projects:\r\n  \u2027 Timon.\r\n  \u2027 Simba.\r\n  \u2027 Nala.",
+                "Check back with Pumbaa about his pottery project.",
+                "Talk to Scrooge McDuck about displays for Pumbaa's pottery show.",
+                "Gather items to trade with Scrooge McDuck:\r\n  \u2027 1 Orange & Red Marsh Milkweed.\r\n  \u2027 3 White Bell Flower.\r\n  \u2027 3 White & Red Hydrangea.\r\n  \u2027 3 Citrine.\r\n  \u2027 4 Emerald.",
+                "Trade the flowers and gemstones with Scrooge McDuck.",
+                "Talk to Pumbaa about setting up the art show.",
+                "Decorate for Pumbaa's pottery show using:\r\n  \u2027 Pumbaa's Pottery.\r\n  \u2027 Timon's Pottery.\r\n  \u2027 Simba's Pottery.\r\n  \u2027 Nala's Pottery.\r\n  \u2027 4 Display Pillar.",
+                "Follow Pumbaa to the art show display.",
+                "Talk to Pumbaa about his first art show."
+            ],
+            "rewards": [
+                "Friendship (880)",
+                "4 Display Pillar",
+                "4 Pottery Wheel",
+                "Nala's Pottery",
+                "Pumbaa's Pottery",
+                "Simba's Pottery",
+                "Timon's Pottery",
+                "Unlock Display Pillar crafting recipe"
+            ],
+            "dlc": false,
+            "friendship": 4
+        },
+        {
+            "name": "Down to Earth",
+            "id": "pumbaa.friendship.3",
+            "objectives": [
+                "Gather materials for the Meteor Shower Pamphlets:\r\n  \u2027 5 Pink Houseleek.\r\n  \u2027 8 Red Bromeliad.\r\n  \u2027 10 Dry Wood.",
+                "Craft 4 Meteor Shower Pamphlet.",
+                "Give Meteor Shower Pamphlets to Astronomy Club members:\r\n  \u2027 WALL-E.\r\n  \u2027 Prince Eric.\r\n  \u2027 Buzz Lightyear.\r\n  \u2027 Tiana.",
+                "Regroup with Pumbaa about the meteor shower.",
+                "Place the Merlin's Spare Telescope anywhere in the Valley.",
+                "(Optional) wait for nightfall (6 p.m - 6 a.m.) before placing the telescope.",
+                "Interact with the telescope.",
+                "A Memory appeared! Pick it up.",
+                "Talk to Pumbaa about the Memory.",
+                "Go to the location from the Memory and search for a Meteorite Fragment.",
+                "Another Memory appeared! Pick it up.",
+                "Go to the location from the Memory and search for another Meteorite Fragment.",
+                "A Memory appeared! Pick it up.",
+                "Go to the location from the Memory and search for the last Meteorite Fragment.",
+                "Talk to Pumbaa about the meteorite pieces.",
+                "Collect the following materials to fix the meteorite:\r\n  \u2027 3 Meteorite Fragment.\r\n  \u2027 3 Gold Ingot.\r\n  \u2027 12 Glass.",
+                "Craft a Meteorite in Glass.",
+                "Decorate for the meteorite showcase with:\r\n  \u2027 The Meteorite in Glass.\r\n  \u2027 Rug.\r\n  \u2027 6 Seating.",
+                "Celebrate the meteorite with the Astronomy Club.",
+                "Listen to Pumbaa and Timon discuss the meteorite.",
+                "Talk with Pumbaa about the meteor shower."
+            ],
+            "rewards": [
+                "2200 Friendship",
+                "Meteorite in Glass"
+            ],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "The Infestation Part 2",
+            "id": "pumbaa.friendship.4",
+            "objectives": [
+                "Talk to Pumbaa.",
+                "Clear the Meadow, the Glade of Trust, and Dazzle Beach from:\r\n  \u2027 6 Night Mite Nests.\r\n  \u2027 12 Mega Night Mites.",
+                "Get an update from Pumbaa on the infestation.",
+                "Regroup with Timon.",
+                "Go inside Prince Eric's Castle.",
+                "Clear Prince Eric's Castle of 3 Night Mites.",
+                "Double Check Prince Eric's Castle for remaining Night Mites.",
+                "Clear Prince Eric's Castle of the remaining 3 Night Mites.",
+                "Talk to Pumbaa about the next steps to rid the Valley of Night Mites.",
+                "Clear Villager homes of Night Mites:\r\n  \u2027 Mike and Sulley's Apartment.\r\n  \u2027 Daisy's House.\r\n  \u2027 WALL-E's Truck.",
+                "Get the \"all clear\" on Villager Houses from Pumbaa.",
+                "Talk to Timon for a Night Mite update.",
+                "Go inside Jack Skellington's House.",
+                "Ask Jack Skellington if he's seen Night Mites.",
+                "Search Jack Skellington House's for Night Mites.",
+                "Clear Jack Skellington's House of:\r\n  \u2027 Night Mite Covered Nest.\r\n  \u2027 3 Night Mites.",
+                "Check in with Pumbaa for an infestation update.",
+                "Progress further with Timon in The Infestation Part 3.",
+                "Recap the infestation adventure with Pumbaa."
+            ],
+            "rewards": [
+                "3080 Friendship",
+                "Jungle Couture Ensemble"
+            ],
+            "dlc": false,
+            "friendship": 10
+        }
+    ]
+}

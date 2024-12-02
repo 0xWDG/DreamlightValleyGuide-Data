@@ -1,0 +1,177 @@
+{
+    "name": "timon.friendship",
+    "quests": [
+        {
+            "name": "Old Enemies",
+            "id": "timon.friendship.1",
+            "objectives": [
+                "Turn Pride Rock into a jungle oasis.\r\n  \u2027 10 Base.\r\n  \u2027 3 Wide Jungle Plant.\r\n  \u2027 3 Short Jungle Plant.\r\n  \u2027 3 Small Palm Tree.",
+                "Talk to Timon.",
+                "Give Timon 15 minutes to settle into Dreamlight Valley.",
+                "Check in on Timon and see how he is doing.",
+                "Timon and Vanellope put some sort of trap in Scar's Cave...\r\n  \u2027 Talk to Scar.\r\n  \u2027 Talk to Vanellope.\r\n  \u2027 Find a way to remove the trap using your Royal Tools.",
+                "Return to Timon.",
+                "Talk to Pumbaa.",
+                "Gather the materials for the Board Game:\r\n  \u2027 12 Softwood.\r\n  \u2027 3 Glass.\r\n  \u2027 1 Gold Ingot.",
+                "Gather the Ingredients for Dream Ice Cream:\r\n  \u2027 3 Dreamlight Fruit.\r\n  \u2027 3 Milk.\r\n  \u2027 3 Slush Ice.",
+                "Prepare for some relaxing fun with Timon and Pumbaa.\r\n  \u2027 3 Make some Dream Ice Cream.\r\n  \u2027 1 Craft a Board Game.",
+                "Make sure you have:\r\n  \u2027 2 Dream Ice Cream.\r\n  \u2027 1 Board Game.",
+                "Bring the Dream Ice Cream and the Board Game to Timon.",
+                "Place the Board Game anywhere in the Village.",
+                "Take a picture with Timon and Pumbaa in front of your Board Game.",
+                "Return to Timon."
+            ],
+            "rewards": [
+                "440 Friendship",
+                "50 Base",
+                "6 Small Palm Tree",
+                "6 Short Jungle Plant",
+                "6 Wide Jungle Plant",
+                "Unlock Base crafting recipe"
+            ],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "Curious About Critters",
+            "id": "timon.friendship.2",
+            "objectives": [
+                "Ask Buzz and Scrooge if they have a Recording Device.\r\n  \u2027 Talk to Buzz.\r\n  \u2027 Talk to Scrooge.",
+                "Gather components by fishing in the Forest of Valor.\r\n  \u2027 Rusted Recorder\r\n  \u2027 Soaked Batteries\r\n  \u2027 Electronic Parts",
+                "Assemble the Recording Device at a Crafting Station.",
+                "Make sure you have the Recording Device in your Inventory.",
+                "Bring the Recording Device to Timon.",
+                "Take pictures of some wild critters in the Valley for Timon's documentary:\r\n  \u2027 An urban creature.\r\n  \u2027 A colorful reptile.\r\n  \u2027 A furry omnivore.\r\n  \u2027 A dark-colored critter.\r\n  \u2027 A talking dragon.",
+                "Talk to Timon.",
+                "Take pictures inside the homes of the fiercest neighbors in the Valley:\r\n  \u2027 Pride Rock.\r\n  \u2027 Scar's Cave.\r\n  \u2027 Beast's Castle.\r\n  \u2027 The Cursed Cave on Dazzle Beach.",
+                "Return to Ursula's Beach Cave.",
+                "Are Scar and Ursula plotting something?\r\n  \u2027 Listen to Scar and Ursula's conversation.",
+                "Exit the Cave.",
+                "Scar, Ursula, and Mother Gothel are up to something...\r\n  \u2027 Talk to Timon.",
+                "Scar, Ursula, and Mother Gothel are scheming... Search for clues in:\r\n  \u2027 The Giant Willow Tree.\r\n  \u2027 Scar's Cave.\r\n  \u2027 Ursula's House.\r\n  \u2027 Show the diary entries to Timon.",
+                "Enter the Vitalys Mines.",
+                "Scar and Mother Gothel are having a secret meeting in the Mines!\r\n  \u2027 Take a picture of Scar and Mother Gothel together.\r\n  \u2027 Listen to Scar and Mother Gothel's conversation.",
+                "Talk to the Forgotten about what you've found out.",
+                "Return to Timon.",
+                "Collect 1000 Star Coins for a Giant Projector.",
+                "Bring 1000 Star Coins to Scrooge McDuck to buy a Giant Projector",
+                "Place the Giant Projector anywhere in the Valley.",
+                "Take a picture of everyone reunited around the Giant Projector.",
+                "Listen to Timon talk to Scar.",
+                "Talk to Timon."
+            ],
+            "rewards": [
+                "880 Friendship",
+                "Giant Projector Screen"
+            ],
+            "dlc": false,
+            "friendship": 4
+        },
+        {
+            "name": "The Timon Talk",
+            "id": "timon.friendship.3",
+            "objectives": [
+                "Take a picture of Timon",
+                "Gather the materials to make Timon's Billboards:\r\n  \u2027 24 Softwood.\r\n  \u2027 4 Gold Ingot.\r\n  \u2027 24 Glass.",
+                "Craft 4 Timon Billboard at a Crafting Station.",
+                "Place the Timon Billboard in:\r\n  \u2027 Peaceful Meadow.\r\n  \u2027 Dazzle Beach.\r\n  \u2027 Forest of Valor.\r\n  \u2027 Sunlit Plateau.",
+                "Talk to Simba.",
+                "Meet Timon at Pride Rock.",
+                "Talk to Timon.",
+                "Return to Pride Rock for the Timon Talk.",
+                "Listen to Timon as he gives his talk.",
+                "Talk to Timon.",
+                "Gather Ingredients:\r\n  \u2027 Unfortunate-Fish Bones in the Cursed Cave.\r\n  \u2027 Fish out Clay-Soaked Salt from the river on the Sunlit Plateau.",
+                "Gather Ingredients from the secret chamber in the Frosted Heights:\r\n  \u2027 Night Mushrooms.\r\n  \u2027 Night Thorn Nuts.",
+                "Gather the remaining Ingredients for Timon's creative meals:\r\n  \u2027 1 Chili Pepper.\r\n  \u2027 1 Milk.\r\n  \u2027 1 Cucumber.\r\n  \u2027 1 Lettuce.\r\n  \u2027 2 Tomato.",
+                "Cook Timon's creative meals for Anna and Elsa:\r\n  \u2027 Glowing Purple Salad\r\n  \u2027 Unfortunate-Fish Soup",
+                "Bring the creative meals to Anna and Elsa:\r\n  \u2027 Bring the Glowing Purple Salad to Anna.\r\n  \u2027 Make sure to have the Glowing Purple Salad in your Inventory.\r\n  \u2027 Bring the Unfortunate-Fish Soup to Elsa.\r\n  \u2027 Make sure to have the Unfortunate-Fish Soup in your Inventory.",
+                "Return to Timon.",
+                "Go to The Lion King Realm.",
+                "Catch 2 Fireflies in The Lion King Realm.",
+                "Make sure you have all (2) the Fireflies.",
+                "Bring the Fireflies to Moana.",
+                "Return to Timon.",
+                "It's time for an Uncle vs. Nephew contest!\r\n  \u2027 Talk to Donald Duck.",
+                "Examine the Treasure Map in your Inventory.",
+                "Help Donald find the treasure before Scrooge McDuck.\r\n  \u2027 (Look at the Treasure Map in the Memories section of your Collection menu for help.)",
+                "You found all of the treasure!\r\n  \u2027 Talk to Donald Duck.",
+                "Talk to Timon.",
+                "Talk to Timon's best friends:\r\n  \u2027 Simba\r\n  \u2027 Pumbaa",
+                "Return to Timon."
+            ],
+            "rewards": [
+                "1320 Friendship",
+                "4 Timon Billboard"
+            ],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "The Infestation Part 1",
+            "id": "timon.friendship.4",
+            "objectives": [
+                "Follow Timon in the Plaza.",
+                "Search and investigate a Night Mite Nest in the Plaza.",
+                "Catch 3 Night Mites around the Plaza.",
+                "The Night Mite Nest won't budge. Return to Timon.",
+                "Talk to the Forgotten about clearing the Night Mite Nest.",
+                "Gather materials for the Night Mite Wings:\r\n  \u2027 3 Gold Nugget.\r\n  \u2027 5 Fabric.\r\n  \u2027 30 Fiber.",
+                "Gather Ingredients for the Dreamlight Boost Tonic:\r\n  \u2027 3 Night Mushroom from the Frosted Heights' secret room.\r\n  \u2027 1 Ginger.\r\n  \u2027 1 Sugarcane.",
+                "Make and drink a Dreamlight Boost Tonic.\r\n  \u2027 Brew a Dreamlight Boost Tonic at a Cooking Station.\r\n  \u2027 Drink the Dreamlight Boost Tonic.",
+                "Craft the Night Mite Wings.",
+                "Make sure you have the Night Mite Wings in your Inventory.",
+                "Return to Timon.",
+                "Dress up with:\r\n  \u2027 Night Mite Wings\r\n  \u2027 Some Black Clothing.\r\n  \u2027 Some Purple Clothing.",
+                "Remove the Night Mite Nest from the Plaza.",
+                "Return to Timon."
+            ],
+            "rewards": [
+                "1760 Friendship",
+                "Night Mite Wings"
+            ],
+            "dlc": false,
+            "friendship": 9
+        },
+        {
+            "name": "The Infestation Part 3",
+            "id": "timon.friendship.5",
+            "objectives": [
+                "Check in with Timon for the next steps in battling the infestation.",
+                "Meet with Timon and Pumbaa in the Plaza.",
+                "Follow Timon towards the Dark Castle.",
+                "Talk to Timon in the Dark Plaza.",
+                "Enter the Dark Castle.",
+                "Clear the Dark Castle's Mite infestation:\r\n  \u2027 Remove every (5) Night Mite Nest you can find.\r\n  \u2027 Chase down all (10) the loose Night Mites.\r\n  \u2027 Regroup with Timon at the top of the Dark Castle.",
+                "Talk to Pumbaa upstairs in the Dark Castle.",
+                "Collect and activate the Dark Pickaxe Upgrade from the chest in the Dark Castle.",
+                "Reach the Night Mite Queen's Nest by breaking the strange rocks in the Dark Castle.",
+                "Catch the remaining 3 Night Mites.",
+                "Catch the Night Mite Queen.",
+                "Remove the Night Mite Queen's Nest.",
+                "The Dark Castle is cleared of Night Mites!\r\n  \u2027 Return to Timon.",
+                "Return to Dreamlight Valley through the portal.",
+                "Complete \"The Infestation Finale\" with Merlin.",
+                "Talk to Timon"
+            ],
+            "rewards": [
+                "2200 Friendship",
+                "Jungle Couture Gown"
+            ],
+            "dlc": false,
+            "friendship": 10
+        },
+        {
+            "name": "Drawings?",
+            "id": "timon.friendship.drawings",
+            "objectives": [
+                "Photograph 7 Simba drawings in The Lion King Realm"
+            ],
+            "rewards": [
+                "Jungle Crafting Station"
+            ],
+            "dlc": false,
+            "friendship": 0
+        }
+    ]
+}

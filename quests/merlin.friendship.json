@@ -231,6 +231,37 @@
             "rewards": [],
             "dlc": false,
             "friendship": 0
+        },
+        {
+            "name": "A Creepy Crawly Mystery",
+            "id": "merlin.friendship.creepymystery",
+            "objectives": [
+                "Make sure you have the Night Mites in your Inventory.",
+                "Bring the Night Mites to Merlin.",
+                "Recruit bug catchers to stop the Night Mites:\r\n  \u2027 Pumbaa\r\n  \u2027 Timon",
+                "Go inside Merlin's library to meet about the Night Mites.",
+                "Talk to Merlin.",
+                "Make a plan to catch the Night Mites with:\r\n  \u2027 Pumbaa\r\n  \u2027 Timon"
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "The Infestation Finale",
+            "id": "merlin.friendship.infestationfinale",
+            "objectives": [
+                "Meet Merlin in his library.",
+                "Make sure you have the 32 Night Mites in your Inventory.",
+                "Make sure you have the 14 Mega Night Mite in your Inventory.",
+                "Make sure you have the Night Mite Queen in your Inventory.",
+                "Bring the Night Mite Queen to Merlin.",
+                "Place the Neutralized Night Mite Buffet anywhere in the Valley. Enjoy the feast?",
+                "Celebrate stopping the infestation of Night Mites."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }
