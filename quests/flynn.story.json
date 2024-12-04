@@ -47,6 +47,29 @@
             ],
             "dlc": false,
             "friendship": 0
+        },
+        {
+            "name": "The Fallen Fortress",
+            "id": "flynn.story.3",
+            "objectives": [
+                "Explore the area around the Fallen Fortress.",
+                "There seems to be something important on the other side of those crumbling castle walls...\r\n  \u2027 Look for a way to lower the castle's drawbridge.",
+                "The drawbridge won't budge. You might need help on this one...\r\n  \u2027 Explore the Wild Woods to find a Villager who might be able to help you.",
+                "The drawbridge won't budge. You might need help on this one...\r\n  \u2027 Talk to Flynn about the mysterious Fortress and its drawbridge.",
+                "Examine Flynn's Drawing of Armor in your Inventory.",
+                "Gather the materials required to craft the Fairy Tale Armor:\r\n  \u2027 5 Iron Ingot.\r\n  \u2027 3 White Rose.\r\n  \u2027 2 Opal.\r\n  \u2027 2 Star Sapphire.",
+                "Craft the Fairytale Armor.",
+                "Return to Flynn.",
+                "You are making good progress on your way to becoming a knight! Complete the journey by:\r\n  \u2027 Wearing Fairytale Armor.\r\n  \u2027 Hanging out with your squire (Flynn!).\r\n  \u2027 (Optional) Tame any Baby Dragon in Everafter.",
+                "You are officially a knight! Congratulations, the Brave.\r\n  \u2027 Lower the drawbridge to the Fallen Fortress.",
+                "The drawbridge is lowered!\r\n  \u2027 Enter the Fortress grounds and activate the Fairy Tale Trial with your Royal Net."
+            ],
+            "rewards": [
+                "500 Friendship",
+                "Fairytale Armor"
+            ],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }
