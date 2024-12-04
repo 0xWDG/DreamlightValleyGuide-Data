@@ -1,0 +1,24 @@
+{
+    "name": "maleficent.story",
+    "quests": [
+        {
+            "name": "The Mistress of All Evil",
+            "id": "maleficent.story.1",
+            "objectives": [
+                "Explore the Beanstalk Marshes around Maleficent's castle.",
+                "Explore Everafter and complete the three Fairy Tale Trials to reach Maleficent's castle.\r\n  \u2027 The Wolf of the Wilds.\r\n  \u2027 Teapot Falls.\r\n  \u2027 Knights of the Round Table.",
+                "Enter Maleficent's Catle.",
+                "Talk to Maleficent inside her castle.",
+                "Find Maleficent's missing Spinning Wheel and Throne in her castle, then place them back in the main room.",
+                "Place all of Maleficent's furniture back where it belongs.\r\n  \u2027 Maleficent's Throne.\r\n  \u2027 Maleficent's Candelabra.\r\n  \u2027 Maleficent's Fire.\r\n  \u2027 Maleficent's Spinning Wheel.",
+                "Pass through the portal to Maleficent's throne room.",
+                "Catch 1 Maleficent's Pets.",
+                "Catch 3 Maleficent's Pets.",
+                "Talk to Maleficent."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
+        }
+    ]
+}
