@@ -88,6 +88,23 @@
             ],
             "dlc": false,
             "friendship": 0
+        },
+        {
+            "name": "The Knights of the Round Table",
+            "id": "flynn.story.5",
+            "objectives": [
+                "nter the Fairy Tale Trial near the Fallen Fortress",
+                "Explore the Fairy Tale Trial.",
+                "These knight statues seem to be missing something...",
+                "Search for and return the missing piece to each knight. (3 pieces)",
+                "Position each knight to face its foe.",
+                "Interact with the source of the corruption inside the Fairy Tale Trial."
+            ],
+            "rewards": [
+                "500 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }
