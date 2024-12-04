@@ -70,6 +70,24 @@
             ],
             "dlc": false,
             "friendship": 0
+        },
+        {
+            "name": "Teapot Falls",
+            "id": "flynn.story.4",
+            "objectives": [
+                "Enter the Fairy Tale Trial at the Teapot Falls.",
+                "Explore the Fairy Tale Trial with Flynn.",
+                "Set the table for tea time.\r\n  \u2027 The Ornate Pink Chair.\r\n  \u2027 The Sturdy Wooden Chair.\r\n  \u2027 The Elegant Blue Chair.",
+                "(Optional) Check in with Flynn.",
+                "Find the Stout Tea Pot and Tall Tea Pot and put them both on the tray at the end of the table.",
+                "Figure out what to do with the clock on the wall.",
+                "Interact with the source of the corruption inside the Fairy Tale Trial."
+            ],
+            "rewards": [
+                "500 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }
