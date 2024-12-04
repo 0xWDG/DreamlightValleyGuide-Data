@@ -1,4 +1,32 @@
 {
     "name": "flynn.friendship",
-    "quests": []
+    "quests": [
+        {
+            "name": "The Company of the Wolf",
+            "id": "flynn.friendship.1",
+            "objectives": [
+                "Catch 5 Frog Snippets.",
+                "Talk to The Lorekeeper to find a more permanent solution to the Frog Snippets.",
+                "Gather the following materials for the Basic Faerie Snippet Repellent:\r\n  \u2027 Mine a Star Sapphire.\r\n  \u2027 Fish a Lamprey.\r\n  \u2027 Forage 5 Petrified Wood.\r\n  \u2027 Dig 10 Volcanic Rock.\r\n  \u2027 500 Storybook Magic.",
+                "Craft Basic Faerie Snippet Repellent.",
+                "Place the Basic Faerie Snippet Repellent around Flynn's House.",
+                "Talk to Flynn.",
+                "Search outside Flynn's House for 3 buried items.",
+                "Bring the items back to their rightful owner:\r\n  \u2027 Photo Album.\r\n  \u2027 Picture Frame.\r\n  \u2027 BnL Fishing Cooler.",
+                "Go inside Flynn's House.",
+                "Talk to Flynn.",
+                "Talk to Kristoff.",
+                "Go inside Flynn's House.",
+                "Talk to Kristoff.",
+                "Pick up the trash in Flynn's House",
+                "Talk to Kristoff.",
+                "Check in with Flynn about how he's feeling."
+            ],
+            "rewards": [
+                "500 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 0
+        }
+    ]
 }
