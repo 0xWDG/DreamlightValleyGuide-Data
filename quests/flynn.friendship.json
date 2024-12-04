@@ -26,7 +26,36 @@
                 "500 Friendship"
             ],
             "dlc": false,
-            "friendship": 0
+            "friendship": 2
+        },
+        {
+            "name": "Memory Lane",
+            "id": "flynn.friendship.2",
+            "objectives": [
+                "Listen to Flynn and the Lorekeeper.",
+                "Pick up Flynn's Memory near the Lorekeeper.",
+                "Talk to Flynn.",
+                "Talk to Ursula.",
+                "Gather the following Ingredients for Ursula's Potion:\r\n  \u2027 Sea Monster Tooth.\r\n  \u2027 5 Salt Crystal.\r\n  \u2027 5 Lightning.\r\n  \u2027 8 Olive.\r\n  \u2027 16 Petrified Wood.",
+                "Bring the Ingredients to Ursula.",
+                "Meet Flynn back in his House.",
+                "Make sure you have Ursula's Potion in your Inventory.",
+                "Give the potion to Flynn.",
+                "Look at Flynn's Memory in his House.",
+                "Talk to Flynn.",
+                "Talk to Hades.",
+                "Look for anything useful at Hades' House.",
+                "Meet Flynn back at his House.",
+                "Make sure you have the Tiara in your Inventory.",
+                "Give the Tiara to Flynn.",
+                "Look at Flynn's Memory in his House.",
+                "Talk to Flynn about his memory."
+            ],
+            "rewards": [
+                "880 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 4
         }
     ]
 }
