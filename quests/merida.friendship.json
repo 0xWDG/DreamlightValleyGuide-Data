@@ -111,10 +111,31 @@
             "name": "A Very Scottish Celebration",
             "id": "merida.friendship.4",
             "objectives": [
-                "To be done."
+                "Talk to Scrooge about supplies for Merida's Scottish banquet.",
+                "Decorate the Vale in Merida's clan colors.\r\n  \u2027 Place 10 Clan DunBroch Banner in the Storybook Vale.\r\n  \u2027 (Optional) Place 10 Clan McDuck Banner.",
+                "The Vale is decorated for the Scots' party. Time to set up the banquet.\r\n  \u2027 Bring the Scots' Banquet Supplies to Merida.\r\n  \u2027 Make sure the Scots' Banquet Supplies are in your Inventory.",
+                "Tiana said she would send the Salt-Baked Sea Wolf Recipe to you in the mail.\r\n  \u2027 Check your mailbox for mail from Tiana.",
+                "Read the Salt-Baked Sea Wolf Recipe in your Inventory.",
+                "Gather Ingredients to cook the Salt-Baked Sea Wolf for Merida:\r\n  \u2027 3 Sea Wolf.\r\n  \u2027 3 Salt Crystal.",
+                "Cook 3 Salt-Baked Sea Wolf for the banquet.",
+                "Make sure the 3 Salt-Baked Sea Wolf meals are in your Inventory.",
+                "Bring the Salt-Baked Sea Wolf to Merida.",
+                "Place the Scots' Banquet Setup somewhere in the Storybook Vale.",
+                "Enjoy the Scots' Banquet.",
+                "The Scots' Banquet was a success!\r\n  \u2027 Talk to Merida.\r\n  \u2027 (Optional) Talk to Scrooge McDuck.",
+                "Talk to the Lorekeeper.",
+                "The Lorekeeper wants to give Merida a gift. Gather the supplies to craft it:\r\n  \u2027 20 Petrified Wood.\r\n  \u2027 10 Pine Cone.\r\n  \u2027 8 Topaz.",
+                "Craft the Merida's Fate Tapestry.",
+                "Make sure the Merida's Fate Tapestry is in your Inventory.",
+                "Gift Merida the Merida's Fate Tapestry on behalf of the Lorekeeper.",
+                "Listen to Merida and the Lorekeeper.",
+                "Talk to Merida."
             ],
             "rewards": [
-                "To be done."
+                "3080 Friendship",
+                "Tartan Celebration Outfit",
+                "10 Clan DunBroch Banner",
+                "10 Clan McDuck Banner"
             ],
             "dlc": false,
             "friendship": 10
