@@ -128,6 +128,29 @@
             ],
             "dlc": false,
             "friendship": 10
+        },
+        {
+            "name": "A Romantic Reunion",
+            "id": "flynn.friendship.5",
+            "objectives": [
+                "Make sure you have The Adventures of Flynn Rider in your Inventory.",
+                "Bring The Adventures of Flynn Rider to Rapunzel.",
+                "Talk to Flynn.",
+                "Cook some romantic meals for Flynn and Rapunzel:\r\n  \u2027 3 Meals from Eternity Isle.\r\n  \u2027 3 Meals from the Storybook Vale.",
+                "Make sure you have the cooked meals in your Inventory:\r\n  \u2027 3 Meals from Eternity Isle.\r\n  \u2027 3 Meals from the Storybook Vale.",
+                "Bring the cooked meals to Flynn.",
+                "Gather the following materials:\r\n  \u2027 2 Iron Ingot.\r\n  \u2027 9 Common Club Rush.\r\n  \u2027 12 Pine Cone.\r\n  \u2027 12 Coal Ore.",
+                "-18 Petrified Wood.",
+                "Craft the Dinghy Boat.",
+                "(Optional) Wait for nightfall (6 p.m. - 8 a.m.).\r\n  \u2027 Place the Dinghy Boat in Storybook Vale.",
+                "Listen to Flynn and Rapunzel.",
+                "Check on Flynn to see how he's feeling."
+            ],
+            "rewards": [
+                "1000 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 10
         }
     ]
 }
