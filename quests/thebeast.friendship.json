@@ -99,6 +99,31 @@
                 "Beast's Greenhouse"
             ],
             "friendship": 10
+        },
+        {
+            "name": "Belle's Enchanted Day",
+            "id": "thebeast.friendship.vale.1",
+            "objectives": [
+                "You found some pages lying strewn about the Bind. The book reminds you of Belle.\r\n  \u2027 Bring the Mysterious Pages to the the Beast.\r\n  \u2027 Get the Mysterious Pages for the Beast.",
+                "Find the rest of the 4 pages from the book for the Beast by searching the the Library of Lore.",
+                "Bring the Book Pages to the Beast.",
+                "Decorate the Bind with any (10) furniture you like to create a magic moment for Belle.",
+                "Return to the Beast.",
+                "Watch as the Beast gives the gift to Belle in the Storybook Vale.",
+                "Talk to Belle.",
+                "Return to the Beast."
+            ],
+            "rewards": [
+                "1000 Friendship",
+                "500 Storybook Magic",
+                "10 Petrified Wood",
+                "4 Moss",
+                "10 Pine Cone",
+                "4 Common Club Rush",
+                "4 Teal Eternal Poppies"
+            ],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }
