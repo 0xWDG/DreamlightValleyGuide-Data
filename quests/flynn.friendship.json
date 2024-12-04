@@ -56,6 +56,49 @@
             ],
             "dlc": false,
             "friendship": 4
+        },
+        {
+            "name": "An Old-Fashioned Heist",
+            "id": "flynn.friendship.3",
+            "objectives": [
+                "Go with Flynn to the Fallen Fortress.",
+                "Follow Flynn to the entry to the vault.",
+                "Gather the following materials:\r\n  \u2027 2 White Rose.\r\n  \u2027 2 Olive Green Tale Cone Flower.\r\n  \u2027 4 Honeydew Melon.\r\n  \u2027 8 Posidonia.",
+                "Craft the Flower Extract.",
+                "Consume the Flower Extract.",
+                "Return inside of fairy trial fallen fortress.",
+                "Return to the entry to Maleficent's vault.",
+                "Use your Watering Can to clear the way to Maleficent's vault.",
+                "Go with Flynn to Maleficent's vault.",
+                "Inspect the three corridors.",
+                "Talk to Flynn.",
+                "Recruit someone who:\r\n  \u2027 Can withstand thick smoke.\r\n  \u2027 Can create fire.\r\n  \u2027 Is an expert archer.",
+                "Return to Maleficent's vault.",
+                "Talk to Flynn.",
+                "Talk with the crew to clear the way, and activate the levers.\r\n  \u2027 Wall Lever\r\n  \u2027 Target Lever.\r\n  \u2027 Gas Lever.",
+                "Enter Maleficent's vault.",
+                "Look around Maleficent's vault for something valuable.",
+                "Talk to Flynn about what you've found."
+            ],
+            "spoilers": [
+                {
+                    "title": "Can withstand thick smoke.",
+                    "objective": "Stitch"
+                },
+                {
+                    "title": "Can create fire.",
+                    "objective": "Mushu"
+                },
+                {
+                    "title": "Is an expert archer.",
+                    "objective": "Merida"
+                }
+            ],
+            "rewards": [
+                "2200 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 7
         }
     ]
 }
