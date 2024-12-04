@@ -99,6 +99,35 @@
             ],
             "dlc": false,
             "friendship": 7
+        },
+        {
+            "name": "The Adventures of Flynn Rider",
+            "id": "flynn.friendship.4",
+            "objectives": [
+                "Listen to Flynn and Belle.",
+                "Talk to Flynn.",
+                "Take pictures of Flynn:\r\n  \u2027 At Mount Olympus\r\n  \u2027 In the Wild Woods.\r\n  \u2027 At the fountain in the Bind behind the Lorekeeper.",
+                "Talk to Flynn.",
+                "Check your mailbox for Business Cards from potential publishers.",
+                "Make sure you have the following in your Inventory:\r\n  \u2027 Goofy's Business Card.\r\n  \u2027 Scrooge's Business Card.",
+                "Bring the Business Cards to Flynn",
+                "Go inside Scrooge's Store.",
+                "Talk to Scrooge McDuck.",
+                "Gather the following material:\r\n  \u2027 10 Marble.\r\n  \u2027 12 Pine Cone.\r\n  \u2027 14 Gravel.\r\n  \u2027 16 Petrified Wood.",
+                "Order the Ink and Quill from Scrooge.",
+                "Craft the Book Signing Table.",
+                "Place the Book Signing Table anywhere in the Valley.",
+                "Attend the Book Signing.",
+                "Talk to Flynn.",
+                "Listen to Flynn and the Lorekeeper.",
+                "Check in on Flynn to see how he's doing."
+            ],
+            "rewards": [
+                "3080 Friendship",
+                "Legendary Rogue Outfit"
+            ],
+            "dlc": false,
+            "friendship": 10
         }
     ]
 }
