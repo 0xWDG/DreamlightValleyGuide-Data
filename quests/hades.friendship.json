@@ -1,0 +1,135 @@
+{
+    "name": "hades.friendship",
+    "quests": [
+        {
+            "name": "Mythic Restoration",
+            "id": "hades.friendship.1",
+            "objectives": [
+                "Gather magical resources for Hades:\r\n  \u2027 3 Crimson Eternal Poppies.\r\n  \u2027 5 Posidonia plants from waters outside of ripples in Mythopia.\r\n  \u2027 10 Gravel from Mythopia's ground.",
+                "Return to Hades with the magical resources so he can upgrade your Royal Pickaxe.",
+                "Clean up Hades' domain.\r\n  \u2027 Remove 10 fallen hunks of Marble in Mythopia.\r\n  \u2027 Catch 5 Demon Snippets in Mythopia.",
+                "Talk to Hades.",
+                "Gather resources to build statues of Hades.\r\n  \u2027 4 Marble.\r\n  \u2027 4 Magma.\r\n  \u2027 4 Gold Nuggets.",
+                "Craft 4 statues of Hades.",
+                "Decorate Mythopia with Hades' statues to increase his popularity.",
+                "Talk to Hades about his new statues.",
+                "Dress up in a camouflaged outfit.\r\n  \u2027 Rustic Clothing.\r\n  \u2027 Green Clothing.\r\n  \u2027 Brown Clothing.",
+                "Go undercover to be a spy for Hades.\r\n  \u2027 Spy on (2) various Villagers around the Library of Lore as they meet to discuss Hades and his statues.",
+                "Talk to The Lorekeeper.",
+                "Gather resources to fuel the Lightning Generator.\r\n  \u2027 3 Lightning Spice.",
+                "Fuel the Lightning Generator in the East Wing of the Library of Lore, using the Lightning Spice.",
+                "Talk to Hades in the East Wing of the Library of Lore about the Lightning Generator.\r\n  \u2027 Talk to Hades about the Lightning Generator."
+            ],
+            "rewards": [
+                "600 Friendship",
+                "4 Marble Hades Statue"
+            ],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "Yes, Your Lugubriousness",
+            "id": "hades.friendship.2",
+            "objectives": [
+                "Talk to Remy about Hades taking over Chez Remy for a day.",
+                "Make sure you have the Ingredients for the Grecian Baked Fish in your Inventory.\r\n  \u2027 2 Salt from Everafter's waters.\r\n  \u2027 2 Elysian Grain.\r\n  \u2027 2 Olives.\r\n  \u2027 2 Ambrosia.\r\n  \u2027 2 Stygian Mudskipper.",
+                "Bring the Ingredients for the Grecian Baked Fish to Hades.",
+                "Meet Hades in Chez Remy.",
+                "Listen to Vanellope tell Hades exactly what she thinks of his cooking.",
+                "Never pour water on a grease fire! Use the Royal Shovel to put out the flames safely",
+                "Debrief Hades about his experience at Chez Remy's",
+                "Dress up as a proper salesperson.\r\n  \u2027 Professional clothing.\r\n  \u2027 Black clothing.\r\n  \u2027 Blue clothing.",
+                "Listen to Hades' sales pitch to Flynn.",
+                "Talk to Hades about his time as a potion salesman.",
+                "Visit Ursula's House to find Hades' wages.",
+                "Pick up and read Ursula's note.",
+                "Find Hades' wages somewhere in the Bind.\r\n  \u2027 Ursula's note said the wages would be in a soggy place safe from Hades' temper...",
+                "Make sure you have Hades' wages (the Fire Suppression Potion) and Ursula's Note in your Inventory.",
+                "Bring Hades his wages (the Fire Suppression Potion).",
+                "Visit Scrooge McDuck's Store.",
+                "Talk to Scrooge McDuck about hiring Hades for the day.",
+                "Return to Scrooge McDuck's Store.",
+                "Listen to how Hades handles his first customer.",
+                "Save Scrooge McDuck's Store! Extinguish the fire",
+                "Listen to Scrooge McDuck react to Hades' treatment of his shop.",
+                "Leave Scrooge McDuck's Store and return to the Storybook Vale.",
+                "Talk to Hades about his day of management experiments."
+            ],
+            "rewards": [
+                "880 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 4
+        },
+        {
+            "name": "Your Own Personal Hades",
+            "id": "hades.friendship.4",
+            "objectives": [
+                "Meet Daisy and Hades in Hades' House.",
+                "Talk to Daisy with Hades in Hades' House.",
+                "Gather the materials for Hades merch.\r\n  \u2027 5 Common Club Rushes.\r\n  \u2027 5 Blue Flowers.\r\n  \u2027 5 Magma.",
+                "Make sure you have the materials for the Hades Merch in your Inventory.\r\n  \u2027 5 Common Club Rushes\r\n  \u2027 5 Blue Flowers\r\n  \u2027 5 Magma",
+                "Bring the materials for Hades' merch to Daisy.",
+                "Dress up with the Hades Merch.",
+                "See how Hades likes his merch.",
+                "Hang out with Hades and take pictures of yourself and Hades in various locations of Mythopia.\r\n  \u2027 The Elysian Fields.\r\n  \u2027 The Fiery Plains.\r\n  \u2027 The Statues' Shadow.",
+                "Head back to your House to check your mail.",
+                "Read your letter from Daisy.",
+                "Gather materials to build the Hades Kiosk.\r\n  \u2027 Star Sapphire.\r\n  \u2027 25 Petrified Wood.\r\n  \u2027 5 Marble.\r\n  \u2027 1 Crimson Eternal Poppies.\r\n  \u2027 1 Magma.",
+                "Craft the Hades Kiosk.",
+                "See how Hades is preparing for his endorsement presentation.",
+                "Gather the Ingredients needed for Hades' Spanakopita and Olympian Tapenade.\r\n  \u2027 1 Onion.\r\n  \u2027 1 Olives.\r\n  \u2027 1 Flyleaf Feta.\r\n  \u2027 1 Elysian Grain.\r\n  \u2027 1 Spinach.\r\n  \u2027 1 Garlic.\r\n  \u2027 1 Honeydew Melon.\r\n  \u2027 1 Salt Crystal.",
+                "Make sure you have the Hades Kiosk in your Inventory.",
+                "Check in with Daisy the manager about the endorsement deal.",
+                "Place the objects needed for Hades' presentation near Scrooge McDuck's Store in the Vale.\r\n  \u2027 Hades Kiosk\r\n  \u2027 (Optional) Hades Cooking Station.",
+                "Gather with the Villagers for Hades' speech.",
+                "Return to the speech area near Scrooge McDuck's Store.",
+                "Listen to Hades' endorsement speech.",
+                "Cook up some Greek meals for Hades while he gives his endorsement speech.\r\n  \u2027 Spanakopita.\r\n  \u2027 Olympian Tapenade.",
+                "(Optional) Talk to Scrooge McDuck.",
+                "See how Hades liked his time as a celebrity."
+            ],
+            "rewards": [
+                "2200 Friendship",
+                "Hades Kiosk",
+                "Hades Merch Tee"
+            ],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "Fine, I'll Do It Myself",
+            "id": "hades.friendship.5",
+            "objectives": [
+                "Talk to Tiana.",
+                "Talk to Hades about Tiana's request.",
+                "Grow the Underworld Gemstones into signposts for Tiana's Palace.\r\n  \u2027 Plant the 4 Underworld Gemstones in Mythopia.\r\n  \u2027 Water the 4 Underworld Gemstones and wait 5 minutes to harvest the signposts.",
+                "Decorate Mythopia with the 4 Hades Signposts.",
+                "Talk to Hades about entertainment for his party.",
+                "Tag along with Hades as he auditions musicians for his party.\r\n  \u2027 Eric's Flute Audition.\r\n  \u2027 Mirabel's Vocal Audition.",
+                "Talk to Hades about the auditions.",
+                "Gather resources to make a Corinthian Marble DJ Table.\r\n  \u2027 15 Marble.\r\n  \u2027 20 Magma.\r\n  \u2027 10 Lightning.",
+                "Craft a Corinthian Marble DJ Table.",
+                "Make sure you have the Corinthian Marble DJ Table in your Inventory.",
+                "Bring the Corinthian Marble DJ Table to Hades.",
+                "Make sure you have enough resources for Hades' Party Invitations:\r\n  \u2027 4 Blue Bird Snippet from the Bind.\r\n  \u2027 4 Opal.\r\n  \u2027 3 Yellow Tale Cone Flowers.\r\n  \u2027 Craft 4 Hades' Party Invitations.",
+                "Meet Hades at the gates to Mount Olympus.",
+                "Give Hades' Party Invitations to Hades.",
+                "Dress up in Artemis-core.\r\n  \u2027 Green Clothing.\r\n  \u2027 Yellow Clothing.\r\n  \u2027 Sporty Clothing.",
+                "Enter the palace atop Mount Olympus by following the sign with Hades' face and venture to Hades' throne room for the party.",
+                "Reach the party atop Mount Olympus.\r\n  \u2027 Hades set up a portal at the entrance to the palace to speed people along.",
+                "Talk to Hades.",
+                "Listen to various Villagers express their feelings about Hades' DJ set atop Mount Olympus.\r\n  \u2027 Scrooge McDuck.\r\n  \u2027 Flynn.\r\n  \u2027 Mother Gothel.",
+                "The party is not over!\r\n  \u2027 Return to the top of Mount Olympus.",
+                "See how Hades felt about his performance."
+            ],
+            "rewards": [
+                "3080 Friendship",
+                "Armor of the Styx",
+                "Corinthian Marble DJ Table"
+            ],
+            "dlc": false,
+            "friendship": 10
+        }
+    ]
+}
