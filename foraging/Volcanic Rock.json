@@ -1,0 +1,12 @@
+{
+    "name": "Volcanic Rock",
+    "description": "Volcanic Rock is a foraged material which can be found digging the ground in the Everafter and Mythopia areas in Storybook Vale.",
+    "icon": "\ud83c\udf3a",
+    "price": 30,
+    "giftReward": 0,
+    "maxSpawns": 0,
+    "found": [
+        "Everafter",
+        "Mythopia"
+    ]
+}

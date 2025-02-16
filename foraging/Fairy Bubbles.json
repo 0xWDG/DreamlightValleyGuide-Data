@@ -1,0 +1,11 @@
+{
+    "name": "Fairy Bubbles",
+    "description": "Fairy Bubbles is a foraged material which can be found digging the ground in the Everafter area in Storybook Vale.",
+    "icon": "\ud83e\udea8",
+    "price": 15,
+    "giftReward": 0,
+    "maxSpawns": 0,
+    "found": [
+        "Everafter"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Ginger",
+    "description": "Ginger is a spice type ingredient used in cooking. It can be found growing wild on the ground in the Forgotten Lands.",
+    "icon": "\ud83d\udc8e",
+    "price": 0,
+    "maxSpawns": 10,
+    "timeToSpawn": 0,
+    "found": [
+        "Forgotten Lands"
+    ]
+}

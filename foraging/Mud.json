@@ -1,0 +1,12 @@
+{
+    "name": "Mud",
+    "description": "Mud is a foraged material which can be found digging the ground in The Bind and Everafter areas in Storybook Vale.",
+    "icon": "\ud83e\udea8",
+    "price": 10,
+    "giftReward": 0,
+    "maxSpawns": 0,
+    "found": [
+        "The Bind",
+        "Everafter"
+    ]
+}
