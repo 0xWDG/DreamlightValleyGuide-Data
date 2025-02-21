@@ -1,5 +1,8 @@
 {
     "code": "GPOT-OATO-LDFS-ENNM",
     "description": "Golden Potato",
-    "validy": "9999-12-31"
+    "items": [
+        "Golden Potato"
+    ],
+    "validy": "2023-06-07"
 }
