@@ -103,6 +103,29 @@
             "friendship": 0
         },
         {
+            "name": "A Hoot and a Half",
+            "id": "olaf.friendship.blind.1",
+            "objectives": [
+                "You found some notes in the tidy scrawl of a certain talkative snowman...\r\n  \u2027 Bring Olaf his fun facts.\r\n  \u2027 Get Olaf's Fun Facts.",
+                "Listen as Olaf and the Lorekeeper have a fascinating conversation.",
+                "Talk to the Lorekeeper.",
+                "Talk to Anna.",
+                "Take picture of things around the Bind that Olaf might be interested in:\r\n  \u2027 The Library of Lore.\r\n  \u2027 A mysterious hidden doorway beneath the bridge in the Bind.\r\n  \u2027 2 The fountains.\r\n  \u2027 3 The owls.",
+                "Return to Olaf.",
+                "Befriend and unlock any of the owls around the Bind.",
+                "Return to Olaf.",
+                "Decorate the Bind with Autumn Mage Scarecrow.\r\n  \u2027 (If you don't have one, search the Bind for Ingredients and visit a Crafting Station!)",
+                "Return to Olaf."
+            ],
+            "rewards": [
+                "1000 Friendship",
+                "5 Barley",
+                "500 Storybook Magic"
+            ],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
             "name": "A Holiday Treat for Olaf",
             "id": "olaf.friendship.jack.1",
             "objectives": [
