@@ -1,0 +1,143 @@
+{
+    "name": "sally.friendship",
+    "quests": [
+        {
+            "name": "Uncanny Romance",
+            "id": "sally.friendship.1",
+            "objectives": [
+                "Plant the 10 Deadly Nightshade and harvest after 15 minutes.",
+                "Make sure you have the 10 Deadly Nightshade in your Inventory.",
+                "Bring the Deadly Nightshade to Sally.",
+                "Talk to Jack Skellington about his upcoming date with Sally.",
+                "Gather some (2) Night Shards.",
+                "Bring the Night Shard to Jack Skellington.",
+                "Listen to Sally and Jack.",
+                "Talk to Sally about the awkward date.",
+                "Ask the following Villagers for dating advice:\r\n  \u2027 Daisy.\r\n  \u2027 Minnie Mouse.",
+                "Prepare Jack and Sally's picnic by:\r\n  \u2027 Baking some:\r\n    \u2027 Halloween Gingerbread Cookies.\r\n    \u2027 Caramel Apples.\r\n  \u2027 Create a new and frighteningly lovely date night in the Forgotten Lands with:\r\n    \u2027 1 Holiday Tree-Portal.\r\n    \u2027 2 Outdoor Furniture.\r\n    \u2027 3 Halloween Furniture.\r\n    \u2027 4 Black Furniture.",
+                "Make sure you have the following meals in your Inventory:\r\n  \u2027 Halloween Gingerbread Cookies.\r\n  \u2027 Caramel Apples.",
+                "Bring the Halloween date meals to Sally.",
+                "Listen to Sally and Jack's second date attempt.",
+                "Talk to Sally about her (less awkward) talk with Jack.",
+                "Place the Halloween Picnic Kit near the Holiday Tree Portal.",
+                "Take a picture of Sally and Jack.",
+                "Talk to Sally."
+            ],
+            "rewards": [
+                "440 Friendship",
+                "Halloween Gingerbread Cookie Recipe",
+                "Caramel Apple Recipe"
+            ],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "Decay to Grow",
+            "id": "sally.friendship.2",
+            "objectives": [
+                "Talk to Remy.",
+                "Gather materials for a Compost Bin.\r\n  \u2027 15 Bricks.\r\n  \u2027 10 Soil.\r\n  \u2027 10 Dark Wood.\r\n  \u2027 3 Vegetable Trimmings from Remy.",
+                "Craft a Compost Bin.",
+                "Make sure you have the Compost Bin in your Inventory.",
+                "Bring the Compost Bin to Sally in the Vitalys Mines.",
+                "Talk to Sally.",
+                "Follow Sally through the Vitalys Mines.",
+                "Talk to Sally.",
+                "Gather the following materials from the Sunlit Plateau:\r\n  \u2027 6 Dry Wood.\r\n  \u2027 8 Dried Plants.",
+                "Go back to the Vitalys Mines and place the Dry Wood and Dried Plants in the Compost Bin.",
+                "Make sure you have the following materials in your Inventory:\r\n  \u2027 6 Dry Wood.\r\n  \u2027 8 Dried Plants.",
+                "Bring the materials to Sally in the Vitalys Mines.",
+                "Gather materials to make the Critter Trap.\r\n  \u2027 10 Hardwood.\r\n  \u2027 5 Blueberry.\r\n  \u2027 2 Iron Ingots.\r\n  \u2027 5 Dream Shards.",
+                "Craft a Critter Trap.",
+                "Head back to the Vitalys Mines to place the trap.",
+                "Make sure you have the Critter Trap in your Inventory.",
+                "Bring the Critter Trap to Sally in the Vitalys Mines.",
+                "Dig out some (3) worms in the Glade of Trust.",
+                "Bring the worms to Sally.",
+                "Go into the Vitalys Mines to check the Compost Bin.",
+                "Mike is caught in the Critter Trap? Talk to him.",
+                "Listen to Sally explain her compost setup to Mike.",
+                "Talk to Sally."
+            ],
+            "rewards": [
+                "880 Friendship",
+                "Compost Bin",
+                "8 Soil",
+                "5 Rich Soil"
+            ],
+            "dlc": false,
+            "friendship": 4
+        },
+        {
+            "name": "Patchwork Party",
+            "id": "sally.friendship.3",
+            "objectives": [
+                "Ask Daisy about collaborating on a sewing project with Sally.",
+                "Gather the materials for Daisy and Minnie's newest project:\r\n  \u2027 3 Gold Ingot.\r\n  \u2027 5 Purple Impatiens.\r\n  \u2027 5 Fabric.\r\n  \u2027 6 Red Bell Flower.",
+                "Bring the materials to Sally so she can help with Daisy and Minnie's newest project.",
+                "Go inside Minnie's House.",
+                "Listen to Sally and Daisy inside Minnie's House.",
+                "Talk to Sally about a sewing project.",
+                "(Optional) Talk to Minnie Mouse.",
+                "(Optional) Talk to Daisy.",
+                "Talk to The Fairy Godmother.",
+                "Collect and create memorabilia from your Valley adventures:\r\n  \u2027 Fish an Ancient Crystal from the Mystical Cave.",
+                "Collect and create memorabilia from your Valley adventures:\r\n  \u2027 Find a Feather in the Forest of Valor.\r\n  \u2027 Find a Snowman's Nose in a cavernous region in the Frosted Heights.\r\n  \u2027 Find a Storybook in the Forgotten Lands.",
+                "Cook to create memorabilia from your Valley adventures:\r\n  \u2027 Fruit Salad.\r\n  \u2027 Root Beer.",
+                "Go inside the Fairy Godmother's House.",
+                "Make sure you have the following items in your Inventory:\r\n  \u2027 Ancient Crystal.\r\n  \u2027 Donald's Feather.\r\n  \u2027 Forgotten Storybook.\r\n  \u2027 Fruit Salad.\r\n  \u2027 Snowman's Nose.\r\n  \u2027 Root Beer.",
+                "Bring everything to Sally.",
+                "Ask Villagers about their favorite food memories:\r\n  \u2027 Mickey Mouse.\r\n  \u2027 The Forgotten.\r\n  \u2027 Kristoff.\r\n  \u2027 Donald Duck.",
+                "Cook the following meals:\r\n  \u2027 Fish Sandwich.\r\n  \u2027 Bouillabaisse.\r\n  \u2027 Carrot Cake.\r\n  \u2027 Fish Salad.",
+                "Bring your Dreamlight memorabilia to Sally.",
+                "Place the Dreamlight Memory Quilt anywhere in the Valley.",
+                "Celebrate the Dreamlight Memory Quilt with the Village.",
+                "The quilt party was a success! Talk to Sally to see how it went."
+            ],
+            "rewards": [
+                "2200 Friendship",
+                "Dreamlight Memory Quilt"
+            ],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "Preposterous Premonitions",
+            "id": "sally.friendship.4",
+            "objectives": [
+                "Talk to Ursula.",
+                "Fetch a potion Ingredient for Sally.\r\n  \u2027 5 Arcane Sprout in the Forgotten Lands.",
+                "Head inside Sally and Jack's House.",
+                "Make sure you have the following Ingredients in your Inventory:\r\n  \u2027 5 Arcane Sprout.",
+                "Bring the Ingredients to Sally.",
+                "Sally had a premonition?! Interact with it inside her House.",
+                "Talk to Sally about her premonition.",
+                "Find the cave from Sally's premonition to find more clues.",
+                "Search for a clue in the Cursed Cave.",
+                "You've found a clue! Give it to Sally.",
+                "Sally had another premonition! Interact with it inside the Cursed Cave.",
+                "Talk to Sally about her second premonition.",
+                "Talk to the following Villagers about Sally's premonitions:\r\n  \u2027 Mickey Mouse.\r\n  \u2027 Scrooge McDuck.",
+                "Talk to Sally about your attempts to warn Scrooge McDuck and Mickey.",
+                "Head into the Cursed Cave before it's too late!",
+                "Confront Ursula about her plot!",
+                "Talk to Sally about foiling Ursula's plot.",
+                "Listen to Sally confronting Ursula.",
+                "Put Sally's potion in Ursula's cauldron to stop the ritual.",
+                "Talk to the people involved:\r\n  \u2027 Mickey Mouse.\r\n  \u2027 Scrooge McDuck.\r\n  \u2027 Ursula.",
+                "Head inside Mickey's House.",
+                "Listen to Sally and Mickey.",
+                "Talk to Sally."
+            ],
+            "rewards": [
+                "3080  Friendship",
+                "Patchwork Elegance Gown",
+                "Web Lace Gloves",
+                "Black Rose Choker",
+                "Patchwork Elegance Shoes"
+            ],
+            "dlc": false,
+            "friendship": 10
+        }
+    ]
+}
