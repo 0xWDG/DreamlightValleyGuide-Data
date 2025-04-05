@@ -1,9 +1,0 @@
-{
-    "name": "Shiny Ruby",
-    "description": "A rare red mineral that can be mined.",
-    "icon": "\ud83d\udc8e",
-    "price": 1,
-    "found": [
-        "Vitalys Mine"
-    ]
-}
