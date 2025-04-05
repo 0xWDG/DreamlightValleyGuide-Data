@@ -3,6 +3,18 @@
     "origin": "Aladdin",
     "house": "Aladdin's House",
     "description": "Aladdin is a character from the Disney film Aladdin (1992).",
-    "rewards": [],
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Tasseled Red Cushion",
+        "Aladdin Pattern 1 Motif",
+        "StarCoins 500",
+        "Desert Bloom Coffee Table",
+        "Aladdin Pattern 2 Motif",
+        "StarCoins 1000",
+        "Red Nook Window",
+        "Aladdin Pattern 3 Motif",
+        "Diamond in the Rough Loafers\r\nDiamond in the Rough Top\r\nDiamond in the Rough Trousers\r\nDiamond in the Rough Vest"
+    ],
     "quests": []
 }
