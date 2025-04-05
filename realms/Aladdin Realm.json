@@ -1,0 +1,8 @@
+{
+    "name": "Aladdin Realm",
+    "price": 15000,
+    "characters": [
+        "Aladdin",
+        "Jasmine"
+    ]
+}
