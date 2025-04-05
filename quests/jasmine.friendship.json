@@ -1,0 +1,130 @@
+{
+    "name": "jasmine.friendship",
+    "quests": [
+        {
+            "name": "The Enchanted Flower",
+            "id": "jasmine.friendship.1",
+            "objectives": [
+                "Talk to Merlin.",
+                "Search the Dreamlight Library for the Envelope of Seeds.",
+                "Make sure you have the Envelope of Seeds in your Inventory.",
+                "Bring the Envelope of Seeds to Jasmine.",
+                "Gather the materials for the Enchanted Pots of Blooming:\r\n  \u2027 15 Soil.\r\n  \u2027 5 Dream Shard.\r\n  \u2027 Green Rising Penstemon.\r\n  \u2027 Purple Rising Penstemon.\r\n  \u2027 Red Daisy.\r\n  \u2027 White Daisy.\r\n  \u2027 Yellow Daisy.",
+                "Craft the 3 Enchanted Pots of Blooming.",
+                "Make sure you have the Enchanted Pots of Blooming in your Inventory.",
+                "Bring the Enchanted Pots of Blooming to Jasmine.",
+                "Go inside Jasmine and Aladdin's House.",
+                "Talk to Jasmine inside her House.",
+                "Place the 5 flowers in the correct pots in Jasmine's House.",
+                "Talk to Jasmine."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "A Sandy Competition",
+            "id": "jasmine.friendship.2",
+            "objectives": [
+                "Talk to Moana.",
+                "Gather materials for Moana's Sea Sand Torch.\r\n  \u2027 5 Softwood.\r\n  \u2027 5 Fiber.\r\n  \u2027 3 Sand.\r\n  \u2027 1 Aquamarine.",
+                "Bring the materials to Moana.",
+                "Place Moana's Sea Sand Torch on Dazzle Beach.",
+                "Talk to Jasmine.",
+                "Meet Jasmine at the Sea Sand Torch on Dazzle Beach.",
+                "Talk to Maui.",
+                "Talk to Jasmine.",
+                "Listen to Maui and Jasmine.",
+                "Gather materials to build a Winning Sandcastle for Maui's competition.\r\n  \u2027 50 Sand.\r\n  \u2027 14 Clay.\r\n  \u2027 7 Seaweed.",
+                "Craft a Sandcastle Kit.\r\n  \u2027 4 Sand towers.\r\n  \u2027 3 Sand walls.\r\n  \u2027 1 Sand door.",
+                "Talk to Jasmine.",
+                "Decorate the Beach with a Winning Sandcastle worthy of a competition with a demigod.\r\n  \u2027 4 Sand towers.\r\n  \u2027 3 Sand walls.\r\n  \u2027 1 Sand door.\r\n  \u2027 1 Castle centerpiece.",
+                "Talk to Maui.",
+                "Listen to Maui and Jasmine discuss the sandcastle competition.",
+                "Talk to Jasmine.",
+                "Craft the Beach Key.",
+                "Go inside Jasmine and Aladdin's House.",
+                "Use the Beach Key to unlock the first lock of the Secret Journal.",
+                "Talk to Jasmine."
+            ],
+            "rewards": [
+                "Jasmine's Centerpiece",
+                "Sandcastle Tower Wall recipe unlocked",
+                "Sandcastle Tower recipe unlocked",
+                "Sandcastle Wall recipe unlocked",
+                "Sandcastle Door recipe unlocked",
+                "Sandcastle Tower Corner recipe unlocked"
+            ],
+            "dlc": false,
+            "friendship": 4
+        },
+        {
+            "name": "Hot and Cold",
+            "id": "jasmine.friendship.3",
+            "objectives": [
+                "Talk to Elsa.",
+                "Go inside Elsa's Ice Cavern.",
+                "Find Elsa at the back of her Ice Cavern.",
+                "Talk to Elsa.",
+                "Take pictures of the Pedestal Symbols on the pedestals in Elsa's Ice Cavern.\r\n  \u2027 Sun pedestal.\r\n  \u2027 Snow pedestal.",
+                "Take pictures of the Pedestal Symbols in the Frosted Heights and on the Sunlit Plateau.\r\n  \u2027 5 Frosted Heights Symbol.\r\n  \u2027 5 Sunlit Plateau Symbol.",
+                "Return to the pedestals in Elsa's Ice Cavern.",
+                "The ice melted! Grab the Ice Key.",
+                "Talk to Jasmine.",
+                "Go into Jasmine and Aladdin's House.",
+                "Something isn't right... Examine the Enchanted Flower.",
+                "Talk to Jasmine.",
+                "Follow Jasmine to the Plaza.",
+                "Talk to Jasmine.",
+                "Follow the trail of giant petals.",
+                "Go inside the Giant Willow Tree.",
+                "Confront Mother Gothel.",
+                "Go inside Jasmine and Aladdin's House.",
+                "Interact with the Enchanted Flower to unlock the Secret Journal.",
+                "Pick up the Secret Journal.",
+                "Bring the Secret Journal to Jasmine."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "Wild, Wild Wishes",
+            "id": "jasmine.friendship.4",
+            "objectives": [
+                "Visit Donald inside his House.",
+                "Talk to Donald inside his House.",
+                "Collect the Stinky Fish in Donald's House.\r\n  \u2027 15 Stinky Fish.",
+                "Bring the Stinky Fish to Donald.",
+                "Visit Anna inside her House.",
+                "Talk to Anna.",
+                "Collect the 8 chocolate meals in Anna's House.",
+                "Bring the chocolate meals to Anna.",
+                "Eat the chocolate meals from Anna's House.",
+                "Talk to Anna inside her House.",
+                "Talk to Mike.",
+                "Meet up with Mike in Scrooge's Store.",
+                "Listen to Mike and Mulan in Scrooge's Store.",
+                "Listen to Mike and Belle in Scrooge's Store.",
+                "Talk to Mike.",
+                "Talk to Jasmine.",
+                "Decorate a room in your home with 3 furniture you love. or Cook 2 of your favorite meals.",
+                "Talk to Jasmine.",
+                "Dress up in the outfit of your dreams.",
+                "Return to Jasmine.",
+                "Listen to Jasmine and Mike to see if the wish magic is gone.",
+                "Talk to Jasmine."
+            ],
+            "rewards": [
+                "The Secret Journal",
+                "Desert Bloom Necklace",
+                "Desert Bloom Trousers",
+                "Desert Bloom Slip-Ons",
+                "Desert Bloom Top",
+                "The Enchanted Flower"
+            ],
+            "dlc": false,
+            "friendship": 10
+        }
+    ]
+}

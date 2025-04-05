@@ -16,5 +16,8 @@
         "Aladdin Pattern 3 Motif",
         "Diamond in the Rough Loafers\r\nDiamond in the Rough Top\r\nDiamond in the Rough Trousers\r\nDiamond in the Rough Vest"
     ],
-    "quests": []
+    "quests": [
+        "alladin.realm",
+        "aladdin.friendship"
+    ]
 }

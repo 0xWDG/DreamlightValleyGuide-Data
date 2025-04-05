@@ -16,5 +16,8 @@
         "Royal Tiger Motif",
         "Desert Bloom Necklace\r\nDesert Bloom Slip-Ons\r\nDesert Bloom Top\r\nDesert Bloom Trousers"
     ],
-    "quests": []
+    "quests": [
+        "jasmine.realm",
+        "jasmine.friendship"
+    ]
 }

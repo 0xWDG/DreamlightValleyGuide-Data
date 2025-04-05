@@ -1,0 +1,81 @@
+{
+    "name": "alladin.realm",
+    "quests": [
+        {
+            "name": "Brave the Storm",
+            "id": "aladdin.realm.1",
+            "objectives": [
+                "Meet Aladdin near the edge of the roof.\r\n  \u2027 Talk to Aladdin on the rooftops.",
+                "Scavenge building materials from the South-East Rooftops:\r\n  \u2027 Pile of Planks.\r\n  \u2027 Fine Rope.\r\n  \u2027 Timber Stack.",
+                "Place the items on the roof's edge near Aladdin to make a bridge.",
+                "Talk to Aladdin on the rooftops.",
+                "Make your way farther across the Center Rooftops with Aladdin.",
+                "Talk to Aladdin on the Center Rooftops.",
+                "Find a way down to the South Market using what you've learned.",
+                "Talk to Aladdin in the South Market.",
+                "Use the Rose Water in your Inventory.",
+                "Search through the wreckage for what you'll need for the stall repairs.\r\n  \u2027 3 Something sticky.\r\n  \u2027 3 Fine Rope.\r\n  \u2027 3 Timber Stack.\r\n  \u2027 3 Bolts of Silk.",
+                "Talk to Aladdin in the South Market.",
+                "Craft 3 Stall Repair Kits at the Crafting Station near Aladdin.",
+                "Use the Stall Repair Kits on the broken South Market stalls.",
+                "Return to Aladdin in the South Market."
+            ],
+            "rewards": [
+                "Broken Protection Amulet"
+            ],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "Monkey Business",
+            "id": "aladdin.realm.2",
+            "objectives": [
+                "Talk to Jasmine in the South Market about the strange amulet.",
+                "Explore the rooftops near the South Market to find where the Enchanted Gemstones could have gone.",
+                "The monkeys have the gemstones!\r\n  \u2027 Talk to the monkeys.",
+                "The monkeys have the Enchanted Gemstones?!\r\n  \u2027 Talk to Aladdin about the monkeys.",
+                "Find 3 Golden Bananas to trade to the monkeys in exchange for the Amulet's gemstones",
+                "Trade the Golden Bananas to the monkeys for the Amulet's gemstones.",
+                "Pick up the gemstones.",
+                "Bring the Amulet's gemstones to Aladdin.",
+                "Wear the protective Amulet to safely explore the sandstorms.",
+                "Explore the sandstorms for anything to help.",
+                "Return to Aladdin in the South Market."
+            ],
+            "rewards": [
+                "Desert Protection Amulet"
+            ],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "Carpet Diem",
+            "id": "aladdin.realm.3",
+            "objectives": [
+                "Interact with the Magic Carpet to fly up toward the Windcaller.",
+                "Return to the Windcaller using the Magic Carpet.",
+                "Use your Pickaxe to destroy each of the Windcaller's Crystals:\r\n  \u2027 Red Crystal.\r\n  \u2027 Yellow Crystal.\r\n  \u2027 Blue Crystal.\r\n  \u2027 Green Crystal.",
+                "Return to Agrabah.",
+                "Talk to Aladdin in the Central Market.",
+                "Talk to Jasmine in the Central Market.",
+                "Return to the Valley and place Aladdin and Jasmine's House.",
+                "Unlock Aladdin and Jasmine's House using the Scrooge McDuck Sign.",
+                "Welcome Jasmine.",
+                "Talk to Jasmine.",
+                "Return to the Aladdin Realm and talk to Aladdin in the Central Market.",
+                "Return to the Valley with Aladdin.",
+                "Welcome Aladdin.",
+                "Talk to Aladdin.",
+                "Equip the Magic Carpet from the Companions section of your Inventory, then take a picture with him!"
+            ],
+            "rewards": [
+                "Unlock Jasmine",
+                "Unlock Aladdin",
+                "Aladdin and Jasmine's House",
+                "Magic Carpet"
+            ],
+            "dlc": false,
+            "friendship": 0
+        }
+    ]
+}

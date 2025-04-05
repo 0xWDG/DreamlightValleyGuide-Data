@@ -1,0 +1,80 @@
+{
+    "name": "jasmine.realm",
+    "quests": [
+        {
+            "name": "The Ancient Revealed",
+            "id": "jasmine.realm.1",
+            "objectives": [
+                "Enter the Aladdin Realm.",
+                "Enter the Agrabah market.",
+                "The way to Jasmine is blocked!\r\n  \u2027 Think like Aladdin, and find a way across rooftops using the environment.",
+                "Go through the back alleys by evading the dust devils.\r\n  \u2027 (Watch out! If you touch them, you'll be thrown back to a previous area.)",
+                "Continue traveling through the back alleys.\r\n  \u2027 Reach Jasmine in the market.",
+                "Follow Jasmine to the Artisans' District.",
+                "Talk to Jasmine.",
+                "Use planks to reach the rooftops leading to the Artisans' District.",
+                "Return to the Aladdin Realm.",
+                "Make your way across the rooftops to enter the Artisans' District.",
+                "Talk to Jasmine in the Artisans' District.",
+                "Find pieces of Artisans' Alloy in the market chests.\r\n  \u2027 (Continue using planks to navigate the roofs.)",
+                "Return to Jasmine in the Artisans' District.",
+                "Assemble the upgrade for your Royal Pickaxe at the Crafting Station near Jasmine.",
+                "Use the Pickaxe upgrade in your Inventory.",
+                "Break large sandstone deposits near Jasmine using your improved Pickaxe to help her leave the Artisans' District",
+                "Follow Jasmine to the South Alley.\r\n  \u2027 Talk to Jasmine at the edge of the South Alley.",
+                "Reach Aladdin, who is trapped in the South Alley.\r\n  \u2027 Find a way onto the rooftops using all you've learned.",
+                "Give Aladdin and Jasmine a moment to reunite.",
+                "Speak to Aladdin on the rooftops.",
+                "Speak to Jasmine on the rooftops."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "Breaking Through",
+            "id": "jasmine.realm.2",
+            "objectives": [
+                "Make sure you have the Ancient Tome in your Inventory.",
+                "Return to Jasmine in the Central Market with the Ancient Tome.",
+                "Talk to Aladdin in the Central Market.",
+                "Look in the desert area for all the pieces of the Alchemy Table:\r\n  \u2027 Alchemical Cauldron.\r\n  \u2027 Alchemy Table Base.\r\n  \u2027 Alchemy Table Crucible.",
+                "Return to the Artisans' District.",
+                "Place the Alchemy Table pieces in the missing spot near Aladdin in the Artisans' District.",
+                "Talk to Aladdin in the Artisans' District.",
+                "Gather fuel for the Alchemy Table's Braziers:\r\n  \u2027 2 Black Fuel Bottle from a stall in the Central Market.\r\n  \u2027 2 Charcoal from any fire pits. ",
+                "Place the Fuel and Coals in the two Braziers near the Alchemy Table.\r\n  \u2027 Left Brazier.\r\n  \u2027 Right Brazier.",
+                "Return to Aladdin in the Artisans' District.",
+                "Talk to Jasmine in the Artisans' District.",
+                "Gather resources to craft a Gold Lamp:\r\n  \u2027 18 Gold Shards from sandstone deposits.\r\n  \u2027 Lamp Mold buried in the Artisans' District.",
+                "Craft the Gold Lamp at a Crafting Station.",
+                "Return to Jasmine."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "Wish Magic",
+            "id": "jasmine.realm.3",
+            "objectives": [
+                "Talk to Aladdin about his three wishes.",
+                "Search for a Remnant of the First Wish.\r\n  \u2027 Aladdin's first wish was made in a desert oasis...",
+                "Aladdin's second wish was made in water. This will be tricky...\r\n  \u2027 Return to Jasmine in the Central Market.",
+                "Supplies to repair the fountain must be around somewhere:\r\n  \u2027 40 Gold Shard from sandstone deposits.\r\n  \u2027 3 Quicksand Mud from quicksand.",
+                "Craft new pipes to fix the fountain.\r\n  \u2027 (Use the Crafting Station in the Artisans' District or the South Market.)",
+                "Place the missing pipes near Jasmine to complete the plumbing network.",
+                "Switch the tiles on the water pipe to let the water flow to the fountain.",
+                "Gather the remnant of the second wish at the fountain.",
+                "The third wish was about Genie's freedom...\r\n  \u2027 Ask Jasmine about Genie.",
+                "Find some of Genie's Sparkles.\r\n  \u2027 Look for somewhere with a view of the palace.",
+                "Create a wish enchantment:\r\n  \u2027 Assemble all three wish remnants at the Alchemy Table.",
+                "Make sure you have everything for the new magic lamp.\r\n  \u2027 The Lamp Enchantment.\r\n  \u2027 Gold Lamp.",
+                "Bring the Gold Lamp and Lamp Enchantment to Jasmine in the Central Market."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
+        }
+    ]
+}
