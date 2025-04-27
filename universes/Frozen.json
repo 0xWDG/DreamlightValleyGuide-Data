@@ -1,0 +1,10 @@
+{
+    "name": "Frozen",
+    "price": 0,
+    "characters": [
+        "Elsa",
+        "Anna",
+        "Olaf",
+        "Kristoff"
+    ]
+}

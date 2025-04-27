@@ -1,0 +1,12 @@
+{
+    "name": "Mickey & Friends",
+    "price": 0,
+    "characters": [
+        "Daisy",
+        "Donald Duck",
+        "Goofy",
+        "Mickey Mouse",
+        "Minnie Mouse",
+        "Scrooge McDuck"
+    ]
+}

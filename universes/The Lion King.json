@@ -1,0 +1,11 @@
+{
+    "name": "The Lion King",
+    "price": 0,
+    "characters": [
+        "Simba",
+        "Scar",
+        "Nala",
+        "Timon",
+        "Pumbaa"
+    ]
+}

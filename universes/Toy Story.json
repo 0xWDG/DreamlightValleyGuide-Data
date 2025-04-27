@@ -1,0 +1,8 @@
+{
+    "name": "Toy Story",
+    "price": 0,
+    "characters": [
+        "Buzz Lightyear",
+        "Woody"
+    ]
+}
