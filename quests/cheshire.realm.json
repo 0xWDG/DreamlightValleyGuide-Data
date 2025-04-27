@@ -1,0 +1,49 @@
+{
+    "name": "cheshire.realm",
+    "quests": [
+        {
+            "name": "Wonders of Wonderland",
+            "id": "cheshire.realm.1",
+            "objectives": [
+                "Talk to Merlin about the tiny door to the Alice in Wonderland Realm.",
+                "Follow the White Rabbit by exiting the Dream Castle into the Village.",
+                "Follow the White Rabbit in the Plaza in Dreamlight Valley.",
+                "Pick up the Pocket Watch the rabbit left behind.",
+                "Inspect the rabbit hole on the slope that leads from the Plaza into the Forest of Valor.",
+                "Explore the forest in the Alice in Wonderland Realm.",
+                "Talk to Alice.",
+                "Follow Alice in the forest.",
+                "Inspect the footprints on the ground.",
+                "Examine the strange red tree in the Wonderland Realm.",
+                "Talk to Cheshire Cat.",
+                "Search for the 3 Cheshire Cat's smile in the forest of the Alice in Wonderland Realm.",
+                "Return to the red tree to talk to Cheshire Cat.",
+                "Find Ingredients in the Wonderland Realm to cook More Time in hidden chests:\r\n  \u2027 Wonderland Salt.\r\n  \u2027 Wonderland Sugar.\r\n  \u2027 More Wonderland Sugar.\r\n  \u2027 Tea Leaves.\r\n  \u2027 Butter.\r\n  \u2027 Jam.\r\n  \u2027 Lemon.",
+                "Talk to Cheshire Cat at his tree.",
+                "Cook the meals required to make More Time:\r\n  \u2027 A Spicy Moment.\r\n  \u2027 A Sweet Moment.",
+                "Cook More Time in the Alice in Wonderland Realm forest.",
+                "Eat More Time as the Cheshire Cat instructed...",
+                "Talk to Cheshire Cat.",
+                "Follow the Mome Rath arrows to the exit of the forest.\r\n  \u2027 Or, search for the exit on your own.",
+                "Use the portal in the tree to continue your search for Alice."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "The Queen's Maze",
+            "id": "cheshire.realm.2",
+            "objectives": [
+                "Talk to Cheshire Cat in the Queen's Maze near the tree portal.",
+                "Find the lever to open the first gate in the Queen's Maze.\r\n  \u2027 (Be sure to avoid being seen by the guards!)",
+                "Find the lever to open the second gate in the Queen's Maze.",
+                "Find the levers to open the final gate in the Queen's Maze.",
+                "Reach the exit of the Queen's Maze."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
+        }
+    ]
+}

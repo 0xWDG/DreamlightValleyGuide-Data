@@ -1,0 +1,23 @@
+{
+    "name": "Alice",
+    "origin": "Alice in Wonderland",
+    "house": "Alice's House",
+    "description": "Alice is a character from the Disney film Alice in Wonderland (1951). She is unlocked after opening the Alice in Wonderland Realm, completing the quest Leaving Wonderland, and placing Alice's House.",
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Wonderland Bed",
+        "Card Symbols Pattern Motif",
+        "StarCoins 500",
+        "Talkative Doorknob Door",
+        "10-6 Motif",
+        "StarCoins 1000",
+        "Royal Red Armchair",
+        "Alice White Bow Motif",
+        "Whimsical Wonderland Dress"
+    ],
+    "quests": [
+        "alice.friendship",
+        "alice.realm"
+    ]
+}

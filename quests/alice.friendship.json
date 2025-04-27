@@ -1,0 +1,149 @@
+{
+    "name": "alice.friendship",
+    "quests": [
+        {
+            "name": "Books with No Pictures",
+            "id": "alice.friendship.1",
+            "objectives": [
+                "Speak with Vanellope about hanging out with Alice.",
+                "Go inside the Dreamlight Library.",
+                "Talk to Alice and Vanellope.",
+                "Find someone who has a clue about the location of the Magical Nouns.\r\n  \u2027 Mickey Mouse.\r\n  \u2027 Goofy.\r\n  \u2027 Scrooge McDuck.",
+                "Fish 3 Magical Nouns from ponds in the Peaceful Meadow.",
+                "Bring the Magical Nouns to Alice.",
+                "The Magical Verbs have fled to the Dream Castle. Go catch them!",
+                "Catch the 3 Magical Verbs within the Dream Castle.",
+                "Make sure you have all the Magical Verbs in your Inventory.",
+                "Bring the Magical Verbs to Alice.",
+                "Search the Valley for 3 Magical Adjectives and gather them.",
+                "The Magical Adjectives are missing? Someone may have picked them - talk to the following Villagers about it:\r\n  \u2027 Ursula.\r\n  \u2027 Mirabel.\r\n  \u2027 Remy.",
+                "Search Mickey's House for the last Magical Adjective.",
+                "Make sure you have all the 3 Magical Adjectives in your Inventory.",
+                "Bring the Magical Adjectives to Alice.",
+                "Listen to Alice read her silly poetry to Merlin.",
+                "Talk to Merlin about Alice's poetry experiment.",
+                "Gather the following materials to craft a Literary Pop-Up Book:\r\n  \u2027 4 Sunflower.\r\n  \u2027 5 Pink Hydrangea.\r\n  \u2027 9 Softwood.\r\n  \u2027 12 Fiber.",
+                "Craft a Literary Pop-Up Book.",
+                "Talk to Alice about spending some time with the Magical Words.",
+                "Make a cozy reading room for Alice and Vanellope in your House:",
+                "Literary Pop-Up Book.\r\n  \u2027 Rug.\r\n  \u2027 Table.\r\n  \u2027 2 Lights.\r\n  \u2027 3 Calm Furniture.",
+                "Read Alice the story in the Literary Pop-Up Book."
+            ],
+            "rewards": [
+                "440 Friendship",
+                "Literary Pop-Up Book"
+            ],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "Mimsy Were the Borogoves",
+            "id": "alice.friendship.2",
+            "objectives": [
+                "Search for something buried near \"a place of sunbaked pleasure.\"",
+                "Bring the message in the bottle to Alice.",
+                "Find a \"dark cavern with mystic lights.\"",
+                "Search the Mystical Cave for the Mome Raths.",
+                "Talk to Alice.",
+                "Water each group of False Mome Raths as you descend to the bottom of the cave.",
+                "Retrieve the Poem in a Bottle from the water.",
+                "Show the Poem in a Bottle to Alice in the Mystical Cave.",
+                "Head back into the Valley.",
+                "Search for the Jabberwock in its \"house of bark\" in \"a wooded yard.\"",
+                "Approach the Jabberwock's lair with Alice.",
+                "Gather the following material to craft Wonderland Candles:\r\n  \u2027 3 Tinkering Parts.\r\n  \u2027 6 Glass.\r\n  \u2027 9 Coal Ore.\r\n  \u2027 10 Red Bell Flower.\r\n  \u2027 12 Yellow Daisy.",
+                "Craft 6 Wonderland Candles.",
+                "Head back to where the Jabberwock is hiding in the Forest of Valor.",
+                "Place the 6 Wonderland Candles near where the Jabberwock is hiding.",
+                "Retrieve what's inside the log.",
+                "Make sure you have the Kaleidoscope in your Inventory.",
+                "Give what you've found to Alice."
+            ],
+            "rewards": [
+                "880 Friendship",
+                "6 Wonderland Candle",
+                "Wonderland Candle Recipe"
+            ],
+            "dlc": false,
+            "friendship": 4
+        },
+        {
+            "name": "The Fractured Glass",
+            "id": "alice.friendship.3",
+            "objectives": [
+                "Talk to the following Villagers:\r\n  \u2027 Scrooge McDuck.\r\n  \u2027 Mother Gothel.\r\n  \u2027 Olaf.",
+                "Head into Alice's House to continue your investigations.",
+                "Search for anything that could explain Alice's strange behavior.",
+                "There are two Alices now?! Talk to Happy Alice about it.",
+                "Cook the following meals for Sad Alice:\r\n  \u2027 Banana Ice Cream.\r\n  \u2027 Chocolate Ice Cream.\r\n  \u2027 Vanilla Ice Cream.",
+                "Head back inside Alice's House top give Sad Alice some ice cream.",
+                "Place the ice cream in front of the teapot.",
+                "Ask Sad Alice if she liked the ice cream.",
+                "Head inside Scrooge's Store.",
+                "Talk to Scrooge McDuck about the two Alices.",
+                "Clean up each pile of Broken Merchandise in Scrooge McDuck's Store.",
+                "Talk to Scrooge McDuck about the Alice situation once more.",
+                "Ask Merlin about the magic of Alice's Kaleidoscope.",
+                "Gather flowers for Sad Alice:\r\n  \u2027 3 Blue Flowers.\r\n  \u2027 4 Red Flowers.\r\n  \u2027 6 Yellow Flowers.",
+                "Go back to Alice's House.",
+                "Listen to Sad Alice and Scrooge.",
+                "Listen to Sad Alice and Olaf.",
+                "Listen to Happy Alice and Mother Gothel.",
+                "Make sure you have the flowers to cheer up Sad Alice:\r\n  \u2027 3 Blue Flowers.\r\n  \u2027 4 Red Flowers.\r\n  \u2027 6 Yellow Flowers.",
+                "Bring the flowers to Sad Alice.",
+                "Listen to Happy Alice and Sad Alice.",
+                "Talk to the reunified Alice."
+            ],
+            "rewards": [
+                "2200 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "A Very Merry Unbirthday",
+            "id": "alice.friendship.4",
+            "objectives": [
+                "Talk to Alice about something silly.",
+                "Ask Remy for some silly baking tips.",
+                "Gather Ingredients for an Unbirthday Cake:\r\n  \u2027 Banana.\r\n  \u2027 Raspberry.\r\n  \u2027 Blueberry.\r\n  \u2027 3 Milk.\r\n  \u2027 3 Wheat.\r\n  \u2027 6 Egg.",
+                "Cook the layers for the Unbirthday Cake:\r\n  \u2027 Banana Cake Layer.\r\n  \u2027 Blueberry Cake Layer.\r\n  \u2027 Raspberry Cake Layer.",
+                "Make sure you have the following items in your Inventory:\r\n  \u2027 Banana Cake Layer.\r\n  \u2027 Blueberry Cake Layer.\r\n  \u2027 Raspberry Cake Layer.",
+                "Bring the layers of the Unbirthday Cake to Alice.",
+                "Find some Villagers that could help with the Unbirthday Cake:\r\n  \u2027 A fiery Villager with knowledge of candles.\r\n  \u2027 A sweet-toothed Villager with a love of candies.",
+                "Gather the Ingredients to craft some Unbirthday Party Candles:\r\n  \u2027 4 Blue Passion Lily.\r\n  \u2027 5 Red Nasturtium.\r\n  \u2027 7 Green Passion Lily.\r\n  \u2027 12 Coal Ore.",
+                "Craft some Unbirthday Party Candles.",
+                "Make sure you have the following Unbirthday Cake accessories in your Inventory:\r\n  \u2027 Unbirthday Party Candles\r\n  \u2027 Unbirthday Cake Sprinkles\r\n  \u2027 Unbirthday Cake Lollipops",
+                "Bring the Unbirthday Cake accessories to Alice.",
+                "Ask the following Villagers for silly cake decorations:\r\n  \u2027 Pumbaa.\r\n  \u2027 Goofy.\r\n  \u2027 Anna.",
+                "Go back to Alice's House with the silly cake decorations.",
+                "Talk to Alice about the silly cake decorations you found.",
+                "Start making the Unbirthday Cake:\r\n  \u2027 Pick up each layer from the table and add it to the cake.",
+                "Add some icing to the Unbirthday Cake from the supplies on the table.",
+                "Add some Unbirthday Candies to the cake from the supplies on the table.",
+                "Finally, add the non-edible toppers from the supplies on the table to the Unbirthday Cake.",
+                "To finish it off, add the Kaleidoscope!",
+                "Talk to Alice about the completed Unbirthday Cake.",
+                "The Unbirthday Cake disappeared?! Investigate the area for clues.",
+                "Bring what you've found to Alice.",
+                "Ask WALL-E about the Cheshire Cat's riddle.",
+                "Plant and tend to the seed that WALL-E gave you.",
+                "Make sure you have the Purple Cactus Flower in your Inventory.",
+                "Bring the Purple Cactus Flower to Cheshire Cat in the Dream Castle.",
+                "Make sure you have the Unbirthday Cake in your Inventory.",
+                "Bring the Unbirthday Cake back to Alice.",
+                "Place the Unbirthday Cake in the Valley where everyone can appreciate it.",
+                "Celebrate the Unbirthday Party!",
+                "Talk to Alice about the Unbirthday Party."
+            ],
+            "rewards": [
+                "2200 Friendship",
+                "Whimsical Wonderland Dress",
+                "Kaleidoscope",
+                "Unbirthday Cake"
+            ],
+            "dlc": false,
+            "friendship": 10
+        }
+    ]
+}
