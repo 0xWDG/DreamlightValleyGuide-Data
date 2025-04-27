@@ -1,0 +1,76 @@
+{
+    "name": "alice.realm",
+    "quests": [
+        {
+            "name": "Teeny, Tiny Problems",
+            "id": "alice.realm.1",
+            "objectives": [
+                "Talk to Alice on the Queen's tea table.",
+                "Return to the forest in the Alice in Wonderland Realm.\r\n  \u2027 (Optional) Use Alice's springy mushroom shortcut to bypass the guards.",
+                "Talk to Cheshire Cat in his tree in the forest.",
+                "Fish for a \"jar of hearts\" in the entrance to the Alice in Wonderland Realm.",
+                "Talk to the matriarch of the Singing Flowers in the middle of the Wonderland forest.",
+                "Water the 3 Singing Flowers.",
+                "Pick up the Bags of Discontented Seeds.",
+                "Dress up in something blue next to the mushroom to cheer it up.",
+                "Find a mushroom who's feeling blue.",
+                "Pick up the Blue Mushroom.",
+                "Find the curious Pencil Bird.",
+                "Craft the Contrary Perfume.",
+                "Return to Alice in the Queen of Hearts' Garden.",
+                "Make sure you have the Contrary Perfume in your Inventory.",
+                "Give Alice the Contrary Perfume so she can return to regular size.",
+                "Follow Alice in the Queen's Garden.",
+                "Use the Contrary Perfume near the tea table in the Queen's Garden.",
+                "Take a picture of the setup on the Queen of Heart's tea table.",
+                "Find a way to reach the squeeze bulb on the big bottle of Contrary Perfume.",
+                "Touch the perfume puddles to grow back to your regular size.",
+                "Talk with Alice.",
+                "Search for the Queen of Hearts' games around the garden.\r\n  \u2027 Playing Cards.\r\n  \u2027 Lost Marbles.\r\n  \u2027 Lovely Dice.",
+                "Place the game items you found on the table.",
+                "Use the Contrary Perfume to shrink down again.",
+                "Find the four Cage Keys hidden on the table.",
+                "Give Alice the four Cage Keys."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "Leaving Wonderland",
+            "id": "alice.realm.2",
+            "objectives": [
+                "Speak with Alice about the escape of the critters.",
+                "Apply the Pot of Red Paint to your Royal Watering Can.",
+                "Paint the roses red in the Queen of Hearts' Garden.\r\n  \u2027 First Tree.\r\n  \u2027 Second Tree.\r\n  \u2027 Third Tree.\r\n  \u2027 Fourth Tree.\r\n  \u2027 Fifth Tree.",
+                "Clean up the 7 Broken Plates.",
+                "Remove the 7 burrow holes with your Royal Shovel.",
+                "Talk to Alice.",
+                "Return to the forest where you first arrived in the Alice in Wonderland Realm.",
+                "Meet Alice in the forest where you first arrived in the Realm.",
+                "Listen to Alice and the Cheshire Cat close to his tree in the Wonderland Realm forest.",
+                "Light the correct combination of glowing mushrooms.",
+                "Talk to Alice.",
+                "Water the tiny door with the perfume in your Royal Watering Can.",
+                "Tell Alice it's time to go to Dreamlight Valley.",
+                "Go through the door to Dreamlight Valley.",
+                "Place Alice's House foundations somewhere in the Valley.",
+                "Build Alice's House.",
+                "Welcome Alice to Dreamlight Valley!",
+                "Ask Alice about where the Cheshire Cat might be.",
+                "Return to the Alice in Wonderland Realm to find the Cheshire Cat.",
+                "Talk to the Cheshire Cat in his tree in the Alice in Wonderland Realm.",
+                "The Cheshire Cat vanished! Follow the trail of paw prints he left behind...",
+                "Use the Realm door to return to Dreamlight Valley.",
+                "Follow the trail of prints in the Dream Castle...",
+                "The Cheshire Cat has vanished in the Valley! Talk to Alice about it..."
+            ],
+            "rewards": [
+                "Unlock Alice",
+                "Alice's House"
+            ],
+            "dlc": false,
+            "friendship": 0
+        }
+    ]
+}
