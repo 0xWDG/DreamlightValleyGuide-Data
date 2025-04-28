@@ -1,0 +1,11 @@
+{
+    "name": "Yellow Bird Snippet",
+    "description": "Birds: Yellow Bird Snippet",
+    "icon": "Yellow Bird Snippet",
+    "type": "Birds",
+    "price": 30,
+    "found": [
+        "The Wild Woods"
+    ],
+    "maxSpawns": 0
+}

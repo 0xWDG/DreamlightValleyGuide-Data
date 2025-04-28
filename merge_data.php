@@ -9,7 +9,8 @@ $data = [];
 foreach ($files as $file) {
     $category = explode("/", $file)[0];
 
-    if ($category == "build") {
+    if ($category == "build" || $category == "assets") {
+        // Skip the build and assets directories
         continue;
     }
 

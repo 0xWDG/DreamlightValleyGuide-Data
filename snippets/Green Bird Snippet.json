@@ -1,0 +1,11 @@
+{
+    "name": "Green Bird Snippet",
+    "description": "Birds: Green Bird Snippet",
+    "icon": "Green Bird Snippet",
+    "type": "Birds",
+    "price": 30,
+    "found": [
+        "The Elysian Fields"
+    ],
+    "maxSpawns": 0
+}

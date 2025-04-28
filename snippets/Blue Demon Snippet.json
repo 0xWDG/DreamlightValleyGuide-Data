@@ -1,0 +1,12 @@
+{
+    "name": "Blue Demon Snippet",
+    "description": "Demons: Blue Demon Snippet",
+    "icon": "Blue Demon Snippet",
+    "type": "Demons",
+    "price": 20,
+    "found": [
+        "The Fiery Plains",
+        "The Fallen Fortress"
+    ],
+    "maxSpawns": 0
+}
