@@ -1,0 +1,15 @@
+{
+    "name": "Clam",
+    "description": "Can be found on Dazzle Beach. Go and explore!",
+    "type": [
+        "digging"
+    ],
+    "icon": "\ud83e\uddf1",
+    "price": 20,
+    "gift": 200,
+    "energy": 120,
+    "maxSpawns": 0,
+    "found": [
+        "Dazzle Beach"
+    ]
+}

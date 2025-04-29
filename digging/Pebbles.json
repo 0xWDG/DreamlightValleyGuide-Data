@@ -1,8 +1,12 @@
 {
     "name": "Pebbles",
     "description": "You need a lot of pebbles to make a mountain...",
+    "type": [
+        "digging"
+    ],
     "icon": "\ud83e\udea8",
     "price": 10,
+    "gift": 25,
     "found": [
         "Dazzle Beach",
         "Forest of Valor",

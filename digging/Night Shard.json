@@ -1,15 +1,13 @@
 {
     "name": "Night Shard",
     "description": "The opposite of a Dream Shard. Be careful.",
+    "type": [
+        "digging"
+    ],
     "icon": "\ud83d\udc8e",
     "price": 0,
+    "gift": 25,
     "found": [
-        "Plaza",
-        "Peaceful Meadow",
-        "Forest of Valor",
-        "Glade of Trust",
-        "Sunlit Plateau",
-        "Frosted Heights",
-        "Forgotten Lands"
+        "Everywhere"
     ]
 }

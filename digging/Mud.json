@@ -1,6 +1,9 @@
 {
     "name": "Mud",
     "description": "Perfectly suitable for mud pies or a fancy spa day and everything in between.",
+    "type": [
+        "digging"
+    ],
     "icon": "\ud83e\udea8",
     "price": 10,
     "giftReward": 0,

@@ -1,6 +1,9 @@
 {
     "name": "Broken Weapon",
     "description": "A broken sword and shield.",
+    "type": [
+        "digging"
+    ],
     "icon": "\ud83e\udea8",
     "price": 25,
     "giftReward": 0,
