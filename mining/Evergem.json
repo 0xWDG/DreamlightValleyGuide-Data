@@ -1,0 +1,10 @@
+{
+    "name": "Evergem",
+    "description": "Evergem is a gem which can be found when mining rock nodes using the Pickaxe in The Ruins area of Ancient's Landing.",
+    "icon": "\ud83d\udc8e",
+    "price": 300,
+    "gift": 600,
+    "found": [
+        "The Ruins"
+    ]
+}

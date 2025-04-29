@@ -9,8 +9,9 @@ $data = [];
 foreach ($files as $file) {
     $category = explode("/", $file)[0];
 
-    if ($category == "build" || $category == "assets") {
+    if ($category == "build" || $category == "assets" || !preg_match("/\.json/", $file)) {
         // Skip the build and assets directories
+        // Skip non-JSON files
         continue;
     }
 

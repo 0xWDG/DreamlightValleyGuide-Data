@@ -2,7 +2,8 @@
     "name": "Shiny Amethyst",
     "description": "A rare purple gem that can be mined.",
     "icon": "\ud83d\udc8e",
-    "price": 2,
+    "price": 2000,
+    "gift": 600,
     "found": [
         "Forgotten Lands",
         "Frosted Heights"

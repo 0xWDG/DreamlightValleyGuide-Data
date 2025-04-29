@@ -1,0 +1,10 @@
+{
+    "name": "Shiny Star Sapphire",
+    "description": "This rare form of sapphire has crystallized into a star shape.",
+    "icon": "\ud83d\udc8e",
+    "price": 1800,
+    "gift": 600,
+    "found": [
+        "Everafter"
+    ]
+}

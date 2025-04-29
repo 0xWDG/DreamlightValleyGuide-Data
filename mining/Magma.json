@@ -1,0 +1,10 @@
+{
+    "name": "Magma",
+    "description": "Lifeblood of the earth itself, this magma is incredibly hot.",
+    "icon": "\ud83d\udc8e",
+    "price": 400,
+    "gift": 600,
+    "found": [
+        "Mythopia"
+    ]
+}

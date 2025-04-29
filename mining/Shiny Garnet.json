@@ -3,6 +3,7 @@
     "description": "A rare red mineral that can be mined.",
     "icon": "\ud83d\udc8e",
     "price": 640,
+    "gift": 600,
     "found": [
         "Peaceful Meadow",
         "Plaza"

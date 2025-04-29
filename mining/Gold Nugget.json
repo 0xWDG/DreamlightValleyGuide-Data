@@ -3,10 +3,12 @@
     "description": "To think all gold coins looked like this at some point.",
     "icon": "\ud83d\udfe1",
     "price": 20,
+    "gift": 25,
     "found": [
         "Frosted Heights",
         "Sunlit Plateau",
         "Forgotten Lands",
-        "Vitalys Mine"
+        "Vitalys Mine",
+        "Mythopia"
     ]
 }

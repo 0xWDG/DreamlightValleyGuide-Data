@@ -3,6 +3,7 @@
     "description": "A light blue mineral that can be mined.",
     "icon": "\ud83d\udc8e",
     "price": 250,
+    "gift": 600,
     "found": [
         "Dazzle Beach",
         "Forest of Valor"
