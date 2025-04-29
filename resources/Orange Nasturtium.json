@@ -1,10 +1,12 @@
 {
     "name": "Orange Nasturtium",
     "description": "Orange petals bloom from a yellow bulb.",
-    "icon": "\ud83c\udf3a",
     "price": 60,
     "maxSpawns": 3,
     "found": [
         "Forgotten Lands"
+    ],
+    "activity": [
+        "foraging"
     ]
 }

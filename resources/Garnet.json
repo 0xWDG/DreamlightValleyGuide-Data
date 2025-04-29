@@ -1,7 +1,6 @@
 {
     "name": "Garnet",
     "description": "A red mineral that can be mined.",
-    "icon": "\ud83d\udc8e",
     "price": 160,
     "gift": 600,
     "found": [
@@ -9,5 +8,8 @@
         "Plaza",
         "The Plains",
         "The Wastes"
+    ],
+    "activity": [
+        "mining"
     ]
 }

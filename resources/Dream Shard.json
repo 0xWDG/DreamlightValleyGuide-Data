@@ -2,9 +2,9 @@
     "name": "Dream Shard",
     "description": "A crystallized form of Dreamlight magic.",
     "activity": [
-        "digging"
+        "digging",
+        "foraging"
     ],
-    "icon": "\ud83d\udc8e",
     "price": 0,
     "gift": 25,
     "found": [

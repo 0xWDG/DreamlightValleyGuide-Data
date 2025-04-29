@@ -2,9 +2,9 @@
     "name": "Volcanic Rock",
     "description": "This gray-black rock seems oddly porous and may even float.",
     "activity": [
-        "digging"
+        "digging",
+        "foraging"
     ],
-    "icon": "\ud83c\udf3a",
     "price": 30,
     "gift": 0,
     "maxSpawns": 0,

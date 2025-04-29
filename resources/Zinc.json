@@ -1,11 +1,13 @@
 {
     "name": "Zinc",
     "description": "Zinc is a foraged material that can be found mining rock nodes in the Wild Tangle.",
-    "icon": "\ud83e\udea8",
     "price": 30,
-    "giftReward": 25,
     "maxSpawns": 5,
     "found": [
         "Wild Tangle"
-    ]
+    ],
+    "activity": [
+        "foraging"
+    ],
+    "gift": 25
 }

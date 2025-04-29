@@ -1,0 +1,14 @@
+{
+    "name": "Tuna",
+    "description": "Large fish who make their home in the ocean.",
+    "rarity": "White",
+    "price": 95,
+    "energy": 350,
+    "found": [
+        "Forgotten Lands",
+        "Glade of Trust"
+    ],
+    "activity": [
+        "fishing"
+    ]
+}

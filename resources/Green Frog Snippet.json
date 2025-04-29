@@ -1,0 +1,14 @@
+{
+    "name": "Green Frog Snippet",
+    "description": "Frogs: Green Frog Snippet",
+    "type": "Frogs",
+    "price": 10,
+    "found": [
+        "The Wild Woods",
+        "Teapot Falls"
+    ],
+    "maxSpawns": 0,
+    "activity": [
+        "snippets"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Yellow Frog Snippet",
+    "description": "Frogs: Yellow Frog Snippet",
+    "type": "Frogs",
+    "price": 10,
+    "found": [
+        "The Beanstalk Marshes"
+    ],
+    "maxSpawns": 0,
+    "activity": [
+        "snippets"
+    ]
+}

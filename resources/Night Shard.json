@@ -2,9 +2,9 @@
     "name": "Night Shard",
     "description": "The opposite of a Dream Shard. Be careful.",
     "activity": [
-        "digging"
+        "digging",
+        "foraging"
     ],
-    "icon": "\ud83d\udc8e",
     "price": 0,
     "gift": 25,
     "found": [

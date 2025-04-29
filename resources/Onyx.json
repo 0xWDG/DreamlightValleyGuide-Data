@@ -1,10 +1,12 @@
 {
     "name": "Onyx",
     "description": "This stone is as dark as night and as precious as it is hard to find. You wonder if it could be used to improve your Royal Pickaxe in some way.",
-    "icon": "\ud83d\udc8e",
     "price": 300,
     "gift": 600,
     "found": [
         "All Biomes"
+    ],
+    "activity": [
+        "mining"
     ]
 }

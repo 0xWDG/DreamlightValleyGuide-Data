@@ -1,10 +1,12 @@
 {
     "name": "White Bell Flower",
     "description": "A beautiful white flower shaped like a bell.",
-    "icon": "\ud83c\udf3a",
     "price": 60,
     "maxSpawns": 2,
     "found": [
         "Forest of Valor"
+    ],
+    "activity": [
+        "foraging"
     ]
 }

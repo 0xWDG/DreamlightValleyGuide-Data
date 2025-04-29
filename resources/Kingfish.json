@@ -1,0 +1,13 @@
+{
+    "name": "Kingfish",
+    "description": "A mackerel found in warmer ocean waters.",
+    "rarity": "Blue",
+    "price": 450,
+    "energy": 800,
+    "found": [
+        "Dazzle Beach"
+    ],
+    "activity": [
+        "fishing"
+    ]
+}

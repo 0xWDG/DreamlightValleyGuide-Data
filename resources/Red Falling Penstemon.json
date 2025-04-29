@@ -1,10 +1,12 @@
 {
     "name": "Red Falling Penstemon",
     "description": "Red wildflowers that droop when in bloom.",
-    "icon": "\ud83c\udf3a",
     "price": 18,
     "maxSpawns": 6,
     "found": [
         "Plaza"
+    ],
+    "activity": [
+        "foraging"
     ]
 }

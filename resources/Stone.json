@@ -1,10 +1,15 @@
 {
     "name": "Stone",
     "description": "Some imagination can turn stone into art.",
-    "icon": "\ud83e\uddf1",
     "price": 2,
-    "gift": 25,
+    "maxSpawns": 0,
     "found": [
-        "All Biomes"
+        "Kristoff's Stall Mining",
+        "All Biomes",
+        "Removing rocks"
+    ],
+    "activity": [
+        "foraging",
+        "mining"
     ]
 }

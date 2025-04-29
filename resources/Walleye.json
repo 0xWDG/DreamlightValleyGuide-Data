@@ -1,0 +1,13 @@
+{
+    "name": "Walleye",
+    "description": "Large brown fish found in fresh waters.",
+    "rarity": "Gold",
+    "price": 1,
+    "energy": 1,
+    "found": [
+        "Sunlit Plateau"
+    ],
+    "activity": [
+        "fishing"
+    ]
+}

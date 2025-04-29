@@ -1,10 +1,12 @@
 {
     "name": "Dandelion",
     "description": "A yellow wildflower widely used in medicine.",
-    "icon": "\ud83c\udf3a",
     "price": 23,
     "maxSpawns": 4,
     "found": [
         "Plaza"
+    ],
+    "activity": [
+        "foraging"
     ]
 }

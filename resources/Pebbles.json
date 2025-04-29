@@ -2,9 +2,9 @@
     "name": "Pebbles",
     "description": "You need a lot of pebbles to make a mountain...",
     "activity": [
-        "digging"
+        "digging",
+        "foraging"
     ],
-    "icon": "\ud83e\udea8",
     "price": 10,
     "gift": 25,
     "found": [

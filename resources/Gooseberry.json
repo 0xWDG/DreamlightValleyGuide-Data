@@ -1,12 +1,14 @@
 {
     "name": "Gooseberry",
     "description": "Gooseberry is a fruit type ingredient used in cooking. It can be found growing on Gooseberry Bushes in the Frosted Heights and Forgotten Lands.",
-    "icon": "\ud83d\udc8e",
     "price": 0,
     "maxSpawns": 3,
     "timeToSpawn": 40,
     "found": [
         "Frosted Heights",
         "Forgotten Lands"
+    ],
+    "activity": [
+        "foraging"
     ]
 }

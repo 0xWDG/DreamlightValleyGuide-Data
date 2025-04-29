@@ -1,11 +1,13 @@
 {
     "name": "Green Reward Chest",
     "description": "Green Reward Chest is an obstacle that can be cleared to collect materials. One will spawn daily anywhere outdoors in the Valley on paved or unpaved ground. They can also occasionally be found by Digging. A maximum of 3 can be in the Village at one time before they stop spawning daily. They will persist until the player clears them.",
-    "icon": "\ud83d\udc8e",
     "price": 0,
     "maxSpawns": 3,
     "timeToSpawn": 24,
     "found": [
         "Everywhere"
+    ],
+    "activity": [
+        "foraging"
     ]
 }

@@ -1,10 +1,12 @@
 {
     "name": "Shiny Pure Ice",
     "description": "This ice froze so solidly it now shines defiantly in the sun.",
-    "icon": "\ud83d\udc8e",
     "price": 1200,
     "gift": 600,
     "found": [
         "Everafter"
+    ],
+    "activity": [
+        "mining"
     ]
 }

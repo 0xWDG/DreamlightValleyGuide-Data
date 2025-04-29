@@ -1,10 +1,12 @@
 {
     "name": "Blue Star Lily",
     "description": "The white petals bloom from a blue center.",
-    "icon": "\ud83c\udf3a",
     "price": 30,
     "maxSpawns": 4,
     "found": [
         "Forest of Valor"
+    ],
+    "activity": [
+        "foraging"
     ]
 }

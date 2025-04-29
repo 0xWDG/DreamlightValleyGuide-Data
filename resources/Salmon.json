@@ -1,0 +1,14 @@
+{
+    "name": "Salmon",
+    "description": "A common fish found just about everywhere!",
+    "rarity": "White",
+    "price": 150,
+    "energy": 500,
+    "found": [
+        "Frosted Heights",
+        "Sunlit Plateau"
+    ],
+    "activity": [
+        "fishing"
+    ]
+}

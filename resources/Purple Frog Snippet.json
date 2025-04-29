@@ -1,0 +1,13 @@
+{
+    "name": "Purple Frog Snippet",
+    "description": "Frogs: Purple Frog Snippet",
+    "type": "Frogs",
+    "price": 10,
+    "found": [
+        "The Fallen Fortress"
+    ],
+    "maxSpawns": 0,
+    "activity": [
+        "snippets"
+    ]
+}

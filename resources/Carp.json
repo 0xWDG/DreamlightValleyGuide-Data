@@ -1,0 +1,14 @@
+{
+    "name": "Carp",
+    "description": "A common freshwater fish.",
+    "rarity": "Blue",
+    "price": 400,
+    "energy": 800,
+    "found": [
+        "Forest of Valor",
+        "Sunlit Plateau"
+    ],
+    "activity": [
+        "fishing"
+    ]
+}

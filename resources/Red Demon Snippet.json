@@ -1,0 +1,13 @@
+{
+    "name": "Red Demon Snippet",
+    "description": "Demons: Red Demon Snippet",
+    "type": "Demons",
+    "price": 10,
+    "found": [
+        "The Statue's Shadow"
+    ],
+    "maxSpawns": 0,
+    "activity": [
+        "snippets"
+    ]
+}

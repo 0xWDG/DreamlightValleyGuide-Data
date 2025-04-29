@@ -2,9 +2,9 @@
     "name": "Amber",
     "description": "An orange rock that could be great for making jewelry.",
     "activity": [
-        "digging"
+        "digging",
+        "foraging"
     ],
-    "icon": "\ud83e\uddf1",
     "price": 30,
     "gift": 25,
     "found": [

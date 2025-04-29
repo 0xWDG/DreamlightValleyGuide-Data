@@ -1,7 +1,6 @@
 {
     "name": "Dry Wood",
     "description": "A tangle of dry wood waiting to become something more.",
-    "icon": "\ud83e\udeb5",
     "price": 25,
     "maxSpawns": 0,
     "found": [
@@ -9,5 +8,8 @@
         "Sunlit Plateau",
         "Frosted Heights",
         "Forgotten Lands"
+    ],
+    "activity": [
+        "foraging"
     ]
 }

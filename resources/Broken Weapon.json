@@ -2,13 +2,13 @@
     "name": "Broken Weapon",
     "description": "A broken sword and shield.",
     "activity": [
-        "digging"
+        "digging",
+        "foraging"
     ],
-    "icon": "\ud83e\udea8",
     "price": 25,
-    "giftReward": 0,
     "maxSpawns": 0,
     "found": [
         "Mythopia"
-    ]
+    ],
+    "gift": 0
 }

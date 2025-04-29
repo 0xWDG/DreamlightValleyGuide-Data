@@ -1,0 +1,16 @@
+{
+    "name": "Sugarcane",
+    "description": "Sugar cane is a tropical grass that grows 10\u201320 feet high. Unlike sugar beets, it's perennial, meaning it doesn't need to be replanted every year. When harvested, sugar cane is cut just above the root level so new sprouts will grow, ready to be harvested again in 10\u201312 months.",
+    "type": "Sweets",
+    "biome": "Dazzle Beach",
+    "grow": "7min",
+    "water": 1,
+    "yield": 1,
+    "seed": 5,
+    "sell": 19,
+    "profit": 14,
+    "coins": "2",
+    "activity": [
+        "gardening"
+    ]
+}

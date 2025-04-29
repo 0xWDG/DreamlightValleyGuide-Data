@@ -1,7 +1,6 @@
 {
     "name": "Hardwood",
     "description": "A pile of sturdy wood waiting to become something more.",
-    "icon": "\ud83e\udeb5",
     "price": 10,
     "maxSpawns": 0,
     "found": [
@@ -10,5 +9,8 @@
         "Glade of Trust",
         "Sunlit Plateau",
         "Frosted Heights"
+    ],
+    "activity": [
+        "foraging"
     ]
 }

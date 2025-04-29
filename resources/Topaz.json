@@ -1,10 +1,12 @@
 {
     "name": "Topaz",
     "description": "An orange mineral that can be mined.",
-    "icon": "\ud83d\udc8e",
     "price": 240,
     "gift": 600,
     "found": [
         "Plaza"
+    ],
+    "activity": [
+        "mining"
     ]
 }

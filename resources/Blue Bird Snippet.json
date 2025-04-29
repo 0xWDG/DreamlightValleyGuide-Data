@@ -1,0 +1,13 @@
+{
+    "name": "Blue Bird Snippet",
+    "description": "Birds: Blue Bird Snippet",
+    "type": "Birds",
+    "price": 10,
+    "found": [
+        "The Bind"
+    ],
+    "maxSpawns": 0,
+    "activity": [
+        "snippets"
+    ]
+}

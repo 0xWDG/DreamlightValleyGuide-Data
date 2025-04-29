@@ -1,0 +1,13 @@
+{
+    "name": "White Sturgeon",
+    "description": "These huge fish can live to be 100 years old!",
+    "rarity": "Gold",
+    "price": 1,
+    "energy": 1,
+    "found": [
+        "Frosted Heights"
+    ],
+    "activity": [
+        "fishing"
+    ]
+}

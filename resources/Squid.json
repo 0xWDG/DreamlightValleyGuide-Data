@@ -1,0 +1,14 @@
+{
+    "name": "Squid",
+    "description": "Famed for their large heads and eight arms.",
+    "rarity": "Blue",
+    "price": 500,
+    "energy": 1,
+    "found": [
+        "Glade of Trust",
+        "Forgotten Lands"
+    ],
+    "activity": [
+        "fishing"
+    ]
+}
