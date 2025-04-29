@@ -1,7 +1,7 @@
 {
     "name": "Pebbles",
     "description": "You need a lot of pebbles to make a mountain...",
-    "type": [
+    "activity": [
         "digging"
     ],
     "icon": "\ud83e\udea8",

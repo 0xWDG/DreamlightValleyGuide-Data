@@ -1,7 +1,7 @@
 {
     "name": "Dream Shard",
     "description": "A crystallized form of Dreamlight magic.",
-    "type": [
+    "activity": [
         "digging"
     ],
     "icon": "\ud83d\udc8e",

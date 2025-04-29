@@ -1,7 +1,7 @@
 {
     "name": "Night Shard",
     "description": "The opposite of a Dream Shard. Be careful.",
-    "type": [
+    "activity": [
         "digging"
     ],
     "icon": "\ud83d\udc8e",

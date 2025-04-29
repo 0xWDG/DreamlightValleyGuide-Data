@@ -1,7 +1,7 @@
 {
     "name": "Scallop",
     "description": "Can be found on Dazzle Beach. Go and explore!",
-    "type": [
+    "activity": [
         "digging"
     ],
     "icon": "\ud83e\uddf1",

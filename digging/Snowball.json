@@ -1,7 +1,7 @@
 {
     "name": "Snowball",
     "description": "Whatever you do, fight the urge to throw it.",
-    "type": [
+    "activity": [
         "digging"
     ],
     "icon": "\u2744\ufe0f",

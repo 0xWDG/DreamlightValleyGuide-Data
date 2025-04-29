@@ -1,7 +1,7 @@
 {
     "name": "Bones",
     "description": "Looks like somebody already ate this fish. But perhaps you could use these to build something...",
-    "type": [
+    "activity": [
         "digging"
     ],
     "icon": "\ud83e\uddf1",

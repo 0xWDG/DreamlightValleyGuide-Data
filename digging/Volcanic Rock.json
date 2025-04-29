@@ -1,7 +1,7 @@
 {
     "name": "Volcanic Rock",
     "description": "This gray-black rock seems oddly porous and may even float.",
-    "type": [
+    "activity": [
         "digging"
     ],
     "icon": "\ud83c\udf3a",

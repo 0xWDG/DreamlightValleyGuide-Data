@@ -1,7 +1,7 @@
 {
     "name": "Amber",
     "description": "An orange rock that could be great for making jewelry.",
-    "type": [
+    "activity": [
         "digging"
     ],
     "icon": "\ud83e\uddf1",

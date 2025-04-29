@@ -1,7 +1,7 @@
 {
     "name": "Pearl",
     "description": "Pearl is a foraged material that can be found when digging the ground in all areas of Ancient's Landing.",
-    "type": [
+    "activity": [
         "digging"
     ],
     "icon": "\ud83e\udea8",

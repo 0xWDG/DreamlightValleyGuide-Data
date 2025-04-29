@@ -1,7 +1,7 @@
 {
     "name": "Soil",
     "description": "A clump of soil that's perfect for gardening.",
-    "type": [
+    "activity": [
         "digging"
     ],
     "icon": "\ud83c\udf0d",

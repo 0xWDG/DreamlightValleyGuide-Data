@@ -1,7 +1,7 @@
 {
     "name": "Broken Weapon",
     "description": "A broken sword and shield.",
-    "type": [
+    "activity": [
         "digging"
     ],
     "icon": "\ud83e\udea8",

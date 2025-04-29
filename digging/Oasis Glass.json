@@ -1,7 +1,7 @@
 {
     "name": "Oasis Glass",
     "description": "Shiny, colorful glass weathered by time.",
-    "type": [
+    "activity": [
         "digging"
     ],
     "icon": "\ud83e\uddf1",

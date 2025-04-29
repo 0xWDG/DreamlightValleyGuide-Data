@@ -1,7 +1,7 @@
 {
     "name": "Mud",
     "description": "Perfectly suitable for mud pies or a fancy spa day and everything in between.",
-    "type": [
+    "activity": [
         "digging"
     ],
     "icon": "\ud83e\udea8",

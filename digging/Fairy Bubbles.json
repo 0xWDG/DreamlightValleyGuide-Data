@@ -1,7 +1,7 @@
 {
     "name": "Fairy Bubbles",
     "description": "These magical bubbles can be found buried around Everafter.",
-    "type": [
+    "activity": [
         "digging"
     ],
     "icon": "\ud83e\udea8",
