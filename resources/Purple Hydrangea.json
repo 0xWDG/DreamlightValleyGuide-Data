@@ -1,0 +1,10 @@
+{
+    "name": "Purple Hydrangea",
+    "description": "A smaller hydrangea with a deep purple hue.",
+    "icon": "\ud83c\udf3a",
+    "price": 39,
+    "maxSpawns": 3,
+    "found": [
+        "Dazzle Beach"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Stone",
+    "description": "Some imagination can turn stone into art.",
+    "icon": "\ud83e\uddf1",
+    "price": 2,
+    "gift": 25,
+    "found": [
+        "All Biomes"
+    ]
+}

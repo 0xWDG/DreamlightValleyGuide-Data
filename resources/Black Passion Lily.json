@@ -1,0 +1,10 @@
+{
+    "name": "Black Passion Lily",
+    "description": "Black petals bloom in an ominous manner.",
+    "icon": "\ud83c\udf3a",
+    "price": 79,
+    "maxSpawns": 2,
+    "found": [
+        "Frosted Heights"
+    ]
+}

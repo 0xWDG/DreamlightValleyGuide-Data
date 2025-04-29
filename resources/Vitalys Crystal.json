@@ -1,0 +1,10 @@
+{
+    "name": "Vitalys Crystal",
+    "description": "This crystal from the Vitalys Mines is infused with life. Throw it together with a few other magical Ingredients and you may be able to improve your Royal Tools.",
+    "icon": "\ud83d\udc8e",
+    "price": 12,
+    "gift": 600,
+    "found": [
+        "Vitalys Mine"
+    ]
+}

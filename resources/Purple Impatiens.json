@@ -1,0 +1,10 @@
+{
+    "name": "Purple Impatiens",
+    "description": "Although small, they can be so very bright.",
+    "icon": "\ud83c\udf3a",
+    "price": 40,
+    "maxSpawns": 4,
+    "found": [
+        "Forgotten Lands"
+    ]
+}

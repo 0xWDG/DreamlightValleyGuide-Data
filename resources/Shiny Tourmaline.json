@@ -1,0 +1,11 @@
+{
+    "name": "Shiny Tourmaline",
+    "description": "A rare crystal that can be mined.",
+    "icon": "\ud83d\udc8e",
+    "price": 1680,
+    "gift": 600,
+    "found": [
+        "Frosted Heights",
+        "Sunlit Plateau"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Bones",
+    "description": "Looks like somebody already ate this fish. But perhaps you could use these to build something...",
+    "activity": [
+        "digging"
+    ],
+    "icon": "\ud83e\uddf1",
+    "price": 20,
+    "gift": 25,
+    "found": [
+        "Glittering Dunes"
+    ]
+}

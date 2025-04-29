@@ -1,0 +1,12 @@
+{
+    "name": "Moss",
+    "description": "Moss is a foraged material which can be gathered using a shovel on Mossy Logs in The Bind and gathered from the ground in Everafter.",
+    "icon": "\ud83e\udea8",
+    "price": 70,
+    "giftReward": 0,
+    "maxSpawns": 0,
+    "found": [
+        "The Bind",
+        "Everafter"
+    ]
+}

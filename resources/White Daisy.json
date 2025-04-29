@@ -1,0 +1,10 @@
+{
+    "name": "White Daisy",
+    "description": "A white flower that symbolizes innocence.",
+    "icon": "\ud83c\udf3a",
+    "price": 25,
+    "maxSpawns": 3,
+    "found": [
+        "Peaceful Meadow"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Spinel",
+    "description": "Spinel is a gem which can be found when mining rock nodes using the Pickaxe in The Promenade and The Grove areas of the Wild Tangle.",
+    "icon": "\ud83d\udc8e",
+    "price": 450,
+    "gift": 600,
+    "found": [
+        "The Promenade",
+        "The Grove"
+    ]
+}

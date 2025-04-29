@@ -1,0 +1,15 @@
+{
+    "name": "Clay",
+    "description": "This can be made into all sorts of objects.",
+    "activity": [
+        "digging"
+    ],
+    "icon": "\ud83e\uddf1",
+    "price": 20,
+    "gift": 25,
+    "found": [
+        "Glade of Trust",
+        "Sunlit Plateau",
+        "Forgotten Lands"
+    ]
+}

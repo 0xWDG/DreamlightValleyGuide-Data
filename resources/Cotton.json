@@ -1,0 +1,11 @@
+{
+    "name": "Cotton",
+    "description": "Soft fluff that can be used in lots of stuff!",
+    "icon": "\ud83c\udf3e",
+    "price": 37,
+    "maxSpawns": 0,
+    "found": [
+        "Goofy's Stall",
+        "Sunlit Plateau"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Snowball",
+    "description": "Whatever you do, fight the urge to throw it.",
+    "activity": [
+        "digging"
+    ],
+    "icon": "\u2744\ufe0f",
+    "price": 25,
+    "gift": 25,
+    "found": [
+        "Frosted Heights"
+    ]
+}

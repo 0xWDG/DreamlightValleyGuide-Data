@@ -1,0 +1,11 @@
+{
+    "name": "Shiny Aquamarine",
+    "description": "A rare light blue mineral that can be mined.",
+    "icon": "\ud83d\udc8e",
+    "price": 1000,
+    "gift": 600,
+    "found": [
+        "Dazzle Beach",
+        "Forest of Valor"
+    ]
+}

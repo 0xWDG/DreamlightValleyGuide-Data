@@ -1,0 +1,14 @@
+{
+    "name": "Gravel",
+    "description": "Old rubble found scattered throughout Mythopia.",
+    "activity": [
+        "digging"
+    ],
+    "icon": "\ud83e\udea8",
+    "price": 20,
+    "giftReward": 0,
+    "maxSpawns": 0,
+    "found": [
+        "Mythopia"
+    ]
+}

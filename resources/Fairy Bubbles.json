@@ -1,0 +1,14 @@
+{
+    "name": "Fairy Bubbles",
+    "description": "These magical bubbles can be found buried around Everafter.",
+    "activity": [
+        "digging"
+    ],
+    "icon": "\ud83e\udea8",
+    "price": 15,
+    "giftReward": 0,
+    "maxSpawns": 0,
+    "found": [
+        "Everafter"
+    ]
+}
