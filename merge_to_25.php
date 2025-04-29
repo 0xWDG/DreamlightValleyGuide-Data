@@ -26,6 +26,16 @@ foreach ($items as $dir => $files) {
                 $resources[$json['name']]['gift'] = $resources[$json['name']]['giftReward'];
                 unset($resources[$json['name']]['giftReward']);
             }
+
+            // if no price add it with 0
+            if (!isset($resources[$json['name']]['price'])) {
+                $resources[$json['name']]['price'] = 0;
+            }
+
+            // if no found add empty array
+            if (!isset($resources[$json['name']]['found'])) {
+                $resources[$json['name']]['found'] = array();
+            }
         } else {
             if (!in_array($dir, $resources[$json['name']]['activity'])) {
                 $resources[$json['name']]['activity'][] = $dir;

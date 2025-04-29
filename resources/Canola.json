@@ -12,5 +12,7 @@
     "coins": "2.4",
     "activity": [
         "gardening"
-    ]
+    ],
+    "price": 0,
+    "found": []
 }
