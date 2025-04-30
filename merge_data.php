@@ -4,7 +4,11 @@
 
 $files = glob("*/*.json");
 
-$data = [];
+date_default_timezone_set("Europe/Amsterdam");
+$data = array(
+    "version" => gmdate('Ymd.Hi'),
+    "release" => gmdate("c")
+);
 
 foreach ($files as $file) {
     $category = explode("/", $file)[0];
