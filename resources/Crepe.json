@@ -1,0 +1,18 @@
+{
+    "name": "Crepe",
+    "description": "A thin pancake sprinkled with sugar and fruit.",
+    "type": "Desserts",
+    "stars": 4,
+    "energy": 1624,
+    "price": 768,
+    "ingredients": [
+        "Wheat",
+        "Egg",
+        "Milk",
+        "Vanilla"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

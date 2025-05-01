@@ -1,0 +1,17 @@
+{
+    "name": "Onion Puffs",
+    "description": "A simple puff pastry with caramelized onion.",
+    "type": "Appetizers",
+    "stars": 3,
+    "energy": 1392,
+    "price": 798,
+    "ingredients": [
+        "Onion",
+        "Egg",
+        "Cheese"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

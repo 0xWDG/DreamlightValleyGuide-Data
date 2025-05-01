@@ -1,0 +1,17 @@
+{
+    "name": "Pizza",
+    "description": "Who doesn't love pizza?",
+    "type": "Entr\u00e9es",
+    "stars": 3,
+    "energy": 607,
+    "price": 284,
+    "ingredients": [
+        "Tomato",
+        "Cheese",
+        "Wheat"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

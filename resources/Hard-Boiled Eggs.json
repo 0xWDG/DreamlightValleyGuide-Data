@@ -1,0 +1,15 @@
+{
+    "name": "Hard-Boiled Eggs",
+    "description": "Firm eggs. Perfect for breakfast on the go!",
+    "type": "Appetizers",
+    "stars": 1,
+    "energy": 578,
+    "price": 264,
+    "ingredients": [
+        "Egg"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

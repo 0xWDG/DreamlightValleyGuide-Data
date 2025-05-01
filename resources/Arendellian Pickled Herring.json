@@ -1,0 +1,19 @@
+{
+    "name": "Arendellian Pickled Herring",
+    "description": "A delicacy among the people of Arendelle.",
+    "type": "Appetizers",
+    "stars": 5,
+    "energy": 2102,
+    "price": 556,
+    "ingredients": [
+        "Herring",
+        "Lemon",
+        "Onion",
+        "Garlic",
+        "Any Spice"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

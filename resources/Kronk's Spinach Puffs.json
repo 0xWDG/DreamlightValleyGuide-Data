@@ -1,0 +1,17 @@
+{
+    "name": "Kronk's Spinach Puffs",
+    "description": "Small, flaky pastries stuffed with spinach.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
+    "energy": 750,
+    "price": 461,
+    "ingredients": [
+        "Spinach",
+        "Cheese",
+        "Canola"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Mint Sorbet",
+    "description": "A light and refreshing summer treat.",
+    "type": "Desserts",
+    "stars": 2,
+    "energy": 695,
+    "price": 299,
+    "ingredients": [
+        "Slush Ice",
+        "Mint"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

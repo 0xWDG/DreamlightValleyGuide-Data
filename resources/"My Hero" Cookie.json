@@ -1,0 +1,17 @@
+{
+    "name": "\"My Hero\" Cookie",
+    "description": "A perfect tasty gift for a friend.",
+    "type": "Desserts",
+    "stars": 3,
+    "energy": 679,
+    "price": 294,
+    "ingredients": [
+        "Wheat",
+        "Butter",
+        "Any Sweets"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

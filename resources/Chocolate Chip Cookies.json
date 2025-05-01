@@ -1,0 +1,18 @@
+{
+    "name": "Chocolate Chip Cookies",
+    "description": "An ooey gooey sweet treat!",
+    "type": "Desserts",
+    "stars": 4,
+    "energy": 1569,
+    "price": 373,
+    "ingredients": [
+        "Cocoa Bean",
+        "Sugarcane",
+        "Wheat",
+        "Butter"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Oyster Platter",
+    "description": "A large plate of oysters.",
+    "type": "Appetizers",
+    "stars": 2,
+    "energy": 1155,
+    "price": 367,
+    "ingredients": [
+        "Oyster",
+        "Lemon"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

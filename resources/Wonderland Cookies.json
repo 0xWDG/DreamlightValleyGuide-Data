@@ -1,0 +1,18 @@
+{
+    "name": "Wonderland Cookies",
+    "description": "Chewy sugar cookies with royal adornments.",
+    "type": "Desserts",
+    "stars": 4,
+    "energy": 970,
+    "price": 406,
+    "ingredients": [
+        "Butter",
+        "Sugarcane",
+        "Vanilla",
+        "Wheat"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

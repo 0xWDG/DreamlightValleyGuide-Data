@@ -1,0 +1,16 @@
+{
+    "name": "Grilled Fish Entree",
+    "description": "Perfectly grilled fish star in this meal.",
+    "type": "Entr\u00e9es",
+    "stars": 2,
+    "energy": 340,
+    "price": 42,
+    "ingredients": [
+        "Any Fish",
+        "Any Vegetable"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

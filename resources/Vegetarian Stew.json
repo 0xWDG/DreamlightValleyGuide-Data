@@ -1,0 +1,17 @@
+{
+    "name": "Vegetarian Stew",
+    "description": "A thick and hearty stew full of veggies.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
+    "energy": 617,
+    "price": 475,
+    "ingredients": [
+        "Potato",
+        "Carrot",
+        "Onion"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

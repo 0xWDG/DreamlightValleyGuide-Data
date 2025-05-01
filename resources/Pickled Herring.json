@@ -1,0 +1,18 @@
+{
+    "name": "Pickled Herring",
+    "description": "A tart, pickled fish that has a unique flavor.",
+    "type": "Appetizers",
+    "stars": 4,
+    "energy": 1742,
+    "price": 431,
+    "ingredients": [
+        "Herring",
+        "Lemon",
+        "Onion",
+        "Any Spice"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

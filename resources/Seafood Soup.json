@@ -1,0 +1,17 @@
+{
+    "name": "Seafood Soup",
+    "description": "A warm bowl of seafood soup.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
+    "energy": 340,
+    "price": 85,
+    "ingredients": [
+        "Any Seafood",
+        "Any Vegetable",
+        "Any Vegetable"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

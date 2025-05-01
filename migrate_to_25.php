@@ -3,6 +3,7 @@
 // This script will generate the new data type for version 2.5
 
 $items = array(
+    'recipes' => glob('./recipes/*.json'),
     'digging' => glob('./digging/*.json'),
     'fishing' => glob('./fishing/*.json'),
     'foraging' => glob('./foraging/*.json'),

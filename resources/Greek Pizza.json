@@ -1,0 +1,19 @@
+{
+    "name": "Greek Pizza",
+    "description": "A thin pizza with olive oil and many toppings.",
+    "type": "Entr\u00e9es",
+    "stars": 5,
+    "energy": 1152,
+    "price": 630,
+    "ingredients": [
+        "Any Spice",
+        "Wheat",
+        "Cheese",
+        "Tomato",
+        "Onion"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

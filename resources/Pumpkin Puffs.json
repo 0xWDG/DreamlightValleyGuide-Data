@@ -1,0 +1,17 @@
+{
+    "name": "Pumpkin Puffs",
+    "description": "Small, flaky pastries stuffed with pumpkin.",
+    "type": "Appetizers",
+    "stars": 3,
+    "energy": 1466,
+    "price": 1400,
+    "ingredients": [
+        "Pumpkin",
+        "Egg",
+        "Cheese"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

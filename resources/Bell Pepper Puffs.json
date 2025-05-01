@@ -1,0 +1,17 @@
+{
+    "name": "Bell Pepper Puffs",
+    "description": "Flaky pastries stuffed with bell peppers.",
+    "type": "Appetizers",
+    "stars": 3,
+    "energy": 1272,
+    "price": 606,
+    "ingredients": [
+        "Bell Pepper",
+        "Egg",
+        "Cheese"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

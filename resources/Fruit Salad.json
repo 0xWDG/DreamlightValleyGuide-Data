@@ -1,0 +1,15 @@
+{
+    "name": "Fruit Salad",
+    "description": "A salad of bananas, apples, and other fruits.",
+    "type": "Desserts",
+    "stars": 1,
+    "energy": 450,
+    "price": 25,
+    "ingredients": [
+        "Any Fruit"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

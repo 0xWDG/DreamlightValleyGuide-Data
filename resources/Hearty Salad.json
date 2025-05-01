@@ -1,0 +1,17 @@
+{
+    "name": "Hearty Salad",
+    "description": "A salad loaded with veggies and fruits.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
+    "energy": 224,
+    "price": 33,
+    "ingredients": [
+        "Any Vegetable",
+        "Lettuce",
+        "Any Vegetable"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

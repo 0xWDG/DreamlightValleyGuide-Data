@@ -1,0 +1,16 @@
+{
+    "name": "Sushi",
+    "description": "Fresh, raw fish served with rice.",
+    "type": "Entr\u00e9es",
+    "stars": 2,
+    "energy": 405,
+    "price": 111,
+    "ingredients": [
+        "Any Fish",
+        "Rice"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

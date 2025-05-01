@@ -1,0 +1,17 @@
+{
+    "name": "Pottage",
+    "description": "Thick stew, loaded with all sorts of vegetables.",
+    "type": "Appetizers",
+    "stars": 3,
+    "energy": 461,
+    "price": 215,
+    "ingredients": [
+        "Potato",
+        "Any Vegetable",
+        "Any Spice"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

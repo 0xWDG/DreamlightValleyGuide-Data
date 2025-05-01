@@ -1,0 +1,17 @@
+{
+    "name": "Chili Pepper Puffs",
+    "description": "A flaky puff pastry with a spicy kick.",
+    "type": "Appetizers",
+    "stars": 3,
+    "energy": 1382,
+    "price": 669,
+    "ingredients": [
+        "Chili Pepper",
+        "Egg",
+        "Cheese"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

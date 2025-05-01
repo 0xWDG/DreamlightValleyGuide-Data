@@ -1,0 +1,17 @@
+{
+    "name": "Ice Cream",
+    "description": "It may lack a little flavor, but it's still really cool.",
+    "type": "Desserts",
+    "stars": 3,
+    "energy": 1158,
+    "price": 558,
+    "ingredients": [
+        "Slush Ice",
+        "Milk",
+        "Sugarcane"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}

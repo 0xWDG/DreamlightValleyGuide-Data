@@ -1,0 +1,16 @@
+{
+    "name": "Vegetable Soup",
+    "description": "A hearty soup made with various veggies.",
+    "type": "Appetizers",
+    "stars": 2,
+    "energy": 120,
+    "price": 20,
+    "ingredients": [
+        "Any Vegetable",
+        "Any Vegetable"
+    ],
+    "activity": [
+        "recipes"
+    ],
+    "found": []
+}
