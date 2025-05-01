@@ -1,0 +1,16 @@
+{
+    "name": "Apple",
+    "description": "A fruit that can be picked from trees.",
+    "price": 25,
+    "energy": 300,
+    "maxSpawns": 5,
+    "growthTime": 20,
+    "found": [
+        "Plaza",
+        "Forgotten Lands"
+    ],
+    "activity": [
+        "foraging"
+    ],
+    "gift": 50
+}
