@@ -1,10 +1,10 @@
 {
-    "name": "Tuna Burger",
+    "activity": [
+        "recipes"
+    ],
     "description": "A tuna patty grilled to perfection between two sesame seed buns.",
-    "type": "Entr\u00e9es",
-    "stars": 5,
     "energy": 1922,
-    "price": 491,
+    "found": [],
     "ingredients": [
         "Tuna",
         "Wheat",
@@ -12,8 +12,8 @@
         "Onion",
         "Any Vegetable"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Tuna Burger",
+    "price": 491,
+    "stars": 5,
+    "type": "Entrées"
 }

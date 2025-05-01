@@ -1,17 +1,17 @@
 {
-    "name": "Omelet",
+    "activity": [
+        "recipes"
+    ],
     "description": "Fluffy eggs, folded and topped with seasoning.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 1751,
-    "price": 882,
+    "found": [],
     "ingredients": [
         "Egg",
         "Cheese",
         "Milk"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Omelet",
+    "price": 882,
+    "stars": 3,
+    "type": "Entrées"
 }

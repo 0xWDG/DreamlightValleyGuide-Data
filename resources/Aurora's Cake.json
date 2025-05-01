@@ -1,10 +1,10 @@
 {
-    "name": "Aurora's Cake",
+    "activity": [
+        "recipes"
+    ],
     "description": "A tiered cake that just goes up, up, up...",
-    "type": "Desserts",
-    "stars": 5,
     "energy": 2030,
-    "price": 786,
+    "found": [],
     "ingredients": [
         "Raspberry",
         "Wheat",
@@ -12,8 +12,8 @@
         "Egg",
         "Milk"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Aurora's Cake",
+    "price": 786,
+    "stars": 5,
+    "type": "Desserts"
 }

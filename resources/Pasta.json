@@ -1,16 +1,16 @@
 {
-    "name": "Pasta",
+    "activity": [
+        "recipes"
+    ],
     "description": "A simple noodle dish whipped up in a hurry.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 117,
-    "price": 30,
+    "found": [],
     "ingredients": [
         "Wheat",
         "Tomato"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Pasta",
+    "price": 30,
+    "stars": 2,
+    "type": "Entrées"
 }

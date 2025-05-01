@@ -1,16 +1,16 @@
 {
-    "name": "Mint Candy",
+    "activity": [
+        "recipes"
+    ],
     "description": "Sweet hard candy with a decidedly cool taste.",
-    "type": "Desserts",
-    "stars": 2,
     "energy": 391,
-    "price": 128,
+    "found": [],
     "ingredients": [
         "Mint",
         "Sugarcane"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Mint Candy",
+    "price": 128,
+    "stars": 2,
+    "type": "Desserts"
 }

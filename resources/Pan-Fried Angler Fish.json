@@ -1,18 +1,18 @@
 {
-    "name": "Pan-Fried Angler Fish",
+    "activity": [
+        "recipes"
+    ],
     "description": "A peculiar dinner you won't soon forget!",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 4194,
-    "price": 2500,
+    "found": [],
     "ingredients": [
         "Anglerfish",
         "Tomato",
         "Zucchini",
         "Potato"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Pan-Fried Angler Fish",
+    "price": 2500,
+    "stars": 4,
+    "type": "Entrées"
 }

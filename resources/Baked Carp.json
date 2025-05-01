@@ -1,16 +1,16 @@
 {
-    "name": "Baked Carp",
+    "activity": [
+        "recipes"
+    ],
     "description": "A cut of carp baked to perfection.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 1894,
-    "price": 767,
+    "found": [],
     "ingredients": [
         "Carp",
         "Butter"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Baked Carp",
+    "price": 767,
+    "stars": 2,
+    "type": "Entrées"
 }

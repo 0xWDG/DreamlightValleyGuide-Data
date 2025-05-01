@@ -1,10 +1,10 @@
 {
-    "name": "Vegetarian Pizza",
+    "activity": [
+        "recipes"
+    ],
     "description": "A thin pizza topped with many vegetables.",
-    "type": "Entr\u00e9es",
-    "stars": 5,
     "energy": 754,
-    "price": 350,
+    "found": [],
     "ingredients": [
         "Any Vegetable",
         "Any Vegetable",
@@ -12,8 +12,8 @@
         "Cheese",
         "Wheat"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Vegetarian Pizza",
+    "price": 350,
+    "stars": 5,
+    "type": "Entrées"
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Rainbow Trout",
+    "activity": [
+        "fishing"
+    ],
     "description": "Its unique scales give the fish its name.",
-    "rarity": "White",
-    "price": 50,
     "energy": 300,
     "found": [
         "Peaceful Meadow",
         "Forest of Valor"
     ],
-    "activity": [
-        "fishing"
-    ]
+    "name": "Rainbow Trout",
+    "price": 50,
+    "rarity": "White"
 }

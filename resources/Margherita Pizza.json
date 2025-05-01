@@ -1,18 +1,18 @@
 {
-    "name": "Margherita Pizza",
+    "activity": [
+        "recipes"
+    ],
     "description": "Tomato sauce and mozzarella cheese. A classic!",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 818,
-    "price": 336,
+    "found": [],
     "ingredients": [
         "Any Spice",
         "Tomato",
         "Cheese",
         "Wheat"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Margherita Pizza",
+    "price": 336,
+    "stars": 4,
+    "type": "Entrées"
 }

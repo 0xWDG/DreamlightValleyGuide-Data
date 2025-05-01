@@ -1,18 +1,18 @@
 {
-    "name": "Veggie Casserole",
+    "activity": [
+        "recipes"
+    ],
     "description": "Delicious veggies backed to perfection.",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 821,
-    "price": 324,
+    "found": [],
     "ingredients": [
         "Any Vegetable",
         "Any Vegetable",
         "Cheese",
         "Any Spice"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Veggie Casserole",
+    "price": 324,
+    "stars": 4,
+    "type": "Entrées"
 }

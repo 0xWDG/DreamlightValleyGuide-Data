@@ -1,10 +1,10 @@
 {
-    "name": "Bouillabaisse",
+    "activity": [
+        "recipes"
+    ],
     "description": "A rich stew that uses different kinds of fish.",
-    "type": "Entr\u00e9es",
-    "stars": 5,
     "energy": 2114,
-    "price": 671,
+    "found": [],
     "ingredients": [
         "Any Seafood",
         "Any Seafood",
@@ -12,8 +12,8 @@
         "Tomato",
         "Any Vegetable"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Bouillabaisse",
+    "price": 671,
+    "stars": 5,
+    "type": "Entrées"
 }

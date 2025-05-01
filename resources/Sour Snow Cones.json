@@ -1,17 +1,17 @@
 {
-    "name": "Sour Snow Cones",
+    "activity": [
+        "recipes"
+    ],
     "description": "Ice shavings soaked in delicious fruit syrup.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 1257,
-    "price": 282,
+    "found": [],
     "ingredients": [
         "Slush Ice",
         "Lemon",
         "Sugarcane"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Sour Snow Cones",
+    "price": 282,
+    "stars": 3,
+    "type": "Desserts"
 }

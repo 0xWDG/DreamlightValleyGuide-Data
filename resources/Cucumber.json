@@ -1,18 +1,18 @@
 {
-    "name": "Cucumber",
-    "description": "Cucumber is a highly refreshing vegetable thanks to its water content, it has a low content of lipids, carbohydrates and proteins. The great vitamin C and B9 content is the most outstanding characteristic, along with its laxative properties and its capacity to relieve kidney disorders.",
-    "type": "Vegetables",
-    "biome": "Frosted Heights",
-    "grow": "1h 15min",
-    "water": 1,
-    "yield": 1,
-    "seed": 40,
-    "sell": 159,
-    "profit": 119,
-    "coins": "1.59",
     "activity": [
         "gardening"
     ],
+    "biome": "Frosted Heights",
+    "coins": "1.59",
+    "description": "Cucumber is a highly refreshing vegetable thanks to its water content, it has a low content of lipids, carbohydrates and proteins. The great vitamin C and B9 content is the most outstanding characteristic, along with its laxative properties and its capacity to relieve kidney disorders.",
+    "found": [],
+    "grow": "1h 15min",
+    "name": "Cucumber",
     "price": 0,
-    "found": []
+    "profit": 119,
+    "seed": 40,
+    "sell": 159,
+    "type": "Vegetables",
+    "water": 1,
+    "yield": 1
 }

@@ -1,18 +1,18 @@
 {
-    "name": "Mint Chocolate",
+    "activity": [
+        "recipes"
+    ],
     "description": "Savory chocolate with a cool bite.",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 1827,
-    "price": 490,
+    "found": [],
     "ingredients": [
         "Mint",
         "Sugarcane",
         "Butter",
         "Cocoa Bean"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Mint Chocolate",
+    "price": 490,
+    "stars": 4,
+    "type": "Desserts"
 }

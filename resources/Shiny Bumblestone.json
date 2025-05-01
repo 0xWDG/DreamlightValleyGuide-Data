@@ -1,12 +1,12 @@
 {
-    "name": "Shiny Bumblestone",
+    "activity": [
+        "mining"
+    ],
     "description": "Shiny Bumblestone is a gem which can be found when mining rock nodes using the Pickaxe in The Borderlands area of the Glittering Dunes.",
-    "price": 1600,
-    "gift": 600,
     "found": [
         "The Borderlands"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "name": "Shiny Bumblestone",
+    "price": 1600
 }

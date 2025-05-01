@@ -1,18 +1,18 @@
 {
-    "name": "Red Fruit Sorbet",
+    "activity": [
+        "recipes"
+    ],
     "description": "A light, frozen dessert with red fruit flavor.",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 2179,
-    "price": 359,
+    "found": [],
     "ingredients": [
         "Slush Ice",
         "Raspberry",
         "Gooseberry",
         "Sugarcane"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Red Fruit Sorbet",
+    "price": 359,
+    "stars": 4,
+    "type": "Desserts"
 }

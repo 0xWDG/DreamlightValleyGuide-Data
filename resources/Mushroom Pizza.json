@@ -1,18 +1,18 @@
 {
-    "name": "Mushroom Pizza",
+    "activity": [
+        "recipes"
+    ],
     "description": "A thin pizza topped with mounds of mushrooms.",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 837,
-    "price": 351,
+    "found": [],
     "ingredients": [
         "Mushroom",
         "Wheat",
         "Tomato",
         "Cheese"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Mushroom Pizza",
+    "price": 351,
+    "stars": 4,
+    "type": "Entrées"
 }

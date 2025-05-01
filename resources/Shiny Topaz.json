@@ -1,12 +1,12 @@
 {
-    "name": "Shiny Topaz",
+    "activity": [
+        "mining"
+    ],
     "description": "A rare orange mineral that can be mined.",
-    "price": 960,
-    "gift": 600,
     "found": [
         "Plaza"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "name": "Shiny Topaz",
+    "price": 960
 }

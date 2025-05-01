@@ -1,17 +1,17 @@
 {
-    "name": "Apple Sorbet",
+    "activity": [
+        "recipes"
+    ],
     "description": "A light, frozen dessert with an apple flavor.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 1077,
-    "price": 271,
+    "found": [],
     "ingredients": [
         "Slush Ice",
         "Apple",
         "Sugarcane"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Apple Sorbet",
+    "price": 271,
+    "stars": 3,
+    "type": "Desserts"
 }

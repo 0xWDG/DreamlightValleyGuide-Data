@@ -1,18 +1,18 @@
 {
-    "name": "Chowder",
+    "activity": [
+        "recipes"
+    ],
     "description": "A creamy soup with bits of clam and mushroom.",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 1186,
-    "price": 613,
+    "found": [],
     "ingredients": [
         "Any Seafood",
         "Any Vegetable",
         "Milk",
         "Potato"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Chowder",
+    "price": 613,
+    "stars": 4,
+    "type": "Entrées"
 }

@@ -1,12 +1,12 @@
 {
-    "name": "Pink Hydrangea",
+    "activity": [
+        "foraging"
+    ],
     "description": "A ball of flowers with a pink tint.",
-    "price": 22,
-    "maxSpawns": 6,
     "found": [
         "Dazzle Beach"
     ],
-    "activity": [
-        "foraging"
-    ]
+    "maxSpawns": 6,
+    "name": "Pink Hydrangea",
+    "price": 22
 }

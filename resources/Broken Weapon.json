@@ -1,14 +1,14 @@
 {
-    "name": "Broken Weapon",
-    "description": "A broken sword and shield.",
     "activity": [
         "digging",
         "foraging"
     ],
-    "price": 25,
-    "maxSpawns": 0,
+    "description": "A broken sword and shield.",
     "found": [
         "Mythopia"
     ],
-    "gift": 0
+    "gift": 0,
+    "maxSpawns": 0,
+    "name": "Broken Weapon",
+    "price": 25
 }

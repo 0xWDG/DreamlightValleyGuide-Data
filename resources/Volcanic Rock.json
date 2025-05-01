@@ -1,15 +1,15 @@
 {
-    "name": "Volcanic Rock",
-    "description": "This gray-black rock seems oddly porous and may even float.",
     "activity": [
         "digging",
         "foraging"
     ],
-    "price": 30,
-    "gift": 0,
-    "maxSpawns": 0,
+    "description": "This gray-black rock seems oddly porous and may even float.",
     "found": [
         "Everafter",
         "Mythopia"
-    ]
+    ],
+    "gift": 0,
+    "maxSpawns": 0,
+    "name": "Volcanic Rock",
+    "price": 30
 }

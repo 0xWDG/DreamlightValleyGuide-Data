@@ -1,18 +1,18 @@
 {
-    "name": "Onion",
-    "description": "Onion, Herbaceous biennial plant (Allium cepa) of the family Alliaceae, probably native to southwestern Asia but now grown worldwide, and its edible bulb. Among the hardiest and oldest garden vegetable plants, onions bear a cluster of small, greenish white flowers on one or more leafless stalks.",
-    "type": "Vegetables",
-    "biome": "Forest of Valor",
-    "grow": "1h 15min",
-    "water": 3,
-    "yield": 1,
-    "seed": 50,
-    "sell": 170,
-    "profit": 120,
-    "coins": "1.6",
     "activity": [
         "gardening"
     ],
+    "biome": "Forest of Valor",
+    "coins": "1.6",
+    "description": "Onion, Herbaceous biennial plant (Allium cepa) of the family Alliaceae, probably native to southwestern Asia but now grown worldwide, and its edible bulb. Among the hardiest and oldest garden vegetable plants, onions bear a cluster of small, greenish white flowers on one or more leafless stalks.",
+    "found": [],
+    "grow": "1h 15min",
+    "name": "Onion",
     "price": 0,
-    "found": []
+    "profit": 120,
+    "seed": 50,
+    "sell": 170,
+    "type": "Vegetables",
+    "water": 3,
+    "yield": 1
 }

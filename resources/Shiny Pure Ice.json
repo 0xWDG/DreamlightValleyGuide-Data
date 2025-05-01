@@ -1,12 +1,12 @@
 {
-    "name": "Shiny Pure Ice",
+    "activity": [
+        "mining"
+    ],
     "description": "This ice froze so solidly it now shines defiantly in the sun.",
-    "price": 1200,
-    "gift": 600,
     "found": [
         "Everafter"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "name": "Shiny Pure Ice",
+    "price": 1200
 }

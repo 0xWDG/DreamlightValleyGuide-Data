@@ -1,18 +1,18 @@
 {
-    "name": "Fish 'n' Chips",
+    "activity": [
+        "recipes"
+    ],
     "description": "Battered fish and salted fries.",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 697,
-    "price": 392,
+    "found": [],
     "ingredients": [
         "Wheat",
         "Canola",
         "Potato",
         "Any Fish"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Fish 'n' Chips",
+    "price": 392,
+    "stars": 4,
+    "type": "Entrées"
 }

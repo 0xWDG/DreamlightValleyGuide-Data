@@ -1,8 +1,8 @@
 {
-    "name": "Softwood",
+    "activity": [
+        "foraging"
+    ],
     "description": "A pile of softwood waiting to become something more.",
-    "price": 5,
-    "maxSpawns": 0,
     "found": [
         "Kristoff's Stall Foraging",
         "Plaza",
@@ -10,7 +10,7 @@
         "Forest of Valor",
         "Glade of Trust"
     ],
-    "activity": [
-        "foraging"
-    ]
+    "maxSpawns": 0,
+    "name": "Softwood",
+    "price": 5
 }

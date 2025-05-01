@@ -1,10 +1,10 @@
 {
-    "name": "Birthday Cake",
+    "activity": [
+        "recipes"
+    ],
     "description": "A moist cake with a sweet and festive frosting.",
-    "type": "Desserts",
-    "stars": 5,
     "energy": 2310,
-    "price": 749,
+    "found": [],
     "ingredients": [
         "Cocoa Bean",
         "Wheat",
@@ -12,8 +12,8 @@
         "Egg",
         "Butter"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Birthday Cake",
+    "price": 749,
+    "stars": 5,
+    "type": "Desserts"
 }

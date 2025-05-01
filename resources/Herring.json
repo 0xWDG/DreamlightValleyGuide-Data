@@ -1,14 +1,14 @@
 {
-    "name": "Herring",
+    "activity": [
+        "fishing"
+    ],
     "description": "These silver darlings travel in great numbers.",
-    "rarity": "White",
-    "price": 65,
     "energy": 250,
     "found": [
         "Dazzle Beach",
         "Glade of Trust"
     ],
-    "activity": [
-        "fishing"
-    ]
+    "name": "Herring",
+    "price": 65,
+    "rarity": "White"
 }

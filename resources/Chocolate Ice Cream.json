@@ -1,18 +1,18 @@
 {
-    "name": "Chocolate Ice Cream",
+    "activity": [
+        "recipes"
+    ],
     "description": "Rich, decadent scoops of chilled deliciousness.",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 2074,
-    "price": 655,
+    "found": [],
     "ingredients": [
         "Slush Ice",
         "Cocoa Bean",
         "Sugarcane",
         "Milk"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Chocolate Ice Cream",
+    "price": 655,
+    "stars": 4,
+    "type": "Desserts"
 }

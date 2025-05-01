@@ -1,18 +1,18 @@
 {
-    "name": "Maguro Sushi",
+    "activity": [
+        "recipes"
+    ],
     "description": "Thin cuts of tuna over cooked rice.",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 1206,
-    "price": 413,
+    "found": [],
     "ingredients": [
         "Tuna",
         "Rice",
         "Seaweed",
         "Ginger"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Maguro Sushi",
+    "price": 413,
+    "stars": 4,
+    "type": "Entrées"
 }

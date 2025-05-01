@@ -1,15 +1,15 @@
 {
-    "name": "Pur\u00e9e",
-    "description": "A smooth, creamy veggie paste.",
-    "type": "Appetizers",
-    "stars": 1,
-    "energy": 230,
-    "price": 151,
-    "ingredients": [
-        "Potato"
-    ],
     "activity": [
         "recipes"
     ],
-    "found": []
+    "description": "A smooth, creamy veggie paste.",
+    "energy": 230,
+    "found": [],
+    "ingredients": [
+        "Potato"
+    ],
+    "name": "Purée",
+    "price": 151,
+    "stars": 1,
+    "type": "Appetizers"
 }

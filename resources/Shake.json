@@ -1,15 +1,15 @@
 {
-    "name": "Shake",
-    "description": "A sweet drink that mixes milk and ice cream.",
-    "type": "Desserts",
-    "stars": 1,
-    "energy": 142,
-    "price": 82,
-    "ingredients": [
-        "Any Dairy or Oil"
-    ],
     "activity": [
         "recipes"
     ],
-    "found": []
+    "description": "A sweet drink that mixes milk and ice cream.",
+    "energy": 142,
+    "found": [],
+    "ingredients": [
+        "Any Dairy or Oil"
+    ],
+    "name": "Shake",
+    "price": 82,
+    "stars": 1,
+    "type": "Desserts"
 }

@@ -1,15 +1,15 @@
 {
-    "name": "Crackers",
-    "description": "A bit dry, but still pretty good!",
-    "type": "Appetizers",
-    "stars": 1,
-    "energy": 80,
-    "price": 2,
-    "ingredients": [
-        "Any Grain"
-    ],
     "activity": [
         "recipes"
     ],
-    "found": []
+    "description": "A bit dry, but still pretty good!",
+    "energy": 80,
+    "found": [],
+    "ingredients": [
+        "Any Grain"
+    ],
+    "name": "Crackers",
+    "price": 2,
+    "stars": 1,
+    "type": "Appetizers"
 }

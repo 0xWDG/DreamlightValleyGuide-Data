@@ -1,12 +1,12 @@
 {
-    "name": "Star Sapphire",
+    "activity": [
+        "mining"
+    ],
     "description": "This rare form of sapphire has crystallized into a star shape.",
-    "price": 450,
-    "gift": 600,
     "found": [
         "Everafter"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "name": "Star Sapphire",
+    "price": 450
 }

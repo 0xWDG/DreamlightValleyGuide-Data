@@ -1,13 +1,13 @@
 {
-    "name": "Amethyst",
+    "activity": [
+        "mining"
+    ],
     "description": "A purple gem that can be mined.",
-    "price": 500,
-    "gift": 600,
     "found": [
         "Forgotten Lands",
         "Frosted Heights"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "name": "Amethyst",
+    "price": 500
 }

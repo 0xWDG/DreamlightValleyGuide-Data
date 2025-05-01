@@ -1,15 +1,15 @@
 {
-    "name": "Okra Soup",
-    "description": "A soup with okra, beans, corn, and tomatoes.",
-    "type": "Appetizers",
-    "stars": 1,
-    "energy": 99,
-    "price": 136,
-    "ingredients": [
-        "Okra"
-    ],
     "activity": [
         "recipes"
     ],
-    "found": []
+    "description": "A soup with okra, beans, corn, and tomatoes.",
+    "energy": 99,
+    "found": [],
+    "ingredients": [
+        "Okra"
+    ],
+    "name": "Okra Soup",
+    "price": 136,
+    "stars": 1,
+    "type": "Appetizers"
 }

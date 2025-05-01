@@ -1,13 +1,13 @@
 {
-    "name": "Green Demon Snippet",
+    "activity": [
+        "snippets"
+    ],
     "description": "Demons: Green Demon Snippet",
-    "type": "Demons",
-    "price": 10,
     "found": [
         "Mount Olympus"
     ],
     "maxSpawns": 0,
-    "activity": [
-        "snippets"
-    ]
+    "name": "Green Demon Snippet",
+    "price": 10,
+    "type": "Demons"
 }

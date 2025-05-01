@@ -1,10 +1,10 @@
 {
-    "name": "Banana Split",
+    "activity": [
+        "recipes"
+    ],
     "description": "It has bananas so it must be healthy, right?",
-    "type": "Desserts",
-    "stars": 5,
     "energy": 2074,
-    "price": 714,
+    "found": [],
     "ingredients": [
         "Slush Ice",
         "Banana",
@@ -12,8 +12,8 @@
         "Sugarcane",
         "Any Sweets"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Banana Split",
+    "price": 714,
+    "stars": 5,
+    "type": "Desserts"
 }

@@ -1,16 +1,16 @@
 {
-    "name": "Tropical Wood",
+    "activity": [
+        "foraging"
+    ],
     "description": "Tropical Wood is a foraged material which can be found on the ground near trees in all areas of the Wild Tangle.",
-    "price": 40,
-    "maxSpawns": 5,
     "found": [
         "The Grasslands",
         "The Promenade",
         "The Grove",
         "The Lagoon"
     ],
-    "activity": [
-        "foraging"
-    ],
-    "gift": 25
+    "gift": 25,
+    "maxSpawns": 5,
+    "name": "Tropical Wood",
+    "price": 40
 }

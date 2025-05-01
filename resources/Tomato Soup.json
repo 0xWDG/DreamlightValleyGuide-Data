@@ -1,15 +1,15 @@
 {
-    "name": "Tomato Soup",
-    "description": "A smooth, creamy soup for a cold day.",
-    "type": "Appetizers",
-    "stars": 1,
-    "energy": 83,
-    "price": 26,
-    "ingredients": [
-        "Tomato"
-    ],
     "activity": [
         "recipes"
     ],
-    "found": []
+    "description": "A smooth, creamy soup for a cold day.",
+    "energy": 83,
+    "found": [],
+    "ingredients": [
+        "Tomato"
+    ],
+    "name": "Tomato Soup",
+    "price": 26,
+    "stars": 1,
+    "type": "Appetizers"
 }

@@ -1,12 +1,12 @@
 {
-    "name": "Magma",
+    "activity": [
+        "mining"
+    ],
     "description": "Lifeblood of the earth itself, this magma is incredibly hot.",
-    "price": 400,
-    "gift": 600,
     "found": [
         "Mythopia"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "name": "Magma",
+    "price": 400
 }

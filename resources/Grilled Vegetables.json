@@ -1,15 +1,15 @@
 {
-    "name": "Grilled Vegetables",
-    "description": "Fresh veggies taken straight from the grill.",
-    "type": "Appetizers",
-    "stars": 1,
-    "energy": 83,
-    "price": 9,
-    "ingredients": [
-        "Corn"
-    ],
     "activity": [
         "recipes"
     ],
-    "found": []
+    "description": "Fresh veggies taken straight from the grill.",
+    "energy": 83,
+    "found": [],
+    "ingredients": [
+        "Corn"
+    ],
+    "name": "Grilled Vegetables",
+    "price": 9,
+    "stars": 1,
+    "type": "Appetizers"
 }

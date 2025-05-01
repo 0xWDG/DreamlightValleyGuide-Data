@@ -1,15 +1,15 @@
 {
-    "name": "Egg",
-    "description": "Scrambled, fried, sunny side up? So many options. Available at Chez Remy!",
-    "price": 220,
-    "energy": 330,
-    "maxSpawns": 0,
-    "growthTime": 0,
-    "found": [
-        "Chez Remy"
-    ],
     "activity": [
         "ingredient"
     ],
-    "gift": 200
+    "description": "Scrambled, fried, sunny side up? So many options. Available at Chez Remy!",
+    "energy": 330,
+    "found": [
+        "Chez Remy"
+    ],
+    "gift": 200,
+    "growthTime": 0,
+    "maxSpawns": 0,
+    "name": "Egg",
+    "price": 220
 }

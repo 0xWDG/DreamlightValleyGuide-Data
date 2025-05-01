@@ -1,13 +1,13 @@
 {
-    "name": "Anglerfish",
+    "activity": [
+        "fishing"
+    ],
     "description": "Bony fish with large mouths and sharp teeth!",
-    "rarity": "Gold",
-    "price": 1,
     "energy": 2,
     "found": [
         "Forgotten Lands"
     ],
-    "activity": [
-        "fishing"
-    ]
+    "name": "Anglerfish",
+    "price": 1,
+    "rarity": "Gold"
 }

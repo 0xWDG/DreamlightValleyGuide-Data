@@ -1,13 +1,13 @@
 {
-    "name": "Shiny Emerald",
+    "activity": [
+        "mining"
+    ],
     "description": "A rare deep green gem that can be mined.",
-    "price": 1300,
-    "gift": 600,
     "found": [
         "Forest of Valor",
         "Glade of Trust"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "name": "Shiny Emerald",
+    "price": 1300
 }

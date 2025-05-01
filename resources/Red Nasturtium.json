@@ -1,12 +1,12 @@
 {
-    "name": "Red Nasturtium",
+    "activity": [
+        "foraging"
+    ],
     "description": "Red petals bloom from a yellow bulb.",
-    "price": 40,
-    "maxSpawns": 4,
     "found": [
         "Forgotten Lands"
     ],
-    "activity": [
-        "foraging"
-    ]
+    "maxSpawns": 4,
+    "name": "Red Nasturtium",
+    "price": 40
 }

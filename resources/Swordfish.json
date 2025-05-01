@@ -1,13 +1,13 @@
 {
-    "name": "Swordfish",
+    "activity": [
+        "fishing"
+    ],
     "description": "This fish can really get its point across.",
-    "rarity": "Gold",
-    "price": 700,
     "energy": 1,
     "found": [
         "Dazzle Beach"
     ],
-    "activity": [
-        "fishing"
-    ]
+    "name": "Swordfish",
+    "price": 700,
+    "rarity": "Gold"
 }

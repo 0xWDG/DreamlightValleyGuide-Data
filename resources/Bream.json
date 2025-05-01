@@ -1,13 +1,13 @@
 {
-    "name": "Bream",
+    "activity": [
+        "fishing"
+    ],
     "description": "Silver-hued fish common in mountain streams.",
-    "rarity": "Blue",
-    "price": 280,
     "energy": 1,
     "found": [
         "Peaceful Meadow"
     ],
-    "activity": [
-        "fishing"
-    ]
+    "name": "Bream",
+    "price": 280,
+    "rarity": "Blue"
 }

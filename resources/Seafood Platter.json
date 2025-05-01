@@ -1,16 +1,16 @@
 {
-    "name": "Seafood Platter",
+    "activity": [
+        "recipes"
+    ],
     "description": "An assortment of select seafood.",
-    "type": "Appetizers",
-    "stars": 2,
     "energy": 458,
-    "price": 116,
+    "found": [],
     "ingredients": [
         "Any Seafood",
         "Any Seafood"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Seafood Platter",
+    "price": 116,
+    "stars": 2,
+    "type": "Appetizers"
 }

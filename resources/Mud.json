@@ -1,15 +1,15 @@
 {
-    "name": "Mud",
-    "description": "Perfectly suitable for mud pies or a fancy spa day and everything in between.",
     "activity": [
         "digging",
         "foraging"
     ],
-    "price": 10,
-    "maxSpawns": 0,
+    "description": "Perfectly suitable for mud pies or a fancy spa day and everything in between.",
     "found": [
         "The Bind",
         "Everafter"
     ],
-    "gift": 0
+    "gift": 0,
+    "maxSpawns": 0,
+    "name": "Mud",
+    "price": 10
 }

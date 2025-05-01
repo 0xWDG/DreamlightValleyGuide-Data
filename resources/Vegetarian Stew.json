@@ -1,17 +1,17 @@
 {
-    "name": "Vegetarian Stew",
+    "activity": [
+        "recipes"
+    ],
     "description": "A thick and hearty stew full of veggies.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 617,
-    "price": 475,
+    "found": [],
     "ingredients": [
         "Potato",
         "Carrot",
         "Onion"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Vegetarian Stew",
+    "price": 475,
+    "stars": 3,
+    "type": "Entrées"
 }

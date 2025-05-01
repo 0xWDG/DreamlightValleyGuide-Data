@@ -1,14 +1,14 @@
 {
-    "name": "Fairy Bubbles",
-    "description": "These magical bubbles can be found buried around Everafter.",
     "activity": [
         "digging",
         "foraging"
     ],
-    "price": 15,
-    "maxSpawns": 0,
+    "description": "These magical bubbles can be found buried around Everafter.",
     "found": [
         "Everafter"
     ],
-    "gift": 0
+    "gift": 0,
+    "maxSpawns": 0,
+    "name": "Fairy Bubbles",
+    "price": 15
 }

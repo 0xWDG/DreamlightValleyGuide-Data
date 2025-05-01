@@ -1,12 +1,12 @@
 {
-    "name": "White & Red Hydrangea",
+    "activity": [
+        "foraging"
+    ],
     "description": "A hydrangea flower that has just bloomed.",
-    "price": 54,
-    "maxSpawns": 2,
     "found": [
         "Dazzle Beach"
     ],
-    "activity": [
-        "foraging"
-    ]
+    "maxSpawns": 2,
+    "name": "White & Red Hydrangea",
+    "price": 54
 }

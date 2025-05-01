@@ -1,14 +1,14 @@
 {
-    "name": "Gravel",
-    "description": "Old rubble found scattered throughout Mythopia.",
     "activity": [
         "digging",
         "foraging"
     ],
-    "price": 20,
-    "maxSpawns": 0,
+    "description": "Old rubble found scattered throughout Mythopia.",
     "found": [
         "Mythopia"
     ],
-    "gift": 0
+    "gift": 0,
+    "maxSpawns": 0,
+    "name": "Gravel",
+    "price": 20
 }

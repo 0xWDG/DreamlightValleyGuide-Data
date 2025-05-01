@@ -1,13 +1,13 @@
 {
-    "name": "Dark Wood",
+    "activity": [
+        "foraging"
+    ],
     "description": "A tangle of branches waiting to become something more.",
-    "price": 50,
-    "maxSpawns": 0,
     "found": [
         "Foraging",
         "Forgotten Lands"
     ],
-    "activity": [
-        "foraging"
-    ]
+    "maxSpawns": 0,
+    "name": "Dark Wood",
+    "price": 50
 }

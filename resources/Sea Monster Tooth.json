@@ -1,13 +1,13 @@
 {
-    "name": "Sea Monster Tooth",
-    "description": "Sea Monster Tooth is a foraged material which can be caught while fishing in blue or white pools in Everafter.",
-    "price": 550,
-    "maxSpawns": 0,
-    "found": [
-        "Everafter"
-    ],
     "activity": [
         "foraging"
     ],
-    "gift": 0
+    "description": "Sea Monster Tooth is a foraged material which can be caught while fishing in blue or white pools in Everafter.",
+    "found": [
+        "Everafter"
+    ],
+    "gift": 0,
+    "maxSpawns": 0,
+    "name": "Sea Monster Tooth",
+    "price": 550
 }

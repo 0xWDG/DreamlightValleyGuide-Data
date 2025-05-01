@@ -1,18 +1,18 @@
 {
-    "name": "Jam Waffles",
+    "activity": [
+        "recipes"
+    ],
     "description": "Fluffy waffles slathered in sweet jam.",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 1843,
-    "price": 709,
+    "found": [],
     "ingredients": [
         "Any Fruit",
         "Wheat",
         "Egg",
         "Milk"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Jam Waffles",
+    "price": 709,
+    "stars": 4,
+    "type": "Desserts"
 }

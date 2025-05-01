@@ -1,12 +1,12 @@
 {
-    "name": "Sapphire",
+    "activity": [
+        "mining"
+    ],
     "description": "A blue mineral that can be mined.",
-    "price": 350,
-    "gift": 600,
     "found": [
         "Vitalys Mine"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "name": "Sapphire",
+    "price": 350
 }

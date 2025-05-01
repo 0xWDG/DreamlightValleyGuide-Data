@@ -1,16 +1,16 @@
 {
-    "name": "Peanut Butter Sandwich",
+    "activity": [
+        "recipes"
+    ],
     "description": "A simple and timeless classic.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 592,
-    "price": 262,
+    "found": [],
     "ingredients": [
         "Peanut",
         "Wheat"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Peanut Butter Sandwich",
+    "price": 262,
+    "stars": 2,
+    "type": "Entrées"
 }

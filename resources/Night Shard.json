@@ -1,13 +1,13 @@
 {
-    "name": "Night Shard",
-    "description": "The opposite of a Dream Shard. Be careful.",
     "activity": [
         "digging",
         "foraging"
     ],
-    "price": 0,
-    "gift": 25,
+    "description": "The opposite of a Dream Shard. Be careful.",
     "found": [
         "Everywhere"
-    ]
+    ],
+    "gift": 25,
+    "name": "Night Shard",
+    "price": 0
 }

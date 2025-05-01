@@ -1,17 +1,17 @@
 {
-    "name": "Steamed Fugu",
+    "activity": [
+        "recipes"
+    ],
     "description": "Delicate slices of fugu steamed to perfection.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 3668,
-    "price": 1400,
+    "found": [],
     "ingredients": [
         "Fugu",
         "Ginger",
         "Garlic"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Steamed Fugu",
+    "price": 1400,
+    "stars": 3,
+    "type": "Entrées"
 }

@@ -1,17 +1,17 @@
 {
-    "name": "Gooseberry Boba Tea",
+    "activity": [
+        "recipes"
+    ],
     "description": "A sugary treat that's berry delicious.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 1833,
-    "price": 418,
+    "found": [],
     "ingredients": [
         "Milk",
         "Sugarcane",
         "Gooseberry"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Gooseberry Boba Tea",
+    "price": 418,
+    "stars": 3,
+    "type": "Desserts"
 }

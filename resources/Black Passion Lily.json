@@ -1,12 +1,12 @@
 {
-    "name": "Black Passion Lily",
+    "activity": [
+        "foraging"
+    ],
     "description": "Black petals bloom in an ominous manner.",
-    "price": 79,
-    "maxSpawns": 2,
     "found": [
         "Frosted Heights"
     ],
-    "activity": [
-        "foraging"
-    ]
+    "maxSpawns": 2,
+    "name": "Black Passion Lily",
+    "price": 79
 }

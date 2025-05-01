@@ -1,18 +1,18 @@
 {
-    "name": "Cheesecake",
+    "activity": [
+        "recipes"
+    ],
     "description": "A rich, creamy dessert served with fruit sauce.",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 1161,
-    "price": 332,
+    "found": [],
     "ingredients": [
         "Cheese",
         "Wheat",
         "Sugarcane",
         "Any Fruit"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Cheesecake",
+    "price": 332,
+    "stars": 4,
+    "type": "Desserts"
 }

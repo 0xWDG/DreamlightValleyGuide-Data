@@ -1,15 +1,15 @@
 {
-    "name": "Grilled Fish",
-    "description": "Perfectly cooked fish fresh from the grill.",
-    "type": "Entr\u00e9es",
-    "stars": 1,
-    "energy": 290,
-    "price": 30,
-    "ingredients": [
-        "Any Fish"
-    ],
     "activity": [
         "recipes"
     ],
-    "found": []
+    "description": "Perfectly cooked fish fresh from the grill.",
+    "energy": 290,
+    "found": [],
+    "ingredients": [
+        "Any Fish"
+    ],
+    "name": "Grilled Fish",
+    "price": 30,
+    "stars": 1,
+    "type": "Entrées"
 }

@@ -1,12 +1,12 @@
 {
-    "name": "Blue Star Lily",
+    "activity": [
+        "foraging"
+    ],
     "description": "The white petals bloom from a blue center.",
-    "price": 30,
-    "maxSpawns": 4,
     "found": [
         "Forest of Valor"
     ],
-    "activity": [
-        "foraging"
-    ]
+    "maxSpawns": 4,
+    "name": "Blue Star Lily",
+    "price": 30
 }

@@ -1,12 +1,12 @@
 {
-    "name": "Green Passion Lily",
+    "activity": [
+        "foraging"
+    ],
     "description": "Green petals bloom in an explosion of color.",
-    "price": 28,
-    "maxSpawns": 6,
     "found": [
         "Frosted Heights"
     ],
-    "activity": [
-        "foraging"
-    ]
+    "maxSpawns": 6,
+    "name": "Green Passion Lily",
+    "price": 28
 }

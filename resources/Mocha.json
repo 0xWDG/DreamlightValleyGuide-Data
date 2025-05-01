@@ -1,17 +1,17 @@
 {
-    "name": "Mocha",
+    "activity": [
+        "recipes"
+    ],
     "description": "A treat made with just a little cocoa, some coffee beans, and a splash of milk",
-    "type": "Appetizers",
-    "stars": 3,
     "energy": 2246,
-    "price": 425,
+    "found": [],
     "ingredients": [
         "Coffee Bean",
         "Milk",
         "Cocoa Bean"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Mocha",
+    "price": 425,
+    "stars": 3,
+    "type": "Appetizers"
 }

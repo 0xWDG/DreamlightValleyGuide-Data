@@ -1,14 +1,14 @@
 {
-    "name": "Crystal",
+    "activity": [
+        "foraging",
+        "mining"
+    ],
     "description": "A pretty, rare crystal used for crafting.",
-    "price": 30,
-    "maxSpawns": 0,
     "found": [
         "Mining",
         "Forgotten Lands"
     ],
-    "activity": [
-        "foraging",
-        "mining"
-    ]
+    "maxSpawns": 0,
+    "name": "Crystal",
+    "price": 30
 }

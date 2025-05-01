@@ -1,17 +1,17 @@
 {
-    "name": "Apple-Cider-Glazed Salmon",
+    "activity": [
+        "recipes"
+    ],
     "description": "A cut of salmon glazed to perfection with a reduction of apple cider.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 1572,
-    "price": 271,
+    "found": [],
     "ingredients": [
         "Apple",
         "Salmon",
         "Sugarcane"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Apple-Cider-Glazed Salmon",
+    "price": 271,
+    "stars": 3,
+    "type": "Entrées"
 }

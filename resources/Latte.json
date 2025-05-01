@@ -1,16 +1,16 @@
 {
-    "name": "Latte",
+    "activity": [
+        "recipes"
+    ],
     "description": "Strong coffee with a dollop of perfectly steamed milk on top.",
-    "type": "Appetizers",
-    "stars": 2,
     "energy": 1358,
-    "price": 345,
+    "found": [],
     "ingredients": [
         "Coffee Bean",
         "Milk"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Latte",
+    "price": 345,
+    "stars": 2,
+    "type": "Appetizers"
 }

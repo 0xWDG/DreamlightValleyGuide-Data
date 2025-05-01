@@ -1,12 +1,12 @@
 {
-    "name": "Shiny Ruby",
+    "activity": [
+        "mining"
+    ],
     "description": "A rare red mineral that can be mined.",
-    "price": 1400,
-    "gift": 600,
     "found": [
         "Vitalys Mine"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "name": "Shiny Ruby",
+    "price": 1400
 }

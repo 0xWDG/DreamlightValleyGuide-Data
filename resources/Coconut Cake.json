@@ -1,18 +1,18 @@
 {
-    "name": "Coconut Cake",
+    "activity": [
+        "recipes"
+    ],
     "description": "Moist cake with frosting and coconut shavings.",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 1750,
-    "price": 424,
+    "found": [],
     "ingredients": [
         "Coconut",
         "Wheat",
         "Egg",
         "Sugarcane"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Coconut Cake",
+    "price": 424,
+    "stars": 4,
+    "type": "Desserts"
 }

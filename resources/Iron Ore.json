@@ -1,8 +1,9 @@
 {
-    "name": "Iron Ore",
+    "activity": [
+        "foraging",
+        "mining"
+    ],
     "description": "A chunk of raw iron that becomes ingots.",
-    "price": 10,
-    "maxSpawns": 0,
     "found": [
         "Mining",
         "Forest of Valor",
@@ -12,8 +13,7 @@
         "Forgotten Lands",
         "Vitalys Mine"
     ],
-    "activity": [
-        "foraging",
-        "mining"
-    ]
+    "maxSpawns": 0,
+    "name": "Iron Ore",
+    "price": 10
 }

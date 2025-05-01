@@ -1,18 +1,18 @@
 {
-    "name": "Okra",
-    "description": "Okra\u2014also known as lady's-fingers, gumbo, or bhindi\u2014is the most important vegetable crop of the tropical and subtropical regions of the world. It belongs to the genus Abelmoschus and family Malvaceae. Okra is a multipurpose crop valued for its tender and delicious pods.",
-    "type": "Vegetables",
-    "biome": "Glade of Trust",
-    "grow": "2h",
-    "water": 1,
-    "yield": 3,
-    "seed": 135,
-    "sell": 114,
-    "profit": 207,
-    "coins": "1.72",
     "activity": [
         "gardening"
     ],
+    "biome": "Glade of Trust",
+    "coins": "1.72",
+    "description": "Okra—also known as lady's-fingers, gumbo, or bhindi—is the most important vegetable crop of the tropical and subtropical regions of the world. It belongs to the genus Abelmoschus and family Malvaceae. Okra is a multipurpose crop valued for its tender and delicious pods.",
+    "found": [],
+    "grow": "2h",
+    "name": "Okra",
     "price": 0,
-    "found": []
+    "profit": 207,
+    "seed": 135,
+    "sell": 114,
+    "type": "Vegetables",
+    "water": 1,
+    "yield": 3
 }

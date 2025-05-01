@@ -1,17 +1,17 @@
 {
-    "name": "Simple Fried Perch",
+    "activity": [
+        "recipes"
+    ],
     "description": "A cut of perch fried to perfection.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 1317,
-    "price": 380,
+    "found": [],
     "ingredients": [
         "Perch",
         "Butter",
         "Wheat"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Simple Fried Perch",
+    "price": 380,
+    "stars": 3,
+    "type": "Entrées"
 }

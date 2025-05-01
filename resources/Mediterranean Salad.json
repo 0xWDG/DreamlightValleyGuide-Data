@@ -1,10 +1,10 @@
 {
-    "name": "Mediterranean Salad",
+    "activity": [
+        "recipes"
+    ],
     "description": "Olive oil, feta cheese, and leafy greens!",
-    "type": "Entr\u00e9es",
-    "stars": 5,
     "energy": 976,
-    "price": 605,
+    "found": [],
     "ingredients": [
         "Cucumber",
         "Tomato",
@@ -12,8 +12,8 @@
         "Lettuce",
         "Any Spice"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Mediterranean Salad",
+    "price": 605,
+    "stars": 5,
+    "type": "Entrées"
 }

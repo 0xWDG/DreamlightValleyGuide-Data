@@ -1,12 +1,12 @@
 {
-    "name": "Opal",
+    "activity": [
+        "mining"
+    ],
     "description": "This rare gem glistens with all the colors of the rainbow.",
-    "price": 300,
-    "gift": 600,
     "found": [
         "The Bind"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "name": "Opal",
+    "price": 300
 }

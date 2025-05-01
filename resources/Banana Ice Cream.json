@@ -1,18 +1,18 @@
 {
-    "name": "Banana Ice Cream",
+    "activity": [
+        "recipes"
+    ],
     "description": "Two scoops of banana-flavored goodness.",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 1884,
-    "price": 641,
+    "found": [],
     "ingredients": [
         "Slush Ice",
         "Banana",
         "Milk",
         "Sugarcane"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Banana Ice Cream",
+    "price": 641,
+    "stars": 4,
+    "type": "Desserts"
 }

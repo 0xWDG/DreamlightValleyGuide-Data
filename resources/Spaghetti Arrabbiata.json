@@ -1,17 +1,17 @@
 {
-    "name": "Spaghetti Arrabbiata",
+    "activity": [
+        "recipes"
+    ],
     "description": "A savory dish of pasta and tomato sauce.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 373,
-    "price": 141,
+    "found": [],
     "ingredients": [
         "Tomato",
         "Wheat",
         "Chili Pepper"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Spaghetti Arrabbiata",
+    "price": 141,
+    "stars": 3,
+    "type": "Entrées"
 }

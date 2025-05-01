@@ -1,17 +1,17 @@
 {
-    "name": "Grilled Veggie Platter",
+    "activity": [
+        "recipes"
+    ],
     "description": "A selection of grilled vegetables.",
-    "type": "Appetizers",
-    "stars": 3,
     "energy": 161,
-    "price": 33,
+    "found": [],
     "ingredients": [
         "Any Vegetable",
         "Any Vegetable",
         "Any Vegetable"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Grilled Veggie Platter",
+    "price": 33,
+    "stars": 3,
+    "type": "Appetizers"
 }

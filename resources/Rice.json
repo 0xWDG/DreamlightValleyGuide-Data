@@ -1,18 +1,18 @@
 {
-    "name": "Rice",
-    "description": "Rice, Edible starchy cereal grain and the annual grass (Oryza sativa, family Poaceae) that produces it. Roughly one-half of the world's population, including almost all of East and Southeast Asia, depends on rice as its principal staple food.",
-    "type": "Grains",
-    "biome": "Glade of Trust",
-    "grow": "50min",
-    "water": 2,
-    "yield": 2,
-    "seed": 35,
-    "sell": 61,
-    "profit": 87,
-    "coins": "1.74",
     "activity": [
         "gardening"
     ],
+    "biome": "Glade of Trust",
+    "coins": "1.74",
+    "description": "Rice, Edible starchy cereal grain and the annual grass (Oryza sativa, family Poaceae) that produces it. Roughly one-half of the world's population, including almost all of East and Southeast Asia, depends on rice as its principal staple food.",
+    "found": [],
+    "grow": "50min",
+    "name": "Rice",
     "price": 0,
-    "found": []
+    "profit": 87,
+    "seed": 35,
+    "sell": 61,
+    "type": "Grains",
+    "water": 2,
+    "yield": 2
 }

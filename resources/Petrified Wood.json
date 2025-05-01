@@ -1,14 +1,14 @@
 {
-    "name": "Petrified Wood",
+    "activity": [
+        "foraging"
+    ],
     "description": "Petrified Wood is a foraged material which can be found mining rocks and mining nodes in The Bind and Everafter areas in Storybook Vale.",
-    "price": 20,
-    "maxSpawns": 0,
     "found": [
         "The Bind",
         "Everafter"
     ],
-    "activity": [
-        "foraging"
-    ],
-    "gift": 0
+    "gift": 0,
+    "maxSpawns": 0,
+    "name": "Petrified Wood",
+    "price": 20
 }

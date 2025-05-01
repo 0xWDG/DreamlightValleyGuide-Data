@@ -1,18 +1,18 @@
 {
-    "name": "Creamy Soup",
+    "activity": [
+        "recipes"
+    ],
     "description": "A simple, delicious soup.",
-    "type": "Appetizers",
-    "stars": 4,
     "energy": 1138,
-    "price": 576,
+    "found": [],
     "ingredients": [
         "Milk",
         "Potato",
         "Any Spice",
         "Any Vegetable"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Creamy Soup",
+    "price": 576,
+    "stars": 4,
+    "type": "Appetizers"
 }

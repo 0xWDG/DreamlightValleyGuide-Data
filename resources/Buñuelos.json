@@ -1,18 +1,18 @@
 {
-    "name": "Bu\u00f1uelos",
+    "activity": [
+        "recipes"
+    ],
     "description": "A very popular cheese-fried delicacy often served during festive times.",
-    "type": "Appetizers",
-    "stars": 4,
     "energy": 1881,
-    "price": 948,
+    "found": [],
     "ingredients": [
         "Milk",
         "Egg",
         "Cheese",
         "Wheat"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Buñuelos",
+    "price": 948,
+    "stars": 4,
+    "type": "Appetizers"
 }

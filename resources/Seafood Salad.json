@@ -1,16 +1,16 @@
 {
-    "name": "Seafood Salad",
+    "activity": [
+        "recipes"
+    ],
     "description": "Leafy greens with tomato and fresh seafood.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 349,
-    "price": 68,
+    "found": [],
     "ingredients": [
         "Any Seafood",
         "Lettuce"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": []
+    "name": "Seafood Salad",
+    "price": 68,
+    "stars": 2,
+    "type": "Entrées"
 }

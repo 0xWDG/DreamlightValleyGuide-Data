@@ -1,15 +1,15 @@
 {
-    "name": "Cod",
+    "activity": [
+        "fishing"
+    ],
     "description": "A common fish that prefers cold water.",
-    "rarity": "None",
-    "price": 35,
     "energy": 150,
     "found": [
         "Dazzle Beach",
         "Forgotten Lands",
         "Glade of Trust"
     ],
-    "activity": [
-        "fishing"
-    ]
+    "name": "Cod",
+    "price": 35,
+    "rarity": "None"
 }
