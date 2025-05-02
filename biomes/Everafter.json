@@ -2,5 +2,10 @@
     "name": "Everafter",
     "island": "Storybook Vale",
     "description": "Everafter is a biome in Storybook Vale, available only in the paid expansion The Storybook Vale.",
-    "price": 2000
+    "price": 2000,
+    "currency": "Storybook Magic",
+    "characters": [
+        "Flynn"
+    ],
+    "critters": "Blue Baby Dragon"
 }
