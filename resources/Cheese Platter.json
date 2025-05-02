@@ -1,15 +1,15 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Cheese Platter",
     "description": "A plate of diligently selected cheeses.",
+    "type": "Appetizers",
+    "stars": 1,
     "energy": 482,
-    "found": [],
+    "price": 216,
     "ingredients": [
         "Cheese"
     ],
-    "name": "Cheese Platter",
-    "price": 216,
-    "stars": 1,
-    "type": "Appetizers"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

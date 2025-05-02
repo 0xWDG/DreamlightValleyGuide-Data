@@ -1,0 +1,14 @@
+{
+    "found": [
+        "The Grasslands",
+        "The Promenade"
+    ],
+    "price": 1025,
+    "energy": 1550,
+    "rarity": "Gold",
+    "type": "Fish",
+    "name": "Electric Eel",
+    "activity": [
+        "fishing"
+    ]
+}

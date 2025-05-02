@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Dandelion",
     "description": "A yellow wildflower widely used in medicine.",
+    "price": 23,
+    "maxSpawns": 4,
     "found": [
         "Plaza"
     ],
-    "maxSpawns": 4,
-    "name": "Dandelion",
-    "price": 23
+    "activity": [
+        "foraging"
+    ]
 }

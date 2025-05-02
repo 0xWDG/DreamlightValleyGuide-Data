@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "White & Pink Falling Penstemon",
     "description": "White-pink wildflowers that droop when in bloom.",
+    "price": 41,
+    "maxSpawns": 2,
     "found": [
         "Plaza"
     ],
-    "maxSpawns": 2,
-    "name": "White & Pink Falling Penstemon",
-    "price": 41
+    "activity": [
+        "foraging"
+    ]
 }

@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Red Passion Lily",
     "description": "Its bloom is an explosion of color.",
+    "price": 38,
+    "maxSpawns": 4,
     "found": [
         "Frosted Heights"
     ],
-    "maxSpawns": 4,
-    "name": "Red Passion Lily",
-    "price": 38
+    "activity": [
+        "foraging"
+    ]
 }

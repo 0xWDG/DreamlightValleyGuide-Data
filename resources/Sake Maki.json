@@ -1,17 +1,17 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Sake Maki",
     "description": "Salmon wrapped in rice and seaweed.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
     "energy": 1101,
-    "found": [],
+    "price": 323,
     "ingredients": [
         "Rice",
         "Seaweed",
         "Salmon"
     ],
-    "name": "Sake Maki",
-    "price": 323,
-    "stars": 3,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

@@ -1,0 +1,15 @@
+{
+    "found": [
+        "The Plains",
+        "The Wastes",
+        "The Borderlands"
+    ],
+    "price": 800,
+    "energy": 1650,
+    "rarity": "Gold",
+    "type": "Dairy and Oil",
+    "name": "Sand Worm",
+    "activity": [
+        "fishing"
+    ]
+}

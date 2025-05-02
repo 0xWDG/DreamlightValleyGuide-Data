@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Pink Bromeliad",
     "description": "A pointy, brightly colored flower.",
+    "price": 27,
+    "maxSpawns": 6,
     "found": [
         "Sunlit Plateau"
     ],
-    "maxSpawns": 6,
-    "name": "Pink Bromeliad",
-    "price": 27
+    "activity": [
+        "foraging"
+    ]
 }

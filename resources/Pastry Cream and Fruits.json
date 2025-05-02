@@ -1,10 +1,10 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Pastry Cream and Fruits",
     "description": "Fruits and cream: an iconic combination!",
+    "type": "Desserts",
+    "stars": 5,
     "energy": 2332,
-    "found": [],
+    "price": 497,
     "ingredients": [
         "Any Fruit",
         "Any Fruit",
@@ -12,8 +12,8 @@
         "Milk",
         "Sugarcane"
     ],
-    "name": "Pastry Cream and Fruits",
-    "price": 497,
-    "stars": 5,
-    "type": "Desserts"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

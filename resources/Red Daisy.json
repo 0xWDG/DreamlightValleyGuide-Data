@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Red Daisy",
     "description": "Bright red petals surround a yellow bulb.",
+    "price": 48,
+    "maxSpawns": 2,
     "found": [
         "Peaceful Meadow"
     ],
-    "maxSpawns": 2,
-    "name": "Red Daisy",
-    "price": 48
+    "activity": [
+        "foraging"
+    ]
 }

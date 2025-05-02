@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Orange Star Lily",
     "description": "A bright orange flower shaped like a star.",
+    "price": 43,
+    "maxSpawns": 3,
     "found": [
         "Forest of Valor"
     ],
-    "maxSpawns": 3,
-    "name": "Orange Star Lily",
-    "price": 43
+    "activity": [
+        "foraging"
+    ]
 }

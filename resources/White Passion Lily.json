@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "White Passion Lily",
     "description": "A vibrant bloom of purples and whites.",
+    "price": 38,
+    "maxSpawns": 4,
     "found": [
         "Frosted Heights"
     ],
-    "maxSpawns": 4,
-    "name": "White Passion Lily",
-    "price": 38
+    "activity": [
+        "foraging"
+    ]
 }

@@ -1,0 +1,13 @@
+{
+    "found": [
+        "Mythopia"
+    ],
+    "price": 75,
+    "energy": 150,
+    "rarity": "None",
+    "type": "Seafood",
+    "name": "Mussel",
+    "activity": [
+        "fishing"
+    ]
+}

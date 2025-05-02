@@ -1,17 +1,17 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Fugu Sushi",
     "description": "A dangerous delicacy that tastes marvelous.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
     "energy": 3261,
-    "found": [],
+    "price": 1300,
     "ingredients": [
         "Fugu",
         "Rice",
         "Seaweed"
     ],
-    "name": "Fugu Sushi",
-    "price": 1300,
-    "stars": 3,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

@@ -1,14 +1,14 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Moss",
     "description": "Moss is a foraged material which can be gathered using a shovel on Mossy Logs in The Bind and gathered from the ground in Everafter.",
+    "price": 70,
+    "maxSpawns": 0,
     "found": [
         "The Bind",
         "Everafter"
     ],
-    "gift": 0,
-    "maxSpawns": 0,
-    "name": "Moss",
-    "price": 70
+    "activity": [
+        "foraging"
+    ],
+    "gift": 0
 }

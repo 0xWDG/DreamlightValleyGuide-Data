@@ -1,14 +1,14 @@
 {
-    "activity": [
-        "snippets"
-    ],
+    "name": "Pink Frog Snippet",
     "description": "Frogs: Pink Frog Snippet",
+    "type": "Frogs",
+    "price": 20,
     "found": [
         "The Statue's Shadow",
         "Teapot Falls"
     ],
     "maxSpawns": 0,
-    "name": "Pink Frog Snippet",
-    "price": 20,
-    "type": "Frogs"
+    "activity": [
+        "snippets"
+    ]
 }

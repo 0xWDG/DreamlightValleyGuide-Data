@@ -3,8 +3,9 @@
     "description": "This fish can really get its point across.",
     "rarity": "Gold",
     "price": 700,
-    "energy": 1,
+    "energy": 1500,
     "found": [
         "Dazzle Beach"
-    ]
+    ],
+    "type": "Fish"
 }

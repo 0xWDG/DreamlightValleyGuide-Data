@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Purple Marsh Milkweed",
     "description": "A bush with small clusters of purple petals.",
+    "price": 25,
+    "maxSpawns": 6,
     "found": [
         "Glade of Trust"
     ],
-    "maxSpawns": 6,
-    "name": "Purple Marsh Milkweed",
-    "price": 25
+    "activity": [
+        "foraging"
+    ]
 }

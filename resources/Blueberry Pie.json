@@ -1,17 +1,17 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Blueberry Pie",
     "description": "A sweet summer pie with a hint of tartness.",
+    "type": "Desserts",
+    "stars": 3,
     "energy": 1227,
-    "found": [],
+    "price": 308,
     "ingredients": [
         "Blueberry",
         "Wheat",
         "Butter"
     ],
-    "name": "Blueberry Pie",
-    "price": 308,
-    "stars": 3,
-    "type": "Desserts"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

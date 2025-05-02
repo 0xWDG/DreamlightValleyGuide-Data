@@ -1,12 +1,12 @@
 {
+    "name": "Oasis Glass",
+    "description": "Shiny, colorful glass weathered by time.",
     "activity": [
         "digging"
     ],
-    "description": "Shiny, colorful glass weathered by time.",
+    "price": 30,
+    "gift": 25,
     "found": [
         "Glittering Dunes"
-    ],
-    "gift": 25,
-    "name": "Oasis Glass",
-    "price": 30
+    ]
 }

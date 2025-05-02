@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "mining"
-    ],
+    "name": "Shiny Magma",
     "description": "This magma glimmers with the shards of gems within.",
+    "price": 1600,
+    "gift": 600,
     "found": [
         "Mythopia"
     ],
-    "gift": 600,
-    "name": "Shiny Magma",
-    "price": 1600
+    "activity": [
+        "mining"
+    ]
 }

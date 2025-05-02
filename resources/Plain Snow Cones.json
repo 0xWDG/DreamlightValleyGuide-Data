@@ -1,15 +1,15 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Plain Snow Cones",
     "description": "Think of what you can create with a little bit of added flavor.",
+    "type": "Desserts",
+    "stars": 1,
     "energy": 410,
-    "found": [],
+    "price": 180,
     "ingredients": [
         "Any Ice"
     ],
-    "name": "Plain Snow Cones",
-    "price": 180,
-    "stars": 1,
-    "type": "Desserts"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

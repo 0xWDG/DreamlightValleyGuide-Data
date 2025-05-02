@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Blue Falling Penstemon",
     "description": "Blue wildflowers that droop when in bloom.",
+    "price": 23,
+    "maxSpawns": 4,
     "found": [
         "Plaza"
     ],
-    "maxSpawns": 4,
-    "name": "Blue Falling Penstemon",
-    "price": 23
+    "activity": [
+        "foraging"
+    ]
 }

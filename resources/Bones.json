@@ -1,13 +1,13 @@
 {
+    "name": "Bones",
+    "description": "Looks like somebody already ate this fish. But perhaps you could use these to build something...",
     "activity": [
         "digging",
         "foraging"
     ],
-    "description": "Looks like somebody already ate this fish. But perhaps you could use these to build something...",
+    "price": 20,
+    "gift": 25,
     "found": [
         "Glittering Dunes"
-    ],
-    "gift": 25,
-    "name": "Bones",
-    "price": 20
+    ]
 }

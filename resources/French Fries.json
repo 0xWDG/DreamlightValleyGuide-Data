@@ -1,16 +1,16 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "French Fries",
     "description": "Perfectly seasoned potato fries.",
+    "type": "Appetizers",
+    "stars": 2,
     "energy": 342,
-    "found": [],
+    "price": 304,
     "ingredients": [
         "Canola",
         "Potato"
     ],
-    "name": "French Fries",
-    "price": 304,
-    "stars": 2,
-    "type": "Appetizers"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

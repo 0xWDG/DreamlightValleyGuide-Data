@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Orange Nasturtium",
     "description": "Orange petals bloom from a yellow bulb.",
+    "price": 60,
+    "maxSpawns": 3,
     "found": [
         "Forgotten Lands"
     ],
-    "maxSpawns": 3,
-    "name": "Orange Nasturtium",
-    "price": 60
+    "activity": [
+        "foraging"
+    ]
 }

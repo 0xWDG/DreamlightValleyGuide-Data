@@ -1,18 +1,18 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Fish Pasta",
     "description": "Fish and thin pasta in a light sauce.",
+    "type": "Entr\u00e9es",
+    "stars": 4,
     "energy": 1282,
-    "found": [],
+    "price": 475,
     "ingredients": [
         "Any Fish",
         "Garlic",
         "Wheat",
         "Milk"
     ],
-    "name": "Fish Pasta",
-    "price": 475,
-    "stars": 4,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

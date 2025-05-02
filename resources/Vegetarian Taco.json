@@ -1,18 +1,18 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Vegetarian Taco",
     "description": "A tortilla with various grilled veggies.",
+    "type": "Entr\u00e9es",
+    "stars": 4,
     "energy": 925,
-    "found": [],
+    "price": 423,
     "ingredients": [
         "Any Vegetable",
         "Corn",
         "Chili Pepper",
         "Cheese"
     ],
-    "name": "Vegetarian Taco",
-    "price": 423,
-    "stars": 4,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

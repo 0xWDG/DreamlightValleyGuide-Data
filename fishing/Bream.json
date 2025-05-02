@@ -3,8 +3,9 @@
     "description": "Silver-hued fish common in mountain streams.",
     "rarity": "Blue",
     "price": 280,
-    "energy": 1,
+    "energy": 1300,
     "found": [
         "Peaceful Meadow"
-    ]
+    ],
+    "type": "Fish"
 }

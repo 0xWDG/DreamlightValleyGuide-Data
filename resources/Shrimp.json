@@ -1,13 +1,14 @@
 {
-    "activity": [
-        "fishing"
-    ],
+    "name": "Shrimp",
     "description": "Crustaceans that eat food off the ocean floor.",
+    "rarity": "Blue, White",
+    "price": 300,
     "energy": 750,
     "found": [
         "Dazzle Beach"
     ],
-    "name": "Shrimp",
-    "price": 300,
-    "rarity": "Blue"
+    "type": "Seafood",
+    "activity": [
+        "fishing"
+    ]
 }

@@ -1,17 +1,17 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Pan-Seared Bass & Vegetables",
     "description": "A thick cut of perfectly cooked bass.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
     "energy": 394,
-    "found": [],
+    "price": 57,
     "ingredients": [
         "Bass",
         "Any Vegetable",
         "Any Vegetable"
     ],
-    "name": "Pan-Seared Bass & Vegetables",
-    "price": 57,
-    "stars": 3,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

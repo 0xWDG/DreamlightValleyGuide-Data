@@ -1,13 +1,13 @@
 {
-    "activity": [
-        "mining"
-    ],
+    "name": "Shiny Amethyst",
     "description": "A rare purple gem that can be mined.",
+    "price": 2000,
+    "gift": 600,
     "found": [
         "Forgotten Lands",
         "Frosted Heights"
     ],
-    "gift": 600,
-    "name": "Shiny Amethyst",
-    "price": 2000
+    "activity": [
+        "mining"
+    ]
 }

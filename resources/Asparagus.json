@@ -1,18 +1,18 @@
 {
+    "name": "Asparagus",
+    "description": "Asparagus is a perennial flowering plant species in the genus Asparagus. It was originally native to most of Europe, northern Africa, and western Asia, but has been cultivated worldwide as a food crop.",
+    "type": "Vegetables",
+    "biome": "Frosted Heights",
+    "grow": "2h 15min",
+    "water": 2,
+    "yield": 3,
+    "seed": 150,
+    "sell": 133,
+    "profit": 249,
+    "coins": "1.84",
     "activity": [
         "gardening"
     ],
-    "biome": "Frosted Heights",
-    "coins": "1.84",
-    "description": "Asparagus is a perennial flowering plant species in the genus Asparagus. It was originally native to most of Europe, northern Africa, and western Asia, but has been cultivated worldwide as a food crop.",
-    "found": [],
-    "grow": "2h 15min",
-    "name": "Asparagus",
     "price": 0,
-    "profit": 249,
-    "seed": 150,
-    "sell": 133,
-    "type": "Vegetables",
-    "water": 2,
-    "yield": 3
+    "found": []
 }

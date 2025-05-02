@@ -1,14 +1,15 @@
 {
-    "activity": [
-        "fishing"
-    ],
+    "name": "Tilapia",
     "description": "A small fish often found in shallow rivers.",
-    "energy": 1,
+    "rarity": "Blue, White",
+    "price": 600,
+    "energy": 1150,
     "found": [
         "Sunlit Plateau",
         "Frosted Heights"
     ],
-    "name": "Tilapia",
-    "price": 600,
-    "rarity": "Blue"
+    "type": "Fish",
+    "activity": [
+        "fishing"
+    ]
 }

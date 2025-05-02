@@ -1,13 +1,14 @@
 {
-    "activity": [
-        "fishing"
-    ],
+    "name": "Catfish",
     "description": "A large fish with cat-like \"whiskers.\"",
-    "energy": 1,
+    "rarity": "Gold",
+    "price": 550,
+    "energy": 1200,
     "found": [
         "Peaceful Meadow"
     ],
-    "name": "Catfish",
-    "price": 550,
-    "rarity": "Gold"
+    "type": "Fish",
+    "activity": [
+        "fishing"
+    ]
 }

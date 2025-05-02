@@ -1,18 +1,18 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Vanilla Ice Cream",
     "description": "The perfect snack for any hot day.",
+    "type": "Desserts",
+    "stars": 4,
     "energy": 1475,
-    "found": [],
+    "price": 688,
     "ingredients": [
         "Slush Ice",
         "Milk",
         "Sugarcane",
         "Vanilla"
     ],
-    "name": "Vanilla Ice Cream",
-    "price": 688,
-    "stars": 4,
-    "type": "Desserts"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

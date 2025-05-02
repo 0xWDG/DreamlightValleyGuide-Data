@@ -1,14 +1,14 @@
 {
-    "activity": [
-        "snippets"
-    ],
+    "name": "Green Frog Snippet",
     "description": "Frogs: Green Frog Snippet",
+    "type": "Frogs",
+    "price": 10,
     "found": [
         "The Wild Woods",
         "Teapot Falls"
     ],
     "maxSpawns": 0,
-    "name": "Green Frog Snippet",
-    "price": 10,
-    "type": "Frogs"
+    "activity": [
+        "snippets"
+    ]
 }

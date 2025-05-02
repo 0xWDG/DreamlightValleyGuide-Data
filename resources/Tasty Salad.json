@@ -1,18 +1,18 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Tasty Salad",
     "description": "A particularly yummy salad that hits the spot.",
+    "type": "Entr\u00e9es",
+    "stars": 4,
     "energy": 650,
-    "found": [],
+    "price": 292,
     "ingredients": [
         "Lettuce",
         "Cucumber",
         "Any Vegetable",
         "Any Spice"
     ],
-    "name": "Tasty Salad",
-    "price": 292,
-    "stars": 4,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

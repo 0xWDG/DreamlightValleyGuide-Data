@@ -1,13 +1,13 @@
 {
-    "activity": [
-        "mining"
-    ],
+    "name": "Alexandrite",
     "description": "Alexandrite is a gem which can be found when mining rock nodes using the Pickaxe in The Wastes and The Oasis areas of the Glittering Dunes.",
+    "price": 350,
+    "gift": 600,
     "found": [
         "The Wastes",
         "The Oasis"
     ],
-    "gift": 600,
-    "name": "Alexandrite",
-    "price": 350
+    "activity": [
+        "mining"
+    ]
 }

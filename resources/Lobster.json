@@ -1,13 +1,14 @@
 {
-    "activity": [
-        "fishing"
-    ],
+    "name": "Lobster",
     "description": "Larger than crabs, but still with sharp claws!",
-    "energy": 1,
+    "rarity": "Gold",
+    "price": 950,
+    "energy": 1600,
     "found": [
         "Glade of Trust"
     ],
-    "name": "Lobster",
-    "price": 950,
-    "rarity": "Gold"
+    "type": "Seafood",
+    "activity": [
+        "fishing"
+    ]
 }

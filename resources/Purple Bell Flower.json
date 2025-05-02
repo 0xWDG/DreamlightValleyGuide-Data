@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Purple Bell Flower",
     "description": "A vibrant purple blossom, perfect for gifting!",
+    "price": 30,
+    "maxSpawns": 4,
     "found": [
         "Forest of Valor"
     ],
-    "maxSpawns": 4,
-    "name": "Purple Bell Flower",
-    "price": 30
+    "activity": [
+        "foraging"
+    ]
 }

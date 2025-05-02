@@ -1,15 +1,15 @@
 {
-    "activity": [
-        "recipes"
-    ],
-    "description": "Don’t worry — there are potatoes in there, too.",
+    "name": "Leek Soup",
+    "description": "Don\u2019t worry \u2014 there are potatoes in there, too.",
+    "type": "Entr\u00e9es",
+    "stars": 1,
     "energy": 414,
-    "found": [],
+    "price": 370,
     "ingredients": [
         "Leek"
     ],
-    "name": "Leek Soup",
-    "price": 370,
-    "stars": 1,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

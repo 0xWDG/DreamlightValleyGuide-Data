@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Purple Rising Penstemon",
     "description": "Purple wildflowers that rise when in bloom.",
+    "price": 25,
+    "maxSpawns": 4,
     "found": [
         "Peaceful Meadow"
     ],
-    "maxSpawns": 4,
-    "name": "Purple Rising Penstemon",
-    "price": 25
+    "activity": [
+        "foraging"
+    ]
 }

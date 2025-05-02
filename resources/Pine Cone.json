@@ -1,13 +1,13 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Pine Cone",
     "description": "Pine Cone is a foraged material which can be gathered from the ground in The Bind area in Storybook Vale.",
+    "price": 80,
+    "maxSpawns": 0,
     "found": [
         "The Bind"
     ],
-    "gift": 0,
-    "maxSpawns": 0,
-    "name": "Pine Cone",
-    "price": 80
+    "activity": [
+        "foraging"
+    ],
+    "gift": 0
 }

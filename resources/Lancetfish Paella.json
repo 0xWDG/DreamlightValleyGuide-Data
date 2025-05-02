@@ -1,10 +1,10 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Lancetfish Paella",
     "description": "A seafood and rice delicacy made with a cut of fresh lancetfish.",
+    "type": "Entr\u00e9es",
+    "stars": 5,
     "energy": 4550,
-    "found": [],
+    "price": 1700,
     "ingredients": [
         "Lancetfish",
         "Shrimp",
@@ -12,8 +12,8 @@
         "Tomato",
         "Rice"
     ],
-    "name": "Lancetfish Paella",
-    "price": 1700,
-    "stars": 5,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

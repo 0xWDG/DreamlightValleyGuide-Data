@@ -1,13 +1,13 @@
 {
+    "name": "Amber",
+    "description": "An orange rock that could be great for making jewelry.",
     "activity": [
         "digging",
         "foraging"
     ],
-    "description": "An orange rock that could be great for making jewelry.",
+    "price": 30,
+    "gift": 25,
     "found": [
         "Wild Tangle"
-    ],
-    "gift": 25,
-    "name": "Amber",
-    "price": 30
+    ]
 }

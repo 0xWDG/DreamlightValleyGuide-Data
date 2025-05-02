@@ -1,17 +1,17 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Eggplant Puffs",
     "description": "Small, flaky pastries stuffed with eggplant.",
+    "type": "Appetizers",
+    "stars": 3,
     "energy": 1941,
-    "found": [],
+    "price": 991,
     "ingredients": [
         "Eggplant",
         "Egg",
         "Cheese"
     ],
-    "name": "Eggplant Puffs",
-    "price": 991,
-    "stars": 3,
-    "type": "Appetizers"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

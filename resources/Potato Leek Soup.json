@@ -1,10 +1,10 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Potato Leek Soup",
     "description": "A hearty soup sure to give you energy!",
+    "type": "Appetizers",
+    "stars": 5,
     "energy": 1984,
-    "found": [],
+    "price": 1400,
     "ingredients": [
         "Leek",
         "Potato",
@@ -12,8 +12,8 @@
         "Onion",
         "Garlic"
     ],
-    "name": "Potato Leek Soup",
-    "price": 1400,
-    "stars": 5,
-    "type": "Appetizers"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

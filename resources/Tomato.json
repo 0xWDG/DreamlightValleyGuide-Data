@@ -1,18 +1,18 @@
 {
+    "name": "Tomato",
+    "description": "The tomato (Solanum lycopersicum) is a fruit from the nightshade family native to South America. Despite botanically being a fruit, it's generally eaten and prepared like a vegetable. They are a great source of vitamin C, potassium, folate, and vitamin K.",
+    "type": "Vegetables",
+    "biome": "Dazzle Beach",
+    "grow": "25min",
+    "water": 2,
+    "yield": 3,
+    "seed": 8,
+    "sell": 22,
+    "profit": 58,
+    "coins": "2.32",
     "activity": [
         "gardening"
     ],
-    "biome": "Dazzle Beach",
-    "coins": "2.32",
-    "description": "The tomato (Solanum lycopersicum) is a fruit from the nightshade family native to South America. Despite botanically being a fruit, it's generally eaten and prepared like a vegetable. They are a great source of vitamin C, potassium, folate, and vitamin K.",
-    "found": [],
-    "grow": "25min",
-    "name": "Tomato",
     "price": 0,
-    "profit": 58,
-    "seed": 8,
-    "sell": 22,
-    "type": "Vegetables",
-    "water": 2,
-    "yield": 3
+    "found": []
 }

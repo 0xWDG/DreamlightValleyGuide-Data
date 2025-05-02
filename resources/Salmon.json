@@ -1,14 +1,17 @@
 {
-    "activity": [
-        "fishing"
-    ],
+    "name": "Salmon",
     "description": "A common fish found just about everywhere!",
+    "rarity": "White, Blue",
+    "price": 150,
     "energy": 500,
     "found": [
         "Frosted Heights",
-        "Sunlit Plateau"
+        "Sunlit Plateau",
+        "The Grasslands",
+        "The Promenade"
     ],
-    "name": "Salmon",
-    "price": 150,
-    "rarity": "White"
+    "type": "Fish",
+    "activity": [
+        "fishing"
+    ]
 }

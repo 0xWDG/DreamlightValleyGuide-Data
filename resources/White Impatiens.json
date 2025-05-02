@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "White Impatiens",
     "description": "A striking bouquet of white flowers.",
+    "price": 30,
+    "maxSpawns": 6,
     "found": [
         "Forgotten Lands"
     ],
-    "maxSpawns": 6,
-    "name": "White Impatiens",
-    "price": 30
+    "activity": [
+        "foraging"
+    ]
 }

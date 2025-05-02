@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "mining"
-    ],
+    "name": "Diamond",
     "description": "A rare clear mineral that can be mined.",
+    "price": 600,
+    "gift": 600,
     "found": [
         "Forgotten Lands"
     ],
-    "gift": 600,
-    "name": "Diamond",
-    "price": 600
+    "activity": [
+        "mining"
+    ]
 }

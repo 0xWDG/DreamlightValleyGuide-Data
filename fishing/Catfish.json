@@ -3,8 +3,9 @@
     "description": "A large fish with cat-like \"whiskers.\"",
     "rarity": "Gold",
     "price": 550,
-    "energy": 1,
+    "energy": 1200,
     "found": [
         "Peaceful Meadow"
-    ]
+    ],
+    "type": "Fish"
 }

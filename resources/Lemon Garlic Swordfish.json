@@ -1,17 +1,17 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Lemon Garlic Swordfish",
     "description": "A fresh cut of swordfish cooked in garlic and lemon.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
     "energy": 3713,
-    "found": [],
+    "price": 1100,
     "ingredients": [
         "Swordfish",
         "Garlic",
         "Lemon"
     ],
-    "name": "Lemon Garlic Swordfish",
-    "price": 1100,
-    "stars": 3,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

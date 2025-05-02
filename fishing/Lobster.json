@@ -3,8 +3,9 @@
     "description": "Larger than crabs, but still with sharp claws!",
     "rarity": "Gold",
     "price": 950,
-    "energy": 1,
+    "energy": 1600,
     "found": [
         "Glade of Trust"
-    ]
+    ],
+    "type": "Seafood"
 }

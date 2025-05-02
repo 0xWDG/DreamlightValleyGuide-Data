@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Blue Hydrangea",
     "description": "These must grow in special soil to turn blue.",
+    "price": 28,
+    "maxSpawns": 4,
     "found": [
         "Dazzle Beach"
     ],
-    "maxSpawns": 4,
-    "name": "Blue Hydrangea",
-    "price": 28
+    "activity": [
+        "foraging"
+    ]
 }

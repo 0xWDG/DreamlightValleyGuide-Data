@@ -1,17 +1,17 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Fish Salad",
     "description": "A green salad with fresh fish.",
+    "type": "Entr\u00e9es",
+    "stars": 3,
     "energy": 1140,
-    "found": [],
+    "price": 92,
     "ingredients": [
         "Any Fish",
         "Lemon",
         "Lettuce"
     ],
-    "name": "Fish Salad",
-    "price": 92,
-    "stars": 3,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

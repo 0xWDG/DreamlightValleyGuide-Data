@@ -1,18 +1,18 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Peanut Butter Waffles",
     "description": "Fluffy waffles slathered in peanut butter.",
+    "type": "Desserts",
+    "stars": 4,
     "energy": 1938,
-    "found": [],
+    "price": 978,
     "ingredients": [
         "Peanut",
         "Wheat",
         "Egg",
         "Milk"
     ],
-    "name": "Peanut Butter Waffles",
-    "price": 978,
-    "stars": 4,
-    "type": "Desserts"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

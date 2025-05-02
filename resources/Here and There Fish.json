@@ -1,0 +1,19 @@
+{
+    "found": [
+        "Peaceful Meadow",
+        "Dazzle Beach",
+        "Glade of Trust",
+        "Forest of Valor",
+        "Sunlit Plateau",
+        "Frosted Heights",
+        "Forgotten Lands"
+    ],
+    "price": 2000,
+    "energy": 1000,
+    "rarity": "None, White",
+    "type": "Fish",
+    "name": "Here and There Fish",
+    "activity": [
+        "fishing"
+    ]
+}

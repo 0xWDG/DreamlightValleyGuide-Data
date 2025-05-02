@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "mining"
-    ],
+    "name": "Shiny Diamond",
     "description": "A rare clear mineral that can be mined.",
+    "price": 2400,
+    "gift": 600,
     "found": [
         "Forgotten Lands"
     ],
-    "gift": 600,
-    "name": "Shiny Diamond",
-    "price": 2400
+    "activity": [
+        "mining"
+    ]
 }

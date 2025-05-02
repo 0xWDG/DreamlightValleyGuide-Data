@@ -1,13 +1,13 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Tin",
     "description": "Pearl is a foraged material that can be found when digging the ground in all areas of Ancient's Landing.",
+    "price": 25,
+    "maxSpawns": 0,
     "found": [
         "Glittering Dunes"
     ],
-    "gift": 25,
-    "maxSpawns": 0,
-    "name": "Tin",
-    "price": 25
+    "activity": [
+        "foraging"
+    ],
+    "gift": 25
 }

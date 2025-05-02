@@ -6,6 +6,8 @@
     "energy": 300,
     "found": [
         "Peaceful Meadow",
-        "Forest of Valor"
-    ]
+        "Forest of Valor",
+        "Everafter"
+    ],
+    "type": "Fish"
 }

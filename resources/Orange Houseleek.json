@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Orange Houseleek",
     "description": "A rugged flower that requires very little water.",
+    "price": 52,
+    "maxSpawns": 3,
     "found": [
         "Sunlit Plateau"
     ],
-    "maxSpawns": 3,
-    "name": "Orange Houseleek",
-    "price": 52
+    "activity": [
+        "foraging"
+    ]
 }

@@ -1,18 +1,18 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Carrot Cake",
     "description": "A delicious cake with carrots and cinnamon.",
+    "type": "Desserts",
+    "stars": 4,
     "energy": 908,
-    "found": [],
+    "price": 427,
     "ingredients": [
         "Carrot",
         "Wheat",
         "Egg",
         "Sugarcane"
     ],
-    "name": "Carrot Cake",
-    "price": 427,
-    "stars": 4,
-    "type": "Desserts"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

@@ -1,10 +1,10 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Crudit\u00e9s",
     "description": "An array of vegetables and dips.",
+    "type": "Appetizers",
+    "stars": 1,
     "energy": 83,
-    "found": [],
+    "price": 26,
     "ingredients": [
         "Carrot",
         "Zucchini",
@@ -12,8 +12,8 @@
         "Mushroom",
         "Cucumber"
     ],
-    "name": "Crudités",
-    "price": 26,
-    "stars": 1,
-    "type": "Appetizers"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

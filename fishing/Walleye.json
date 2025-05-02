@@ -2,9 +2,10 @@
     "name": "Walleye",
     "description": "Large brown fish found in fresh waters.",
     "rarity": "Gold",
-    "price": 1,
-    "energy": 1,
+    "price": 1100,
+    "energy": 1700,
     "found": [
         "Sunlit Plateau"
-    ]
+    ],
+    "type": "Fish"
 }

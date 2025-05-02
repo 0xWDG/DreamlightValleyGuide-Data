@@ -5,6 +5,7 @@
     "price": 20,
     "energy": 25,
     "found": [
-        "All Biomes"
-    ]
+        " Everywhere"
+    ],
+    "type": "Vegetables"
 }

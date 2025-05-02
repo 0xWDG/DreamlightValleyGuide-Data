@@ -1,13 +1,13 @@
 {
-    "activity": [
-        "mining"
-    ],
+    "name": "Jade",
     "description": "Jade is a gem which can be found when mining rock nodes using the Pickaxe in The Courtyard and The Overlook areas of Ancient's Landing.",
+    "price": 250,
+    "gift": 600,
     "found": [
         "The Courtyard",
         "The Overlook"
     ],
-    "gift": 600,
-    "name": "Jade",
-    "price": 250
+    "activity": [
+        "mining"
+    ]
 }

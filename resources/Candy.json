@@ -1,15 +1,15 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Candy",
     "description": "A sweet sugar confectionery to brighten your day.",
+    "type": "Desserts",
+    "stars": 1,
     "energy": 123,
-    "found": [],
+    "price": 22,
     "ingredients": [
         "Any Sweets"
     ],
-    "name": "Candy",
-    "price": 22,
-    "stars": 1,
-    "type": "Desserts"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

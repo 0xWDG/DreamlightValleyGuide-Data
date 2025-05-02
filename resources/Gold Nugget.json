@@ -1,9 +1,8 @@
 {
-    "activity": [
-        "foraging",
-        "mining"
-    ],
+    "name": "Gold Nugget",
     "description": "To think all gold coins looked like this at some point.",
+    "price": 20,
+    "maxSpawns": 0,
     "found": [
         "Mining",
         "Frosted Heights",
@@ -11,7 +10,8 @@
         "Forgotten Lands",
         "Vitalys Mine"
     ],
-    "maxSpawns": 0,
-    "name": "Gold Nugget",
-    "price": 20
+    "activity": [
+        "foraging",
+        "mining"
+    ]
 }

@@ -1,10 +1,10 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Ranch Salad",
     "description": "A simple salad served with a rich dressing.",
+    "type": "Entr\u00e9es",
+    "stars": 5,
     "energy": 714,
-    "found": [],
+    "price": 396,
     "ingredients": [
         "Lettuce",
         "Bell Pepper",
@@ -12,8 +12,8 @@
         "Tomato",
         "Onion"
     ],
-    "name": "Ranch Salad",
-    "price": 396,
-    "stars": 5,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

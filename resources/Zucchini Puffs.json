@@ -1,17 +1,17 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Zucchini Puffs",
     "description": "Small, flaky pastries stuffed with zucchini.",
+    "type": "Appetizers",
+    "stars": 3,
     "energy": 1216,
-    "found": [],
+    "price": 632,
     "ingredients": [
         "Zucchini",
         "Egg",
         "Cheese"
     ],
-    "name": "Zucchini Puffs",
-    "price": 632,
-    "stars": 3,
-    "type": "Appetizers"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

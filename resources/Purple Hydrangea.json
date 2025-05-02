@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Purple Hydrangea",
     "description": "A smaller hydrangea with a deep purple hue.",
+    "price": 39,
+    "maxSpawns": 3,
     "found": [
         "Dazzle Beach"
     ],
-    "maxSpawns": 3,
-    "name": "Purple Hydrangea",
-    "price": 39
+    "activity": [
+        "foraging"
+    ]
 }

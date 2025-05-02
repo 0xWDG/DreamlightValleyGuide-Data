@@ -1,14 +1,17 @@
 {
-    "activity": [
-        "fishing"
-    ],
+    "name": "Perch",
     "description": "A rare fish found only in a special spot.",
+    "rarity": "Blue, White",
+    "price": 80,
     "energy": 400,
     "found": [
         "Forest of Valor",
-        "sSunlit Plateau"
+        "Sunlit Plateau",
+        "The Grove",
+        "The Lagoon"
     ],
-    "name": "Perch",
-    "price": 80,
-    "rarity": "White"
+    "type": "Fish",
+    "activity": [
+        "fishing"
+    ]
 }

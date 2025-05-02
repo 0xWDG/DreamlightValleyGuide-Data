@@ -1,10 +1,10 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Ratatouille",
     "description": "A colorful plate of cooked vegetables.",
+    "type": "Entr\u00e9es",
+    "stars": 5,
     "energy": 572,
-    "found": [],
+    "price": 914,
     "ingredients": [
         "Tomato",
         "Eggplant",
@@ -12,8 +12,8 @@
         "Zucchini",
         "Any Spice"
     ],
-    "name": "Ratatouille",
-    "price": 914,
-    "stars": 5,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

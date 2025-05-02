@@ -1,10 +1,11 @@
 {
     "name": "Lancetfish",
     "description": "Long, slender fish with a large silver dorsal fin.",
-    "rarity": "Blue",
+    "rarity": "Blue, White",
     "price": 650,
-    "energy": 1,
+    "energy": 1300,
     "found": [
         "Forgotten Lands"
-    ]
+    ],
+    "type": "Fish"
 }

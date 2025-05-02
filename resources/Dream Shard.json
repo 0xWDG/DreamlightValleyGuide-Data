@@ -1,13 +1,13 @@
 {
+    "name": "Dream Shard",
+    "description": "A crystallized form of Dreamlight magic.",
     "activity": [
         "digging",
         "foraging"
     ],
-    "description": "A crystallized form of Dreamlight magic.",
+    "price": 0,
+    "gift": 25,
     "found": [
         "Everywhere"
-    ],
-    "gift": 25,
-    "name": "Dream Shard",
-    "price": 0
+    ]
 }

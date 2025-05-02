@@ -1,0 +1,14 @@
+{
+    "found": [
+        "The Docks",
+        "The Overlook"
+    ],
+    "price": 60,
+    "energy": 300,
+    "rarity": "White",
+    "type": "Fish",
+    "name": "Shad",
+    "activity": [
+        "fishing"
+    ]
+}

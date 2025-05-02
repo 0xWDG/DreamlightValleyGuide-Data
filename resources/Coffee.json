@@ -1,15 +1,15 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Coffee",
     "description": "A bold medium roast with notes of milk chocolate and candied walnut.",
+    "type": "Appetizers",
+    "stars": 1,
     "energy": 730,
-    "found": [],
+    "price": 43,
     "ingredients": [
         "Coffee Bean"
     ],
-    "name": "Coffee",
-    "price": 43,
-    "stars": 1,
-    "type": "Appetizers"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

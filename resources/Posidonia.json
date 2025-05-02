@@ -1,13 +1,13 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Posidonia",
     "description": "Posidonia is a foraged material which can be caught while fishing in open water anywhere in Mythopia.",
+    "price": 20,
+    "maxSpawns": 0,
     "found": [
         "Mythopia"
     ],
-    "gift": 0,
-    "maxSpawns": 0,
-    "name": "Posidonia",
-    "price": 20
+    "activity": [
+        "foraging"
+    ],
+    "gift": 0
 }

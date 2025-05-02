@@ -1,16 +1,16 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Green Salad",
     "description": "A salad loaded with all sorts of leafy greens!",
+    "type": "Appetizers",
+    "stars": 2,
     "energy": 180,
-    "found": [],
+    "price": 20,
     "ingredients": [
         "Any Vegetable",
         "Lettuce"
     ],
-    "name": "Green Salad",
-    "price": 20,
-    "stars": 2,
-    "type": "Appetizers"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

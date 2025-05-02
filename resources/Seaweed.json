@@ -1,13 +1,14 @@
 {
-    "activity": [
-        "fishing"
-    ],
+    "name": "Seaweed",
     "description": "A type of algae found in the ocean.",
+    "rarity": "None",
+    "price": 20,
     "energy": 25,
     "found": [
-        "All Biomes"
+        "\u00a0Everywhere"
     ],
-    "name": "Seaweed",
-    "price": 20,
-    "rarity": "None"
+    "type": "Vegetables",
+    "activity": [
+        "fishing"
+    ]
 }

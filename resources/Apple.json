@@ -1,16 +1,16 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Apple",
     "description": "A fruit that can be picked from trees.",
+    "price": 25,
     "energy": 300,
+    "maxSpawns": 5,
+    "growthTime": 20,
     "found": [
         "Plaza",
         "Forgotten Lands"
     ],
-    "gift": 50,
-    "growthTime": 20,
-    "maxSpawns": 5,
-    "name": "Apple",
-    "price": 25
+    "activity": [
+        "foraging"
+    ],
+    "gift": 50
 }

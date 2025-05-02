@@ -1,10 +1,10 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Gumbo",
     "description": "A thick and hearty stew to fill your belly.",
+    "type": "Entr\u00e9es",
+    "stars": 5,
     "energy": 2226,
-    "found": [],
+    "price": 1000,
     "ingredients": [
         "Okra",
         "Shrimp",
@@ -12,8 +12,8 @@
         "Tomato",
         "Onion"
     ],
-    "name": "Gumbo",
-    "price": 1000,
-    "stars": 5,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

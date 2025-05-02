@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "White Daisy",
     "description": "A white flower that symbolizes innocence.",
+    "price": 25,
+    "maxSpawns": 3,
     "found": [
         "Peaceful Meadow"
     ],
-    "maxSpawns": 3,
-    "name": "White Daisy",
-    "price": 25
+    "activity": [
+        "foraging"
+    ]
 }

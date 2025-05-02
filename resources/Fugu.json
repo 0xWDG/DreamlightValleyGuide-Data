@@ -1,13 +1,14 @@
 {
-    "activity": [
-        "fishing"
-    ],
+    "name": "Fugu",
     "description": "These fish inflate themselves when threatened!",
-    "energy": 1,
+    "rarity": "Gold",
+    "price": 900,
+    "energy": 1700,
     "found": [
         "Dazzle Beach"
     ],
-    "name": "Fugu",
-    "price": 900,
-    "rarity": "Gold"
+    "type": "Fish",
+    "activity": [
+        "fishing"
+    ]
 }

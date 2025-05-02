@@ -1,16 +1,16 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Caramel Apples",
     "description": "Sweet red apples dipped in delicious caramel.",
+    "type": "Desserts",
+    "stars": 2,
     "energy": 638,
-    "found": [],
+    "price": 56,
     "ingredients": [
         "Sugarcane",
         "Apple"
     ],
-    "name": "Caramel Apples",
-    "price": 56,
-    "stars": 2,
-    "type": "Desserts"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

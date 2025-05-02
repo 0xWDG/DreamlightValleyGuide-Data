@@ -1,18 +1,18 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Creamy Garlic Scallops",
     "description": "Fresh scallops in a creamy garlic sauce.",
+    "type": "Entr\u00e9es",
+    "stars": 4,
     "energy": 1844,
-    "found": [],
+    "price": 499,
     "ingredients": [
         "Scallop",
         "Lemon",
         "Butter",
         "Garlic"
     ],
-    "name": "Creamy Garlic Scallops",
-    "price": 499,
-    "stars": 4,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

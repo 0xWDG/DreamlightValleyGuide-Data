@@ -1,18 +1,18 @@
 {
+    "name": "Leek",
+    "description": "Description. The leek is a member of the onion family, but unlike the onion, it does not form a bulb. The thick, fleshy stalk is about the same diameter at the base and resembles a large green onion without a bulb. Leaves are flattened like those of garlic.",
+    "type": "Vegetables",
+    "biome": "Forgotten Lands",
+    "grow": "2h",
+    "water": 2,
+    "yield": 1,
+    "seed": 120,
+    "sell": 309,
+    "profit": 189,
+    "coins": "1.58",
     "activity": [
         "gardening"
     ],
-    "biome": "Forgotten Lands",
-    "coins": "1.58",
-    "description": "Description. The leek is a member of the onion family, but unlike the onion, it does not form a bulb. The thick, fleshy stalk is about the same diameter at the base and resembles a large green onion without a bulb. Leaves are flattened like those of garlic.",
-    "found": [],
-    "grow": "2h",
-    "name": "Leek",
     "price": 0,
-    "profit": 189,
-    "seed": 120,
-    "sell": 309,
-    "type": "Vegetables",
-    "water": 2,
-    "yield": 1
+    "found": []
 }

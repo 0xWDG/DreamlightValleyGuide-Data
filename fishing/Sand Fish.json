@@ -1,0 +1,12 @@
+{
+    "found": [
+        "The Plains",
+        "The Wastes",
+        "The Borderlands"
+    ],
+    "price": 30,
+    "energy": 150,
+    "rarity": "None, White",
+    "type": "Fish",
+    "name": "Sand Fish"
+}

@@ -1,13 +1,13 @@
 {
+    "name": "Snowball",
+    "description": "Whatever you do, fight the urge to throw it.",
     "activity": [
         "digging",
         "foraging"
     ],
-    "description": "Whatever you do, fight the urge to throw it.",
+    "price": 25,
+    "gift": 25,
     "found": [
         "Frosted Heights"
-    ],
-    "gift": 25,
-    "name": "Snowball",
-    "price": 25
+    ]
 }

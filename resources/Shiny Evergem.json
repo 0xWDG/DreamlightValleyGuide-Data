@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "mining"
-    ],
+    "name": "Shiny Evergem",
     "description": "Shiny Evergem is a gem which can be found when mining rock nodes using the Pickaxe in The Ruins area of Ancient's Landing.",
+    "price": 1200,
+    "gift": 600,
     "found": [
         "The Ruins"
     ],
-    "gift": 600,
-    "name": "Shiny Evergem",
-    "price": 1200
+    "activity": [
+        "mining"
+    ]
 }

@@ -1,13 +1,13 @@
 {
-    "activity": [
-        "mining"
-    ],
+    "name": "Aquamarine",
     "description": "A light blue mineral that can be mined.",
+    "price": 250,
+    "gift": 600,
     "found": [
         "Dazzle Beach",
         "Forest of Valor"
     ],
-    "gift": 600,
-    "name": "Aquamarine",
-    "price": 250
+    "activity": [
+        "mining"
+    ]
 }

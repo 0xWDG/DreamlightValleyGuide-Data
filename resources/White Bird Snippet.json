@@ -1,13 +1,13 @@
 {
-    "activity": [
-        "snippets"
-    ],
+    "name": "White Bird Snippet",
     "description": "Birds: White Bird Snippet",
+    "type": "Birds",
+    "price": 20,
     "found": [
         "Dreamlight Valley"
     ],
     "maxSpawns": 0,
-    "name": "White Bird Snippet",
-    "price": 20,
-    "type": "Birds"
+    "activity": [
+        "snippets"
+    ]
 }

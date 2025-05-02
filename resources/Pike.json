@@ -1,13 +1,14 @@
 {
-    "activity": [
-        "fishing"
-    ],
+    "name": "Pike",
     "description": "An olive green fish found in lakes and rivers.",
-    "energy": 1,
+    "rarity": "Gold",
+    "price": 800,
+    "energy": 1500,
     "found": [
         "Forest of Valor"
     ],
-    "name": "Pike",
-    "price": 800,
-    "rarity": "Gold"
+    "type": "Fish",
+    "activity": [
+        "fishing"
+    ]
 }

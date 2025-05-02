@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "mining"
-    ],
+    "name": "Shiny Blue Zircon",
     "description": "Shiny Blue Zircon is a gem which can be found when mining rock nodes using the Pickaxe in The Lagoon area of the Wild Tangle.",
+    "price": 2000,
+    "gift": 600,
     "found": [
         "The Lagoon"
     ],
-    "gift": 600,
-    "name": "Shiny Blue Zircon",
-    "price": 2000
+    "activity": [
+        "mining"
+    ]
 }

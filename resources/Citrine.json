@@ -1,13 +1,13 @@
 {
-    "activity": [
-        "mining"
-    ],
+    "name": "Citrine",
     "description": "An orange gem that can be mined.",
+    "price": 380,
+    "gift": 600,
     "found": [
         "Sunlit Plateau",
         "Glade of Trust"
     ],
-    "gift": 600,
-    "name": "Citrine",
-    "price": 380
+    "activity": [
+        "mining"
+    ]
 }

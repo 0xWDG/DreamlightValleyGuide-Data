@@ -1,18 +1,18 @@
 {
+    "name": "Bell Pepper",
+    "description": "Bell pepper is a cultivar group of the species Capsicum annuum. Cultivated varieties are grouped into three colors: green, yellow, and red.",
+    "type": "Vegetables",
+    "biome": "Forest of Valor",
+    "grow": "15min",
+    "water": 1,
+    "yield": 1,
+    "seed": 12,
+    "sell": 33,
+    "profit": 21,
+    "coins": "1.4",
     "activity": [
         "gardening"
     ],
-    "biome": "Forest of Valor",
-    "coins": "1.4",
-    "description": "Bell pepper is a cultivar group of the species Capsicum annuum. Cultivated varieties are grouped into three colors: green, yellow, and red.",
-    "found": [],
-    "grow": "15min",
-    "name": "Bell Pepper",
     "price": 0,
-    "profit": 21,
-    "seed": 12,
-    "sell": 33,
-    "type": "Vegetables",
-    "water": 1,
-    "yield": 1
+    "found": []
 }

@@ -1,0 +1,13 @@
+{
+    "found": [
+        "The Grasslands",
+        "The Promenade",
+        "The Grove",
+        "The Lagoon"
+    ],
+    "price": 625,
+    "energy": 1250,
+    "rarity": "Blue",
+    "type": "Fish",
+    "name": "Pirarucu"
+}

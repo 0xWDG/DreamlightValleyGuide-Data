@@ -1,0 +1,11 @@
+{
+    "found": [
+        "The Docks",
+        "The Overlook"
+    ],
+    "price": 250,
+    "energy": 800,
+    "rarity": "Blue, White",
+    "type": "Seafood",
+    "name": "Sea Snail"
+}

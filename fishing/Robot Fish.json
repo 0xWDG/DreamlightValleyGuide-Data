@@ -1,0 +1,11 @@
+{
+    "found": [
+        "The Docks",
+        "The Overlook"
+    ],
+    "price": 625,
+    "energy": 1350,
+    "rarity": "Gold",
+    "type": "Fish",
+    "name": "Robot Fish"
+}

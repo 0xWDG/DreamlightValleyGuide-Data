@@ -1,16 +1,16 @@
 {
+    "name": "Pebbles",
+    "description": "You need a lot of pebbles to make a mountain...",
     "activity": [
         "digging",
         "foraging"
     ],
-    "description": "You need a lot of pebbles to make a mountain...",
+    "price": 10,
+    "gift": 25,
     "found": [
         "Dazzle Beach",
         "Forest of Valor",
         "Sunlit Plateau",
         "Forgotten Lands"
-    ],
-    "gift": 25,
-    "name": "Pebbles",
-    "price": 10
+    ]
 }

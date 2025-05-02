@@ -1,16 +1,16 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Sweet Slush",
     "description": "Blue, fresh and perfect for a hot day.",
+    "type": "Desserts",
+    "stars": 2,
     "energy": 510,
-    "found": [],
+    "price": 219,
     "ingredients": [
         "Slush Ice",
         "Any Sweets"
     ],
-    "name": "Sweet Slush",
-    "price": 219,
-    "stars": 2,
-    "type": "Desserts"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

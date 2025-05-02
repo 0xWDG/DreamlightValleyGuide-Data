@@ -1,13 +1,13 @@
 {
-    "activity": [
-        "snippets"
-    ],
+    "name": "Red Bird Snippet",
     "description": "Birds: Red Bird Snippet",
+    "type": "Birds",
+    "price": 10,
     "found": [
         "The Library of Lore"
     ],
     "maxSpawns": 0,
-    "name": "Red Bird Snippet",
-    "price": 10,
-    "type": "Birds"
+    "activity": [
+        "snippets"
+    ]
 }

@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Yellow Bromeliad",
     "description": "Yellow flowers that grow straight upward.",
+    "price": 73,
+    "maxSpawns": 2,
     "found": [
         "Sunlit Plateau"
     ],
-    "maxSpawns": 2,
-    "name": "Yellow Bromeliad",
-    "price": 73
+    "activity": [
+        "foraging"
+    ]
 }

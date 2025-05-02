@@ -1,16 +1,16 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Sushi",
     "description": "Fresh, raw fish served with rice.",
+    "type": "Entr\u00e9es",
+    "stars": 2,
     "energy": 405,
-    "found": [],
+    "price": 111,
     "ingredients": [
         "Any Fish",
         "Rice"
     ],
-    "name": "Sushi",
-    "price": 111,
-    "stars": 2,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

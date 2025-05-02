@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "foraging"
-    ],
+    "name": "Blue Marsh Milkweed",
     "description": "A rare blue variant of white marsh milkweed.",
+    "price": 48,
+    "maxSpawns": 3,
     "found": [
         "Glade of Trust"
     ],
-    "maxSpawns": 3,
-    "name": "Blue Marsh Milkweed",
-    "price": 48
+    "activity": [
+        "foraging"
+    ]
 }

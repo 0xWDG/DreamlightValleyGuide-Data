@@ -1,0 +1,13 @@
+{
+    "found": [
+        "The Bind"
+    ],
+    "price": 75,
+    "energy": 300,
+    "rarity": "White, Blue",
+    "type": "Fish",
+    "name": "Sea Wolf",
+    "activity": [
+        "fishing"
+    ]
+}

@@ -1,17 +1,17 @@
 {
-    "activity": [
-        "recipes"
-    ],
-    "description": "Try it -  ‧ it's delicious!",
+    "name": "Gray Stuff",
+    "description": "Try it -  \u2027 it's delicious!",
+    "type": "Desserts",
+    "stars": 3,
     "energy": 1046,
-    "found": [],
+    "price": 175,
     "ingredients": [
         "Sugarcane",
         "Cocoa Bean",
         "Any Dairy or Oil"
     ],
-    "name": "Gray Stuff",
-    "price": 175,
-    "stars": 3,
-    "type": "Desserts"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

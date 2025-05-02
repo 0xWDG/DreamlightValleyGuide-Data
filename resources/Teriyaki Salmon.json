@@ -1,10 +1,10 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Teriyaki Salmon",
     "description": "Fresh salmon drenched in a sweet sauce.",
+    "type": "Entr\u00e9es",
+    "stars": 5,
     "energy": 1726,
-    "found": [],
+    "price": 637,
     "ingredients": [
         "Salmon",
         "Soya",
@@ -12,8 +12,8 @@
         "Ginger",
         "Sugarcane"
     ],
-    "name": "Teriyaki Salmon",
-    "price": 637,
-    "stars": 5,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

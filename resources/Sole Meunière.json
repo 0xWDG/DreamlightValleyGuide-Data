@@ -1,18 +1,18 @@
 {
-    "activity": [
-        "recipes"
-    ],
+    "name": "Sole Meuni\u00e8re",
     "description": "A fillet of sole, pan-fried and simmered in butter alongside an array of simple yet satisfying flavors.",
+    "type": "Entr\u00e9es",
+    "stars": 4,
     "energy": 2337,
-    "found": [],
+    "price": 637,
     "ingredients": [
         "Sole",
         "Wheat",
         "Butter",
         "Lemon"
     ],
-    "name": "Sole Meunière",
-    "price": 637,
-    "stars": 4,
-    "type": "Entrées"
+    "activity": [
+        "recipes"
+    ],
+    "found": []
 }

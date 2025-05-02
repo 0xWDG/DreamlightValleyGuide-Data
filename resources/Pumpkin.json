@@ -1,18 +1,18 @@
 {
+    "name": "Pumpkin",
+    "description": "Pumpkin is a plump, nutritious orange vegetable, and a highly nutrient dense food. It is low in calories but rich in vitamins and minerals, all of which are also in its seeds, leaves, and juices.",
+    "type": "Vegetables",
+    "biome": "Forgotten Lands",
+    "grow": "4h",
+    "water": 2,
+    "yield": 1,
+    "seed": 275,
+    "sell": 664,
+    "profit": 389,
+    "coins": "1.62",
     "activity": [
         "gardening"
     ],
-    "biome": "Forgotten Lands",
-    "coins": "1.62",
-    "description": "Pumpkin is a plump, nutritious orange vegetable, and a highly nutrient dense food. It is low in calories but rich in vitamins and minerals, all of which are also in its seeds, leaves, and juices.",
-    "found": [],
-    "grow": "4h",
-    "name": "Pumpkin",
     "price": 0,
-    "profit": 389,
-    "seed": 275,
-    "sell": 664,
-    "type": "Vegetables",
-    "water": 2,
-    "yield": 1
+    "found": []
 }

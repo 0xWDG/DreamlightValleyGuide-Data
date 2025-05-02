@@ -1,14 +1,14 @@
 {
-    "activity": [
-        "foraging",
-        "gardening"
-    ],
+    "name": "Cotton",
     "description": "Soft fluff that can be used in lots of stuff!",
+    "price": 37,
+    "maxSpawns": 0,
     "found": [
         "Goofy's Stall",
         "Sunlit Plateau"
     ],
-    "maxSpawns": 0,
-    "name": "Cotton",
-    "price": 37
+    "activity": [
+        "foraging",
+        "gardening"
+    ]
 }

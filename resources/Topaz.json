@@ -1,12 +1,12 @@
 {
-    "activity": [
-        "mining"
-    ],
+    "name": "Topaz",
     "description": "An orange mineral that can be mined.",
+    "price": 240,
+    "gift": 600,
     "found": [
         "Plaza"
     ],
-    "gift": 600,
-    "name": "Topaz",
-    "price": 240
+    "activity": [
+        "mining"
+    ]
 }

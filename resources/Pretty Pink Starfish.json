@@ -1,0 +1,13 @@
+{
+    "found": [
+        "The Oasis"
+    ],
+    "price": 875,
+    "energy": 1500,
+    "rarity": "Gold",
+    "type": "Seafood",
+    "name": "Pretty Pink Starfish",
+    "activity": [
+        "fishing"
+    ]
+}

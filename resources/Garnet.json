@@ -1,15 +1,15 @@
 {
-    "activity": [
-        "mining"
-    ],
+    "name": "Garnet",
     "description": "A red mineral that can be mined.",
+    "price": 160,
+    "gift": 600,
     "found": [
         "Peaceful Meadow",
         "Plaza",
         "The Plains",
         "The Wastes"
     ],
-    "gift": 600,
-    "name": "Garnet",
-    "price": 160
+    "activity": [
+        "mining"
+    ]
 }

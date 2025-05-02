@@ -3,8 +3,9 @@
     "description": "An olive green fish found in lakes and rivers.",
     "rarity": "Gold",
     "price": 800,
-    "energy": 1,
+    "energy": 1500,
     "found": [
         "Forest of Valor"
-    ]
+    ],
+    "type": "Fish"
 }
