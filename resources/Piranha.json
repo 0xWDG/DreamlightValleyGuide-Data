@@ -7,6 +7,7 @@
     "rarity": "Gold",
     "type": "Fish",
     "name": "Piranha",
+    "description": "This little guy is cute, but watch out for those teeth.",
     "activity": [
         "fishing"
     ]

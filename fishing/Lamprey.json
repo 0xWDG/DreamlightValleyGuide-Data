@@ -6,5 +6,6 @@
     "energy": 1800,
     "rarity": "Gold",
     "type": "Fish",
-    "name": "Lamprey"
+    "name": "Lamprey",
+    "description": "Though intimidating, the lamprey's mouth gapes wider the more it searches for friendship."
 }

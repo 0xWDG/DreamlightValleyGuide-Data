@@ -7,6 +7,7 @@
     "rarity": "None",
     "type": "Fish",
     "name": "Koi",
+    "description": "These fancy carp are rumored to have scales made from enchanted Star Coins.",
     "activity": [
         "fishing"
     ]

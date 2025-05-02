@@ -8,5 +8,6 @@
     "energy": 900,
     "rarity": "Blue (Pink)",
     "type": "Dairy and Oil",
-    "name": "Scorpion"
+    "name": "Scorpion",
+    "description": "This creature is dangerous from both the front and the back."
 }

@@ -9,6 +9,7 @@
     "rarity": "Gold",
     "type": "Dairy and Oil",
     "name": "Sand Worm",
+    "description": "This insect slithers under the sand of the Glittering Dunes.",
     "activity": [
         "fishing"
     ]

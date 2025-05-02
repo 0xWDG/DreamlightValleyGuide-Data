@@ -13,6 +13,7 @@
     "rarity": "None, White",
     "type": "Fish",
     "name": "Here and There Fish",
+    "description": "Just because it doesn't look delicious doesn't mean it can't be part of a delicious meal.",
     "activity": [
         "fishing"
     ]

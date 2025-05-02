@@ -6,5 +6,6 @@
     "energy": 1100,
     "rarity": "Blue",
     "type": "Fish",
-    "name": "Dunebopper"
+    "name": "Dunebopper",
+    "description": "If times get tough, this fish inflates its balloon-like lungs to float up and glide down sand dunes to the next available water source."
 }

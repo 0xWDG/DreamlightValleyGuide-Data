@@ -8,6 +8,7 @@
     "rarity": "White",
     "type": "Fish",
     "name": "Shad",
+    "description": "A slightly sweet, slightly salty fish that makes a great centerpiece for any dish.",
     "activity": [
         "fishing"
     ]

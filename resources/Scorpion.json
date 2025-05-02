@@ -9,6 +9,7 @@
     "rarity": "Blue (Pink)",
     "type": "Dairy and Oil",
     "name": "Scorpion",
+    "description": "This creature is dangerous from both the front and the back.",
     "activity": [
         "fishing"
     ]

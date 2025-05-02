@@ -7,6 +7,7 @@
     "rarity": "White, Blue",
     "type": "Seafood",
     "name": "Hippocampus",
+    "description": "Cousin to the hooved Hippocampus, this one thought that fins work just fine for an aquatic life.",
     "activity": [
         "fishing"
     ]

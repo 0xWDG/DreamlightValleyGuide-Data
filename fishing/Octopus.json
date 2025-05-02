@@ -7,5 +7,6 @@
     "energy": 700,
     "rarity": "Blue, White",
     "type": "Seafood",
-    "name": "Octopus"
+    "name": "Octopus",
+    "description": "This soft-bodied mollusk makes up for its lack of a shell by having a genius brain."
 }

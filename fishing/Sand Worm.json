@@ -8,5 +8,6 @@
     "energy": 1650,
     "rarity": "Gold",
     "type": "Dairy and Oil",
-    "name": "Sand Worm"
+    "name": "Sand Worm",
+    "description": "This insect slithers under the sand of the Glittering Dunes."
 }

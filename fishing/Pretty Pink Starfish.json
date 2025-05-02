@@ -6,5 +6,6 @@
     "energy": 1500,
     "rarity": "Gold",
     "type": "Seafood",
-    "name": "Pretty Pink Starfish"
+    "name": "Pretty Pink Starfish",
+    "description": "This starfish adds a bit of pink to any beach."
 }

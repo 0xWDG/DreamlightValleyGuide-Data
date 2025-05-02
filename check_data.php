@@ -2,6 +2,7 @@
 
 // This script merges all data files into one file
 $dirs = [
+    "fishing",
     "biomes", 
     "characters", 
     "poi", 
@@ -12,10 +13,11 @@ $dirs = [
 ];
 
 $requiredKeys = [
+    "fishing" => ["name", "description", "found"],
     "biomes" => ["name", "description"],
     "characters" => ["name", "description"],
     "poi" => ["name", "description"],
-    "quests" => ["name", "description"],
+    "quests" => ["name"],
     "resources" => ["name", "description", "found"],
     "redeemables" => ["name", "description"],
     "universes" => ["name", "description"]
@@ -37,7 +39,8 @@ foreach ($dirs as $directory) {
         // Check for required keys
         foreach ($requiredKeys[$directory] as $key) {
             if (!isset($json[$key])) {
-                echo "Missing '$key' key in file: $file\n";
+                echo "# Missing '$key' key in file: $file\n";
+                echo "e \"$file\"" . PHP_EOL;
                 $errors++;
             }
         }

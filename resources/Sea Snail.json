@@ -8,6 +8,7 @@
     "rarity": "Blue, White",
     "type": "Seafood",
     "name": "Sea Snail",
+    "description": "This snail leaves a tiny trail of stars behind it as it crawls. It looks just like the Milky Way.",
     "activity": [
         "fishing"
     ]

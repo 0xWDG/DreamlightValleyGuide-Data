@@ -8,5 +8,6 @@
     "energy": 500,
     "rarity": "White, Blue (Pink)",
     "type": "Fish",
-    "name": "Skeleton Fish"
+    "name": "Skeleton Fish",
+    "description": "This fish is clearly the product of some sort of horrible magical experiment. But maybe it could be made into something delicious."
 }

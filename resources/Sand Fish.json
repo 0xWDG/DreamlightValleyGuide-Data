@@ -9,6 +9,7 @@
     "rarity": "None, White",
     "type": "Fish",
     "name": "Sand Fish",
+    "description": "This fish may not look very pretty, but that doesn't mean it wouldn't be delicious with a bit of butter and a little spice.",
     "activity": [
         "fishing"
     ]

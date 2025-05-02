@@ -6,5 +6,6 @@
     "energy": 1900,
     "rarity": "Gold",
     "type": "Fish",
-    "name": "Piranha"
+    "name": "Piranha",
+    "description": "This little guy is cute, but watch out for those teeth."
 }

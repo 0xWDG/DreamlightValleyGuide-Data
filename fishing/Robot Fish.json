@@ -7,5 +7,6 @@
     "energy": 1350,
     "rarity": "Gold",
     "type": "Fish",
-    "name": "Robot Fish"
+    "name": "Robot Fish",
+    "description": "Be careful when eating this. You might end up with some nuts and bolts stuck between your teeth."
 }

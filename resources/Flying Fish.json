@@ -7,6 +7,7 @@
     "rarity": "None, White",
     "type": "Fish",
     "name": "Flying Fish",
+    "description": "Some say that this fish fell in love with the sky and was gifted the ability to fly for just enough time to renew its love.",
     "activity": [
         "fishing"
     ]

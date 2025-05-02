@@ -10,6 +10,7 @@
     "rarity": "Blue",
     "type": "Fish",
     "name": "Pirarucu",
+    "description": "A very big fish with some very red scales.",
     "activity": [
         "fishing"
     ]

@@ -6,5 +6,6 @@
     "energy": 300,
     "rarity": "White, Blue",
     "type": "Fish",
-    "name": "Sea Wolf"
+    "name": "Sea Wolf",
+    "description": "These deep hunters will give an uncanny aquatic howl when the moon is visible underwater."
 }

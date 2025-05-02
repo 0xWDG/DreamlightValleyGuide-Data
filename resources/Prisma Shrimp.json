@@ -7,6 +7,7 @@
     "rarity": "Gold",
     "type": "Seafood",
     "name": "Prisma Shrimp",
+    "description": "You've never seen such a shrimp. Hopefully it tastes just as good as the classic-looking one.",
     "activity": [
         "fishing"
     ]
