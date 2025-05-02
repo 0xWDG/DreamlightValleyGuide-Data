@@ -1,0 +1,11 @@
+{
+    "name": "Scales",
+    "description": "Perhaps some ancient sea beasts still swim the borders of the Vale...",
+    "rarity": "Blue",
+    "price": 550,
+    "energy": 0,
+    "found": [
+        "Everavter"
+    ],
+    "type": "Crafting Materials"
+}

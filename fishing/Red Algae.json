@@ -4,5 +4,8 @@
     "rarity": "None",
     "price": 150,
     "energy": 0,
-    "found": []
+    "type": "Crafting materials",
+    "found": [
+        "Everywhere"
+    ]
 }

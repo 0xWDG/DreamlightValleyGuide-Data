@@ -1,0 +1,11 @@
+{
+    "name": "Scales",
+    "description": "These scales must have fallen off some very beautiful fish. Now maybe you could use them to make something equally beautiful...",
+    "rarity": "None",
+    "price": 10,
+    "energy": 0,
+    "found": [
+        "The Oasis"
+    ],
+    "type": "Crafting Materials"
+}

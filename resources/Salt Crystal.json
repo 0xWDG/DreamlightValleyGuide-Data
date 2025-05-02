@@ -1,0 +1,17 @@
+{
+    "name": "Salt Crystal",
+    "description": "Salt brings out the best in any dish. Best served alongside its friend: pepper.",
+    "rarity": "None",
+    "price": 20,
+    "energy": 25,
+    "found": [
+        "The Wild Woods",
+        "Teapot Falls",
+        "The Fallen Fortress",
+        "The Beanstalk Marshes"
+    ],
+    "type": "Spices",
+    "activity": [
+        "fishing"
+    ]
+}

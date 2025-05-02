@@ -1,0 +1,15 @@
+{
+    "name": "Sea Grapes",
+    "description": "A very edible sea alga.",
+    "rarity": "None",
+    "price": 20,
+    "energy": 25,
+    "found": [
+        "The Library of Lore",
+        "The Bind"
+    ],
+    "type": "Spices",
+    "activity": [
+        "fishing"
+    ]
+}

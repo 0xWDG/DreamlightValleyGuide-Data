@@ -10,9 +10,5 @@
         "The Statue's Shadow",
         "Mount Olympus"
     ],
-    "type": "Crafting Materials",
-    "activity": [
-        "fishing",
-        "foraging"
-    ]
+    "type": "Crafting Materials"
 }

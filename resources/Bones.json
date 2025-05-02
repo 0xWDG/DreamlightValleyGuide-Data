@@ -3,6 +3,7 @@
     "description": "Looks like somebody already ate this fish. But perhaps you could use these to build something...",
     "activity": [
         "digging",
+        "fishing",
         "foraging"
     ],
     "price": 20,
