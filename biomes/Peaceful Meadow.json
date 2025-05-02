@@ -2,5 +2,11 @@
     "name": "Peaceful Meadow",
     "island": "Dreamlight Valley",
     "description": "The Peaceful Meadow is a biome in Dreamlight Valley.\r\n\r\nIt is the second area players will discover, and is located to the south of the Plaza. It is further connected to the Glade of Trust, Dazzle Beach, and the Forest of Valor.",
-    "price": 0
+    "price": 0,
+    "currency": "Dreamlight",
+    "characters": [
+        "Goofy",
+        "Mirabel"
+    ],
+    "critters": "Rabbits"
 }

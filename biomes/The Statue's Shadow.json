@@ -1,0 +1,9 @@
+{
+    "name": "The Statue's Shadow",
+    "island": "Storybook Vale",
+    "description": "The Statue's Shadow is a biome in Storybook Vale, available only in the paid expansion The Storybook Vale.",
+    "price": 5000,
+    "currency": "Storybook Magic",
+    "characters": [],
+    "critters": "Pegasi"
+}

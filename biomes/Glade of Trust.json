@@ -2,5 +2,11 @@
     "name": "Glade of Trust",
     "island": "Dreamlight Valley",
     "description": "The Glade of Trust is a biome in Dreamlight Valley.\r\n\r\nIt is located on on the south-west side of the Valley, connected to the Peaceful Meadow, and Dazzle Beach.\r\n\r\nThe thorns blocking the pathway to this biome can be cleared using 5,000 Dreamlight.",
-    "price": 5000
+    "price": 5000,
+    "currency": "Dreamlight",
+    "characters": [
+        "Mother Gothel",
+        "Tiana"
+    ],
+    "critters": "Crocodiles"
 }

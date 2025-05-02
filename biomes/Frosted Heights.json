@@ -2,5 +2,10 @@
     "name": "Frosted Heights",
     "island": "Dreamlight Valley",
     "description": "The Frosted Heights is a snowy biome in Dreamlight Valley.\r\n\r\nIt is located on the north-east side of the Valley connected to the Forest of Valor.\r\n\r\nThe thorns blocking the pathway to this biome can be cleared using 10,000 Dreamlight.",
-    "price": 10000
+    "price": 10000,
+    "currency": "Dreamlight",
+    "characters": [
+        "Olaf"
+    ],
+    "critters": "Foxes"
 }

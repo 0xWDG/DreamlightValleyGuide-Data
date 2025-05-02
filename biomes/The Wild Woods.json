@@ -1,0 +1,9 @@
+{
+    "name": "The Wild Woods",
+    "island": "Storybook Vale",
+    "description": "The Wild Woods is a biome in Storybook Vale, available only in the paid expansion The Storybook Vale.\r\n\r\nIt is the first biome the player must unlock after its subregion The Library of Lore. The Library of Lore region is unlocked at no cost immediately after purchasing the expansion and beginning the introductory quest.",
+    "price": 2000,
+    "currency": "Storybook Magic",
+    "characters": [],
+    "critters": "Blue Baby Dragon"
+}

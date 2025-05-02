@@ -2,5 +2,10 @@
     "name": "Wild Tangle",
     "island": "Eternity Isle",
     "description": "The Wild Tangle is a biome in Eternity Isle, available after purchasing the expansion A Rift in Time.\r\n\r\nIt is located on the north-east side of Eternity Isle.\r\n\r\nThe broken bridge blocking the pathway to this biome can be repaired using 2,000 Mist during the quest The Sands in the Hourglass.",
-    "price": 2000
+    "price": 2000,
+    "currency": "Mist",
+    "characters": [
+        "Rapunzel"
+    ],
+    "critters": "Capybaras"
 }
