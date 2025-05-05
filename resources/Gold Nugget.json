@@ -1,10 +1,13 @@
 {
     "activity": [
-        "foraging"
+        "mining"
     ],
     "description": "To think all gold coins looked like this at some point.",
     "found": [
-        "\u00a0Mining\r\n Frosted Heights\r\n Sunlit Plateau\r\n Forgotten Lands\r\n Vitalys Mine"
+        "Frosted Heights",
+        "Sunlit Plateau",
+        "Forgotten Lands",
+        "Vitalys Mine"
     ],
     "icon": "\ud83d\udfe1",
     "maxSpawns": 0,
