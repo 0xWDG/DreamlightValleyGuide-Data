@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Ring Squash",
     "price": 41,
+    "seed": 41,
     "seedPrice": 20,
     "sellPrice": 41,
     "type": "Vegetables",

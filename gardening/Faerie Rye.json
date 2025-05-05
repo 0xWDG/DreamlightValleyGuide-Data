@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Faerie Rye",
     "price": 62,
+    "seed": 62,
     "seedPrice": 60,
     "sellPrice": 62,
     "type": "Grains",

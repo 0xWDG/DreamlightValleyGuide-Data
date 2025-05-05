@@ -15,6 +15,7 @@
     "maxSpawns": 0,
     "name": "Cotton",
     "price": 37,
+    "seed": 37,
     "seedPrice": 42,
     "sellPrice": 37,
     "type": "Crafting Materials",

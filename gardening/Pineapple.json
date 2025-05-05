@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Pineapple",
     "price": 532,
+    "seed": 532,
     "seedPrice": 200,
     "sellPrice": 532,
     "type": "Fruit",

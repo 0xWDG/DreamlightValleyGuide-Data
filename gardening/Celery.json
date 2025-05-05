@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Celery",
     "price": 65,
+    "seed": 65,
     "seedPrice": 20,
     "sellPrice": 65,
     "type": "Vegetables",

@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Radish",
     "price": 133,
+    "seed": 133,
     "seedPrice": 100,
     "sellPrice": 133,
     "type": "Vegetables",

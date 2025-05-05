@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Green Beans",
     "price": 209,
+    "seed": 209,
     "seedPrice": 250,
     "sellPrice": 209,
     "type": "Vegetables",

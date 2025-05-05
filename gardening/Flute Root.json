@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Flute Root",
     "price": 112,
+    "seed": 112,
     "seedPrice": 70,
     "sellPrice": 112,
     "type": "Vegetables",

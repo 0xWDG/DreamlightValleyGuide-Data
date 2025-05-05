@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Chia Seeds",
     "price": 6,
+    "seed": 6,
     "seedPrice": 5,
     "sellPrice": 6,
     "type": "Dairy and Oil",

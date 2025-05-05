@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Oats",
     "price": 99,
+    "seed": 99,
     "seedPrice": 150,
     "sellPrice": 99,
     "type": "Grains",

@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Cabbage",
     "price": 256,
+    "seed": 256,
     "seedPrice": 150,
     "sellPrice": 256,
     "type": "Vegetables",

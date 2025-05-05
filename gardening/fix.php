@@ -14,6 +14,10 @@ foreach ($files as $file) {
         $json['water'] = $json['waterings'] ?? 0;
     }
 
+    if (!isset($json['seed'])) {
+        $json['seed'] = $json['price'] ?? 0;
+    }
+
     ksort($json);
 
     file_put_contents($file, json_encode($json, JSON_PRETTY_PRINT));

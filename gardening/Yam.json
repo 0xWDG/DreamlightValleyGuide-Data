@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Yam",
     "price": 36,
+    "seed": 36,
     "seedPrice": 15,
     "sellPrice": 36,
     "type": "Vegetables",

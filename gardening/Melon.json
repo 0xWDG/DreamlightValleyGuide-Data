@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Melon",
     "price": 93,
+    "seed": 93,
     "seedPrice": 40,
     "sellPrice": 93,
     "type": "Fruit",

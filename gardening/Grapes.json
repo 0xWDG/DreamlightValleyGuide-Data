@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Grapes",
     "price": 9,
+    "seed": 9,
     "seedPrice": 5,
     "sellPrice": 9,
     "type": "Fruit",

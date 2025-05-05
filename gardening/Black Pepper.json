@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Black Pepper",
     "price": 83,
+    "seed": 83,
     "seedPrice": 70,
     "sellPrice": 83,
     "type": "Spices",

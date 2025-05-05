@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Cauliflower",
     "price": 25,
+    "seed": 25,
     "seedPrice": 10,
     "sellPrice": 25,
     "type": "Vegetables",

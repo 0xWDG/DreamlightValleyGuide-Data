@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Rhubarb",
     "price": 229,
+    "seed": 229,
     "seedPrice": 200,
     "sellPrice": 229,
     "type": "Fruit",

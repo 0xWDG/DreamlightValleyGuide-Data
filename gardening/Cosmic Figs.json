@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Cosmic Figs",
     "price": 22,
+    "seed": 22,
     "seedPrice": 10,
     "sellPrice": 22,
     "type": "Fruit",

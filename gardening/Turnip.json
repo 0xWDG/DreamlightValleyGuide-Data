@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Turnip",
     "price": 187,
+    "seed": 187,
     "seedPrice": 100,
     "sellPrice": 187,
     "type": "Vegetables",

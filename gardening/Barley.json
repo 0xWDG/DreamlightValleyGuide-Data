@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Barley",
     "price": 15,
+    "seed": 15,
     "seedPrice": 15,
     "sellPrice": 15,
     "type": "Grains",

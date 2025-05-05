@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Radicchio",
     "price": 127,
+    "seed": 127,
     "seedPrice": 50,
     "sellPrice": 127,
     "type": "Vegetables",

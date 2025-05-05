@@ -13,6 +13,7 @@
     "icon": "star",
     "name": "Honeydew Melon",
     "price": 125,
+    "seed": 125,
     "seedPrice": 40,
     "sellPrice": 125,
     "type": "Fruit",
