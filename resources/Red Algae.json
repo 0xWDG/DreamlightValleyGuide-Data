@@ -1,10 +1,10 @@
 {
     "activity": [
-        "foraging"
+        "fishing"
     ],
     "description": "This rare creeping algae can be found in bodies of water across Dreamlight Valley. You think it might be able to help improve your Royal Fishing Rod somehow.",
     "found": [
-        "\u00a0Fishing\r\nAll Biomes"
+        "Everywhere"
     ],
     "icon": "\ud83c\udf3f",
     "maxSpawns": 0,
