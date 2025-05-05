@@ -2,7 +2,7 @@
     "description": "A type of algae found in the ocean.",
     "energy": 25,
     "found": [
-        "\u00a0Everywhere"
+        "Everywhere"
     ],
     "icon": "star",
     "name": "Seaweed",
