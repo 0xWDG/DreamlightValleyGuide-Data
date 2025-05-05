@@ -1,6 +1,7 @@
 {
     "activity": [
-        "foraging"
+        "foraging",
+        "digging"
     ],
     "description": "Bones is a foraged material which can be found when digging the ground in any area in the Glittering Dunes or fishing open water in the Plains, Wastes, and Borderlands areas of the Glittering Dunes.",
     "energy": 0,
