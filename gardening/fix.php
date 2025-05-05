@@ -26,10 +26,15 @@ foreach ($files as $file) {
         $json['profit'] = $json['sellPrice'] - $json['seedPrice'];
     }
 
+    if (!isset($json['coins'])) {
+        $json['coins'] = strval($json['sellPrice'] - $json['seedPrice']);
+    } else {
+        $json['coins'] = strval($json['coins']);
+    }
+
     ksort($json);
 
     file_put_contents($file, json_encode($json, JSON_PRETTY_PRINT));
 }
-
 
 ?>

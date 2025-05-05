@@ -3,7 +3,7 @@
         "gardening"
     ],
     "biome": "The Bind",
-    "coins": 15,
+    "coins": "15",
     "description": "",
     "found": [
         "The Bind"

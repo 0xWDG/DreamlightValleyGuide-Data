@@ -4,7 +4,7 @@
         "gardening"
     ],
     "biome": "Sunlit Plateau",
-    "coins": 0,
+    "coins": "0",
     "description": "",
     "found": [
         "Sunlit Plateau"

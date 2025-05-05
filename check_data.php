@@ -12,6 +12,7 @@ $dirs = [
     "fishing",
     "foraging",
     "gardening",
+    "recipes",
     "mining",
     "biomes", 
     "characters", 
@@ -27,17 +28,10 @@ $requiredKeys = [
     "digging" => ["name", "description", "found"],
     "fishing" => ["name", "description", "found", "rarity", "energy"],
     "foraging" => ["name", "description", "found"],
-    "gardening" => [
-        "name", 
-        "description", 
-        "icon",
-        "type",
-        "found",
-        "biome",
-        "grow",
-        "water", "yield", "seed",
-        "sell", "profit", "coins"
-    ],
+    // Legacy 'gardening' data set
+    "gardening" => ["name", "description", "icon", "type", "found", "biome", "grow", "water", "yield", "seed", "sell", "profit", "coins"],
+    // Legacy Recipes data set
+    "recipes" => ["name", "description", "icon", "type", "stars", "energy", "price", "ingredients"],
     "mining" => ["name", "description", "found"],
     "biomes" => ["name", "description"],
     "characters" => ["name", "description"],

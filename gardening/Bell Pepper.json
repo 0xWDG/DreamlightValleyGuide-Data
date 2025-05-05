@@ -3,7 +3,7 @@
         "gardening"
     ],
     "biome": "Forest of Valor",
-    "coins": 21,
+    "coins": "21",
     "description": "Bell pepper is a cultivar group of the species Capsicum annuum. Cultivated varieties are grouped into three colors: green, yellow, and red.",
     "found": [
         "Forest of Valor"
