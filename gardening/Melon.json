@@ -4,7 +4,7 @@
     ],
     "biome": "Glittering Dunes",
     "coins": 53,
-    "description": "It's big, it's round, and it's delicious. What more could you want from a melon?",
+    "description": "",
     "found": [
         "Glittering Dunes"
     ],
@@ -13,8 +13,10 @@
     "icon": "star",
     "name": "Melon",
     "price": 93,
+    "profit": 53,
     "seed": 93,
     "seedPrice": 40,
+    "sell": 93,
     "sellPrice": 93,
     "type": "Fruit",
     "water": 1,

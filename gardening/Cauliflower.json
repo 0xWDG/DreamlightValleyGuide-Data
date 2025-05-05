@@ -4,7 +4,7 @@
     ],
     "biome": "The Bind",
     "coins": 15,
-    "description": "Every piece of a cauliflower looks like another tiny cauliflower.",
+    "description": "",
     "found": [
         "The Bind"
     ],
@@ -13,8 +13,10 @@
     "icon": "star",
     "name": "Cauliflower",
     "price": 25,
+    "profit": 15,
     "seed": 25,
     "seedPrice": 10,
+    "sell": 25,
     "sellPrice": 25,
     "type": "Vegetables",
     "water": 0,

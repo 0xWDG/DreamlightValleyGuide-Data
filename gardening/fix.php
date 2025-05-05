@@ -18,6 +18,14 @@ foreach ($files as $file) {
         $json['seed'] = $json['price'] ?? 0;
     }
 
+    if (!isset($json['sell'])) {
+        $json['sell'] = $json['price'] ?? 0;
+    }
+
+    if (!isset($json['profit'])) {
+        $json['profit'] = $json['sellPrice'] - $json['seedPrice'];
+    }
+
     ksort($json);
 
     file_put_contents($file, json_encode($json, JSON_PRETTY_PRINT));

@@ -4,7 +4,7 @@
     ],
     "biome": "Wild Tangle",
     "coins": 106,
-    "description": "Use it to make a nice salad... or put a hat on it and turn it into a scarecrow.",
+    "description": "",
     "found": [
         "Wild Tangle"
     ],
@@ -13,8 +13,10 @@
     "icon": "star",
     "name": "Cabbage",
     "price": 256,
+    "profit": 106,
     "seed": 256,
     "seedPrice": 150,
+    "sell": 256,
     "sellPrice": 256,
     "type": "Vegetables",
     "water": 2,

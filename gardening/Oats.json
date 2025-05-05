@@ -4,7 +4,7 @@
     ],
     "biome": "Everafter",
     "coins": 0,
-    "description": "Perfect for making oatmeal or adding a little crunch to yogurt.",
+    "description": "",
     "found": [
         "Everafter"
     ],
@@ -13,8 +13,10 @@
     "icon": "star",
     "name": "Oats",
     "price": 99,
+    "profit": -51,
     "seed": 99,
     "seedPrice": 150,
+    "sell": 99,
     "sellPrice": 99,
     "type": "Grains",
     "water": 0,

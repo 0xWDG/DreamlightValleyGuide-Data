@@ -4,7 +4,7 @@
     ],
     "biome": "Ancient's Landing",
     "coins": 45,
-    "description": "Perfect for dipping in some cheese or chopping up and throwing in a stir-fry.",
+    "description": "",
     "found": [
         "Ancient's Landing"
     ],
@@ -13,8 +13,10 @@
     "icon": "star",
     "name": "Celery",
     "price": 65,
+    "profit": 45,
     "seed": 65,
     "seedPrice": 20,
+    "sell": 65,
     "sellPrice": 65,
     "type": "Vegetables",
     "water": 1,

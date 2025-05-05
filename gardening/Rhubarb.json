@@ -4,7 +4,7 @@
     ],
     "biome": "Everafter",
     "coins": 29,
-    "description": "An excellent addition to any strawberry pie.",
+    "description": "",
     "found": [
         "Everafter"
     ],
@@ -13,8 +13,10 @@
     "icon": "star",
     "name": "Rhubarb",
     "price": 229,
+    "profit": 29,
     "seed": 229,
     "seedPrice": 200,
+    "sell": 229,
     "sellPrice": 229,
     "type": "Fruit",
     "water": 0,

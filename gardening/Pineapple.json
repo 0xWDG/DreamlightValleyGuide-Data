@@ -4,7 +4,7 @@
     ],
     "biome": "Wild Tangle",
     "coins": 332,
-    "description": "Don't let that tough, spiky exterior fool you. They're actually very sweet!",
+    "description": "",
     "found": [
         "Wild Tangle"
     ],
@@ -13,8 +13,10 @@
     "icon": "star",
     "name": "Pineapple",
     "price": 532,
+    "profit": 332,
     "seed": 532,
     "seedPrice": 200,
+    "sell": 532,
     "sellPrice": 532,
     "type": "Fruit",
     "water": 3,

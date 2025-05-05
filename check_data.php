@@ -27,7 +27,17 @@ $requiredKeys = [
     "digging" => ["name", "description", "found"],
     "fishing" => ["name", "description", "found", "rarity", "energy"],
     "foraging" => ["name", "description", "found"],
-    "gardening" => ["name", "description", "found"],
+    "gardening" => [
+        "name", 
+        "description", 
+        "icon",
+        "type",
+        "found",
+        "biome",
+        "grow",
+        "water", "yield", "seed",
+        "sell", "profit", "coins"
+    ],
     "mining" => ["name", "description", "found"],
     "biomes" => ["name", "description"],
     "characters" => ["name", "description"],

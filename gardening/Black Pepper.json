@@ -4,7 +4,7 @@
     ],
     "biome": "Mythopia",
     "coins": 13,
-    "description": "This will bring a bit of spice to any dish. Best served with its friend: salt.",
+    "description": "",
     "found": [
         "Mythopia"
     ],
@@ -13,8 +13,10 @@
     "icon": "star",
     "name": "Black Pepper",
     "price": 83,
+    "profit": 13,
     "seed": 83,
     "seedPrice": 70,
+    "sell": 83,
     "sellPrice": 83,
     "type": "Spices",
     "water": 0,

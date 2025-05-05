@@ -4,7 +4,7 @@
     ],
     "biome": "Mythopia",
     "coins": 85,
-    "description": "Beneath that yellow rind, this melon is as sweet as honey and succulent as the morning dew.",
+    "description": "",
     "found": [
         "Mythopia"
     ],
@@ -13,8 +13,10 @@
     "icon": "star",
     "name": "Honeydew Melon",
     "price": 125,
+    "profit": 85,
     "seed": 125,
     "seedPrice": 40,
+    "sell": 125,
     "sellPrice": 125,
     "type": "Fruit",
     "water": 0,

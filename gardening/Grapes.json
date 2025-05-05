@@ -4,7 +4,7 @@
     ],
     "biome": "Ancient's Landing",
     "coins": 22,
-    "description": "Nature's candy, fresh off the vine.",
+    "description": "",
     "found": [
         "Ancient's Landing"
     ],
@@ -13,8 +13,10 @@
     "icon": "star",
     "name": "Grapes",
     "price": 9,
+    "profit": 4,
     "seed": 9,
     "seedPrice": 5,
+    "sell": 9,
     "sellPrice": 9,
     "type": "Fruit",
     "water": 1,

@@ -4,7 +4,7 @@
     ],
     "biome": "Ancient's Landing",
     "coins": 21,
-    "description": "I yam what I yam.",
+    "description": "",
     "found": [
         "Ancient's Landing"
     ],
@@ -13,8 +13,10 @@
     "icon": "star",
     "name": "Yam",
     "price": 36,
+    "profit": 21,
     "seed": 36,
     "seedPrice": 15,
+    "sell": 36,
     "sellPrice": 36,
     "type": "Vegetables",
     "water": 2,

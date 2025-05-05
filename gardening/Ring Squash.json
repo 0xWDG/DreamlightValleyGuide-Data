@@ -4,7 +4,7 @@
     ],
     "biome": "The Bind",
     "coins": 21,
-    "description": "It's sort of like a pumpkin, but a little bit squashed.",
+    "description": "",
     "found": [
         "The Bind"
     ],
@@ -13,8 +13,10 @@
     "icon": "star",
     "name": "Ring Squash",
     "price": 41,
+    "profit": 21,
     "seed": 41,
     "seedPrice": 20,
+    "sell": 41,
     "sellPrice": 41,
     "type": "Vegetables",
     "water": 0,

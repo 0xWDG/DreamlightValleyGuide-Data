@@ -4,7 +4,7 @@
     ],
     "biome": "Glittering Dunes",
     "coins": 154,
-    "description": "Legend has it these starchy roots taste even better if you whistle a tune on them before cooking.",
+    "description": "",
     "found": [
         "Glittering Dunes"
     ],
@@ -13,8 +13,10 @@
     "icon": "star",
     "name": "Flute Root",
     "price": 112,
+    "profit": 42,
     "seed": 112,
     "seedPrice": 70,
+    "sell": 112,
     "sellPrice": 112,
     "type": "Vegetables",
     "water": 2,

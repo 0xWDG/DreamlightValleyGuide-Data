@@ -4,7 +4,7 @@
     ],
     "biome": "Everafter",
     "coins": 0,
-    "description": "They're green. They're beans. It doesn't need to be any more complicated than that.",
+    "description": "",
     "found": [
         "Everafter"
     ],
@@ -13,8 +13,10 @@
     "icon": "star",
     "name": "Green Beans",
     "price": 209,
+    "profit": -41,
     "seed": 209,
     "seedPrice": 250,
+    "sell": 209,
     "sellPrice": 209,
     "type": "Vegetables",
     "water": 0,

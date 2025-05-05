@@ -5,7 +5,7 @@
     ],
     "biome": "Sunlit Plateau",
     "coins": 0,
-    "description": "Soft fluff that can be used in lots of stuff!",
+    "description": "",
     "found": [
         "Sunlit Plateau"
     ],
@@ -15,8 +15,10 @@
     "maxSpawns": 0,
     "name": "Cotton",
     "price": 37,
+    "profit": -5,
     "seed": 37,
     "seedPrice": 42,
+    "sell": 37,
     "sellPrice": 37,
     "type": "Crafting Materials",
     "water": 4,

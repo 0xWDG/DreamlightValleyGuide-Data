@@ -4,7 +4,7 @@
     ],
     "biome": "Wild Tangle",
     "coins": 274,
-    "description": "A few of these are sure to \"turnip\" whenever you need to make a tasty meal.",
+    "description": "",
     "found": [
         "Wild Tangle"
     ],
@@ -13,8 +13,10 @@
     "icon": "star",
     "name": "Turnip",
     "price": 187,
+    "profit": 87,
     "seed": 187,
     "seedPrice": 100,
+    "sell": 187,
     "sellPrice": 187,
     "type": "Vegetables",
     "water": 1,
