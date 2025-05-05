@@ -1,10 +1,10 @@
 {
     "activity": [
-        "foraging"
+        "digging"
     ],
     "description": "These magical bubbles can be found buried around Everafter.",
     "found": [
-        "\u00a0Digging\r\n Everafter"
+        "Everafter"
     ],
     "giftReward": 0,
     "icon": "\ud83e\udea8",
