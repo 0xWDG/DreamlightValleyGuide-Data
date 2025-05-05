@@ -23,4 +23,5 @@ foreach ($files as $file) {
     file_put_contents($file, json_encode($json, JSON_PRETTY_PRINT));
 }
 
+
 ?>
