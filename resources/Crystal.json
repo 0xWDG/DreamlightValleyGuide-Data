@@ -1,10 +1,11 @@
 {
     "activity": [
-        "foraging"
+        "mining"
     ],
     "description": "A pretty, rare crystal used for crafting.",
     "found": [
-        "\u00a0Mining\r\n Forgotten Lands\r\n Feeding Sunbirds liked foods"
+        "Forgotten Lands",
+        "Feeding Sunbirds liked foods"
     ],
     "icon": "\ud83d\udc8e",
     "maxSpawns": 0,
