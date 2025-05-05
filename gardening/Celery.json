@@ -1,0 +1,20 @@
+{
+    "name": "Celery",
+    "type": "Vegetables",
+    "found": [
+        "Ancient's Landing"
+    ],
+    "biome": "Ancient's Landing",
+    "growTime": 10,
+    "price": 65,
+    "sellPrice": 65,
+    "seedPrice": 20,
+    "grow": "10min",
+    "waterings": 1,
+    "yield": 1,
+    "activity": [
+        "gardening"
+    ],
+    "coins": 45,
+    "description": "Perfect for dipping in some cheese or chopping up and throwing in a stir-fry."
+}

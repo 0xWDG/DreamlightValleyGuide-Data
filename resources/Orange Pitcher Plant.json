@@ -1,0 +1,14 @@
+{
+    "name": "Orange Pitcher Plant",
+    "found": [
+        "The Grove",
+        "The Lagoon"
+    ],
+    "maxSpawns": 4,
+    "price": 39,
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none",
+    "description": "This pretty orange plant proves that you can be both elegant and deadly. Don't fall into its trap."
+}

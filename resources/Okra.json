@@ -9,10 +9,17 @@
     "seed": 135,
     "sell": 114,
     "profit": 207,
-    "coins": "1.72",
+    "coins": 207,
     "activity": [
         "gardening"
     ],
-    "price": 0,
-    "found": []
+    "price": 114,
+    "found": [
+        "Glade of Trust"
+    ],
+    "growTime": 2,
+    "sellPrice": 114,
+    "seedPrice": 135,
+    "waterings": 1,
+    "rarity": "none"
 }

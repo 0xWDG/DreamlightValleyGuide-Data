@@ -1,7 +1,6 @@
 {
     "name": "Soya",
     "description": "soybean, (Glycine max), also called soja bean or soya bean, annual legume of the pea family (Fabaceae) and its edible seed. The soybean is economically the most important bean in the world, providing vegetable protein for millions of people and ingredients for hundreds of chemical products.",
-    "icon": "\ud83c\udf31",
     "type": "Dairy and Oil",
     "biome": "Sunlit Plateau",
     "grow": "1h 30min",
@@ -10,5 +9,16 @@
     "seed": 60,
     "sell": 69,
     "profit": 147,
-    "coins": "1.63"
+    "coins": 147,
+    "activity": [
+        "gardening"
+    ],
+    "price": 69,
+    "found": [
+        "Sunlit Plateau"
+    ],
+    "growTime": 1,
+    "sellPrice": 69,
+    "seedPrice": 60,
+    "waterings": 2
 }

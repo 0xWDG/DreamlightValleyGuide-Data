@@ -1,10 +1,13 @@
 {
-    "name": "Sunflower",
+    "activity": [
+        "foraging"
+    ],
     "description": "Tall yellow flowers that produce tasty seeds.",
-    "icon": "\ud83c\udf3b",
-    "price": 28,
-    "maxSpawns": 4,
     "found": [
         "Dazzle Beach"
-    ]
+    ],
+    "icon": "\ud83c\udf3b",
+    "maxSpawns": 4,
+    "name": "Sunflower",
+    "price": 28
 }

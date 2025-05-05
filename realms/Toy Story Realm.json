@@ -1,5 +1,6 @@
 {
     "name": "Toy Story Realm",
+    "description": "The Toy Story Realm is an area accessed through a door inside the Dream Castle. It can be unlocked for 7000 Dreamlight.",
     "price": 7000,
     "characters": [
         "Woody",

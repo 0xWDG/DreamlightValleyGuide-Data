@@ -1,6 +1,7 @@
 {
     "name": "Yellow Nasturtium",
     "description": "Yellow petals bloom from a red-orange bulb.",
+    "icon": "\ud83c\udf3a",
     "price": 85,
     "maxSpawns": 2,
     "found": [
@@ -8,5 +9,6 @@
     ],
     "activity": [
         "foraging"
-    ]
+    ],
+    "rarity": "none"
 }

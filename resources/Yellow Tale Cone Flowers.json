@@ -1,0 +1,13 @@
+{
+    "name": "Yellow Tale Cone Flowers",
+    "description": "These stunningly yellow flowers prefer to grow on romance stories.",
+    "found": [
+        "The Bind"
+    ],
+    "maxSpawns": 4,
+    "price": 23,
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none"
+}

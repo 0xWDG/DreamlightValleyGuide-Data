@@ -1,0 +1,13 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "This flower's teal petals can sometimes be seen falling upwards.",
+    "found": [
+        "The Elysian Fields",
+        "The Statue's Shadow"
+    ],
+    "maxSpawns": 3,
+    "name": "Teal Eternal Poppies",
+    "price": 52
+}

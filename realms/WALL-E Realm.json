@@ -1,5 +1,6 @@
 {
     "name": "WALL-E Realm",
+    "description": "The WALL-E Realm is an area accessed through a door inside the Dream Castle. It's one of the initial doors available to open for free if selected first, or can later be unlocked for 3000 Dreamlight.",
     "price": 3000,
     "characters": [
         "Walle"

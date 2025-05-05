@@ -1,0 +1,13 @@
+{
+    "name": "Quartz",
+    "description": "A beautiful crystalline structure.",
+    "found": [
+        "Ancient's Landing"
+    ],
+    "maxSpawns": 0,
+    "price": 20,
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none"
+}

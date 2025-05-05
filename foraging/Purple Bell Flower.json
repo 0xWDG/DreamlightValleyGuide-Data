@@ -1,10 +1,13 @@
 {
-    "name": "Purple Bell Flower",
+    "activity": [
+        "foraging"
+    ],
     "description": "A vibrant purple blossom, perfect for gifting!",
-    "icon": "\ud83c\udf3a",
-    "price": 30,
-    "maxSpawns": 4,
     "found": [
         "Forest of Valor"
-    ]
+    ],
+    "icon": "\ud83c\udf3a",
+    "maxSpawns": 4,
+    "name": "Purple Bell Flower",
+    "price": 30
 }

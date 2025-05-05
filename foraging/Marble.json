@@ -1,11 +1,14 @@
 {
-    "name": "Marble",
+    "activity": [
+        "foraging"
+    ],
     "description": "Marble is a foraged material which can be found mining rocks and mining nodes in the Mythopia area in Storybook Vale.",
-    "icon": "\ud83e\udea8",
-    "price": 30,
-    "giftReward": 0,
-    "maxSpawns": 0,
     "found": [
         "Mythopia"
-    ]
+    ],
+    "giftReward": 0,
+    "icon": "\ud83e\udea8",
+    "maxSpawns": 0,
+    "name": "Marble",
+    "price": 30
 }

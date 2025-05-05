@@ -1,0 +1,20 @@
+{
+    "name": "Turnip",
+    "type": "Vegetables",
+    "found": [
+        "Wild Tangle"
+    ],
+    "biome": "Wild Tangle",
+    "growTime": 4,
+    "price": 187,
+    "sellPrice": 187,
+    "seedPrice": 100,
+    "grow": "4h",
+    "waterings": 1,
+    "yield": 2,
+    "activity": [
+        "gardening"
+    ],
+    "coins": 274,
+    "description": "A few of these are sure to \"turnip\" whenever you need to make a tasty meal."
+}

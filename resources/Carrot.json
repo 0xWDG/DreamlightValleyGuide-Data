@@ -9,10 +9,17 @@
     "seed": 10,
     "sell": 44,
     "profit": 34,
-    "coins": "2.27",
+    "coins": 34,
     "activity": [
         "gardening"
     ],
-    "price": 0,
-    "found": []
+    "price": 44,
+    "found": [
+        "Peaceful Meadow"
+    ],
+    "growTime": 15,
+    "sellPrice": 44,
+    "seedPrice": 10,
+    "waterings": 1,
+    "rarity": "none"
 }

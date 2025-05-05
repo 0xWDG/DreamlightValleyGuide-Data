@@ -1,6 +1,7 @@
 {
     "name": "Red Bell Flower",
     "description": "A stunning red flower shaped like a bell.",
+    "icon": "\ud83c\udf3a",
     "price": 23,
     "maxSpawns": 6,
     "found": [
@@ -8,5 +9,6 @@
     ],
     "activity": [
         "foraging"
-    ]
+    ],
+    "rarity": "none"
 }

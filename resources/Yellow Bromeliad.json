@@ -1,6 +1,7 @@
 {
     "name": "Yellow Bromeliad",
     "description": "Yellow flowers that grow straight upward.",
+    "icon": "\ud83c\udf3a",
     "price": 73,
     "maxSpawns": 2,
     "found": [
@@ -8,5 +9,6 @@
     ],
     "activity": [
         "foraging"
-    ]
+    ],
+    "rarity": "none"
 }

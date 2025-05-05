@@ -9,10 +9,17 @@
     "seed": 12,
     "sell": 33,
     "profit": 21,
-    "coins": "1.4",
+    "coins": 21,
     "activity": [
         "gardening"
     ],
-    "price": 0,
-    "found": []
+    "price": 33,
+    "found": [
+        "Forest of Valor"
+    ],
+    "growTime": 15,
+    "sellPrice": 33,
+    "seedPrice": 12,
+    "waterings": 1,
+    "rarity": "none"
 }

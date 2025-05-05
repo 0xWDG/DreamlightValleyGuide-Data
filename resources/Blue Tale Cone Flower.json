@@ -1,0 +1,13 @@
+{
+    "name": "Blue Tale Cone Flower",
+    "found": [
+        "The Bind"
+    ],
+    "maxSpawns": 3,
+    "price": 29,
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none",
+    "description": "These beautiful blue flowers prefer to grow on tragic stories."
+}

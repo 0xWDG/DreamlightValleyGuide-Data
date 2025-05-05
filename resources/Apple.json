@@ -12,5 +12,6 @@
     "activity": [
         "foraging"
     ],
-    "gift": 50
+    "gift": 50,
+    "rarity": "none"
 }

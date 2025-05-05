@@ -1,7 +1,6 @@
 {
     "name": "Potato",
     "description": "The potato is a starchy food, a tuber of the plant Solanum tuberosum and is a root vegetable native to the Americas. The plant is a perennial in the nightshade family Solanaceae. Potato cultivars appear in a variety of colors, shapes, and sizes.",
-    "icon": "\ud83e\udd54",
     "type": "Vegetables",
     "biome": "Forgotten Lands",
     "grow": "35min",
@@ -10,5 +9,16 @@
     "seed": 55,
     "sell": 126,
     "profit": 71,
-    "coins": "2.03"
+    "coins": 71,
+    "activity": [
+        "gardening"
+    ],
+    "price": 126,
+    "found": [
+        "Forgotten Lands"
+    ],
+    "growTime": 35,
+    "sellPrice": 126,
+    "seedPrice": 55,
+    "waterings": 3
 }

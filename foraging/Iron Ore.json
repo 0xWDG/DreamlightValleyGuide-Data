@@ -1,9 +1,8 @@
 {
-    "name": "Iron Ore",
+    "activity": [
+        "foraging"
+    ],
     "description": "A chunk of raw iron that becomes ingots.",
-    "icon": "\u2692\ufe0f",
-    "price": 10,
-    "maxSpawns": 0,
     "found": [
         "Mining",
         "Forest of Valor",
@@ -12,5 +11,9 @@
         "Frosted Heights",
         "Forgotten Lands",
         "Vitalys Mine"
-    ]
+    ],
+    "icon": "\u2692\ufe0f",
+    "maxSpawns": 0,
+    "name": "Iron Ore",
+    "price": 10
 }

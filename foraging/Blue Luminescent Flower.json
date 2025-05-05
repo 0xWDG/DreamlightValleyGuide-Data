@@ -1,0 +1,13 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "This flower has an eerie blue glow that could only be caused by some sort of magic.",
+    "found": [
+        "The Overlook",
+        "The Ruins"
+    ],
+    "maxSpawns": 4,
+    "name": "Blue Luminescent Flower",
+    "price": 26
+}

@@ -1,6 +1,7 @@
 {
     "name": "Orange Star Lily",
     "description": "A bright orange flower shaped like a star.",
+    "icon": "\ud83c\udf3a",
     "price": 43,
     "maxSpawns": 3,
     "found": [
@@ -8,5 +9,6 @@
     ],
     "activity": [
         "foraging"
-    ]
+    ],
+    "rarity": "none"
 }

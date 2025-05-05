@@ -1,14 +1,23 @@
 {
     "name": "Cotton",
-    "description": "Cotton is a seed-hair fiber made mostly of cellulose. The fibers are composed of about 87 to 90 percent cellulose (a carbohydrate plant substance), 5 to 8 percent water, and 4 to 6 percent natural impurities.",
+    "description": "Soft fluff that can be used in lots of stuff!",
     "icon": "\ud83c\udf3e",
-    "type": "Material",
+    "price": 37,
+    "maxSpawns": 0,
+    "found": [
+        "Sunlit Plateau"
+    ],
+    "activity": [
+        "foraging",
+        "gardening"
+    ],
+    "type": "Crafting Materials",
     "biome": "Sunlit Plateau",
+    "growTime": 25,
+    "sellPrice": 37,
+    "seedPrice": 42,
     "grow": "25min",
-    "water": 4,
+    "waterings": 4,
     "yield": 1,
-    "seed": 42,
-    "sell": 37,
-    "profit": -5,
-    "coins": "\u22120.2"
+    "coins": 0
 }

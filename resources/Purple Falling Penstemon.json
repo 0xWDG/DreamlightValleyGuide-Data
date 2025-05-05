@@ -1,6 +1,7 @@
 {
     "name": "Purple Falling Penstemon",
     "description": "Purple wildflowers that droop when in bloom.",
+    "icon": "\ud83c\udf3a",
     "price": 23,
     "maxSpawns": 4,
     "found": [
@@ -8,5 +9,6 @@
     ],
     "activity": [
         "foraging"
-    ]
+    ],
+    "rarity": "none"
 }

@@ -1,0 +1,13 @@
+{
+    "name": "Red Rose",
+    "description": "This vivid bloom is a lovely gift — as long as you watch out for its thorns.",
+    "found": [
+        "Beast's Greenhouse"
+    ],
+    "maxSpawns": 0,
+    "price": 35,
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none"
+}

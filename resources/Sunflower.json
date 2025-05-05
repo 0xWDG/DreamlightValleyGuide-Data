@@ -1,6 +1,7 @@
 {
     "name": "Sunflower",
     "description": "Tall yellow flowers that produce tasty seeds.",
+    "icon": "\ud83c\udf3b",
     "price": 28,
     "maxSpawns": 4,
     "found": [
@@ -8,5 +9,6 @@
     ],
     "activity": [
         "foraging"
-    ]
+    ],
+    "rarity": "none"
 }

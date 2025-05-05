@@ -1,0 +1,14 @@
+{
+    "name": "Purple Cactus Flower",
+    "description": "The spikier the cactus, the prettier the purple petals.",
+    "found": [
+        "The Oasis",
+        "The Borderlands"
+    ],
+    "maxSpawns": 2,
+    "price": 65,
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none"
+}

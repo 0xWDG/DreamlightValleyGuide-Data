@@ -1,0 +1,21 @@
+{
+    "name": "Faerie Rye",
+    "type": "Grains",
+    "found": [
+        "Everafter"
+    ],
+    "biome": "Everafter",
+    "growTime": 1,
+    "price": 62,
+    "sellPrice": 62,
+    "seedPrice": 60,
+    "grow": "1hr 15min",
+    "waterings": 0,
+    "yield": 1,
+    "activity": [
+        "gardening"
+    ],
+    "coins": 2,
+    "rarity": "none",
+    "description": "A slightly unusual rye, with just a hint of fae magic to it."
+}

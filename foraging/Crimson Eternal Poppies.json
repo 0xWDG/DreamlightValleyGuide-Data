@@ -1,0 +1,13 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "This flower's crimson petals can sometimes be seen falling upwards.",
+    "found": [
+        "The Elysian Fields",
+        "Mount Olympus"
+    ],
+    "maxSpawns": 6,
+    "name": "Crimson Eternal Poppies",
+    "price": 27
+}

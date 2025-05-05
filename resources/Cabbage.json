@@ -1,0 +1,21 @@
+{
+    "name": "Cabbage",
+    "type": "Vegetables",
+    "found": [
+        "Wild Tangle"
+    ],
+    "biome": "Wild Tangle",
+    "growTime": 1,
+    "price": 256,
+    "sellPrice": 256,
+    "seedPrice": 150,
+    "grow": "1h",
+    "waterings": 2,
+    "yield": 1,
+    "activity": [
+        "gardening"
+    ],
+    "coins": 106,
+    "rarity": "none",
+    "description": "Use it to make a nice salad... or put a hat on it and turn it into a scarecrow."
+}

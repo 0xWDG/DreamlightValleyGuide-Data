@@ -1,0 +1,14 @@
+{
+    "name": "White Bird of Paradise",
+    "description": "A fabulous flower with petals as white as the driven snow.",
+    "found": [
+        "The Docks",
+        "The Courtyard"
+    ],
+    "maxSpawns": 4,
+    "price": 23,
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none"
+}

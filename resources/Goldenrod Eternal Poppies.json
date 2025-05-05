@@ -1,0 +1,14 @@
+{
+    "name": "Goldenrod Eternal Poppies",
+    "found": [
+        "The Fiery Plains",
+        "The Statue's Shadow"
+    ],
+    "maxSpawns": 4,
+    "price": 35,
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none",
+    "description": "Goldenrod Eternal Poppies is a flower type that can be found growing wild in The Fiery Plains and The Statue's Shadow areas in Mythopia."
+}

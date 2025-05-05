@@ -1,10 +1,13 @@
 {
-    "name": "Blue Hydrangea",
+    "activity": [
+        "foraging"
+    ],
     "description": "These must grow in special soil to turn blue.",
-    "icon": "\ud83c\udf3a",
-    "price": 28,
-    "maxSpawns": 4,
     "found": [
         "Dazzle Beach"
-    ]
+    ],
+    "icon": "\ud83c\udf3a",
+    "maxSpawns": 4,
+    "name": "Blue Hydrangea",
+    "price": 28
 }

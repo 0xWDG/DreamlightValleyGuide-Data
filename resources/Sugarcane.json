@@ -9,10 +9,17 @@
     "seed": 5,
     "sell": 19,
     "profit": 14,
-    "coins": "2",
+    "coins": 14,
     "activity": [
         "gardening"
     ],
-    "price": 0,
-    "found": []
+    "price": 19,
+    "found": [
+        "Dazzle Beach"
+    ],
+    "growTime": 7,
+    "sellPrice": 19,
+    "seedPrice": 5,
+    "waterings": 1,
+    "rarity": "none"
 }

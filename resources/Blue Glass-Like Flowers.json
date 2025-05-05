@@ -1,0 +1,14 @@
+{
+    "name": "Blue Glass-Like Flowers",
+    "found": [
+        "The Plains",
+        "The Wastes"
+    ],
+    "maxSpawns": 6,
+    "price": 23,
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none",
+    "description": "Though it grows from the ground, this flower has petals that look like fine, artisan-blown glass."
+}

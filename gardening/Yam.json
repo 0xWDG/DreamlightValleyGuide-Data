@@ -1,0 +1,20 @@
+{
+    "name": "Yam",
+    "type": "Vegetables",
+    "found": [
+        "Ancient's Landing"
+    ],
+    "biome": "Ancient's Landing",
+    "growTime": 15,
+    "price": 36,
+    "sellPrice": 36,
+    "seedPrice": 15,
+    "grow": "15min",
+    "waterings": 2,
+    "yield": 1,
+    "activity": [
+        "gardening"
+    ],
+    "coins": 21,
+    "description": "I yam what I yam."
+}

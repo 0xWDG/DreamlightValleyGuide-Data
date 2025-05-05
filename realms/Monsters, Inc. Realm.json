@@ -1,5 +1,6 @@
 {
     "name": "Monsters, Inc. Realm",
+    "description": "The Monsters, Inc. Realm is an area accessed through a door on the third floor inside the Dream Castle. It can be unlocked for 15000 Dreamlight.",
     "price": 15000,
     "characters": [
         "Mike Wazowski",

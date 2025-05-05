@@ -1,5 +1,6 @@
 {
     "name": "Beauty and the Beast Realm",
+    "description": "The Beauty and the Beast Realm is an area accessed through a door on the third floor inside the Dream Castle. It can be unlocked for 12500 Dreamlight.",
     "price": 12500,
     "characters": [
         "Belle",

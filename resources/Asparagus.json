@@ -14,5 +14,6 @@
         "gardening"
     ],
     "price": 0,
-    "found": []
+    "found": [],
+    "rarity": "none"
 }

@@ -1,15 +1,14 @@
 {
     "name": "Clay",
     "description": "This can be made into all sorts of objects.",
+    "icon": "\ud83e\uddf1",
+    "price": 20,
+    "maxSpawns": 0,
+    "found": [
+        "\u00a0Kristoff's Stall\u2028\u00a0Digging\r\n Glade of Trust\r\n Sunlit Plateau\r\n Forgotten Lands\r\n Removing Small and Big Wildebeest Bones"
+    ],
     "activity": [
-        "digging",
         "foraging"
     ],
-    "price": 20,
-    "gift": 25,
-    "found": [
-        "Glade of Trust",
-        "Sunlit Plateau",
-        "Forgotten Lands"
-    ]
+    "rarity": "none"
 }

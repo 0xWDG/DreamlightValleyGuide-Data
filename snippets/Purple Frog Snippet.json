@@ -7,5 +7,8 @@
     "found": [
         "The Fallen Fortress"
     ],
-    "maxSpawns": 0
+    "maxSpawns": 0,
+    "activity": [
+        "snippets"
+    ]
 }

@@ -1,0 +1,14 @@
+{
+    "name": "Pink Luminescent Flower",
+    "found": [
+        "The Overlook",
+        "The Ruins"
+    ],
+    "maxSpawns": 3,
+    "price": 36,
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none",
+    "description": "This flower has an eerie pink glow that could only be caused by some sort of magic."
+}

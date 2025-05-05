@@ -9,10 +9,17 @@
     "seed": 30,
     "sell": 52,
     "profit": 74,
-    "coins": "1.85",
+    "coins": 74,
     "activity": [
         "gardening"
     ],
-    "price": 0,
-    "found": []
+    "price": 52,
+    "found": [
+        "Sunlit Plateau"
+    ],
+    "growTime": 40,
+    "sellPrice": 52,
+    "seedPrice": 30,
+    "waterings": 2,
+    "rarity": "none"
 }

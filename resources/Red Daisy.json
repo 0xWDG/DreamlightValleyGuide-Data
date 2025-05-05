@@ -1,6 +1,7 @@
 {
     "name": "Red Daisy",
     "description": "Bright red petals surround a yellow bulb.",
+    "icon": "\ud83c\udf3a",
     "price": 48,
     "maxSpawns": 2,
     "found": [
@@ -8,5 +9,6 @@
     ],
     "activity": [
         "foraging"
-    ]
+    ],
+    "rarity": "none"
 }

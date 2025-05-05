@@ -1,6 +1,7 @@
 {
     "name": "Blue Hydrangea",
     "description": "These must grow in special soil to turn blue.",
+    "icon": "\ud83c\udf3a",
     "price": 28,
     "maxSpawns": 4,
     "found": [
@@ -8,5 +9,6 @@
     ],
     "activity": [
         "foraging"
-    ]
+    ],
+    "rarity": "none"
 }

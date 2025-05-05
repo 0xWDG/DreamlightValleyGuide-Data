@@ -1,10 +1,13 @@
 {
-    "name": "Orange & Red Marsh Milkweed",
+    "activity": [
+        "foraging"
+    ],
     "description": "Small orange-red bulbs bloom atop long stalks.",
-    "icon": "\ud83c\udf3a",
-    "price": 66,
-    "maxSpawns": 2,
     "found": [
         "Glade of Trust"
-    ]
+    ],
+    "icon": "\ud83c\udf3a",
+    "maxSpawns": 2,
+    "name": "Orange & Red Marsh Milkweed",
+    "price": 66
 }

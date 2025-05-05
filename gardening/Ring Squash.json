@@ -1,0 +1,20 @@
+{
+    "name": "Ring Squash",
+    "type": "Vegetables",
+    "found": [
+        "The Bind"
+    ],
+    "biome": "The Bind",
+    "growTime": 30,
+    "price": 41,
+    "sellPrice": 41,
+    "seedPrice": 20,
+    "grow": "30min",
+    "waterings": 0,
+    "yield": 1,
+    "activity": [
+        "gardening"
+    ],
+    "coins": 21,
+    "description": "It's sort of like a pumpkin, but a little bit squashed."
+}

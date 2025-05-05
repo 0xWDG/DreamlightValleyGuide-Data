@@ -1,10 +1,13 @@
 {
-    "name": "Pink Houseleek",
+    "activity": [
+        "foraging"
+    ],
     "description": "Rugged flowers that require very little water.",
-    "icon": "\ud83c\udf3a",
-    "price": 35,
-    "maxSpawns": 4,
     "found": [
         "Sunlit Plateau"
-    ]
+    ],
+    "icon": "\ud83c\udf3a",
+    "maxSpawns": 4,
+    "name": "Pink Houseleek",
+    "price": 35
 }

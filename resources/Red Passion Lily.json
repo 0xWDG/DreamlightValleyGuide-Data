@@ -1,6 +1,7 @@
 {
     "name": "Red Passion Lily",
     "description": "Its bloom is an explosion of color.",
+    "icon": "\ud83c\udf3a",
     "price": 38,
     "maxSpawns": 4,
     "found": [
@@ -8,5 +9,6 @@
     ],
     "activity": [
         "foraging"
-    ]
+    ],
+    "rarity": "none"
 }

@@ -1,0 +1,14 @@
+{
+    "name": "Pink Rose",
+    "description": "Pink Rose is a flower type that can be found growing wild in Teapot Falls and The Beanstalk Marshes areas in Everafter.",
+    "found": [
+        "Teapot Falls",
+        "The Beanstalk Marshes"
+    ],
+    "maxSpawns": 2,
+    "price": 73,
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none"
+}

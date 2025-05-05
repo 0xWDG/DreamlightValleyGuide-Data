@@ -1,0 +1,12 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "A soft and malleable metal that's highly conductive.",
+    "found": [
+        "Eternity Isle"
+    ],
+    "maxSpawns": 0,
+    "name": "Copper",
+    "price": 15
+}

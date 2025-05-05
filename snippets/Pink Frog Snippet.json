@@ -8,5 +8,8 @@
         "The Statue's Shadow",
         "Teapot Falls"
     ],
-    "maxSpawns": 0
+    "maxSpawns": 0,
+    "activity": [
+        "snippets"
+    ]
 }

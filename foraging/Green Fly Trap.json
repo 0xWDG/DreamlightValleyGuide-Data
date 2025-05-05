@@ -1,0 +1,13 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "Uh-oh. It looks hungry...",
+    "found": [
+        "The Grasslands",
+        "The Promenade"
+    ],
+    "maxSpawns": 2,
+    "name": "Green Fly Trap",
+    "price": 73
+}

@@ -1,13 +1,14 @@
 {
     "name": "Night Shard",
     "description": "The opposite of a Dream Shard. Be careful.",
+    "icon": "\ud83d\udc8e",
+    "price": 0,
+    "maxSpawns": 0,
+    "found": [
+        "Digging Sparkling Holes"
+    ],
     "activity": [
-        "digging",
         "foraging"
     ],
-    "price": 0,
-    "gift": 25,
-    "found": [
-        "Everywhere"
-    ]
+    "rarity": "none"
 }

@@ -9,5 +9,8 @@
         "Plaza",
         "The Plains",
         "The Wastes"
+    ],
+    "activity": [
+        "mining"
     ]
 }

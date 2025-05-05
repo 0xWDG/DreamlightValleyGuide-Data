@@ -1,10 +1,13 @@
 {
-    "name": "Green Rising Penstemon",
+    "activity": [
+        "foraging"
+    ],
     "description": "Green wildflowers that rise when in bloom.",
-    "icon": "\ud83c\udf3a",
-    "price": 35,
-    "maxSpawns": 3,
     "found": [
         "Peaceful Meadow"
-    ]
+    ],
+    "icon": "\ud83c\udf3a",
+    "maxSpawns": 3,
+    "name": "Green Rising Penstemon",
+    "price": 35
 }

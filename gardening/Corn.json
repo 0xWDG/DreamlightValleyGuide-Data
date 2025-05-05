@@ -1,7 +1,6 @@
 {
     "name": "Corn",
     "description": "Corn is a tall annual cereal grass (Zea mays) that is widely grown for its large elongated ears of starchy seeds. The seeds, which are also known as corn, are used as food for humans and livestock and as a source of biofuel and can be processed into a wide range of useful chemicals.",
-    "icon": "\ud83c\udf3d",
     "type": "Grains",
     "biome": "Dazzle Beach",
     "grow": "12min",
@@ -10,5 +9,16 @@
     "seed": 15,
     "sell": 16,
     "profit": 17,
-    "coins": "1.42"
+    "coins": 17,
+    "activity": [
+        "gardening"
+    ],
+    "price": 16,
+    "found": [
+        "Dazzle Beach"
+    ],
+    "growTime": 12,
+    "sellPrice": 16,
+    "seedPrice": 15,
+    "waterings": 1
 }

@@ -1,11 +1,14 @@
 {
-    "name": "Common Club Rush",
+    "activity": [
+        "foraging"
+    ],
     "description": "Common Club Rush is a foraged material which can be gathered from the ground in the Everafter area in Storybook Vale.",
-    "icon": "\ud83e\udea8",
-    "price": 45,
-    "giftReward": 0,
-    "maxSpawns": 0,
     "found": [
         "Everafter"
-    ]
+    ],
+    "giftReward": 0,
+    "icon": "\ud83e\udea8",
+    "maxSpawns": 0,
+    "name": "Common Club Rush",
+    "price": 45
 }

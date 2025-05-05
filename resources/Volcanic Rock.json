@@ -1,15 +1,15 @@
 {
     "name": "Volcanic Rock",
     "description": "This gray-black rock seems oddly porous and may even float.",
-    "activity": [
-        "digging",
-        "foraging"
-    ],
+    "icon": "\ud83c\udf3a",
     "price": 30,
     "gift": 0,
     "maxSpawns": 0,
     "found": [
-        "Everafter",
-        "Mythopia"
-    ]
+        "\u00a0Digging\r\n Everafter\r\n Mythopia"
+    ],
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none"
 }

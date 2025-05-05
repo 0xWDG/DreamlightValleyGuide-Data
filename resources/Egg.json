@@ -11,5 +11,6 @@
     "growthTime": 0,
     "maxSpawns": 0,
     "name": "Egg",
-    "price": 220
+    "price": 220,
+    "rarity": "none"
 }

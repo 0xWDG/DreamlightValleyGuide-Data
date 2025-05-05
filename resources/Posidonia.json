@@ -1,18 +1,15 @@
 {
     "name": "Posidonia",
-    "description": "This aquatic plant's fiery hue puts more sedate seaweed to shame.",
-    "rarity": "None",
+    "description": "Posidonia is a foraged material which can be caught while fishing in open water anywhere in Mythopia.",
+    "icon": "\ud83c\udf3a",
     "price": 20,
-    "energy": 0,
+    "giftReward": 0,
+    "maxSpawns": 0,
     "found": [
-        "The Elysian Fields",
-        "The Fiery Plains",
-        "The Statue's Shadow",
-        "Mount Olympus"
+        "\u00a0Fishing\r\n Mythopia"
     ],
-    "type": "Crafting Materials",
     "activity": [
-        "fishing",
         "foraging"
-    ]
+    ],
+    "rarity": "none"
 }

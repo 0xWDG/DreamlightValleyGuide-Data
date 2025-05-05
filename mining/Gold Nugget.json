@@ -10,5 +10,8 @@
         "Forgotten Lands",
         "Vitalys Mine",
         "Mythopia"
+    ],
+    "activity": [
+        "mining"
     ]
 }

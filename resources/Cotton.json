@@ -1,14 +1,24 @@
 {
     "name": "Cotton",
     "description": "Soft fluff that can be used in lots of stuff!",
+    "icon": "\ud83c\udf3e",
     "price": 37,
     "maxSpawns": 0,
     "found": [
-        "Goofy's Stall",
         "Sunlit Plateau"
     ],
     "activity": [
         "foraging",
         "gardening"
-    ]
+    ],
+    "type": "Crafting Materials",
+    "biome": "Sunlit Plateau",
+    "growTime": 25,
+    "sellPrice": 37,
+    "seedPrice": 42,
+    "grow": "25min",
+    "waterings": 4,
+    "yield": 1,
+    "coins": 0,
+    "rarity": "none"
 }

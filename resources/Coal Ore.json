@@ -10,5 +10,6 @@
     "activity": [
         "foraging",
         "mining"
-    ]
+    ],
+    "rarity": "none"
 }

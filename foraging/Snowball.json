@@ -1,11 +1,14 @@
 {
-    "name": "Snowball",
+    "activity": [
+        "foraging"
+    ],
     "description": "Whatever you do, fight the urge to throw it.",
-    "icon": "\u2744\ufe0f",
-    "price": 25,
-    "maxSpawns": 0,
     "found": [
         "Kristoff's Stall Digging",
         "Frosted Heights"
-    ]
+    ],
+    "icon": "\u2744\ufe0f",
+    "maxSpawns": 0,
+    "name": "Snowball",
+    "price": 25
 }

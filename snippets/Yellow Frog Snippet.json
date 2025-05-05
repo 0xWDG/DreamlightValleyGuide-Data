@@ -7,5 +7,8 @@
     "found": [
         "The Beanstalk Marshes"
     ],
-    "maxSpawns": 0
+    "maxSpawns": 0,
+    "activity": [
+        "snippets"
+    ]
 }

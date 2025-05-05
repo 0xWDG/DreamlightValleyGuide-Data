@@ -8,5 +8,8 @@
         "The Wild Woods",
         "Teapot Falls"
     ],
-    "maxSpawns": 0
+    "maxSpawns": 0,
+    "activity": [
+        "snippets"
+    ]
 }

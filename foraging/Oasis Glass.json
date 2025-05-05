@@ -1,0 +1,12 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "Shiny, colorful glass weathered by time.",
+    "found": [
+        "Glittering Dunes"
+    ],
+    "maxSpawns": 0,
+    "name": "Oasis Glass",
+    "price": 20
+}

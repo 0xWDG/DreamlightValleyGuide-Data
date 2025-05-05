@@ -1,9 +1,8 @@
 {
-    "name": "Soil",
+    "activity": [
+        "foraging"
+    ],
     "description": "A clump of soil that's perfect for gardening.",
-    "icon": "\ud83c\udf0d",
-    "price": 3,
-    "maxSpawns": 0,
     "found": [
         "Digging",
         "Plaza",
@@ -13,5 +12,9 @@
         "Sunlit Plateau",
         "Frosted Heights",
         "Forgotten Lands"
-    ]
+    ],
+    "icon": "\ud83c\udf0d",
+    "maxSpawns": 0,
+    "name": "Soil",
+    "price": 3
 }

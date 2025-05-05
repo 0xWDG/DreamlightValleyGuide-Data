@@ -1,0 +1,14 @@
+{
+    "name": "Yellow Bird of Paradise",
+    "description": "A fabulous flower with petals as yellow as the rays of the midday sun.",
+    "found": [
+        "The Docks",
+        "The Courtyard"
+    ],
+    "maxSpawns": 2,
+    "price": 41,
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none"
+}

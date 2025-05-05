@@ -7,5 +7,8 @@
     "found": [
         "The Statue's Shadow"
     ],
-    "maxSpawns": 0
+    "maxSpawns": 0,
+    "activity": [
+        "snippets"
+    ]
 }

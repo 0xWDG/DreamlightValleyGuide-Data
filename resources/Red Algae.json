@@ -1,15 +1,14 @@
 {
     "name": "Red Algae",
     "description": "This rare creeping algae can be found in bodies of water across Dreamlight Valley. You think it might be able to help improve your Royal Fishing Rod somehow.",
-    "rarity": "None",
+    "icon": "\ud83c\udf3f",
     "price": 150,
-    "energy": 0,
-    "type": "Crafting materials",
+    "maxSpawns": 0,
     "found": [
-        "Everywhere"
+        "\u00a0Fishing\r\nAll Biomes"
     ],
     "activity": [
-        "fishing",
         "foraging"
-    ]
+    ],
+    "rarity": "none"
 }

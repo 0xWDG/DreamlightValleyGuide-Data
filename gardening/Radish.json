@@ -1,0 +1,20 @@
+{
+    "name": "Radish",
+    "type": "Vegetables",
+    "found": [
+        "Everafter"
+    ],
+    "biome": "Everafter",
+    "growTime": 1,
+    "price": 133,
+    "sellPrice": 133,
+    "seedPrice": 100,
+    "grow": "1hr 45min",
+    "waterings": 0,
+    "yield": 1,
+    "activity": [
+        "gardening"
+    ],
+    "coins": 33,
+    "description": "A root vegetable that will really spice up your salad."
+}

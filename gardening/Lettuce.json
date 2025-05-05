@@ -1,7 +1,6 @@
 {
     "name": "Lettuce",
     "description": "lettuce, (Lactuca sativa), annual leaf vegetable of the aster family (Asteraceae). Most lettuce varieties are eaten fresh and are commonly served as the base of green salads. Lettuce is generally a rich source of vitamins K and A, though the nutritional quality varies, depending on the variety.",
-    "icon": "\ud83e\udd6c",
     "type": "Vegetables",
     "biome": "Peaceful Meadow",
     "grow": "3min",
@@ -10,5 +9,16 @@
     "seed": 3,
     "sell": 8,
     "profit": 5,
-    "coins": "1.67"
+    "coins": 5,
+    "activity": [
+        "gardening"
+    ],
+    "price": 8,
+    "found": [
+        "Peaceful Meadow"
+    ],
+    "growTime": 3,
+    "sellPrice": 8,
+    "seedPrice": 3,
+    "waterings": 1
 }

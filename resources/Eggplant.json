@@ -9,10 +9,17 @@
     "seed": 95,
     "sell": 308,
     "profit": 213,
-    "coins": "1.18",
+    "coins": 213,
     "activity": [
         "gardening"
     ],
-    "price": 0,
-    "found": []
+    "price": 308,
+    "found": [
+        "Frosted Heights"
+    ],
+    "growTime": 3,
+    "sellPrice": 308,
+    "seedPrice": 95,
+    "waterings": 2,
+    "rarity": "none"
 }

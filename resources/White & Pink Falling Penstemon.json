@@ -1,6 +1,7 @@
 {
     "name": "White & Pink Falling Penstemon",
     "description": "White-pink wildflowers that droop when in bloom.",
+    "icon": "\ud83c\udf3a",
     "price": 41,
     "maxSpawns": 2,
     "found": [
@@ -8,5 +9,6 @@
     ],
     "activity": [
         "foraging"
-    ]
+    ],
+    "rarity": "none"
 }

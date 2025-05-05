@@ -1,0 +1,13 @@
+{
+    "name": "Pixel Shard",
+    "description": "This Shard can only be found with friends from the Valleyverse. Use it to craft special bonus items.",
+    "found": [
+        "Multiplayer"
+    ],
+    "maxSpawns": 0,
+    "price": 0,
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Yellow Cactus Flower",
+    "description": "The spikier the cactus, the prettier the yellow petals.",
+    "found": [
+        "The Oasis",
+        "The Borderlands"
+    ],
+    "maxSpawns": 4,
+    "price": 46,
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none"
+}

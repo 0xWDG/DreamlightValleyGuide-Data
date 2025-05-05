@@ -1,13 +1,16 @@
 {
-    "name": "Dry Wood",
+    "activity": [
+        "foraging"
+    ],
     "description": "A tangle of dry wood waiting to become something more.",
-    "icon": "\ud83e\udeb5",
-    "price": 25,
-    "maxSpawns": 0,
     "found": [
         "Kristoff's Stall Foraging",
         "Sunlit Plateau",
         "Frosted Heights",
         "Forgotten Lands"
-    ]
+    ],
+    "icon": "\ud83e\udeb5",
+    "maxSpawns": 0,
+    "name": "Dry Wood",
+    "price": 25
 }

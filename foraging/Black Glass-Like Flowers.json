@@ -1,0 +1,13 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "Though it grows from the ground, this flower has petals that look like fine, artisan-blown glass.",
+    "found": [
+        "The Plains",
+        "The Wastes"
+    ],
+    "maxSpawns": 2,
+    "name": "Black Glass-Like Flowers",
+    "price": 57
+}

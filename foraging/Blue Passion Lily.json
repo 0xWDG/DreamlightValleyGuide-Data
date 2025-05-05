@@ -1,10 +1,13 @@
 {
-    "name": "Blue Passion Lily",
+    "activity": [
+        "foraging"
+    ],
     "description": "Blue petals bloom in an explosion of color.",
-    "icon": "\ud83c\udf3a",
-    "price": 56,
-    "maxSpawns": 3,
     "found": [
         "Frosted Heights"
-    ]
+    ],
+    "icon": "\ud83c\udf3a",
+    "maxSpawns": 3,
+    "name": "Blue Passion Lily",
+    "price": 56
 }

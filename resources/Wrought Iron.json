@@ -1,0 +1,13 @@
+{
+    "name": "Wrought Iron",
+    "description": "This special form of iron can be used to add a touch of Parisian flare to the Valley, or to refine into Iron Ingots",
+    "found": [
+        "Remy's daily cooking quests"
+    ],
+    "maxSpawns": 0,
+    "price": 200,
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none"
+}

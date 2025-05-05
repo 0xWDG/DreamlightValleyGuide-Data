@@ -1,0 +1,21 @@
+{
+    "name": "Grapes",
+    "type": "Fruit",
+    "found": [
+        "Ancient's Landing"
+    ],
+    "biome": "Ancient's Landing",
+    "growTime": 20,
+    "price": 9,
+    "sellPrice": 9,
+    "seedPrice": 5,
+    "grow": "20min",
+    "waterings": 1,
+    "yield": 3,
+    "activity": [
+        "gardening"
+    ],
+    "coins": 22,
+    "rarity": "none",
+    "description": "Nature's candy, fresh off the vine."
+}

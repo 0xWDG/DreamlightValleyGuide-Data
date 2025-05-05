@@ -1,0 +1,14 @@
+{
+    "name": "Orange Bird of Paradise",
+    "found": [
+        "The Docks",
+        "The Courtyard"
+    ],
+    "maxSpawns": 6,
+    "price": 18,
+    "activity": [
+        "foraging"
+    ],
+    "rarity": "none",
+    "description": "A fabulous flower with petals as orange as a summer sunset."
+}

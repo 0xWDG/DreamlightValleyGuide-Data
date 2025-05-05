@@ -1,6 +1,7 @@
 {
     "name": "Orange Marsh Milkweed",
     "description": "Small orange bulbs bloom atop long stalks.",
+    "icon": "\ud83c\udf3a",
     "price": 33,
     "maxSpawns": 4,
     "found": [
@@ -8,5 +9,6 @@
     ],
     "activity": [
         "foraging"
-    ]
+    ],
+    "rarity": "none"
 }

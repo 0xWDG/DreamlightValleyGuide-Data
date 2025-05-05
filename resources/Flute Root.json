@@ -1,0 +1,21 @@
+{
+    "name": "Flute Root",
+    "type": "Vegetables",
+    "found": [
+        "Glittering Dunes"
+    ],
+    "biome": "Glittering Dunes",
+    "growTime": 1,
+    "price": 112,
+    "sellPrice": 112,
+    "seedPrice": 70,
+    "grow": "1h 15min",
+    "waterings": 2,
+    "yield": 2,
+    "activity": [
+        "gardening"
+    ],
+    "coins": 154,
+    "rarity": "none",
+    "description": "Legend has it these starchy roots taste even better if you whistle a tune on them before cooking."
+}

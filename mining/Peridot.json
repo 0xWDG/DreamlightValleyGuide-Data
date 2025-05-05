@@ -9,5 +9,8 @@
         "Peaceful Meadow",
         "The Grasslands",
         "The Promenade"
+    ],
+    "activity": [
+        "mining"
     ]
 }

@@ -1,0 +1,20 @@
+{
+    "name": "Black Pepper",
+    "type": "Spices",
+    "found": [
+        "Mythopia"
+    ],
+    "biome": "Mythopia",
+    "growTime": 1,
+    "price": 83,
+    "sellPrice": 83,
+    "seedPrice": 70,
+    "grow": "1hr 30min",
+    "waterings": 0,
+    "yield": 1,
+    "activity": [
+        "gardening"
+    ],
+    "coins": 13,
+    "description": "This will bring a bit of spice to any dish. Best served with its friend: salt."
+}

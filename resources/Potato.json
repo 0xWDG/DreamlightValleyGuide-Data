@@ -9,10 +9,17 @@
     "seed": 55,
     "sell": 126,
     "profit": 71,
-    "coins": "2.03",
+    "coins": 71,
     "activity": [
         "gardening"
     ],
-    "price": 0,
-    "found": []
+    "price": 126,
+    "found": [
+        "Forgotten Lands"
+    ],
+    "growTime": 35,
+    "sellPrice": 126,
+    "seedPrice": 55,
+    "waterings": 3,
+    "rarity": "none"
 }

@@ -1,0 +1,20 @@
+{
+    "name": "Rhubarb",
+    "type": "Fruit",
+    "found": [
+        "Everafter"
+    ],
+    "biome": "Everafter",
+    "growTime": 3,
+    "price": 229,
+    "sellPrice": 229,
+    "seedPrice": 200,
+    "grow": "3hr",
+    "waterings": 0,
+    "yield": 1,
+    "activity": [
+        "gardening"
+    ],
+    "coins": 29,
+    "description": "An excellent addition to any strawberry pie."
+}

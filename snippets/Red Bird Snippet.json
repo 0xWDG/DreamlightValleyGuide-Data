@@ -7,5 +7,8 @@
     "found": [
         "The Library of Lore"
     ],
-    "maxSpawns": 0
+    "maxSpawns": 0,
+    "activity": [
+        "snippets"
+    ]
 }

@@ -1,7 +1,6 @@
 {
     "name": "Eggplant",
     "description": "Nutritionally, eggplant is low in fat, protein, and carbohydrates. It contains relatively low amounts of numerous vitamins and minerals, such as B1, B6, folate, copper, manganese, potassium and one cup of the skin and flesh provides approximately 10 percent of the daily value of fiber.",
-    "icon": "\ud83c\udf46",
     "type": "Vegetables",
     "biome": "Frosted Heights",
     "grow": "3h",
@@ -10,5 +9,16 @@
     "seed": 95,
     "sell": 308,
     "profit": 213,
-    "coins": "1.18"
+    "coins": 213,
+    "activity": [
+        "gardening"
+    ],
+    "price": 308,
+    "found": [
+        "Frosted Heights"
+    ],
+    "growTime": 3,
+    "sellPrice": 308,
+    "seedPrice": 95,
+    "waterings": 2
 }

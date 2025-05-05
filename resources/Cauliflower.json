@@ -1,0 +1,21 @@
+{
+    "name": "Cauliflower",
+    "type": "Vegetables",
+    "found": [
+        "The Bind"
+    ],
+    "biome": "The Bind",
+    "growTime": 10,
+    "price": 25,
+    "sellPrice": 25,
+    "seedPrice": 10,
+    "grow": "10min",
+    "waterings": 0,
+    "yield": 1,
+    "activity": [
+        "gardening"
+    ],
+    "coins": 15,
+    "rarity": "none",
+    "description": "Every piece of a cauliflower looks like another tiny cauliflower."
+}

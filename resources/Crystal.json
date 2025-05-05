@@ -1,14 +1,14 @@
 {
     "name": "Crystal",
     "description": "A pretty, rare crystal used for crafting.",
+    "icon": "\ud83d\udc8e",
     "price": 30,
     "maxSpawns": 0,
     "found": [
-        "Mining",
-        "Forgotten Lands"
+        "\u00a0Mining\r\n Forgotten Lands\r\n Feeding Sunbirds liked foods"
     ],
     "activity": [
-        "foraging",
-        "mining"
-    ]
+        "foraging"
+    ],
+    "rarity": "none"
 }
