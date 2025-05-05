@@ -16,6 +16,7 @@
     "seedPrice": 250,
     "sellPrice": 156,
     "type": "Dairy and Oil",
+    "water": 1,
     "waterings": 1,
     "yield": 3
 }

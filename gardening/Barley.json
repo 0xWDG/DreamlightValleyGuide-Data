@@ -16,6 +16,7 @@
     "seedPrice": 15,
     "sellPrice": 15,
     "type": "Grains",
+    "water": 0,
     "waterings": 0,
     "yield": 1
 }

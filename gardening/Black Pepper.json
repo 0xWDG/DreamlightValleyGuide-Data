@@ -16,6 +16,7 @@
     "seedPrice": 70,
     "sellPrice": 83,
     "type": "Spices",
+    "water": 0,
     "waterings": 0,
     "yield": 1
 }

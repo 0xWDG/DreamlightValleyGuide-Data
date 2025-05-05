@@ -16,6 +16,7 @@
     "seedPrice": 15,
     "sellPrice": 36,
     "type": "Vegetables",
+    "water": 2,
     "waterings": 2,
     "yield": 1
 }

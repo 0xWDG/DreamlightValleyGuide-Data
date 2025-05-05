@@ -18,6 +18,7 @@
     "seedPrice": 42,
     "sellPrice": 37,
     "type": "Crafting Materials",
+    "water": 4,
     "waterings": 4,
     "yield": 1
 }
