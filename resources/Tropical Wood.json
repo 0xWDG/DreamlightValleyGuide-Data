@@ -4,7 +4,7 @@
     ],
     "description": "Tropical Wood is a foraged material which can be found on the ground near trees in all areas of the Wild Tangle.",
     "found": [
-        "\u00a0Foraging\r\n Wild Tangle"
+        "Wild Tangle"
     ],
     "giftReward": 25,
     "icon": "\ud83e\udea8",
