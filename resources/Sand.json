@@ -1,10 +1,13 @@
 {
     "activity": [
-        "foraging"
+        "foraging",
+        "digging"
     ],
     "description": "An important item for building sand castles.",
     "found": [
-        "\u00a0Kristoff's Stall\u2028\u00a0Digging\r\n Dazzle Beach\r\n Removing Small and Large Sea Debris"
+        "Kristoff's Stall",
+        "Dazzle Beach",
+        "Removing Small and Large Sea Debris"
     ],
     "icon": "\ud83c\udfd6\ufe0f",
     "maxSpawns": 0,
