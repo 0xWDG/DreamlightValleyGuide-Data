@@ -1,10 +1,10 @@
 {
     "activity": [
-        "foraging"
+        "digging"
     ],
     "description": "Shiny, colorful glass weathered by time.",
     "found": [
-        "\u00a0Digging\r\n Glittering Dunes"
+        "Glittering Dunes"
     ],
     "icon": "star",
     "maxSpawns": 0,
