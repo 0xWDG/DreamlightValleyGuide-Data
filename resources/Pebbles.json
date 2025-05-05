@@ -1,10 +1,14 @@
 {
     "activity": [
-        "foraging"
+        "digging"
     ],
     "description": "You need a lot of pebbles to make a mountain...",
     "found": [
-        "\u00a0Kristoff's Stall\u2028\u00a0Digging\r\n Dazzle Beach\r\n Forest of Valor\r\n Sunlit Plateau\r\n Forgotten Lands"
+        "Kristoff's Stall",
+        "Dazzle Beach",
+        "Forest of Valor",
+        "Sunlit Plateau",
+        "Forgotten Lands"
     ],
     "icon": "\ud83e\udea8",
     "maxSpawns": 0,
