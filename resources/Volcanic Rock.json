@@ -1,10 +1,11 @@
 {
     "activity": [
-        "foraging"
+        "digging"
     ],
     "description": "This gray-black rock seems oddly porous and may even float.",
     "found": [
-        "\u00a0Digging\r\n Everafter\r\n Mythopia"
+        "Everafter",
+        "Mythopia"
     ],
     "gift": 0,
     "icon": "\ud83c\udf3a",
