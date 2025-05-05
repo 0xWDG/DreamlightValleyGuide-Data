@@ -1,10 +1,10 @@
 {
     "activity": [
-        "foraging"
+        "digging
     ],
     "description": "Amber is a foraged material that can be found when digging the ground in all areas of the Wild Tangle.",
     "found": [
-        "\u00a0Digging\r\n Wild Tangle"
+        "Wild Tangle"
     ],
     "giftReward": 25,
     "icon": "\ud83c\udf3a",
