@@ -1,10 +1,15 @@
 {
     "activity": [
-        "foraging"
+        "mining"
     ],
     "description": "A chunk of raw iron that becomes ingots.",
     "found": [
-        "\u00a0Mining\r\n Forest of Valor\r\n Glade of Trust\r\n Sunlit Plateau\r\n Frosted Heights\r\n Forgotten Lands\r\n Vitalys Mine"
+        "Forest of Valor",
+        "Glade of Trust",
+        "Sunlit Plateau",
+        "Frosted Heights",
+        "Forgotten Lands",
+        "Vitalys Mine"
     ],
     "icon": "\u2692\ufe0f",
     "maxSpawns": 0,
