@@ -1,13 +1,13 @@
 {
-    "name": "Dream Shard",
-    "description": "A crystallized form of Dreamlight magic.",
     "activity": [
         "digging"
     ],
-    "icon": "\ud83d\udc8e",
-    "price": 0,
-    "gift": 25,
+    "description": "A crystallized form of Dreamlight magic.",
     "found": [
         "Everywhere"
-    ]
+    ],
+    "gift": 25,
+    "icon": "\ud83d\udc8e",
+    "name": "Dream Shard",
+    "price": 0
 }

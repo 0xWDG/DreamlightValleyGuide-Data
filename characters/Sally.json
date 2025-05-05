@@ -1,8 +1,13 @@
 {
+    "description": "Sally is a character from the film The Nightmare Before Christmas (1993). She is unlocked after completing the quest The Woven Bridge.",
+    "dlc": 0,
+    "house": "Jack Skellington's House",
+    "icon": "star",
     "name": "Sally",
     "origin": "The Nightmare Before Christmas",
-    "house": "Jack Skellington's House",
-    "description": "Sally is a character from the film The Nightmare Before Christmas (1993). She is unlocked after completing the quest The Woven Bridge.",
+    "quests": [
+        "sally.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Spiral Hill Bed",
         "Patch Motif",
         "Patchwork Elegance Gown\nWeb Lace Gloves"
-    ],
-    "dlc": 0,
-    "quests": [
-        "sally.friendship"
     ]
 }

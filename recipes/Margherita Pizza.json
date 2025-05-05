@@ -1,14 +1,15 @@
 {
-    "name": "Margherita Pizza",
     "description": "Tomato sauce and mozzarella cheese. A classic!",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 818,
-    "price": 336,
+    "icon": "star",
     "ingredients": [
         "Any Spice",
         "Tomato",
         "Cheese",
         "Wheat"
-    ]
+    ],
+    "name": "Margherita Pizza",
+    "price": 336,
+    "stars": 4,
+    "type": "Entr\u00e9es"
 }

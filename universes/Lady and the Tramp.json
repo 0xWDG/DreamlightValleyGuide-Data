@@ -1,6 +1,7 @@
 {
-    "name": "Lady and the Tramp",
+    "characters": [],
     "description": "Lady and the Tramp is a universe in Disney Dreamlight Valley based on the Disney animated film Lady and the Tramp (1955).",
-    "price": 0,
-    "characters": []
+    "icon": "star",
+    "name": "Lady and the Tramp",
+    "price": 0
 }

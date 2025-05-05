@@ -1,19 +1,20 @@
 {
-    "name": "Fruitcake",
+    "activity": [
+        "recipes"
+    ],
     "description": "You haven't tried fruitcake until you've tried Dreamlight Valley fruitcake. (The secret ingredient? Love.)",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 1511,
-    "price": 96,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Wheat",
         "Any Fruit",
         "Any Fruit",
         "Any Fruit"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Fruitcake",
+    "price": 96,
+    "rarity": "none",
+    "stars": 4,
+    "type": "Desserts"
 }

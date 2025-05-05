@@ -1,4 +1,6 @@
 {
+    "description": "Just because it doesn't look delicious doesn't mean it can't be part of a delicious meal.",
+    "energy": 1000,
     "found": [
         "Peaceful Meadow",
         "Dazzle Beach",
@@ -8,10 +10,9 @@
         "Frosted Heights",
         "Forgotten Lands"
     ],
-    "price": 2000,
-    "energy": 1000,
-    "rarity": "None, White",
-    "type": "Fish",
+    "icon": "star",
     "name": "Here and There Fish",
-    "description": "Just because it doesn't look delicious doesn't mean it can't be part of a delicious meal."
+    "price": 2000,
+    "rarity": "None, White",
+    "type": "Fish"
 }

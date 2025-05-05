@@ -7,6 +7,7 @@
         "The Grove",
         "The Lagoon"
     ],
+    "icon": "star",
     "maxSpawns": 4,
     "name": "Orange Pitcher Plant",
     "price": 39

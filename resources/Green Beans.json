@@ -1,21 +1,22 @@
 {
-    "name": "Green Beans",
-    "type": "Vegetables",
-    "found": [
-        "Everafter"
-    ],
-    "biome": "Everafter",
-    "growTime": 4,
-    "price": 209,
-    "sellPrice": 209,
-    "seedPrice": 250,
-    "grow": "4hr",
-    "waterings": 0,
-    "yield": 1,
     "activity": [
         "gardening"
     ],
+    "biome": "Everafter",
     "coins": 0,
+    "description": "They're green. They're beans. It doesn't need to be any more complicated than that.",
+    "found": [
+        "Everafter"
+    ],
+    "grow": "4hr",
+    "growTime": 4,
+    "icon": "star",
+    "name": "Green Beans",
+    "price": 209,
     "rarity": "none",
-    "description": "They're green. They're beans. It doesn't need to be any more complicated than that."
+    "seedPrice": 250,
+    "sellPrice": 209,
+    "type": "Vegetables",
+    "waterings": 0,
+    "yield": 1
 }

@@ -1,25 +1,26 @@
 {
-    "name": "Zucchini",
-    "description": "Zucchini is a low-calorie, high volume vegetable with plenty of vitamins B6 and C. It's also a good source of potassium, folate, and vitamin A. Zucchini is considered a low-carbohydrate vegetable with plenty of fiber.",
-    "type": "Vegetables",
-    "biome": "Sunlit Plateau",
-    "grow": "40min",
-    "water": 2,
-    "yield": 2,
-    "seed": 30,
-    "sell": 52,
-    "profit": 74,
-    "coins": 74,
     "activity": [
         "gardening"
     ],
-    "price": 52,
+    "biome": "Sunlit Plateau",
+    "coins": 74,
+    "description": "Zucchini is a low-calorie, high volume vegetable with plenty of vitamins B6 and C. It's also a good source of potassium, folate, and vitamin A. Zucchini is considered a low-carbohydrate vegetable with plenty of fiber.",
     "found": [
         "Sunlit Plateau"
     ],
+    "grow": "40min",
     "growTime": 40,
-    "sellPrice": 52,
+    "icon": "star",
+    "name": "Zucchini",
+    "price": 52,
+    "profit": 74,
+    "rarity": "none",
+    "seed": 30,
     "seedPrice": 30,
+    "sell": 52,
+    "sellPrice": 52,
+    "type": "Vegetables",
+    "water": 2,
     "waterings": 2,
-    "rarity": "none"
+    "yield": 2
 }

@@ -1,13 +1,14 @@
 {
-    "name": "Shiny Opal",
-    "description": "This rare gem glistens with all the colors of the rainbow.",
-    "price": 300,
-    "gift": 600,
-    "found": [
-        "The Bind"
-    ],
     "activity": [
         "mining"
     ],
+    "description": "This rare gem glistens with all the colors of the rainbow.",
+    "found": [
+        "The Bind"
+    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Shiny Opal",
+    "price": 300,
     "rarity": "none"
 }

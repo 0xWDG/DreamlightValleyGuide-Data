@@ -1,13 +1,13 @@
 {
-    "name": "Shiny Ruby",
+    "activity": [
+        "mining"
+    ],
     "description": "A rare red mineral that can be mined.",
-    "icon": "\ud83d\udc8e",
-    "price": 1400,
-    "gift": 600,
     "found": [
         "Vitalys Mine"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "icon": "\ud83d\udc8e",
+    "name": "Shiny Ruby",
+    "price": 1400
 }

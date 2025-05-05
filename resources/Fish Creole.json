@@ -1,10 +1,11 @@
 {
-    "name": "Fish Creole",
+    "activity": [
+        "recipes"
+    ],
     "description": "A spicy sauce of fish and veggies over rice.",
-    "type": "Entr\u00e9es",
-    "stars": 5,
     "energy": 822,
-    "price": 280,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Any Fish",
         "Any Vegetable",
@@ -12,9 +13,9 @@
         "Rice",
         "Tomato"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Fish Creole",
+    "price": 280,
+    "rarity": "none",
+    "stars": 5,
+    "type": "Entr\u00e9es"
 }

@@ -7,6 +7,7 @@
         "The Wild Woods",
         "The Fallen Fortress"
     ],
+    "icon": "star",
     "maxSpawns": 3,
     "name": "White Rose",
     "price": 52

@@ -1,8 +1,13 @@
 {
+    "description": "Goofy is a character from the classic Disney cartoons.\r\nWhen the player arrives in Dreamlight Valley Goofy already lives there and has a house located in the Peaceful Meadow.",
+    "house": "Goofy's House",
+    "icon": "star",
     "name": "Goofy",
     "origin": "Mickey & Friends",
-    "house": "Goofy's House",
-    "description": "Goofy is a character from the classic Disney cartoons.\r\nWhen the player arrives in Dreamlight Valley Goofy already lives there and has a house located in the Peaceful Meadow.",
+    "quests": [
+        "goofy.friendship",
+        "goofy.story"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Mickey Mouse Dresser",
         "Goofy Fishing Motif",
         "Goofy's Signature Hat"
-    ],
-    "quests": [
-        "goofy.friendship",
-        "goofy.story"
     ]
 }

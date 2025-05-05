@@ -1,4 +1,5 @@
 {
+    "icon": "star",
     "name": "pumbaa.friendship",
     "quests": [
         {
@@ -33,7 +34,7 @@
             "name": "Fine Arts for Warthogs",
             "id": "pumbaa.friendship.2",
             "objectives": [
-                "Get advice from Rapunzel/Minnie Mouse on hosting a pottery class.",
+                "Get advice from Rapunzel\/Minnie Mouse on hosting a pottery class.",
                 "Gather the following materials:\r\n  \u2027 2 Tinkering Parts.\r\n  \u2027 5 White Marsh Milkweed.\r\n  \u2027 7 Red Bell Flower.\r\n  \u2027 8 Clay.\r\n  \u2027 8 Hardwood.",
                 "Craft 4 Pottery Wheels for Pumbaa's pottery class.",
                 "Make sure you have the 4 Pottery Wheel in your Inventory.",

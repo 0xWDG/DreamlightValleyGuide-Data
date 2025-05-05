@@ -1,14 +1,15 @@
 {
-    "name": "Tekka Maki",
     "description": "Itty bitty sushi rolls that are perfect when on the go.",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 984,
-    "price": 366,
+    "icon": "star",
     "ingredients": [
         "Tuna",
         "Soya",
         "Seaweed",
         "Rice"
-    ]
+    ],
+    "name": "Tekka Maki",
+    "price": 366,
+    "stars": 4,
+    "type": "Entr\u00e9es"
 }

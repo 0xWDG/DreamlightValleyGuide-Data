@@ -1,13 +1,14 @@
 {
-    "name": "Pizza",
     "description": "Who doesn't love pizza?",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 607,
-    "price": 284,
+    "icon": "star",
     "ingredients": [
         "Tomato",
         "Cheese",
         "Wheat"
-    ]
+    ],
+    "name": "Pizza",
+    "price": 284,
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

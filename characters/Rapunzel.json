@@ -1,9 +1,14 @@
 {
-    "name": "Rapunzel",
-    "origin": "Tangled",
-    "house": "Rapunzel's Tower",
     "description": "Rapunzel is a character from the Disney film Tangled (2010).",
     "dlc": 1,
+    "house": "Rapunzel's Tower",
+    "icon": "star",
+    "name": "Rapunzel",
+    "origin": "Tangled",
+    "quests": [
+        "rapunzel.friendship",
+        "rapunzel.story"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -16,9 +21,5 @@
         "Tower Fireplace",
         "Tangled Frying Pan Motif",
         "Glowing Floral Gown\r\nGlowing Floral Suit"
-    ],
-    "quests": [
-        "rapunzel.friendship",
-        "rapunzel.story"
     ]
 }

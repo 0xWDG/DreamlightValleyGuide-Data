@@ -1,13 +1,14 @@
 {
-    "name": "Bumblestone",
-    "description": "Bumblestone is a gem which can be found when mining rock nodes using the Pickaxe in The Borderlands area of the Glittering Dunes.",
-    "price": 400,
-    "gift": 600,
-    "found": [
-        "The Borderlands"
-    ],
     "activity": [
         "mining"
     ],
+    "description": "Bumblestone is a gem which can be found when mining rock nodes using the Pickaxe in The Borderlands area of the Glittering Dunes.",
+    "found": [
+        "The Borderlands"
+    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Bumblestone",
+    "price": 400,
     "rarity": "none"
 }

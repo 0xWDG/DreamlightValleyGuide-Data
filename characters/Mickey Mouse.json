@@ -1,8 +1,13 @@
 {
+    "description": "Mickey Mouse is a character from the classic Disney cartoons.\r\nWhen the player arrives in Dreamlight Valley Mickey already lives there and has a home in the Plaza.",
+    "house": "Mickey's House",
+    "icon": "star",
     "name": "Mickey Mouse",
     "origin": "Mickey & Friends",
-    "house": "Mickey's House",
-    "description": "Mickey Mouse is a character from the classic Disney cartoons.\r\nWhen the player arrives in Dreamlight Valley Mickey already lives there and has a home in the Plaza.",
+    "quests": [
+        "mickeymouse.friendship",
+        "mickeymouse.story"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Enchanting Bed",
         "Classic Mickey Mouse",
         "Enchanting Fountain"
-    ],
-    "quests": [
-        "mickeymouse.friendship",
-        "mickeymouse.story"
     ]
 }

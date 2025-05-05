@@ -1,9 +1,10 @@
 {
-    "name": "WALL-E",
-    "description": "WALL-E is a character from the Disney-Pixar film WALL-E (2008). He is unlocked after opening the WALL-E Realm and completing the quest The Shy Little Robot.",
-    "price": 0,
     "characters": [
         "WALL-E",
         "EVE"
-    ]
+    ],
+    "description": "WALL-E is a character from the Disney-Pixar film WALL-E (2008). He is unlocked after opening the WALL-E Realm and completing the quest The Shy Little Robot.",
+    "icon": "star",
+    "name": "WALL-E",
+    "price": 0
 }

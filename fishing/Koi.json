@@ -1,11 +1,12 @@
 {
+    "description": "These fancy carp are rumored to have scales made from enchanted Star Coins.",
+    "energy": 150,
     "found": [
         "The Bind"
     ],
-    "price": 50,
-    "energy": 150,
-    "rarity": "None",
-    "type": "Fish",
+    "icon": "star",
     "name": "Koi",
-    "description": "These fancy carp are rumored to have scales made from enchanted Star Coins."
+    "price": 50,
+    "rarity": "None",
+    "type": "Fish"
 }

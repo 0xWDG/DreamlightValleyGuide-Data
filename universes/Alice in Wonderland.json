@@ -1,9 +1,10 @@
 {
-    "name": "Alice in Wonderland",
-    "description": "Alice in Wonderland is a universe in Disney Dreamlight Valley based on the Disney animated film Alice in Wonderland (1951), which is based on the novel Alice's Adventures in Wonderland by Lewis Carroll.",
-    "price": 0,
     "characters": [
         "Alice",
         "Cheshire Cat"
-    ]
+    ],
+    "description": "Alice in Wonderland is a universe in Disney Dreamlight Valley based on the Disney animated film Alice in Wonderland (1951), which is based on the novel Alice's Adventures in Wonderland by Lewis Carroll.",
+    "icon": "star",
+    "name": "Alice in Wonderland",
+    "price": 0
 }

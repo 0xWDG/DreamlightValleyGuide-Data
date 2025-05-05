@@ -1,8 +1,13 @@
 {
+    "description": "Jasmine is a character from the Disney film Aladdin (1992).",
+    "house": "Jasmine's Palace",
+    "icon": "star",
     "name": "Jasmine",
     "origin": "Aladdin",
-    "house": "Jasmine's Palace",
-    "description": "Jasmine is a character from the Disney film Aladdin (1992).",
+    "quests": [
+        "jasmine.realm",
+        "jasmine.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Pillar and Curtains",
         "Royal Tiger Motif",
         "Desert Bloom Necklace\r\nDesert Bloom Slip-Ons\r\nDesert Bloom Top\r\nDesert Bloom Trousers"
-    ],
-    "quests": [
-        "jasmine.realm",
-        "jasmine.friendship"
     ]
 }

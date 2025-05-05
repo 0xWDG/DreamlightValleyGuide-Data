@@ -1,10 +1,11 @@
 {
-    "name": "Wedding Cake",
+    "activity": [
+        "recipes"
+    ],
     "description": "A tiered cake to celebrate a beautiful union.",
-    "type": "Desserts",
-    "stars": 5,
     "energy": 1680,
-    "price": 785,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Butter",
         "Sugarcane",
@@ -12,9 +13,9 @@
         "Egg",
         "Wheat"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Wedding Cake",
+    "price": 785,
+    "rarity": "none",
+    "stars": 5,
+    "type": "Desserts"
 }

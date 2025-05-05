@@ -1,15 +1,16 @@
 {
-    "name": "Gingerbread House",
     "description": "Looks almost too warm and cozy to eat... but too delicious not to!",
-    "type": "Desserts",
-    "stars": 5,
     "energy": 1460,
-    "price": 641,
+    "icon": "star",
     "ingredients": [
         "Ginger",
         "Egg",
         "Wheat",
         "Vanilla",
         "Sugarcane"
-    ]
+    ],
+    "name": "Gingerbread House",
+    "price": 641,
+    "stars": 5,
+    "type": "Desserts"
 }

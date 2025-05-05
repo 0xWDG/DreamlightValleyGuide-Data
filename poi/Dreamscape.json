@@ -1,6 +1,7 @@
 {
-    "name": "Dreamscape",
     "biome": "Forgotten Lands",
+    "characters": [],
     "description": "The Dreamscape is a Location accessed through a portal inside a treehouse disguised as a large rock in the Forgotten Lands during the quest Miracles Take Time.",
-    "characters": []
+    "icon": "star",
+    "name": "Dreamscape"
 }

@@ -1,14 +1,15 @@
 {
-    "name": "Fuchsia Eternal Poppies",
+    "activity": [
+        "foraging"
+    ],
+    "description": "Fuchsia Eternal Poppies is a flower type that can be found growing wild in The Fiery Plains and Mount Olympus areas in Mythopia.",
     "found": [
         "The Fiery Plains",
         "Mount Olympus"
     ],
+    "icon": "star",
     "maxSpawns": 2,
+    "name": "Fuchsia Eternal Poppies",
     "price": 73,
-    "activity": [
-        "foraging"
-    ],
-    "rarity": "none",
-    "description": "Fuchsia Eternal Poppies is a flower type that can be found growing wild in The Fiery Plains and Mount Olympus areas in Mythopia."
+    "rarity": "none"
 }

@@ -1,14 +1,14 @@
 {
-    "name": "White Marsh Milkweed",
-    "description": "Small white bulbs bloom atop long stalks.",
-    "icon": "\ud83c\udf3a",
-    "price": 33,
-    "maxSpawns": 4,
-    "found": [
-        "Glade of Trust"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "Small white bulbs bloom atop long stalks.",
+    "found": [
+        "Glade of Trust"
+    ],
+    "icon": "\ud83c\udf3a",
+    "maxSpawns": 4,
+    "name": "White Marsh Milkweed",
+    "price": 33,
     "rarity": "none"
 }

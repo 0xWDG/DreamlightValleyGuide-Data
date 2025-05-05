@@ -1,11 +1,12 @@
 {
-    "name": "Pur\u00e9e",
     "description": "A smooth, creamy veggie paste.",
-    "type": "Appetizers",
-    "stars": 1,
     "energy": 230,
-    "price": 151,
+    "icon": "star",
     "ingredients": [
         "Potato"
-    ]
+    ],
+    "name": "Pur\u00e9e",
+    "price": 151,
+    "stars": 1,
+    "type": "Appetizers"
 }

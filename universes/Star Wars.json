@@ -1,6 +1,7 @@
 {
-    "name": "Star Wars",
+    "characters": [],
     "description": "Star Wars is a Universe in Disney Dreamlight Valley based on the film franchise Star Wars.\r\nThe films tell the story of a long galactic war between the heroic Jedi and the tyrannical Sith.",
-    "price": 0,
-    "characters": []
+    "icon": "star",
+    "name": "Star Wars",
+    "price": 0
 }

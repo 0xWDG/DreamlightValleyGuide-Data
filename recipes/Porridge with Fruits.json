@@ -1,13 +1,14 @@
 {
-    "name": "Porridge with Fruits",
     "description": "A bowl of warm porridge with apples and berries.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 1155,
-    "price": 353,
+    "icon": "star",
     "ingredients": [
         "Milk",
         "Wheat",
         "Any Fruit"
-    ]
+    ],
+    "name": "Porridge with Fruits",
+    "price": 353,
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

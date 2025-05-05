@@ -1,14 +1,14 @@
 {
-    "name": "Ruby",
+    "activity": [
+        "mining"
+    ],
     "description": "A red mineral that can be mined.",
-    "icon": "\ud83d\udc8e",
-    "price": 350,
-    "gift": 600,
     "found": [
         "Vitalys Mine",
         "Mythopia"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "icon": "\ud83d\udc8e",
+    "name": "Ruby",
+    "price": 350
 }

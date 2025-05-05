@@ -1,8 +1,13 @@
 {
+    "description": "Maui is a character from the film Moana (2016).\r\nHe's encountered after travelling through one of the initial three realm gates to the Moana Realm, and can be invited to the Valley after completing his necessary quests and placing\/purchasing his home.",
+    "house": "Peaceful Grotto",
+    "icon": "star",
     "name": "Maui",
     "origin": "Moana",
-    "house": "Peaceful Grotto",
-    "description": "Maui is a character from the film Moana (2016).\r\nHe's encountered after travelling through one of the initial three realm gates to the Moana Realm, and can be invited to the Valley after completing his necessary quests and placing\/purchasing his home.",
+    "quests": [
+        "maui.realm",
+        "maui.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Tropical Fruit Bowl",
         "Maui Eagle Motif",
         "Maui's num 1 Fan"
-    ],
-    "quests": [
-        "maui.realm",
-        "maui.friendship"
     ]
 }

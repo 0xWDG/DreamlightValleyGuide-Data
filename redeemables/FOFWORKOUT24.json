@@ -1,6 +1,7 @@
 {
     "code": "FOFWORKOUT24",
     "description": "x25 Iron Ingot, x25 Coconut",
+    "icon": "star",
     "items": [
         "x25 Iron Ingot",
         "x25 Coconut"

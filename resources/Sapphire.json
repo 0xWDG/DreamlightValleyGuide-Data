@@ -1,13 +1,14 @@
 {
-    "name": "Sapphire",
-    "description": "A blue mineral that can be mined.",
-    "price": 350,
-    "gift": 600,
-    "found": [
-        "Vitalys Mine"
-    ],
     "activity": [
         "mining"
     ],
+    "description": "A blue mineral that can be mined.",
+    "found": [
+        "Vitalys Mine"
+    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Sapphire",
+    "price": 350,
     "rarity": "none"
 }

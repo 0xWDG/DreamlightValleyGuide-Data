@@ -1,18 +1,19 @@
 {
-    "name": "Mint Boba Tea",
+    "activity": [
+        "recipes"
+    ],
     "description": "A delicious sugary treat with just a hint of mint.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 1032,
-    "price": 460,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Milk",
         "Sugarcane",
         "Mint"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Mint Boba Tea",
+    "price": 460,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Desserts"
 }

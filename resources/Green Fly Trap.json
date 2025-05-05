@@ -1,14 +1,15 @@
 {
-    "name": "Green Fly Trap",
+    "activity": [
+        "foraging"
+    ],
+    "description": "Uh-oh. It looks hungry...",
     "found": [
         "The Grasslands",
         "The Promenade"
     ],
+    "icon": "star",
     "maxSpawns": 2,
+    "name": "Green Fly Trap",
     "price": 73,
-    "activity": [
-        "foraging"
-    ],
-    "rarity": "none",
-    "description": "Uh-oh. It looks hungry..."
+    "rarity": "none"
 }

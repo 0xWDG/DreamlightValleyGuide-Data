@@ -1,17 +1,18 @@
 {
-    "name": "Lemon Sorbet",
+    "activity": [
+        "recipes"
+    ],
     "description": "A light, frozen dessert with a citrus-y kick.",
-    "type": "Desserts",
-    "stars": 2,
     "energy": 1112,
-    "price": 237,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Slush Ice",
         "Lemon"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Lemon Sorbet",
+    "price": 237,
+    "rarity": "none",
+    "stars": 2,
+    "type": "Desserts"
 }

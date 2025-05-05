@@ -1,15 +1,16 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "A single zap from one of these could power a whole city. Watch out...",
+    "energy": 1550,
     "found": [
         "The Grasslands",
         "The Promenade"
     ],
-    "price": 1025,
-    "energy": 1550,
-    "rarity": "Gold",
-    "type": "Fish",
+    "icon": "star",
     "name": "Electric Eel",
-    "description": "A single zap from one of these could power a whole city. Watch out...",
-    "activity": [
-        "fishing"
-    ]
+    "price": 1025,
+    "rarity": "Gold",
+    "type": "Fish"
 }

@@ -1,4 +1,5 @@
 {
+    "icon": "star",
     "name": "remy.friendship",
     "quests": [
         {
@@ -136,10 +137,10 @@
                 "Talk to the Villagers from the Memory.",
                 "Gather the rest of the Ingredients for the Cajun recipe.\r\n  \u2027 Shrimp.\r\n  \u2027 Onion.\r\n  \u2027 Rice.\r\n  \u2027 Milk.",
                 "Cook the mysterious Cajun recipe.",
-                "Share the Enchanted Shrimp Étouffée with the Villagers.\r\n  \u2027 Moana.\r\n  \u2027 Mickey Mouse.\r\n  \u2027 Merlin.\r\n  \u2027 Remy.",
+                "Share the Enchanted Shrimp \u00c9touff\u00e9e with the Villagers.\r\n  \u2027 Moana.\r\n  \u2027 Mickey Mouse.\r\n  \u2027 Merlin.\r\n  \u2027 Remy.",
                 "Unlock Tiana.",
-                "Make sure you have some Enchanted Shrimp Étouffée left to share with Tiana.",
-                "Bring some of the Enchanted Shrimp Étouffée to Tiana for a taste.",
+                "Make sure you have some Enchanted Shrimp \u00c9touff\u00e9e left to share with Tiana.",
+                "Bring some of the Enchanted Shrimp \u00c9touff\u00e9e to Tiana for a taste.",
                 "Place Tiana's House in the Valley.",
                 "Interact with the Scrooge McDuck Sign to Rebuild Tiana's House.",
                 "Make sure you have the Mysterious Cajun Recipe Book in your Inventory.",

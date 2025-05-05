@@ -1,19 +1,20 @@
 {
-    "name": "Waffles",
+    "activity": [
+        "recipes"
+    ],
     "description": "Perfect with butter and maple syrup!",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 1455,
-    "price": 706,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Wheat",
         "Milk",
         "Egg",
         "Sugarcane"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Waffles",
+    "price": 706,
+    "rarity": "none",
+    "stars": 4,
+    "type": "Desserts"
 }

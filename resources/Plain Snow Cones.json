@@ -1,16 +1,17 @@
 {
-    "name": "Plain Snow Cones",
-    "description": "Think of what you can create with a little bit of added flavor.",
-    "type": "Desserts",
-    "stars": 1,
-    "energy": 410,
-    "price": 180,
-    "ingredients": [
-        "Any Ice"
-    ],
     "activity": [
         "recipes"
     ],
+    "description": "Think of what you can create with a little bit of added flavor.",
+    "energy": 410,
     "found": [],
-    "rarity": "none"
+    "icon": "star",
+    "ingredients": [
+        "Any Ice"
+    ],
+    "name": "Plain Snow Cones",
+    "price": 180,
+    "rarity": "none",
+    "stars": 1,
+    "type": "Desserts"
 }

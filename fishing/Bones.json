@@ -1,16 +1,17 @@
 {
-    "name": "Bones",
     "description": "Bones is a foraged material which can be found when digging the ground in any area in the Glittering Dunes or fishing open water in the Plains, Wastes, and Borderlands areas of the Glittering Dunes.",
-    "rarity": "None",
-    "price": 20,
-    "giftReward": 25,
-    "maxSpawns": 0,
     "energy": 0,
-    "type": "Crafting Materials",
     "found": [
         "Glittering Dunes",
         "The Plains",
         "The Wastes",
         "The Borderlands"
-    ]
+    ],
+    "giftReward": 25,
+    "icon": "star",
+    "maxSpawns": 0,
+    "name": "Bones",
+    "price": 20,
+    "rarity": "None",
+    "type": "Crafting Materials"
 }

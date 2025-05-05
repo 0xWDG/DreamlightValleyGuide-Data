@@ -1,8 +1,12 @@
 {
+    "description": "Jack Skellington is a character from the Disney film The Nightmare Before Christmas (1993).",
+    "house": "Jack Skellington House",
+    "icon": "star",
     "name": "Jack Skellington",
     "origin": "The Nightmare Before Christmas",
-    "house": "Jack Skellington House",
-    "description": "Jack Skellington is a character from the Disney film The Nightmare Before Christmas (1993).",
+    "quests": [
+        "jackskellington.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,8 +19,5 @@
         "Skellington's Christmas Tree",
         "Halloween Town Tree Door Motif",
         "Jack's Santa Suit"
-    ],
-    "quests": [
-        "jackskellington.friendship"
     ]
 }

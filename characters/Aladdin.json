@@ -1,8 +1,13 @@
 {
+    "description": "Aladdin is a character from the Disney film Aladdin (1992).",
+    "house": "Aladdin's House",
+    "icon": "star",
     "name": "Aladdin",
     "origin": "Aladdin",
-    "house": "Aladdin's House",
-    "description": "Aladdin is a character from the Disney film Aladdin (1992).",
+    "quests": [
+        "alladin.realm",
+        "aladdin.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Red Nook Window",
         "Aladdin Pattern 3 Motif",
         "Diamond in the Rough Loafers\r\nDiamond in the Rough Top\r\nDiamond in the Rough Trousers\r\nDiamond in the Rough Vest"
-    ],
-    "quests": [
-        "alladin.realm",
-        "aladdin.friendship"
     ]
 }

@@ -1,16 +1,17 @@
 {
-    "name": "Hors d'Oeuvres",
-    "description": "A tasty appetizer before the main course.",
-    "type": "Entr\u00e9es",
-    "stars": 1,
-    "energy": 202,
-    "price": 24,
-    "ingredients": [
-        "Any Spice"
-    ],
     "activity": [
         "recipes"
     ],
+    "description": "A tasty appetizer before the main course.",
+    "energy": 202,
     "found": [],
-    "rarity": "none"
+    "icon": "star",
+    "ingredients": [
+        "Any Spice"
+    ],
+    "name": "Hors d'Oeuvres",
+    "price": 24,
+    "rarity": "none",
+    "stars": 1,
+    "type": "Entr\u00e9es"
 }

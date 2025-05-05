@@ -1,19 +1,20 @@
 {
-    "name": "Yule Log",
+    "activity": [
+        "recipes"
+    ],
     "description": "A delicious treat to share at a festive celebration... or eat all by yourself.",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 2147,
-    "price": 213,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Wheat",
         "Cocoa Bean",
         "Vanilla",
         "Cherry"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Yule Log",
+    "price": 213,
+    "rarity": "none",
+    "stars": 4,
+    "type": "Desserts"
 }

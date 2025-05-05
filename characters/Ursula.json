@@ -1,8 +1,13 @@
 {
+    "description": "Ursula is a character from the Disney film The Little Mermaid (1989).",
+    "house": "Ursula's Lair",
+    "icon": "star",
     "name": "Ursula",
     "origin": "The Little Mermaid",
-    "house": "Ursula's Lair",
-    "description": "Ursula is a character from the Disney film The Little Mermaid (1989).",
+    "quests": [
+        "ursula.friendship",
+        "ursula.story"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Poor Unfortunate Bookcase",
         "Sea Witch Motif",
         "Sea Witch's Gown"
-    ],
-    "quests": [
-        "ursula.friendship",
-        "ursula.story"
     ]
 }

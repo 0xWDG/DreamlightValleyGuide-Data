@@ -1,6 +1,7 @@
 {
-    "name": "Elemental",
+    "characters": [],
     "description": "Elemental is a universe in Disney Dreamlight Valley based on the Pixar animated film Elemental (2023).",
-    "price": 0,
-    "characters": []
+    "icon": "star",
+    "name": "Elemental",
+    "price": 0
 }

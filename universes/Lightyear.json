@@ -1,6 +1,7 @@
 {
-    "name": "Lightyear",
+    "characters": [],
     "description": "Lightyear is a universe in Disney Dreamlight Valley based on the Pixar animated film Lightyear (2022).",
-    "price": 0,
-    "characters": []
+    "icon": "star",
+    "name": "Lightyear",
+    "price": 0
 }

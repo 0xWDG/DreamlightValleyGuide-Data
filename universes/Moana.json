@@ -1,9 +1,10 @@
 {
-    "name": "Moana",
-    "description": "Moana is a universe in Disney Dreamlight Valley based on the Disney animated film Moana (2016).\r\nThe film is set in ancient Polynesia, where a terrible curse incurred by the demigod Maui reaches Moana's island and she answers the ocean's call to seek out the demigod to set things right.",
-    "price": 0,
     "characters": [
         "Maui",
         "Moana"
-    ]
+    ],
+    "description": "Moana is a universe in Disney Dreamlight Valley based on the Disney animated film Moana (2016).\r\nThe film is set in ancient Polynesia, where a terrible curse incurred by the demigod Maui reaches Moana's island and she answers the ocean's call to seek out the demigod to set things right.",
+    "icon": "star",
+    "name": "Moana",
+    "price": 0
 }

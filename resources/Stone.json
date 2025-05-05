@@ -1,14 +1,14 @@
 {
-    "name": "Stone",
-    "description": "Some imagination can turn stone into art.",
-    "icon": "\ud83e\udea8",
-    "price": 2,
-    "maxSpawns": 0,
-    "found": [
-        "\u00a0Kristoff's Stall\u2028\u00a0Mining\r\nAll Biomes\r\n Removing Small and Big Rocks"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "Some imagination can turn stone into art.",
+    "found": [
+        "\u00a0Kristoff's Stall\u2028\u00a0Mining\r\nAll Biomes\r\n Removing Small and Big Rocks"
+    ],
+    "icon": "\ud83e\udea8",
+    "maxSpawns": 0,
+    "name": "Stone",
+    "price": 2,
     "rarity": "none"
 }

@@ -1,14 +1,15 @@
 {
-    "name": "Purple Frog Snippet",
-    "description": "Frogs: Purple Frog Snippet",
-    "type": "Frogs",
-    "price": 10,
-    "found": [
-        "The Fallen Fortress"
-    ],
-    "maxSpawns": 0,
     "activity": [
         "snippets"
     ],
-    "rarity": "none"
+    "description": "Frogs: Purple Frog Snippet",
+    "found": [
+        "The Fallen Fortress"
+    ],
+    "icon": "star",
+    "maxSpawns": 0,
+    "name": "Purple Frog Snippet",
+    "price": 10,
+    "rarity": "none",
+    "type": "Frogs"
 }

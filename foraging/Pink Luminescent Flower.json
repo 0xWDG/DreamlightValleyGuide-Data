@@ -7,6 +7,7 @@
         "The Overlook",
         "The Ruins"
     ],
+    "icon": "star",
     "maxSpawns": 3,
     "name": "Pink Luminescent Flower",
     "price": 36

@@ -1,8 +1,8 @@
 {
-    "name": "Salmon",
+    "activity": [
+        "fishing"
+    ],
     "description": "A common fish found just about everywhere!",
-    "rarity": "White, Blue",
-    "price": 150,
     "energy": 500,
     "found": [
         "Frosted Heights",
@@ -10,8 +10,9 @@
         "The Grasslands",
         "The Promenade"
     ],
-    "type": "Fish",
-    "activity": [
-        "fishing"
-    ]
+    "icon": "star",
+    "name": "Salmon",
+    "price": 150,
+    "rarity": "White, Blue",
+    "type": "Fish"
 }

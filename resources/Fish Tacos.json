@@ -1,19 +1,20 @@
 {
-    "name": "Fish Tacos",
+    "activity": [
+        "recipes"
+    ],
     "description": "The perfect beachside snack!",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 1171,
-    "price": 448,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Any Fish",
         "Corn",
         "Chili Pepper",
         "Cheese"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Fish Tacos",
+    "price": 448,
+    "rarity": "none",
+    "stars": 4,
+    "type": "Entr\u00e9es"
 }

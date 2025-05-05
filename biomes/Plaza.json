@@ -1,13 +1,14 @@
 {
-    "name": "Plaza",
-    "island": "Dreamlight Valley",
-    "description": "The Plaza is the area of Dreamlight Valley where the game begins.\r\n\r\nIt's located in the center of the map, and connected to the Peaceful Meadow, the Sunlit Plateau, and the Forest of Valor. It is also the only biome connected to the entrance to the Dream Castle.",
-    "price": 0,
-    "currency": "Dreamlight",
     "characters": [
         "Merlin",
         "Mickey Mouse",
         "Scrooge McDuck"
     ],
-    "critters": "Squirrels"
+    "critters": "Squirrels",
+    "currency": "Dreamlight",
+    "description": "The Plaza is the area of Dreamlight Valley where the game begins.\r\n\r\nIt's located in the center of the map, and connected to the Peaceful Meadow, the Sunlit Plateau, and the Forest of Valor. It is also the only biome connected to the entrance to the Dream Castle.",
+    "icon": "star",
+    "island": "Dreamlight Valley",
+    "name": "Plaza",
+    "price": 0
 }

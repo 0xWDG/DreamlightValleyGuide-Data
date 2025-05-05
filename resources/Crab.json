@@ -1,14 +1,15 @@
 {
-    "name": "Crab",
+    "activity": [
+        "fishing"
+    ],
     "description": "A tough little crustacean with sharp claws.",
-    "rarity": "Blue, White",
-    "price": 600,
     "energy": 1200,
     "found": [
         "Frosted Heights"
     ],
-    "type": "Seafood",
-    "activity": [
-        "fishing"
-    ]
+    "icon": "star",
+    "name": "Crab",
+    "price": 600,
+    "rarity": "Blue, White",
+    "type": "Seafood"
 }

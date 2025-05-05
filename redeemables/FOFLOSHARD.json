@@ -1,6 +1,7 @@
 {
     "code": "FOFLOSHARD",
     "description": "x5 Dream Shard, x5 Night Shard",
+    "icon": "star",
     "items": [
         "x5 Dream Shard",
         "x5 Night Shard"

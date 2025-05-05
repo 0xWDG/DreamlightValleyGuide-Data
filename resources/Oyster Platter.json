@@ -1,17 +1,18 @@
 {
-    "name": "Oyster Platter",
+    "activity": [
+        "recipes"
+    ],
     "description": "A large plate of oysters.",
-    "type": "Appetizers",
-    "stars": 2,
     "energy": 1155,
-    "price": 367,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Oyster",
         "Lemon"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Oyster Platter",
+    "price": 367,
+    "rarity": "none",
+    "stars": 2,
+    "type": "Appetizers"
 }

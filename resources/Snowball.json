@@ -1,14 +1,14 @@
 {
-    "name": "Snowball",
-    "description": "Whatever you do, fight the urge to throw it.",
-    "icon": "\u2744\ufe0f",
-    "price": 25,
-    "maxSpawns": 0,
-    "found": [
-        "\u00a0Kristoff's Stall\u2028\u00a0Digging\r\n Frosted Heights\r\n Removing Small and Large Ice Blocks"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "Whatever you do, fight the urge to throw it.",
+    "found": [
+        "\u00a0Kristoff's Stall\u2028\u00a0Digging\r\n Frosted Heights\r\n Removing Small and Large Ice Blocks"
+    ],
+    "icon": "\u2744\ufe0f",
+    "maxSpawns": 0,
+    "name": "Snowball",
+    "price": 25,
     "rarity": "none"
 }

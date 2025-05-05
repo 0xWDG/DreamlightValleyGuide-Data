@@ -1,15 +1,16 @@
 {
-    "name": "Banana Split",
     "description": "It has bananas so it must be healthy, right?",
-    "type": "Desserts",
-    "stars": 5,
     "energy": 2074,
-    "price": 714,
+    "icon": "star",
     "ingredients": [
         "Slush Ice",
         "Banana",
         "Milk",
         "Sugarcane",
         "Any Sweets"
-    ]
+    ],
+    "name": "Banana Split",
+    "price": 714,
+    "stars": 5,
+    "type": "Desserts"
 }

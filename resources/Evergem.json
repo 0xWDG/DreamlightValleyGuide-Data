@@ -1,13 +1,14 @@
 {
-    "name": "Evergem",
-    "description": "Evergem is a gem which can be found when mining rock nodes using the Pickaxe in The Ruins area of Ancient's Landing.",
-    "price": 300,
-    "gift": 600,
-    "found": [
-        "The Ruins"
-    ],
     "activity": [
         "mining"
     ],
+    "description": "Evergem is a gem which can be found when mining rock nodes using the Pickaxe in The Ruins area of Ancient's Landing.",
+    "found": [
+        "The Ruins"
+    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Evergem",
+    "price": 300,
     "rarity": "none"
 }

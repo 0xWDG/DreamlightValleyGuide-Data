@@ -1,10 +1,11 @@
 {
-    "name": "Aladdin",
-    "description": "Aladdin is a universe in Disney Dreamlight Valley based on the Disney animated film Aladdin (1992), which is based on the 1001 Nights fairytales.",
-    "price": 0,
     "characters": [
         "Aladdin",
         "Jasmine",
         "Jafar"
-    ]
+    ],
+    "description": "Aladdin is a universe in Disney Dreamlight Valley based on the Disney animated film Aladdin (1992), which is based on the 1001 Nights fairytales.",
+    "icon": "star",
+    "name": "Aladdin",
+    "price": 0
 }

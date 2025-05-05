@@ -1,18 +1,19 @@
 {
-    "name": "Banana Pie",
+    "activity": [
+        "recipes"
+    ],
     "description": "A flaky pie with a distinct banana flavor.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 1227,
-    "price": 308,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Banana",
         "Wheat",
         "Butter"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Banana Pie",
+    "price": 308,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Desserts"
 }

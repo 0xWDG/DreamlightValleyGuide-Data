@@ -1,24 +1,24 @@
 {
-    "name": "Cotton",
-    "description": "Soft fluff that can be used in lots of stuff!",
-    "icon": "\ud83c\udf3e",
-    "price": 37,
-    "maxSpawns": 0,
-    "found": [
-        "Sunlit Plateau"
-    ],
     "activity": [
         "foraging",
         "gardening"
     ],
-    "type": "Crafting Materials",
     "biome": "Sunlit Plateau",
-    "growTime": 25,
-    "sellPrice": 37,
-    "seedPrice": 42,
-    "grow": "25min",
-    "waterings": 4,
-    "yield": 1,
     "coins": 0,
-    "rarity": "none"
+    "description": "Soft fluff that can be used in lots of stuff!",
+    "found": [
+        "Sunlit Plateau"
+    ],
+    "grow": "25min",
+    "growTime": 25,
+    "icon": "\ud83c\udf3e",
+    "maxSpawns": 0,
+    "name": "Cotton",
+    "price": 37,
+    "rarity": "none",
+    "seedPrice": 42,
+    "sellPrice": 37,
+    "type": "Crafting Materials",
+    "waterings": 4,
+    "yield": 1
 }

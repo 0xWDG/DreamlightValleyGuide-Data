@@ -1,6 +1,7 @@
 {
-    "name": "Disney Fairies",
+    "characters": [],
     "description": "Disney Fairies is a universe in Disney Dreamlight Valley based around the character Tinker Bell of the Disney animated film Peter Pan (1953).",
-    "price": 0,
-    "characters": []
+    "icon": "star",
+    "name": "Disney Fairies",
+    "price": 0
 }

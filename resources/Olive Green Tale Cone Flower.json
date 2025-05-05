@@ -1,13 +1,14 @@
 {
-    "name": "Olive Green Tale Cone Flower",
-    "found": [
-        "The Bind"
-    ],
-    "maxSpawns": 2,
-    "price": 41,
     "activity": [
         "foraging"
     ],
-    "rarity": "none",
-    "description": "These powerful green flowers prefer to grow on adventure stories."
+    "description": "These powerful green flowers prefer to grow on adventure stories.",
+    "found": [
+        "The Bind"
+    ],
+    "icon": "star",
+    "maxSpawns": 2,
+    "name": "Olive Green Tale Cone Flower",
+    "price": 41,
+    "rarity": "none"
 }

@@ -1,6 +1,7 @@
 {
     "code": "FOFCATCHDAY",
     "description": "x5 Kingfish, x5 Fugu, x5 Anglerfish",
+    "icon": "star",
     "items": [
         "x5 Kingfish",
         "x5 Fugu",

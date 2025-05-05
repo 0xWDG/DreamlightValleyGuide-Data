@@ -1,14 +1,15 @@
 {
-    "name": "Orange Pitcher Plant",
+    "activity": [
+        "foraging"
+    ],
+    "description": "This pretty orange plant proves that you can be both elegant and deadly. Don't fall into its trap.",
     "found": [
         "The Grove",
         "The Lagoon"
     ],
+    "icon": "star",
     "maxSpawns": 4,
+    "name": "Orange Pitcher Plant",
     "price": 39,
-    "activity": [
-        "foraging"
-    ],
-    "rarity": "none",
-    "description": "This pretty orange plant proves that you can be both elegant and deadly. Don't fall into its trap."
+    "rarity": "none"
 }

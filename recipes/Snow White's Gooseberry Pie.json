@@ -1,13 +1,14 @@
 {
-    "name": "Snow White's Gooseberry Pie",
     "description": "Snow White's famously delicious pie!",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 1677,
-    "price": 338,
+    "icon": "star",
     "ingredients": [
         "Gooseberry",
         "Wheat",
         "Butter"
-    ]
+    ],
+    "name": "Snow White's Gooseberry Pie",
+    "price": 338,
+    "stars": 3,
+    "type": "Desserts"
 }

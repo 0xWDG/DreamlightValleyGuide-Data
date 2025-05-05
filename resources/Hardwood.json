@@ -1,14 +1,14 @@
 {
-    "name": "Hardwood",
-    "description": "A pile of sturdy wood waiting to become something more.",
-    "icon": "\ud83e\udeb5",
-    "price": 10,
-    "maxSpawns": 0,
-    "found": [
-        "\u00a0Kristoff's Stall\u2028\u00a0Foraging\r\n Forest of Valor\r\n Glade of Trust\r\n Sunlit Plateau\r\n Frosted Heights\r\n Removing Large Tree Stumps"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "A pile of sturdy wood waiting to become something more.",
+    "found": [
+        "\u00a0Kristoff's Stall\u2028\u00a0Foraging\r\n Forest of Valor\r\n Glade of Trust\r\n Sunlit Plateau\r\n Frosted Heights\r\n Removing Large Tree Stumps"
+    ],
+    "icon": "\ud83e\udeb5",
+    "maxSpawns": 0,
+    "name": "Hardwood",
+    "price": 10,
     "rarity": "none"
 }

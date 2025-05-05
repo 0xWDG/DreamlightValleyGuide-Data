@@ -1,14 +1,15 @@
 {
-    "name": "Shiny Peridot",
+    "activity": [
+        "mining"
+    ],
     "description": "A rare light-green mineral that can be mined.",
-    "price": 800,
-    "gift": 600,
     "found": [
         "Dazzle Beach",
         "Peaceful Meadow"
     ],
-    "activity": [
-        "mining"
-    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Shiny Peridot",
+    "price": 800,
     "rarity": "none"
 }

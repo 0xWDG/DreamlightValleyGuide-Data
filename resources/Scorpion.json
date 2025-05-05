@@ -1,16 +1,17 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "This creature is dangerous from both the front and the back.",
+    "energy": 900,
     "found": [
         "The Plains",
         "The Wastes",
         "The Borderlands"
     ],
-    "price": 425,
-    "energy": 900,
-    "rarity": "Blue (Pink)",
-    "type": "Dairy and Oil",
+    "icon": "star",
     "name": "Scorpion",
-    "description": "This creature is dangerous from both the front and the back.",
-    "activity": [
-        "fishing"
-    ]
+    "price": 425,
+    "rarity": "Blue (Pink)",
+    "type": "Dairy and Oil"
 }

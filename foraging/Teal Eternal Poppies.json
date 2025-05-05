@@ -7,6 +7,7 @@
         "The Elysian Fields",
         "The Statue's Shadow"
     ],
+    "icon": "star",
     "maxSpawns": 3,
     "name": "Teal Eternal Poppies",
     "price": 52

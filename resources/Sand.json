@@ -1,14 +1,14 @@
 {
-    "name": "Sand",
-    "description": "An important item for building sand castles.",
-    "icon": "\ud83c\udfd6\ufe0f",
-    "price": 8,
-    "maxSpawns": 0,
-    "found": [
-        "\u00a0Kristoff's Stall\u2028\u00a0Digging\r\n Dazzle Beach\r\n Removing Small and Large Sea Debris"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "An important item for building sand castles.",
+    "found": [
+        "\u00a0Kristoff's Stall\u2028\u00a0Digging\r\n Dazzle Beach\r\n Removing Small and Large Sea Debris"
+    ],
+    "icon": "\ud83c\udfd6\ufe0f",
+    "maxSpawns": 0,
+    "name": "Sand",
+    "price": 8,
     "rarity": "none"
 }

@@ -1,8 +1,13 @@
 {
+    "description": "Anna is a character from the Disney films Frozen (2013), Frozen II (2019).\r\nShe's unlocked after traveling to the Frozen Realm.",
+    "house": "Frozen Castle",
+    "icon": "star",
     "name": "Anna",
     "origin": "Frozen",
-    "house": "Frozen Castle",
-    "description": "Anna is a character from the Disney films Frozen (2013), Frozen II (2019).\r\nShe's unlocked after traveling to the Frozen Realm.",
+    "quests": [
+        "anna.friendship",
+        "anna.realm"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Banner",
         "Arendelle Crest Motif",
         "\"Fall's Bounty\" Gown"
-    ],
-    "quests": [
-        "anna.friendship",
-        "anna.realm"
     ]
 }

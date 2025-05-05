@@ -7,6 +7,7 @@
         "The Grove",
         "The Lagoon"
     ],
+    "icon": "star",
     "maxSpawns": 6,
     "name": "Yellow Pitcher Plant",
     "price": 29

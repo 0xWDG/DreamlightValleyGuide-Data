@@ -1,4 +1,5 @@
 {
+    "icon": "star",
     "name": "tiana.friendship",
     "quests": [
         {
@@ -123,7 +124,7 @@
                 "Get ready for the New Orleans Parade! Put on:\r\n  \u2027 1 Parade Festival Mask.\r\n  \u2027 3 Quirky or Bold clothes.",
                 "Place the New Orleans Parade Arch near Skull Rock.",
                 "Follow Tiana as she leads the New Orleans Parade.",
-                "Quick! — collect the 5 Parade Throws!",
+                "Quick! \u2014 collect the 5 Parade Throws!",
                 "Follow Tiana as she leads the Parade through the Plaza.",
                 "Collect the 10 Parade Throws in the Plaza.",
                 "Follow Tiana as she leads the Parade through the Peaceful Meadow.",

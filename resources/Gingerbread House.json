@@ -1,10 +1,11 @@
 {
-    "name": "Gingerbread House",
+    "activity": [
+        "recipes"
+    ],
     "description": "Looks almost too warm and cozy to eat... but too delicious not to!",
-    "type": "Desserts",
-    "stars": 5,
     "energy": 1460,
-    "price": 641,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Ginger",
         "Egg",
@@ -12,9 +13,9 @@
         "Vanilla",
         "Sugarcane"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Gingerbread House",
+    "price": 641,
+    "rarity": "none",
+    "stars": 5,
+    "type": "Desserts"
 }

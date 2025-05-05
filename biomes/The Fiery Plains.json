@@ -1,9 +1,10 @@
 {
-    "name": "The Fiery Plains",
-    "island": "Storybook Vale",
-    "description": "The Fiery Plains is a biome in Storybook Vale, available only in the paid expansion The Storybook Vale.",
-    "price": 5000,
-    "currency": "Storybook Magic",
     "characters": [],
-    "critters": "Pegasi"
+    "critters": "Pegasi",
+    "currency": "Storybook Magic",
+    "description": "The Fiery Plains is a biome in Storybook Vale, available only in the paid expansion The Storybook Vale.",
+    "icon": "star",
+    "island": "Storybook Vale",
+    "name": "The Fiery Plains",
+    "price": 5000
 }

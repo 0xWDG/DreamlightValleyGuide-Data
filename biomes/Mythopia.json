@@ -1,11 +1,12 @@
 {
-    "name": "Mythopia",
-    "island": "Storybook Vale",
-    "description": "Mythopia is a biome in Storybook Vale, available only in the paid expansion The Storybook Vale.",
-    "price": 2000,
-    "currency": "Storybook Magic",
     "characters": [
         "Hades"
     ],
-    "critters": "Pegasi"
+    "critters": "Pegasi",
+    "currency": "Storybook Magic",
+    "description": "Mythopia is a biome in Storybook Vale, available only in the paid expansion The Storybook Vale.",
+    "icon": "star",
+    "island": "Storybook Vale",
+    "name": "Mythopia",
+    "price": 2000
 }

@@ -7,6 +7,7 @@
         "Teapot Falls",
         "The Fallen Fortress"
     ],
+    "icon": "star",
     "maxSpawns": 4,
     "name": "Slate Gray Rose",
     "price": 35

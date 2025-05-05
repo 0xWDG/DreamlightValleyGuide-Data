@@ -1,17 +1,18 @@
 {
-    "name": "Savory Fish",
+    "activity": [
+        "recipes"
+    ],
     "description": "A delectable fish fit for a special occasion.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 985,
-    "price": 74,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Any Fish",
         "Lemon"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Savory Fish",
+    "price": 74,
+    "rarity": "none",
+    "stars": 2,
+    "type": "Entr\u00e9es"
 }

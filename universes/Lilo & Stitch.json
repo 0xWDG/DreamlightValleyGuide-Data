@@ -1,8 +1,9 @@
 {
-    "name": "Lilo & Stitch",
-    "description": "Lilo & Stitch is a universe in Disney Dreamlight Valley based on the Disney animated film Lilo & Stitch (2002).",
-    "price": 0,
     "characters": [
         "Stitch"
-    ]
+    ],
+    "description": "Lilo & Stitch is a universe in Disney Dreamlight Valley based on the Disney animated film Lilo & Stitch (2002).",
+    "icon": "star",
+    "name": "Lilo & Stitch",
+    "price": 0
 }

@@ -1,16 +1,16 @@
 {
-    "name": "Dream Shard",
+    "activity": [
+        "foraging"
+    ],
     "description": "A crystallized form of Dreamlight magic.",
-    "icon": "\ud83d\udc8e",
-    "price": 0,
-    "maxSpawns": 0,
     "found": [
         " Digging Sparkling Holes",
         "Feeding Critters",
         "Removing Night Thorns"
     ],
-    "activity": [
-        "foraging"
-    ],
+    "icon": "\ud83d\udc8e",
+    "maxSpawns": 0,
+    "name": "Dream Shard",
+    "price": 0,
     "rarity": "none"
 }

@@ -1,21 +1,22 @@
 {
-    "name": "Radish",
-    "description": "A root vegetable that will really spice up your salad.",
-    "type": "Vegetables",
-    "found": [
-        "Everafter"
-    ],
-    "biome": "Everafter",
-    "growTime": 1,
-    "price": 133,
-    "sellPrice": 133,
-    "seedPrice": 100,
-    "grow": "1hr 45min",
-    "waterings": 0,
-    "yield": 1,
     "activity": [
         "gardening"
     ],
+    "biome": "Everafter",
     "coins": 33,
-    "rarity": "none"
+    "description": "A root vegetable that will really spice up your salad.",
+    "found": [
+        "Everafter"
+    ],
+    "grow": "1hr 45min",
+    "growTime": 1,
+    "icon": "star",
+    "name": "Radish",
+    "price": 133,
+    "rarity": "none",
+    "seedPrice": 100,
+    "sellPrice": 133,
+    "type": "Vegetables",
+    "waterings": 0,
+    "yield": 1
 }

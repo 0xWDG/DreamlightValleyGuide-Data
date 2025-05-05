@@ -1,18 +1,19 @@
 {
-    "name": "Fish Soup",
+    "activity": [
+        "recipes"
+    ],
     "description": "A warm bowl of seasoned fish in broth.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 978,
-    "price": 368,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Any Fish",
         "Any Vegetable",
         "Milk"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Fish Soup",
+    "price": 368,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

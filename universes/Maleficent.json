@@ -1,8 +1,9 @@
 {
-    "name": "Maleficent",
-    "description": "Maleficent is a universe in Disney Dreamlight Valley based on the Disney live action film Maleficent (2014).\r\nThe film is a retelling of the Disney animated film Sleeping Beauty (1959), but tells the story from the perspective of the evil fairy Maleficent.",
-    "price": 0,
     "characters": [
         "Maleficent"
-    ]
+    ],
+    "description": "Maleficent is a universe in Disney Dreamlight Valley based on the Disney live action film Maleficent (2014).\r\nThe film is a retelling of the Disney animated film Sleeping Beauty (1959), but tells the story from the perspective of the evil fairy Maleficent.",
+    "icon": "star",
+    "name": "Maleficent",
+    "price": 0
 }

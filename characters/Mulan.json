@@ -1,8 +1,14 @@
 {
+    "description": "Mulan is a character from the Disney film Mulan (1998).",
+    "dlc": 2,
+    "house": "Mulan's House",
+    "icon": "star",
     "name": "Mulan",
     "origin": "Mulan",
-    "house": "Mulan's House",
-    "description": "Mulan is a character from the Disney film Mulan (1998).",
+    "quests": [
+        "mulan.realm",
+        "mulan.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,10 +21,5 @@
         "Hexagonal Window",
         "Cri-Kee Lily Pad Motif",
         "Imperial Silk Ensemble"
-    ],
-    "dlc": 2,
-    "quests": [
-        "mulan.realm",
-        "mulan.friendship"
     ]
 }

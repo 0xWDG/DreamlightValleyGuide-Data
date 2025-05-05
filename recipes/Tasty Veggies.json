@@ -1,12 +1,13 @@
 {
-    "name": "Tasty Veggies",
     "description": "Delicious, freshly picked vegetables.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 246,
-    "price": 36,
+    "icon": "star",
     "ingredients": [
         "Any Vegetable",
         "Any Spice"
-    ]
+    ],
+    "name": "Tasty Veggies",
+    "price": 36,
+    "stars": 2,
+    "type": "Entr\u00e9es"
 }

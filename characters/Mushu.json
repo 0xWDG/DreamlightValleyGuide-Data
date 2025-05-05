@@ -1,8 +1,14 @@
 {
+    "description": "Mushu is a character from the Disney film Mulan (1998).",
+    "dlc": 2,
+    "house": "Mulan's House",
+    "icon": "star",
     "name": "Mushu",
     "origin": "Mulan",
-    "house": "Mulan's House",
-    "description": "Mushu is a character from the Disney film Mulan (1998).",
+    "quests": [
+        "mushu.realm",
+        "mushu.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,10 +21,5 @@
         "Guardian Incense Burner",
         "Mushu Mask Motif",
         "Guardian Track Jacket"
-    ],
-    "dlc": 2,
-    "quests": [
-        "mushu.realm",
-        "mushu.friendship"
     ]
 }

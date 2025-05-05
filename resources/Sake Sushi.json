@@ -1,17 +1,18 @@
 {
-    "name": "Sake Sushi",
+    "activity": [
+        "recipes"
+    ],
     "description": "Thin cuts of salmon over cooked rice.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 1000,
-    "price": 274,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Salmon",
         "Rice"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Sake Sushi",
+    "price": 274,
+    "rarity": "none",
+    "stars": 2,
+    "type": "Entr\u00e9es"
 }

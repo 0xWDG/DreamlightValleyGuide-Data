@@ -1,14 +1,14 @@
 {
-    "name": "Shiny Amethyst",
+    "activity": [
+        "mining"
+    ],
     "description": "A rare purple gem that can be mined.",
-    "icon": "\ud83d\udc8e",
-    "price": 2000,
-    "gift": 600,
     "found": [
         "Forgotten Lands",
         "Frosted Heights"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "icon": "\ud83d\udc8e",
+    "name": "Shiny Amethyst",
+    "price": 2000
 }

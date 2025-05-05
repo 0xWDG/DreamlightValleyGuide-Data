@@ -1,13 +1,13 @@
 {
-    "name": "Shiny Diamond",
+    "activity": [
+        "mining"
+    ],
     "description": "A rare clear mineral that can be mined.",
-    "icon": "\ud83d\udc8e",
-    "price": 2400,
-    "gift": 600,
     "found": [
         "Forgotten Lands"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "icon": "\ud83d\udc8e",
+    "name": "Shiny Diamond",
+    "price": 2400
 }

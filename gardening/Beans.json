@@ -1,20 +1,21 @@
 {
-    "name": "Beans",
-    "type": "Dairy and Oil",
-    "found": [
-        "Glittering Dunes"
-    ],
-    "biome": "Glittering Dunes",
-    "growTime": 1,
-    "price": 49,
-    "sellPrice": 49,
-    "seedPrice": 50,
-    "grow": "1h",
-    "waterings": 1,
-    "yield": 3,
     "activity": [
         "gardening"
     ],
+    "biome": "Glittering Dunes",
     "coins": 97,
-    "description": "The magical fruit."
+    "description": "The magical fruit.",
+    "found": [
+        "Glittering Dunes"
+    ],
+    "grow": "1h",
+    "growTime": 1,
+    "icon": "star",
+    "name": "Beans",
+    "price": 49,
+    "seedPrice": 50,
+    "sellPrice": 49,
+    "type": "Dairy and Oil",
+    "waterings": 1,
+    "yield": 3
 }

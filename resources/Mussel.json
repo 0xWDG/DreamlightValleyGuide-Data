@@ -1,14 +1,15 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "This tasty mollusk is surprisingly good at filtering water.",
+    "energy": 150,
     "found": [
         "Mythopia"
     ],
-    "price": 75,
-    "energy": 150,
-    "rarity": "None",
-    "type": "Seafood",
+    "icon": "star",
     "name": "Mussel",
-    "description": "This tasty mollusk is surprisingly good at filtering water.",
-    "activity": [
-        "fishing"
-    ]
+    "price": 75,
+    "rarity": "None",
+    "type": "Seafood"
 }

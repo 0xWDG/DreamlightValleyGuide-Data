@@ -1,10 +1,11 @@
 {
-    "name": "Lobster Roll",
+    "activity": [
+        "recipes"
+    ],
     "description": "Buttered lobster stuffed in a warm roll.",
-    "type": "Entr\u00e9es",
-    "stars": 5,
     "energy": 4928,
-    "price": 1900,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Lobster",
         "Wheat",
@@ -12,9 +13,9 @@
         "Butter",
         "Garlic"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Lobster Roll",
+    "price": 1900,
+    "rarity": "none",
+    "stars": 5,
+    "type": "Entr\u00e9es"
 }

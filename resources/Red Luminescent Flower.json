@@ -1,14 +1,15 @@
 {
-    "name": "Red Luminescent Flower",
+    "activity": [
+        "foraging"
+    ],
     "description": "This flower has an eerie red glow that could only be caused by some sort of magic.",
     "found": [
         "The Overlook",
         "The Ruins"
     ],
+    "icon": "star",
     "maxSpawns": 6,
+    "name": "Red Luminescent Flower",
     "price": 20,
-    "activity": [
-        "foraging"
-    ],
     "rarity": "none"
 }

@@ -1,16 +1,17 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "This insect slithers under the sand of the Glittering Dunes.",
+    "energy": 1650,
     "found": [
         "The Plains",
         "The Wastes",
         "The Borderlands"
     ],
-    "price": 800,
-    "energy": 1650,
-    "rarity": "Gold",
-    "type": "Dairy and Oil",
+    "icon": "star",
     "name": "Sand Worm",
-    "description": "This insect slithers under the sand of the Glittering Dunes.",
-    "activity": [
-        "fishing"
-    ]
+    "price": 800,
+    "rarity": "Gold",
+    "type": "Dairy and Oil"
 }

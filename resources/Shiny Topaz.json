@@ -1,13 +1,14 @@
 {
-    "name": "Shiny Topaz",
-    "description": "A rare orange mineral that can be mined.",
-    "price": 960,
-    "gift": 600,
-    "found": [
-        "Plaza"
-    ],
     "activity": [
         "mining"
     ],
+    "description": "A rare orange mineral that can be mined.",
+    "found": [
+        "Plaza"
+    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Shiny Topaz",
+    "price": 960,
     "rarity": "none"
 }

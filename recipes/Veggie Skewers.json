@@ -1,14 +1,15 @@
 {
-    "name": "Veggie Skewers",
     "description": "Grilled vegetables on easy-to-hold sticks.",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 767,
-    "price": 427,
+    "icon": "star",
     "ingredients": [
         "Mushroom",
         "Zucchini",
         "Onion",
         "Bell Pepper"
-    ]
+    ],
+    "name": "Veggie Skewers",
+    "price": 427,
+    "stars": 4,
+    "type": "Entr\u00e9es"
 }

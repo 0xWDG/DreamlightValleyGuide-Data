@@ -1,13 +1,14 @@
 {
-    "name": "Diamond",
-    "description": "A rare clear mineral that can be mined.",
-    "price": 600,
-    "gift": 600,
-    "found": [
-        "Forgotten Lands"
-    ],
     "activity": [
         "mining"
     ],
+    "description": "A rare clear mineral that can be mined.",
+    "found": [
+        "Forgotten Lands"
+    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Diamond",
+    "price": 600,
     "rarity": "none"
 }

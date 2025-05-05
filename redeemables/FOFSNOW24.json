@@ -1,6 +1,7 @@
 {
     "code": "FOFSNOW24",
     "description": "x25 Hardwood, x25 Rope",
+    "icon": "star",
     "items": [
         "x25 Hardwood",
         "x25 Rope"

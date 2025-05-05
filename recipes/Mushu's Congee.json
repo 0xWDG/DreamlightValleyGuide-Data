@@ -1,15 +1,16 @@
 {
-    "name": "Mushu's Congee",
     "description": "Mushu's patented rice and egg breakfast bowl.",
-    "type": "Entr\u00e9es",
-    "stars": 5,
     "energy": 1658,
-    "price": 753,
+    "icon": "star",
     "ingredients": [
         "Rice",
         "Egg",
         "Ginger",
         "Garlic",
         "Mushroom"
-    ]
+    ],
+    "name": "Mushu's Congee",
+    "price": 753,
+    "stars": 5,
+    "type": "Entr\u00e9es"
 }

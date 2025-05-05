@@ -1,18 +1,19 @@
 {
-    "name": "Apple Pie",
+    "activity": [
+        "recipes"
+    ],
     "description": "A warm, delicious apple pie.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 1137,
-    "price": 303,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Apple",
         "Wheat",
         "Butter"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Apple Pie",
+    "price": 303,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Desserts"
 }

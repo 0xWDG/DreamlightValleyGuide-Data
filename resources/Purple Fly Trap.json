@@ -1,14 +1,15 @@
 {
-    "name": "Purple Fly Trap",
+    "activity": [
+        "foraging"
+    ],
     "description": "Uh-oh. It looks hungry...",
     "found": [
         "The Grasslands",
         "The Promenade"
     ],
+    "icon": "star",
     "maxSpawns": 4,
+    "name": "Purple Fly Trap",
     "price": 35,
-    "activity": [
-        "foraging"
-    ],
     "rarity": "none"
 }

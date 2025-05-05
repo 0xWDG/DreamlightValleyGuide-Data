@@ -1,14 +1,15 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "This isn't an ordinary hermit crab! He's in a little sorcerer hat!",
+    "energy": 1500,
     "found": [
         "The Bind"
     ],
-    "price": 800,
-    "energy": 1500,
-    "rarity": "Gold",
-    "type": "Seafood",
+    "icon": "star",
     "name": "Sorcerer Hat Hermit Crab",
-    "description": "This isn't an ordinary hermit crab! He's in a little sorcerer hat!",
-    "activity": [
-        "fishing"
-    ]
+    "price": 800,
+    "rarity": "Gold",
+    "type": "Seafood"
 }

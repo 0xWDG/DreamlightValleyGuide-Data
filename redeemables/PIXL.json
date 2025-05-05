@@ -1,6 +1,7 @@
 {
     "code": "PIXL",
     "description": "Air Hockey Table, Game Machine, Coin-op Game",
+    "icon": "star",
     "items": [
         "Air Hockey Table",
         "Game Machine",

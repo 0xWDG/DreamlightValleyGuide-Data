@@ -1,6 +1,7 @@
 {
     "code": "DREAMLIGHTPARK",
     "description": "Magic Recycler",
+    "icon": "star",
     "items": [
         "Magical recyclers"
     ],

@@ -7,6 +7,7 @@
         "The Plains",
         "The Wastes"
     ],
+    "icon": "star",
     "maxSpawns": 6,
     "name": "Blue Glass-Like Flowers",
     "price": 23

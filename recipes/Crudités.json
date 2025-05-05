@@ -1,15 +1,16 @@
 {
-    "name": "Crudit\u00e9s",
     "description": "An array of vegetables and dips.",
-    "type": "Appetizers",
-    "stars": 1,
     "energy": 83,
-    "price": 26,
+    "icon": "star",
     "ingredients": [
         "Carrot",
         "Zucchini",
         "Bell Pepper",
         "Mushroom",
         "Cucumber"
-    ]
+    ],
+    "name": "Crudit\u00e9s",
+    "price": 26,
+    "stars": 1,
+    "type": "Appetizers"
 }

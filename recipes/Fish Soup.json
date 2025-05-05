@@ -1,13 +1,14 @@
 {
-    "name": "Fish Soup",
     "description": "A warm bowl of seasoned fish in broth.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 978,
-    "price": 368,
+    "icon": "star",
     "ingredients": [
         "Any Fish",
         "Any Vegetable",
         "Milk"
-    ]
+    ],
+    "name": "Fish Soup",
+    "price": 368,
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

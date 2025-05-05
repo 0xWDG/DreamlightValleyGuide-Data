@@ -1,8 +1,9 @@
 {
-    "name": "Brave",
-    "description": "Brave is a universe in Disney Dreamlight Valley based on the Pixar animated film Brave (2012).\r\nThe film features Princess Merida, who is determined to make her own path in life, and defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.",
-    "price": 0,
     "characters": [
         "Merida"
-    ]
+    ],
+    "description": "Brave is a universe in Disney Dreamlight Valley based on the Pixar animated film Brave (2012).\r\nThe film features Princess Merida, who is determined to make her own path in life, and defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.",
+    "icon": "star",
+    "name": "Brave",
+    "price": 0
 }

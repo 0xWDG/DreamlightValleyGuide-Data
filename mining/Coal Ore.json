@@ -1,13 +1,13 @@
 {
-    "name": "Coal Ore",
+    "activity": [
+        "mining"
+    ],
     "description": "Coal is a must to keep any oven running warm.",
-    "icon": "\ud83d\udd25",
-    "price": 5,
-    "gift": 25,
     "found": [
         "All Biomes"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 25,
+    "icon": "\ud83d\udd25",
+    "name": "Coal Ore",
+    "price": 5
 }

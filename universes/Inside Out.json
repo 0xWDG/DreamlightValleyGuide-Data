@@ -1,6 +1,7 @@
 {
-    "name": "Inside Out",
+    "characters": [],
     "description": "Inside Out is a universe in Disney Dreamlight Valley based on the Pixar franchise Inside Out, which includes the original 2015 film of the same name and its 2024 sequel, Inside Out 2.",
-    "price": 0,
-    "characters": []
+    "icon": "star",
+    "name": "Inside Out",
+    "price": 0
 }

@@ -1,9 +1,4 @@
 {
-    "name": "Dazzle Beach",
-    "island": "Dreamlight Valley",
-    "description": "Dazzle Beach is a biome in Dreamlight Valley.\r\n\r\nIt is located in the southern coastal area connected to the Peaceful Meadow, the Forest of Valor and the Glade of Trust.\r\n\r\nThe thorns blocking the pathway to this biome can be cleared using 1,000 Dreamlight.",
-    "price": 1000,
-    "currency": "Dreamlight",
     "characters": [
         "Ursula",
         "Ariel",
@@ -11,5 +6,11 @@
         "Donald Duck",
         "Prince Eric"
     ],
-    "critters": "Sea Turtles"
+    "critters": "Sea Turtles",
+    "currency": "Dreamlight",
+    "description": "Dazzle Beach is a biome in Dreamlight Valley.\r\n\r\nIt is located in the southern coastal area connected to the Peaceful Meadow, the Forest of Valor and the Glade of Trust.\r\n\r\nThe thorns blocking the pathway to this biome can be cleared using 1,000 Dreamlight.",
+    "icon": "star",
+    "island": "Dreamlight Valley",
+    "name": "Dazzle Beach",
+    "price": 1000
 }

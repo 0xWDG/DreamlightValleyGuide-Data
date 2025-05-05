@@ -1,8 +1,12 @@
 {
+    "description": "Minnie Mouse is a character from the classic Disney cartoons.",
+    "house": "Minnie Mouse's House",
+    "icon": "star",
     "name": "Minnie Mouse",
     "origin": "Mickey & Friends",
-    "house": "Minnie Mouse's House",
-    "description": "Minnie Mouse is a character from the classic Disney cartoons.",
+    "quests": [
+        "minniemouse.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,8 +19,5 @@
         "Cute Bow Bed",
         "Looking-Sharp Minnie Motif",
         "Minnie's Dinner Party Gown"
-    ],
-    "quests": [
-        "minniemouse.friendship"
     ]
 }

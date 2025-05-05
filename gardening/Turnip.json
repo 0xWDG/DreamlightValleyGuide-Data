@@ -1,20 +1,21 @@
 {
-    "name": "Turnip",
-    "type": "Vegetables",
-    "found": [
-        "Wild Tangle"
-    ],
-    "biome": "Wild Tangle",
-    "growTime": 4,
-    "price": 187,
-    "sellPrice": 187,
-    "seedPrice": 100,
-    "grow": "4h",
-    "waterings": 1,
-    "yield": 2,
     "activity": [
         "gardening"
     ],
+    "biome": "Wild Tangle",
     "coins": 274,
-    "description": "A few of these are sure to \"turnip\" whenever you need to make a tasty meal."
+    "description": "A few of these are sure to \"turnip\" whenever you need to make a tasty meal.",
+    "found": [
+        "Wild Tangle"
+    ],
+    "grow": "4h",
+    "growTime": 4,
+    "icon": "star",
+    "name": "Turnip",
+    "price": 187,
+    "seedPrice": 100,
+    "sellPrice": 187,
+    "type": "Vegetables",
+    "waterings": 1,
+    "yield": 2
 }

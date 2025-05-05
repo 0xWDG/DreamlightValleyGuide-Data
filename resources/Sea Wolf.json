@@ -1,14 +1,15 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "These deep hunters will give an uncanny aquatic howl when the moon is visible underwater.",
+    "energy": 300,
     "found": [
         "The Bind"
     ],
-    "price": 75,
-    "energy": 300,
-    "rarity": "White, Blue",
-    "type": "Fish",
+    "icon": "star",
     "name": "Sea Wolf",
-    "description": "These deep hunters will give an uncanny aquatic howl when the moon is visible underwater.",
-    "activity": [
-        "fishing"
-    ]
+    "price": 75,
+    "rarity": "White, Blue",
+    "type": "Fish"
 }

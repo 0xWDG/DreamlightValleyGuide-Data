@@ -1,14 +1,15 @@
 {
-    "name": "Shiny Jade",
+    "activity": [
+        "mining"
+    ],
     "description": "Shiny Jade is a gem which can be found when mining rock nodes using the Pickaxe in The Courtyard and The Overlook areas of Ancient's Landing.",
-    "price": 1000,
-    "gift": 600,
     "found": [
         "The Courtyard",
         "The Overlook"
     ],
-    "activity": [
-        "mining"
-    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Shiny Jade",
+    "price": 1000,
     "rarity": "none"
 }

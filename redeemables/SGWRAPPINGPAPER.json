@@ -1,6 +1,7 @@
 {
     "code": "SGWRAPPINGPAPER",
     "description": "Wrapping Paper",
+    "icon": "star",
     "items": [
         "Wrapping Paper"
     ],

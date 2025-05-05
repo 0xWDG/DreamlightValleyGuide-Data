@@ -1,18 +1,19 @@
 {
-    "name": "Fish Steak",
+    "activity": [
+        "recipes"
+    ],
     "description": "A slab of fish seared to perfection.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 537,
-    "price": 100,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Any Fish",
         "Tomato",
         "Basil"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Fish Steak",
+    "price": 100,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

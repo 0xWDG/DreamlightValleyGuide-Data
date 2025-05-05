@@ -1,14 +1,14 @@
 {
-    "name": "Shiny Alexandrite",
+    "activity": [
+        "mining"
+    ],
     "description": "Shiny Alexandrite is a gem which can be found when mining rock nodes using the Pickaxe in The Wastes and The Oasis areas of the Glittering Dunes.",
-    "icon": "\ud83d\udc8e",
-    "price": 1400,
-    "gift": 600,
     "found": [
         "The Wastes",
         "The Oasis"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "icon": "\ud83d\udc8e",
+    "name": "Shiny Alexandrite",
+    "price": 1400
 }

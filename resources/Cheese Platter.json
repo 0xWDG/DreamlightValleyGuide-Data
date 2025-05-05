@@ -1,16 +1,17 @@
 {
-    "name": "Cheese Platter",
-    "description": "A plate of diligently selected cheeses.",
-    "type": "Appetizers",
-    "stars": 1,
-    "energy": 482,
-    "price": 216,
-    "ingredients": [
-        "Cheese"
-    ],
     "activity": [
         "recipes"
     ],
+    "description": "A plate of diligently selected cheeses.",
+    "energy": 482,
     "found": [],
-    "rarity": "none"
+    "icon": "star",
+    "ingredients": [
+        "Cheese"
+    ],
+    "name": "Cheese Platter",
+    "price": 216,
+    "rarity": "none",
+    "stars": 1,
+    "type": "Appetizers"
 }

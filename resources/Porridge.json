@@ -1,17 +1,18 @@
 {
-    "name": "Porridge",
+    "activity": [
+        "recipes"
+    ],
     "description": "A simple, hearty breakfast dish.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 668,
-    "price": 301,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Milk",
         "Wheat"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Porridge",
+    "price": 301,
+    "rarity": "none",
+    "stars": 2,
+    "type": "Entr\u00e9es"
 }

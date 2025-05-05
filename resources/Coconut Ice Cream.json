@@ -1,19 +1,20 @@
 {
-    "name": "Coconut Ice Cream",
+    "activity": [
+        "recipes"
+    ],
     "description": "Two scoops of coconut-flavored goodness.",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 2169,
-    "price": 661,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Slush Ice",
         "Milk",
         "Sugarcane",
         "Coconut"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Coconut Ice Cream",
+    "price": 661,
+    "rarity": "none",
+    "stars": 4,
+    "type": "Desserts"
 }

@@ -1,8 +1,13 @@
 {
+    "description": "Scrooge McDuck is a character from the classic Disney cartoons.\r\nWhen the player arrives in Dreamlight Valley Scrooge already lives there and has a store in the Plaza. Scrooge provides the player options to purchase and upgrade wells, stalls, and character houses as well as operating a store with a daily rotating stock of clothing and items.",
+    "house": "Scrooge's Store",
+    "icon": "star",
     "name": "Scrooge McDuck",
     "origin": "Mickey & Friends",
-    "house": "Scrooge's Store",
-    "description": "Scrooge McDuck is a character from the classic Disney cartoons.\r\nWhen the player arrives in Dreamlight Valley Scrooge already lives there and has a store in the Plaza. Scrooge provides the player options to purchase and upgrade wells, stalls, and character houses as well as operating a store with a daily rotating stock of clothing and items.",
+    "quests": [
+        "scroogemcduck.friendship",
+        "scroogemcduck.story"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Black and Red Top Hat",
         "Scrooge Jumping Motif",
         "Scrooge McDuck's Spare Safe"
-    ],
-    "quests": [
-        "scroogemcduck.friendship",
-        "scroogemcduck.story"
     ]
 }

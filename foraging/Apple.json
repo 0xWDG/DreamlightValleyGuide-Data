@@ -10,6 +10,7 @@
     ],
     "giftReward": 50,
     "growthTime": 20,
+    "icon": "star",
     "maxSpawns": 5,
     "name": "Apple",
     "price": 25

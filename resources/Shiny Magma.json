@@ -1,13 +1,14 @@
 {
-    "name": "Shiny Magma",
-    "description": "This magma glimmers with the shards of gems within.",
-    "price": 1600,
-    "gift": 600,
-    "found": [
-        "Mythopia"
-    ],
     "activity": [
         "mining"
     ],
+    "description": "This magma glimmers with the shards of gems within.",
+    "found": [
+        "Mythopia"
+    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Shiny Magma",
+    "price": 1600,
     "rarity": "none"
 }

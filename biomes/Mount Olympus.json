@@ -1,9 +1,10 @@
 {
-    "name": "Mount Olympus",
-    "island": "Storybook Vale",
-    "description": "Mount Olympus is a biome in Storybook Vale, available only in the paid expansion The Storybook Vale.",
-    "price": 10000,
-    "currency": "Storybook Magic",
     "characters": [],
-    "critters": "Pegasi"
+    "critters": "Pegasi",
+    "currency": "Storybook Magic",
+    "description": "Mount Olympus is a biome in Storybook Vale, available only in the paid expansion The Storybook Vale.",
+    "icon": "star",
+    "island": "Storybook Vale",
+    "name": "Mount Olympus",
+    "price": 10000
 }

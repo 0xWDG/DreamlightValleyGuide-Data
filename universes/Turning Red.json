@@ -1,6 +1,7 @@
 {
-    "name": "Turning Red",
+    "characters": [],
     "description": "Turning Red is a universe in Disney Dreamlight Valley based on the Pixar animated film Turning Red (2022).\r\nThe film stars a thirteen-year-old girl named Mei Lee, who is torn between staying her mother's dutiful daughter and the changes of adolescence. If those challenges were not enough, whenever she gets overly excited she transforms into a giant red panda.",
-    "price": 0,
-    "characters": []
+    "icon": "star",
+    "name": "Turning Red",
+    "price": 0
 }

@@ -1,12 +1,13 @@
 {
-    "name": "Herring",
     "description": "These silver darlings travel in great numbers.",
-    "rarity": "White",
-    "price": 65,
     "energy": 250,
     "found": [
         "Dazzle Beach",
         "Glade of Trust"
     ],
+    "icon": "star",
+    "name": "Herring",
+    "price": 65,
+    "rarity": "White",
     "type": "Fish"
 }

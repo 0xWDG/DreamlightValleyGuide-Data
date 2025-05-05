@@ -1,17 +1,18 @@
 {
-    "name": "Tasty Veggies",
+    "activity": [
+        "recipes"
+    ],
     "description": "Delicious, freshly picked vegetables.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 246,
-    "price": 36,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Any Vegetable",
         "Any Spice"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Tasty Veggies",
+    "price": 36,
+    "rarity": "none",
+    "stars": 2,
+    "type": "Entr\u00e9es"
 }

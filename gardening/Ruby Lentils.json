@@ -1,20 +1,21 @@
 {
-    "name": "Ruby Lentils",
-    "type": "Dairy and Oil",
-    "found": [
-        "Wild Tangle"
-    ],
-    "biome": "Wild Tangle",
-    "growTime": 2,
-    "price": 156,
-    "sellPrice": 156,
-    "seedPrice": 250,
-    "grow": "2h",
-    "waterings": 1,
-    "yield": 3,
     "activity": [
         "gardening"
     ],
+    "biome": "Wild Tangle",
     "coins": 218,
-    "description": "A handful of these may look like rare gems, but they're much tastier (and more economical) in soups and stews."
+    "description": "A handful of these may look like rare gems, but they're much tastier (and more economical) in soups and stews.",
+    "found": [
+        "Wild Tangle"
+    ],
+    "grow": "2h",
+    "growTime": 2,
+    "icon": "star",
+    "name": "Ruby Lentils",
+    "price": 156,
+    "seedPrice": 250,
+    "sellPrice": 156,
+    "type": "Dairy and Oil",
+    "waterings": 1,
+    "yield": 3
 }

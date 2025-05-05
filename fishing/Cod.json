@@ -1,8 +1,5 @@
 {
-    "name": "Cod",
     "description": "A common fish that prefers cold water.",
-    "rarity": "None or White",
-    "price": 35,
     "energy": 150,
     "found": [
         "Dazzle Beach",
@@ -12,5 +9,9 @@
         "The Overlook",
         "Everafter"
     ],
+    "icon": "star",
+    "name": "Cod",
+    "price": 35,
+    "rarity": "None or White",
     "type": "Fish"
 }

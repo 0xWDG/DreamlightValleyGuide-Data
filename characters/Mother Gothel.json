@@ -1,8 +1,13 @@
 {
+    "description": "Mother Gothel is a character from the Disney film Tangled (2010).",
+    "house": "Giant Willow",
+    "icon": "star",
     "name": "Mother Gothel",
     "origin": "Tangled",
-    "house": "Giant Willow",
-    "description": "Mother Gothel is a character from the Disney film Tangled (2010).",
+    "quests": [
+        "mothergothel.friendship",
+        "mothergothel.story"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Golden Dagger-Sharp Nails",
         "Sundrop Flower Portrait Motif",
         "Mother Gothel's Standing Mirror"
-    ],
-    "quests": [
-        "mothergothel.friendship",
-        "mothergothel.story"
     ]
 }

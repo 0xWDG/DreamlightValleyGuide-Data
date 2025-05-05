@@ -1,17 +1,18 @@
 {
-    "name": "Grilled Fish Entree",
+    "activity": [
+        "recipes"
+    ],
     "description": "Perfectly grilled fish star in this meal.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 340,
-    "price": 42,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Any Fish",
         "Any Vegetable"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Grilled Fish Entree",
+    "price": 42,
+    "rarity": "none",
+    "stars": 2,
+    "type": "Entr\u00e9es"
 }

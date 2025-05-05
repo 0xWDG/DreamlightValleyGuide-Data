@@ -1,12 +1,13 @@
 {
-    "name": "Sushi",
     "description": "Fresh, raw fish served with rice.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 405,
-    "price": 111,
+    "icon": "star",
     "ingredients": [
         "Any Fish",
         "Rice"
-    ]
+    ],
+    "name": "Sushi",
+    "price": 111,
+    "stars": 2,
+    "type": "Entr\u00e9es"
 }

@@ -1,13 +1,14 @@
 {
-    "name": "Vitalys Crystal",
-    "description": "This crystal from the Vitalys Mines is infused with life. Throw it together with a few other magical Ingredients and you may be able to improve your Royal Tools.",
-    "price": 12,
-    "gift": 600,
-    "found": [
-        "Vitalys Mine"
-    ],
     "activity": [
         "mining"
     ],
+    "description": "This crystal from the Vitalys Mines is infused with life. Throw it together with a few other magical Ingredients and you may be able to improve your Royal Tools.",
+    "found": [
+        "Vitalys Mine"
+    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Vitalys Crystal",
+    "price": 12,
     "rarity": "none"
 }

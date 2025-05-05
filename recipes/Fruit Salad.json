@@ -1,11 +1,12 @@
 {
-    "name": "Fruit Salad",
     "description": "A salad of bananas, apples, and other fruits.",
-    "type": "Desserts",
-    "stars": 1,
     "energy": 450,
-    "price": 25,
+    "icon": "star",
     "ingredients": [
         "Any Fruit"
-    ]
+    ],
+    "name": "Fruit Salad",
+    "price": 25,
+    "stars": 1,
+    "type": "Desserts"
 }

@@ -1,17 +1,18 @@
 {
-    "name": "Boba Tea",
+    "activity": [
+        "recipes"
+    ],
     "description": "A delicious sugary treat.",
-    "type": "Desserts",
-    "stars": 2,
     "energy": 714,
-    "price": 323,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Milk",
         "Sugarcane"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Boba Tea",
+    "price": 323,
+    "rarity": "none",
+    "stars": 2,
+    "type": "Desserts"
 }

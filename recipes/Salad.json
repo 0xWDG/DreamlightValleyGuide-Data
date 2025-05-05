@@ -1,11 +1,12 @@
 {
-    "name": "Salad",
     "description": "A simple, healthy salad.",
-    "type": "Appetizers",
-    "stars": 1,
     "energy": 139,
-    "price": 9,
+    "icon": "star",
     "ingredients": [
         "Lettuce"
-    ]
+    ],
+    "name": "Salad",
+    "price": 9,
+    "stars": 1,
+    "type": "Appetizers"
 }

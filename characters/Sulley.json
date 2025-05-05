@@ -1,8 +1,14 @@
 {
+    "description": "Sulley is a character from the Disney-Pixar film Monsters, Inc. (2001).",
+    "dlc": 0,
+    "house": "Mike and Sulley's Apartment",
+    "icon": "star",
     "name": "Sulley",
     "origin": "Monsters, Inc.",
-    "house": "Mike and Sulley's Apartment",
-    "description": "Sulley is a character from the Disney-Pixar film Monsters, Inc. (2001).",
+    "quests": [
+        "sulley.realm",
+        "sulley.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,10 +21,5 @@
         "Blue Faux-Fur Monster Boots",
         "Sulley Spots Motif",
         "Blue Faux-Fur Monster Jacket"
-    ],
-    "dlc": 0,
-    "quests": [
-        "sulley.realm",
-        "sulley.friendship"
     ]
 }

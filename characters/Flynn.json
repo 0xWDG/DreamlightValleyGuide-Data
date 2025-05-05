@@ -1,8 +1,13 @@
 {
+    "description": "Flynn is a character from the Disney film Tangled (2010). He is encountered during the Story quest A Sheep in Wolf's Clothing in one of the Everafter Trials.",
+    "house": "Flynn Rider's House",
+    "icon": "star",
     "name": "Flynn",
     "origin": "Tangled",
-    "house": "Flynn Rider's House",
-    "description": "Flynn is a character from the Disney film Tangled (2010). He is encountered during the Story quest A Sheep in Wolf's Clothing in one of the Everafter Trials.",
+    "quests": [
+        "flynn.story",
+        "flynn.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Snuggly Duckling Counter",
         "Tangled Seal Motif",
         "Legendary Rogue Outfit"
-    ],
-    "quests": [
-        "flynn.story",
-        "flynn.friendship"
     ]
 }

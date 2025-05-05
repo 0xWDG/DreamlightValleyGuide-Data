@@ -1,14 +1,14 @@
 {
-    "name": "Green Bird Snippet",
+    "activity": [
+        "snippets"
+    ],
     "description": "Birds: Green Bird Snippet",
-    "icon": "Green Bird Snippet",
-    "type": "Birds",
-    "price": 30,
     "found": [
         "The Elysian Fields"
     ],
+    "icon": "Green Bird Snippet",
     "maxSpawns": 0,
-    "activity": [
-        "snippets"
-    ]
+    "name": "Green Bird Snippet",
+    "price": 30,
+    "type": "Birds"
 }

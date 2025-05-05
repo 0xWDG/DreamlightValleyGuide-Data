@@ -1,9 +1,10 @@
 {
-    "name": "The Elysian Fields",
-    "island": "Storybook Vale",
-    "description": "The Elysian Fields is a biome in Storybook Vale, available only in the paid expansion The Storybook Vale.",
-    "price": 2000,
-    "currency": "Storybook Magic",
     "characters": [],
-    "critters": "Pegasi"
+    "critters": "Pegasi",
+    "currency": "Storybook Magic",
+    "description": "The Elysian Fields is a biome in Storybook Vale, available only in the paid expansion The Storybook Vale.",
+    "icon": "star",
+    "island": "Storybook Vale",
+    "name": "The Elysian Fields",
+    "price": 2000
 }

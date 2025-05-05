@@ -1,18 +1,19 @@
 {
-    "name": "Kappa Maki",
+    "activity": [
+        "recipes"
+    ],
     "description": "Cucumber spears wrapped in rice and seaweed.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 462,
-    "price": 335,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Seaweed",
         "Cucumber",
         "Rice"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Kappa Maki",
+    "price": 335,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

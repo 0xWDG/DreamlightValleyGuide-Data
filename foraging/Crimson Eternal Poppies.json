@@ -7,6 +7,7 @@
         "The Elysian Fields",
         "Mount Olympus"
     ],
+    "icon": "star",
     "maxSpawns": 6,
     "name": "Crimson Eternal Poppies",
     "price": 27

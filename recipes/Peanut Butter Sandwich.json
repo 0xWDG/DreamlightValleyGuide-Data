@@ -1,12 +1,13 @@
 {
-    "name": "Peanut Butter Sandwich",
     "description": "A simple and timeless classic.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 592,
-    "price": 262,
+    "icon": "star",
     "ingredients": [
         "Peanut",
         "Wheat"
-    ]
+    ],
+    "name": "Peanut Butter Sandwich",
+    "price": 262,
+    "stars": 2,
+    "type": "Entr\u00e9es"
 }

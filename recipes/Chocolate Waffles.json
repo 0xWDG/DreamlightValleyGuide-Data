@@ -1,14 +1,15 @@
 {
-    "name": "Chocolate Waffles",
     "description": "Fluffy waffles slathered in chocolate sauce.",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 2223,
-    "price": 735,
+    "icon": "star",
     "ingredients": [
         "Cocoa Bean",
         "Wheat",
         "Egg",
         "Milk"
-    ]
+    ],
+    "name": "Chocolate Waffles",
+    "price": 735,
+    "stars": 4,
+    "type": "Desserts"
 }

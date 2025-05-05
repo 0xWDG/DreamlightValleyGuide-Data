@@ -1,6 +1,7 @@
 {
-    "name": "The Emperor's New Groove",
+    "characters": [],
     "description": "The Emperor's New Groove is a universe in Disney Dreamlight Valley based on the Disney animated film The Emperor's New Groove (2000).\r\nIn the film, young, self-centered emperor Kuzco is accidentally transformed into a llama by his ex-advisor Yzma and her henchman Kronk. To become human again, he must rely on Pacha, a village leader to help him return to the palace.",
-    "price": 0,
-    "characters": []
+    "icon": "star",
+    "name": "The Emperor's New Groove",
+    "price": 0
 }

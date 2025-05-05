@@ -1,8 +1,13 @@
 {
+    "description": "Hades is a character from the Disney film Hercules (1997). He is encountered during the Story quest Guts & Glory in one of the Mythopia Trials.",
+    "house": "Hades' Lair",
+    "icon": "star",
     "name": "Hades",
     "origin": "Hercules",
-    "house": "Hades' Lair",
-    "description": "Hades is a character from the Disney film Hercules (1997). He is encountered during the Story quest Guts & Glory in one of the Mythopia Trials.",
+    "quests": [
+        "hades.story",
+        "hades.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Underworld Throne",
         "Hercules Thunder Bolt Motif",
         "Armor of the Styx"
-    ],
-    "quests": [
-        "hades.story",
-        "hades.friendship"
     ]
 }

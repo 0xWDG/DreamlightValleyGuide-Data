@@ -1,13 +1,14 @@
 {
-    "name": "Raspberry Boba Tea",
     "description": "A sugary treat that's berry delicious.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 1203,
-    "price": 377,
+    "icon": "star",
     "ingredients": [
         "Milk",
         "Sugarcane",
         "Raspberry"
-    ]
+    ],
+    "name": "Raspberry Boba Tea",
+    "price": 377,
+    "stars": 3,
+    "type": "Desserts"
 }

@@ -1,21 +1,22 @@
 {
-    "name": "Oats",
-    "type": "Grains",
-    "found": [
-        "Everafter"
-    ],
-    "biome": "Everafter",
-    "growTime": 2,
-    "price": 99,
-    "sellPrice": 99,
-    "seedPrice": 150,
-    "grow": "2hr",
-    "waterings": 0,
-    "yield": 1,
     "activity": [
         "gardening"
     ],
+    "biome": "Everafter",
     "coins": 0,
+    "description": "Perfect for making oatmeal or adding a little crunch to yogurt.",
+    "found": [
+        "Everafter"
+    ],
+    "grow": "2hr",
+    "growTime": 2,
+    "icon": "star",
+    "name": "Oats",
+    "price": 99,
     "rarity": "none",
-    "description": "Perfect for making oatmeal or adding a little crunch to yogurt."
+    "seedPrice": 150,
+    "sellPrice": 99,
+    "type": "Grains",
+    "waterings": 0,
+    "yield": 1
 }

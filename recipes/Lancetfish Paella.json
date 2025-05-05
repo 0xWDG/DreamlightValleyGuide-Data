@@ -1,15 +1,16 @@
 {
-    "name": "Lancetfish Paella",
     "description": "A seafood and rice delicacy made with a cut of fresh lancetfish.",
-    "type": "Entr\u00e9es",
-    "stars": 5,
     "energy": 4550,
-    "price": 1700,
+    "icon": "star",
     "ingredients": [
         "Lancetfish",
         "Shrimp",
         "Any Seafood",
         "Tomato",
         "Rice"
-    ]
+    ],
+    "name": "Lancetfish Paella",
+    "price": 1700,
+    "stars": 5,
+    "type": "Entr\u00e9es"
 }

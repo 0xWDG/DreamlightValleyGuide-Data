@@ -1,16 +1,17 @@
 {
-    "name": "Salad",
-    "description": "A simple, healthy salad.",
-    "type": "Appetizers",
-    "stars": 1,
-    "energy": 139,
-    "price": 9,
-    "ingredients": [
-        "Lettuce"
-    ],
     "activity": [
         "recipes"
     ],
+    "description": "A simple, healthy salad.",
+    "energy": 139,
     "found": [],
-    "rarity": "none"
+    "icon": "star",
+    "ingredients": [
+        "Lettuce"
+    ],
+    "name": "Salad",
+    "price": 9,
+    "rarity": "none",
+    "stars": 1,
+    "type": "Appetizers"
 }

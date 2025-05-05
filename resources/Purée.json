@@ -1,16 +1,17 @@
 {
-    "name": "Pur\u00e9e",
-    "description": "A smooth, creamy veggie paste.",
-    "type": "Appetizers",
-    "stars": 1,
-    "energy": 230,
-    "price": 151,
-    "ingredients": [
-        "Potato"
-    ],
     "activity": [
         "recipes"
     ],
+    "description": "A smooth, creamy veggie paste.",
+    "energy": 230,
     "found": [],
-    "rarity": "none"
+    "icon": "star",
+    "ingredients": [
+        "Potato"
+    ],
+    "name": "Pur\u00e9e",
+    "price": 151,
+    "rarity": "none",
+    "stars": 1,
+    "type": "Appetizers"
 }

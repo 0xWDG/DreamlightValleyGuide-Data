@@ -1,14 +1,14 @@
 {
-    "name": "Yellow Frog Snippet",
+    "activity": [
+        "snippets"
+    ],
     "description": "Frogs: Yellow Frog Snippet",
-    "icon": "Yellow Frog Snippet",
-    "type": "Frogs",
-    "price": 10,
     "found": [
         "The Beanstalk Marshes"
     ],
+    "icon": "Yellow Frog Snippet",
     "maxSpawns": 0,
-    "activity": [
-        "snippets"
-    ]
+    "name": "Yellow Frog Snippet",
+    "price": 10,
+    "type": "Frogs"
 }

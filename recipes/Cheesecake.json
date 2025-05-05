@@ -1,14 +1,15 @@
 {
-    "name": "Cheesecake",
     "description": "A rich, creamy dessert served with fruit sauce.",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 1161,
-    "price": 332,
+    "icon": "star",
     "ingredients": [
         "Cheese",
         "Wheat",
         "Sugarcane",
         "Any Fruit"
-    ]
+    ],
+    "name": "Cheesecake",
+    "price": 332,
+    "stars": 4,
+    "type": "Desserts"
 }

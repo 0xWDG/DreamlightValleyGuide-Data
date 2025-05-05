@@ -1,14 +1,15 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "You've never seen such a shrimp. Hopefully it tastes just as good as the classic-looking one.",
+    "energy": 1600,
     "found": [
         "The Grove"
     ],
-    "price": 1100,
-    "energy": 1600,
-    "rarity": "Gold",
-    "type": "Seafood",
+    "icon": "star",
     "name": "Prisma Shrimp",
-    "description": "You've never seen such a shrimp. Hopefully it tastes just as good as the classic-looking one.",
-    "activity": [
-        "fishing"
-    ]
+    "price": 1100,
+    "rarity": "Gold",
+    "type": "Seafood"
 }

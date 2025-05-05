@@ -1,18 +1,19 @@
 {
-    "name": "\"My Hero\" Cookie",
+    "activity": [
+        "recipes"
+    ],
     "description": "A perfect tasty gift for a friend.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 679,
-    "price": 294,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Wheat",
         "Butter",
         "Any Sweets"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "\"My Hero\" Cookie",
+    "price": 294,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Desserts"
 }

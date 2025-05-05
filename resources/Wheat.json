@@ -1,25 +1,26 @@
 {
-    "name": "Wheat",
-    "description": "Wheat is a valuable source of essential nutrients, providing carbohydrate-based energy and fiber, protein, B vitamins, calcium, magnesium, phosphorus, potassium, zinc, and iron. In low and medium-income countries, grain-based foods still make up the central part of the diet.",
-    "type": "Grains",
-    "biome": "Peaceful Meadow",
-    "grow": "1min",
-    "water": 1,
-    "yield": 2,
-    "seed": 1,
-    "sell": 2,
-    "profit": 3,
-    "coins": 3,
     "activity": [
         "gardening"
     ],
-    "price": 2,
+    "biome": "Peaceful Meadow",
+    "coins": 3,
+    "description": "Wheat is a valuable source of essential nutrients, providing carbohydrate-based energy and fiber, protein, B vitamins, calcium, magnesium, phosphorus, potassium, zinc, and iron. In low and medium-income countries, grain-based foods still make up the central part of the diet.",
     "found": [
         "Peaceful Meadow"
     ],
+    "grow": "1min",
     "growTime": 1,
-    "sellPrice": 2,
+    "icon": "star",
+    "name": "Wheat",
+    "price": 2,
+    "profit": 3,
+    "rarity": "none",
+    "seed": 1,
     "seedPrice": 1,
+    "sell": 2,
+    "sellPrice": 2,
+    "type": "Grains",
+    "water": 1,
     "waterings": 1,
-    "rarity": "none"
+    "yield": 2
 }

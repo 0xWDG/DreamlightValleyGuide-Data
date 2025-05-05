@@ -1,6 +1,7 @@
 {
     "code": "FOFTROPHY",
     "description": "150 Moonstone",
+    "icon": "star",
     "items": [
         "150 Moonstone"
     ],

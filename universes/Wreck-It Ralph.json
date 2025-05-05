@@ -1,8 +1,9 @@
 {
-    "name": "Wreck-It Ralph",
-    "description": "Wreck-It Ralph is a universe in Disney Dreamlight Valley based on the Disney animated film Wreck-It Ralph (2012) and its sequel Ralph Breaks the Internet (2018).\r\nThe films star Ralph, the eponymous arcade game villain who rebels against his \"bad-guy\" role and dreams of becoming a hero. After obtaining a medal from Hero's Duty, he ends up in the racing game Sugar Rush and meets Vanellope, and they become best friends.",
-    "price": 0,
     "characters": [
         "Vanellope"
-    ]
+    ],
+    "description": "Wreck-It Ralph is a universe in Disney Dreamlight Valley based on the Disney animated film Wreck-It Ralph (2012) and its sequel Ralph Breaks the Internet (2018).\r\nThe films star Ralph, the eponymous arcade game villain who rebels against his \"bad-guy\" role and dreams of becoming a hero. After obtaining a medal from Hero's Duty, he ends up in the racing game Sugar Rush and meets Vanellope, and they become best friends.",
+    "icon": "star",
+    "name": "Wreck-It Ralph",
+    "price": 0
 }

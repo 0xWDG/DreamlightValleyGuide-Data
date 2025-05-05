@@ -1,13 +1,14 @@
 {
-    "name": "Cherry Pie",
     "description": "A tart cherry pie.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 1497,
-    "price": 326,
+    "icon": "star",
     "ingredients": [
         "Cherry",
         "Wheat",
         "Butter"
-    ]
+    ],
+    "name": "Cherry Pie",
+    "price": 326,
+    "stars": 3,
+    "type": "Desserts"
 }

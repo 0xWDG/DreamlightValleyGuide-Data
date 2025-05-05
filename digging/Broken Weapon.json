@@ -1,14 +1,14 @@
 {
-    "name": "Broken Weapon",
-    "description": "A broken sword and shield.",
     "activity": [
         "digging"
     ],
-    "icon": "\ud83e\udea8",
-    "price": 25,
-    "giftReward": 0,
-    "maxSpawns": 0,
+    "description": "A broken sword and shield.",
     "found": [
         "Mythopia"
-    ]
+    ],
+    "giftReward": 0,
+    "icon": "\ud83e\udea8",
+    "maxSpawns": 0,
+    "name": "Broken Weapon",
+    "price": 25
 }

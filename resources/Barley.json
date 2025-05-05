@@ -1,21 +1,22 @@
 {
-    "name": "Barley",
-    "type": "Grains",
-    "found": [
-        "The Bind"
-    ],
-    "biome": "The Bind",
-    "growTime": 15,
-    "price": 15,
-    "sellPrice": 15,
-    "seedPrice": 15,
-    "grow": "15min",
-    "waterings": 0,
-    "yield": 1,
     "activity": [
         "gardening"
     ],
+    "biome": "The Bind",
     "coins": 0,
+    "description": "A grain that grows in temperate climates, this is perfect for making bread or giving a bit of starch to a stew.",
+    "found": [
+        "The Bind"
+    ],
+    "grow": "15min",
+    "growTime": 15,
+    "icon": "star",
+    "name": "Barley",
+    "price": 15,
     "rarity": "none",
-    "description": "A grain that grows in temperate climates, this is perfect for making bread or giving a bit of starch to a stew."
+    "seedPrice": 15,
+    "sellPrice": 15,
+    "type": "Grains",
+    "waterings": 0,
+    "yield": 1
 }

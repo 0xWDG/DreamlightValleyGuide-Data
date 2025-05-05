@@ -1,17 +1,18 @@
 {
-    "name": "Smoked Peanuts and Anglerfish",
+    "activity": [
+        "recipes"
+    ],
     "description": "A cut of anglerfish grilled to perfection in smoked peanuts.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 3960,
-    "price": 2200,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Anglerfish",
         "Peanut"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Smoked Peanuts and Anglerfish",
+    "price": 2200,
+    "rarity": "none",
+    "stars": 2,
+    "type": "Entr\u00e9es"
 }

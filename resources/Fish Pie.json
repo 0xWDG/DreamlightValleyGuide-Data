@@ -1,18 +1,19 @@
 {
-    "name": "Fish Pie",
+    "activity": [
+        "recipes"
+    ],
     "description": "A filling dish served with mashed potatoes.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 867,
-    "price": 303,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Any Fish",
         "Wheat",
         "Butter"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Fish Pie",
+    "price": 303,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

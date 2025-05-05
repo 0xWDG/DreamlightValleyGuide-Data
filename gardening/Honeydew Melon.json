@@ -1,20 +1,21 @@
 {
-    "name": "Honeydew Melon",
-    "type": "Fruit",
-    "found": [
-        "Mythopia"
-    ],
-    "biome": "Mythopia",
-    "growTime": 45,
-    "price": 125,
-    "sellPrice": 125,
-    "seedPrice": 40,
-    "grow": "45min",
-    "waterings": 0,
-    "yield": 1,
     "activity": [
         "gardening"
     ],
+    "biome": "Mythopia",
     "coins": 85,
-    "description": "Beneath that yellow rind, this melon is as sweet as honey and succulent as the morning dew."
+    "description": "Beneath that yellow rind, this melon is as sweet as honey and succulent as the morning dew.",
+    "found": [
+        "Mythopia"
+    ],
+    "grow": "45min",
+    "growTime": 45,
+    "icon": "star",
+    "name": "Honeydew Melon",
+    "price": 125,
+    "seedPrice": 40,
+    "sellPrice": 125,
+    "type": "Fruit",
+    "waterings": 0,
+    "yield": 1
 }

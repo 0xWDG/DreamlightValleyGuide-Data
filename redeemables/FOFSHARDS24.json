@@ -1,6 +1,7 @@
 {
     "code": "FOFSHARDS24",
     "description": "x10 Dream Shard, x10 Night Shard",
+    "icon": "star",
     "items": [
         "x10 Dream Shard",
         "x10 Night Shard"

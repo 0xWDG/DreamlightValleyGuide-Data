@@ -1,17 +1,18 @@
 {
-    "name": "Tamagoyaki",
+    "activity": [
+        "recipes"
+    ],
     "description": "Lightly fried mounds of fluffy omelet eggs!",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 689,
-    "price": 310,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Egg",
         "Sugarcane"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Tamagoyaki",
+    "price": 310,
+    "rarity": "none",
+    "stars": 2,
+    "type": "Entr\u00e9es"
 }

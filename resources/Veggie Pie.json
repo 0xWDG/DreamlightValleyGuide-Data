@@ -1,18 +1,19 @@
 {
-    "name": "Veggie Pie",
+    "activity": [
+        "recipes"
+    ],
     "description": "A warm and savory pie filled with veggies.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 634,
-    "price": 279,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Any Vegetable",
         "Butter",
         "Wheat"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Veggie Pie",
+    "price": 279,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

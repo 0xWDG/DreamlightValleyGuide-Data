@@ -1,14 +1,14 @@
 {
-    "name": "Red Passion Lily",
-    "description": "Its bloom is an explosion of color.",
-    "icon": "\ud83c\udf3a",
-    "price": 38,
-    "maxSpawns": 4,
-    "found": [
-        "Frosted Heights"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "Its bloom is an explosion of color.",
+    "found": [
+        "Frosted Heights"
+    ],
+    "icon": "\ud83c\udf3a",
+    "maxSpawns": 4,
+    "name": "Red Passion Lily",
+    "price": 38,
     "rarity": "none"
 }

@@ -1,14 +1,15 @@
 {
-    "name": "Citrine",
+    "activity": [
+        "mining"
+    ],
     "description": "An orange gem that can be mined.",
-    "price": 380,
-    "gift": 600,
     "found": [
         "Sunlit Plateau",
         "Glade of Trust"
     ],
-    "activity": [
-        "mining"
-    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Citrine",
+    "price": 380,
     "rarity": "none"
 }

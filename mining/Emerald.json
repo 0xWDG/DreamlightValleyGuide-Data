@@ -1,14 +1,14 @@
 {
-    "name": "Emerald",
+    "activity": [
+        "mining"
+    ],
     "description": "A deep green gem that can be mined.",
-    "icon": "\ud83d\udc8e",
-    "price": 325,
-    "gift": 600,
     "found": [
         "Forest of Valor",
         "Glade of Trust"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "icon": "\ud83d\udc8e",
+    "name": "Emerald",
+    "price": 325
 }

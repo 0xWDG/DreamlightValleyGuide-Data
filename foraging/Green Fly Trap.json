@@ -7,6 +7,7 @@
         "The Grasslands",
         "The Promenade"
     ],
+    "icon": "star",
     "maxSpawns": 2,
     "name": "Green Fly Trap",
     "price": 73

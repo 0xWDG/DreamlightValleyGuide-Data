@@ -1,14 +1,15 @@
 {
+    "description": "A very big fish with some very red scales.",
+    "energy": 1250,
     "found": [
         "The Grasslands",
         "The Promenade",
         "The Grove",
         "The Lagoon"
     ],
-    "price": 625,
-    "energy": 1250,
-    "rarity": "Blue",
-    "type": "Fish",
+    "icon": "star",
     "name": "Pirarucu",
-    "description": "A very big fish with some very red scales."
+    "price": 625,
+    "rarity": "Blue",
+    "type": "Fish"
 }

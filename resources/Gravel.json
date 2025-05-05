@@ -1,15 +1,15 @@
 {
-    "name": "Gravel",
-    "description": "Old rubble found scattered throughout Mythopia.",
-    "icon": "\ud83e\udea8",
-    "price": 20,
-    "giftReward": 0,
-    "maxSpawns": 0,
-    "found": [
-        "\u00a0Digging\r\n Mythopia"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "Old rubble found scattered throughout Mythopia.",
+    "found": [
+        "\u00a0Digging\r\n Mythopia"
+    ],
+    "giftReward": 0,
+    "icon": "\ud83e\udea8",
+    "maxSpawns": 0,
+    "name": "Gravel",
+    "price": 20,
     "rarity": "none"
 }

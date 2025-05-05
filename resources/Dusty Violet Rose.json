@@ -1,14 +1,15 @@
 {
-    "name": "Dusty Violet Rose",
+    "activity": [
+        "foraging"
+    ],
+    "description": "Dusty Violet Rose is a flower type that can be found growing wild in The Wild Woods and The Beanstalk Marshes areas in Everafter.",
     "found": [
         "The Wild Woods",
         "The Beanstalk Marshes"
     ],
+    "icon": "star",
     "maxSpawns": 6,
+    "name": "Dusty Violet Rose",
     "price": 27,
-    "activity": [
-        "foraging"
-    ],
-    "rarity": "none",
-    "description": "Dusty Violet Rose is a flower type that can be found growing wild in The Wild Woods and The Beanstalk Marshes areas in Everafter."
+    "rarity": "none"
 }

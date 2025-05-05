@@ -1,13 +1,14 @@
 {
-    "name": "Sole",
     "description": "A flatfish that is shaped like a tongue!",
-    "rarity": "White, Blue",
-    "price": 200,
     "energy": 500,
     "found": [
         "Forgotten Lands",
         "The Docks",
         "The Overlook"
     ],
+    "icon": "star",
+    "name": "Sole",
+    "price": 200,
+    "rarity": "White, Blue",
     "type": "Fish"
 }

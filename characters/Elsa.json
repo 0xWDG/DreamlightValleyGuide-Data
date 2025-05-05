@@ -1,8 +1,13 @@
 {
+    "description": "Elsa is a character from the Disney films Frozen (2013), Frozen II (2019).",
+    "house": "Ice Cavern",
+    "icon": "star",
     "name": "Elsa",
     "origin": "Frozen",
-    "house": "Ice Cavern",
-    "description": "Elsa is a character from the Disney films Frozen (2013), Frozen II (2019).",
+    "quests": [
+        "elsa.friendship",
+        "elsa.realm"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Ice Throne",
         "The Nokk Portrait Motif",
         "Gleaming Ice Gown"
-    ],
-    "quests": [
-        "elsa.friendship",
-        "elsa.realm"
     ]
 }

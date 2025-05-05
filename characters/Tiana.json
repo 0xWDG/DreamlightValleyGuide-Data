@@ -1,8 +1,12 @@
 {
+    "description": "Tiana is a character from the film The Princess and the Frog (2009). She can be unlocked after picking up the Mysterious Cajun Recipe Book in the Glade of Trust, and completing the quest A Taste for Literature.",
+    "house": "Tiana's House",
+    "icon": "star",
     "name": "Tiana",
     "origin": "The Princess and the Frog",
-    "house": "Tiana's House",
-    "description": "Tiana is a character from the film The Princess and the Frog (2009). She can be unlocked after picking up the Mysterious Cajun Recipe Book in the Glade of Trust, and completing the quest A Taste for Literature.",
+    "quests": [
+        "tiana.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,8 +19,5 @@
         "Jazz Age Kitchen Stove",
         "Lily Pad Pattern Motif",
         "Green Flapper Dress\nGreen Vintage Waistcoat"
-    ],
-    "quests": [
-        "tiana.friendship"
     ]
 }

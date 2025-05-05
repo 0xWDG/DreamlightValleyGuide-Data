@@ -1,16 +1,17 @@
 {
-    "name": "Peridot",
+    "activity": [
+        "mining"
+    ],
     "description": "A light green mineral that can be mined.",
-    "price": 200,
-    "gift": 600,
     "found": [
         "Dazzle Beach",
         "Peaceful Meadow",
         "The Grasslands",
         "The Promenade"
     ],
-    "activity": [
-        "mining"
-    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Peridot",
+    "price": 200,
     "rarity": "none"
 }

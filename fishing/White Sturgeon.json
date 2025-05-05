@@ -1,11 +1,12 @@
 {
-    "name": "White Sturgeon",
     "description": "These huge fish can live to be 100 years old!",
-    "rarity": "Gold",
-    "price": 1250,
     "energy": 1800,
     "found": [
         "Frosted Heights"
     ],
+    "icon": "star",
+    "name": "White Sturgeon",
+    "price": 1250,
+    "rarity": "Gold",
     "type": "Fish"
 }

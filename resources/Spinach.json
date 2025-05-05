@@ -1,25 +1,26 @@
 {
-    "name": "Spinach",
-    "description": "Spinach (Spinacia oleracea) is a leafy green vegetable that originated in Persia. It belongs to the amaranth family and is related to beets and quinoa. What's more, it's considered very healthy, as it's loaded with nutrients and antioxidants. There are many ways to prepare spinach.",
-    "type": "Vegetables",
-    "biome": "Glade of Trust",
-    "grow": "60min",
-    "water": 2,
-    "yield": 3,
-    "seed": 45,
-    "sell": 41,
-    "profit": 78,
-    "coins": 78,
     "activity": [
         "gardening"
     ],
-    "price": 41,
+    "biome": "Glade of Trust",
+    "coins": 78,
+    "description": "Spinach (Spinacia oleracea) is a leafy green vegetable that originated in Persia. It belongs to the amaranth family and is related to beets and quinoa. What's more, it's considered very healthy, as it's loaded with nutrients and antioxidants. There are many ways to prepare spinach.",
     "found": [
         "Glade of Trust"
     ],
+    "grow": "60min",
     "growTime": 60,
-    "sellPrice": 41,
+    "icon": "star",
+    "name": "Spinach",
+    "price": 41,
+    "profit": 78,
+    "rarity": "none",
+    "seed": 45,
     "seedPrice": 45,
+    "sell": 41,
+    "sellPrice": 41,
+    "type": "Vegetables",
+    "water": 2,
     "waterings": 2,
-    "rarity": "none"
+    "yield": 3
 }

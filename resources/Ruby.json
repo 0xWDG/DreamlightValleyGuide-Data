@@ -1,14 +1,15 @@
 {
-    "name": "Ruby",
+    "activity": [
+        "mining"
+    ],
     "description": "A red mineral that can be mined.",
-    "price": 350,
-    "gift": 600,
     "found": [
         "Vitalys Mine",
         "Mythopia"
     ],
-    "activity": [
-        "mining"
-    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Ruby",
+    "price": 350,
     "rarity": "none"
 }

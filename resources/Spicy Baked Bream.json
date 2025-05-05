@@ -1,18 +1,19 @@
 {
-    "name": "Spicy Baked Bream",
+    "activity": [
+        "recipes"
+    ],
     "description": "A rich, flavorful meal that doesn't require too much extra effort to make.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 3155,
-    "price": 1200,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Bream",
         "Chili Pepper",
         "Butter"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Spicy Baked Bream",
+    "price": 1200,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

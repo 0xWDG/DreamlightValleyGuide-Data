@@ -1,14 +1,14 @@
 {
-    "name": "Yellow Nasturtium",
-    "description": "Yellow petals bloom from a red-orange bulb.",
-    "icon": "\ud83c\udf3a",
-    "price": 85,
-    "maxSpawns": 2,
-    "found": [
-        "Forgotten Lands"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "Yellow petals bloom from a red-orange bulb.",
+    "found": [
+        "Forgotten Lands"
+    ],
+    "icon": "\ud83c\udf3a",
+    "maxSpawns": 2,
+    "name": "Yellow Nasturtium",
+    "price": 85,
     "rarity": "none"
 }

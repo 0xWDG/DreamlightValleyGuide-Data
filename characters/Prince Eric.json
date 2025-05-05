@@ -1,8 +1,12 @@
 {
+    "description": "Prince Eric is a character from the Disney film The Little Mermaid (1989).",
+    "house": "Prince Eric's Castle",
+    "icon": "star",
     "name": "Prince Eric",
     "origin": "The Little Mermaid",
-    "house": "Prince Eric's Castle",
-    "description": "Prince Eric is a character from the Disney film The Little Mermaid (1989).",
+    "quests": [
+        "princeeric.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,8 +19,5 @@
         "White and Blue Officer Jacket",
         "Sailing Ship Motif",
         "Eric's Miniature Boat"
-    ],
-    "quests": [
-        "princeeric.friendship"
     ]
 }

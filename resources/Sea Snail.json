@@ -1,15 +1,16 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "This snail leaves a tiny trail of stars behind it as it crawls. It looks just like the Milky Way.",
+    "energy": 800,
     "found": [
         "The Docks",
         "The Overlook"
     ],
-    "price": 250,
-    "energy": 800,
-    "rarity": "Blue, White",
-    "type": "Seafood",
+    "icon": "star",
     "name": "Sea Snail",
-    "description": "This snail leaves a tiny trail of stars behind it as it crawls. It looks just like the Milky Way.",
-    "activity": [
-        "fishing"
-    ]
+    "price": 250,
+    "rarity": "Blue, White",
+    "type": "Seafood"
 }

@@ -1,14 +1,15 @@
 {
-    "name": "Emerald",
+    "activity": [
+        "mining"
+    ],
     "description": "A deep green gem that can be mined.",
-    "price": 325,
-    "gift": 600,
     "found": [
         "Forest of Valor",
         "Glade of Trust"
     ],
-    "activity": [
-        "mining"
-    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Emerald",
+    "price": 325,
     "rarity": "none"
 }

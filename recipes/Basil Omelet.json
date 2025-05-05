@@ -1,14 +1,15 @@
 {
-    "name": "Basil Omelet",
     "description": "Fluffy eggs cooked with basil.",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 2035,
-    "price": 982,
+    "icon": "star",
     "ingredients": [
         "Basil",
         "Egg",
         "Cheese",
         "Milk"
-    ]
+    ],
+    "name": "Basil Omelet",
+    "price": 982,
+    "stars": 4,
+    "type": "Entr\u00e9es"
 }

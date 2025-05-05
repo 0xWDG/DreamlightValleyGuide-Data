@@ -1,12 +1,13 @@
 {
-    "name": "French Fries",
     "description": "Perfectly seasoned potato fries.",
-    "type": "Appetizers",
-    "stars": 2,
     "energy": 342,
-    "price": 304,
+    "icon": "star",
     "ingredients": [
         "Canola",
         "Potato"
-    ]
+    ],
+    "name": "French Fries",
+    "price": 304,
+    "stars": 2,
+    "type": "Appetizers"
 }

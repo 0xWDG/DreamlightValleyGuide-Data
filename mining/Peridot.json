@@ -1,16 +1,16 @@
 {
-    "name": "Peridot",
+    "activity": [
+        "mining"
+    ],
     "description": "A light green mineral that can be mined.",
-    "icon": "\ud83d\udc8e",
-    "price": 200,
-    "gift": 600,
     "found": [
         "Dazzle Beach",
         "Peaceful Meadow",
         "The Grasslands",
         "The Promenade"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "icon": "\ud83d\udc8e",
+    "name": "Peridot",
+    "price": 200
 }

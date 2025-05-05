@@ -1,18 +1,19 @@
 {
-    "name": "Pizza",
+    "activity": [
+        "recipes"
+    ],
     "description": "Who doesn't love pizza?",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 607,
-    "price": 284,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Tomato",
         "Cheese",
         "Wheat"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Pizza",
+    "price": 284,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

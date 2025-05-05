@@ -1,17 +1,18 @@
 {
-    "name": "Scrambled Egg",
+    "activity": [
+        "recipes"
+    ],
     "description": "A hearty meal perfect for almost every occasion.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 1070,
-    "price": 520,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Egg",
         "Cheese"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Scrambled Egg",
+    "price": 520,
+    "rarity": "none",
+    "stars": 2,
+    "type": "Entr\u00e9es"
 }

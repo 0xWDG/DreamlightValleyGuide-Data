@@ -1,9 +1,4 @@
 {
-    "name": "Sunlit Plateau",
-    "island": "Dreamlight Valley",
-    "description": "The Sunlit Plateau is a savanna-like biome in Dreamlight Valley.\r\n\r\nIt is located on the west side of the Valley, connected to the Plaza and Forgotten Lands. It also contains the entrance to the Vitalys Mines, which unlocks during the quest Nature & Nurture.\r\n\r\nThe thorns blocking the pathway to this biome can be cleared using 7,000 Dreamlight.",
-    "price": 7000,
-    "currency": "Dreamlight",
     "characters": [
         "Nala",
         "Simba",
@@ -11,5 +6,11 @@
         "Pumbaa",
         "Timon"
     ],
-    "critters": "Sunbirds"
+    "critters": "Sunbirds",
+    "currency": "Dreamlight",
+    "description": "The Sunlit Plateau is a savanna-like biome in Dreamlight Valley.\r\n\r\nIt is located on the west side of the Valley, connected to the Plaza and Forgotten Lands. It also contains the entrance to the Vitalys Mines, which unlocks during the quest Nature & Nurture.\r\n\r\nThe thorns blocking the pathway to this biome can be cleared using 7,000 Dreamlight.",
+    "icon": "star",
+    "island": "Dreamlight Valley",
+    "name": "Sunlit Plateau",
+    "price": 7000
 }

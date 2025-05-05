@@ -1,18 +1,19 @@
 {
-    "name": "Berry Salad",
+    "activity": [
+        "recipes"
+    ],
     "description": "Leafy salad topped with a variety of berries.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 2210,
-    "price": 139,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Raspberry",
         "Blueberry",
         "Gooseberry"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Berry Salad",
+    "price": 139,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Desserts"
 }

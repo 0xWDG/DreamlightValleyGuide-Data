@@ -1,18 +1,19 @@
 {
-    "name": "Biscuits",
+    "activity": [
+        "recipes"
+    ],
     "description": "A tried and true side to serve at any meal.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 679,
-    "price": 294,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Wheat",
         "Sugarcane",
         "Butter"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Biscuits",
+    "price": 294,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Desserts"
 }

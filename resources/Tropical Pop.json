@@ -1,19 +1,20 @@
 {
-    "name": "Tropical Pop",
+    "activity": [
+        "recipes"
+    ],
     "description": "A refreshingly cool sorbet on a stick.",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 1989,
-    "price": 347,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Slush Ice",
         "Any Fruit",
         "Sugarcane",
         "Coconut"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Tropical Pop",
+    "price": 347,
+    "rarity": "none",
+    "stars": 4,
+    "type": "Desserts"
 }

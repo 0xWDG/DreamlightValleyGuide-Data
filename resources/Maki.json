@@ -1,18 +1,19 @@
 {
-    "name": "Maki",
+    "activity": [
+        "recipes"
+    ],
     "description": "Traditional sushi roll of fish and veggies.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 471,
-    "price": 148,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Any Fish",
         "Seaweed",
         "Rice"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Maki",
+    "price": 148,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

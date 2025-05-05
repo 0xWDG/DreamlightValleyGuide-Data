@@ -1,10 +1,11 @@
 {
-    "name": "Greek Pizza",
+    "activity": [
+        "recipes"
+    ],
     "description": "A thin pizza with olive oil and many toppings.",
-    "type": "Entr\u00e9es",
-    "stars": 5,
     "energy": 1152,
-    "price": 630,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Any Spice",
         "Wheat",
@@ -12,9 +13,9 @@
         "Tomato",
         "Onion"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Greek Pizza",
+    "price": 630,
+    "rarity": "none",
+    "stars": 5,
+    "type": "Entr\u00e9es"
 }

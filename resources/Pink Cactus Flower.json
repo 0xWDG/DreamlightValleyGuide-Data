@@ -1,14 +1,15 @@
 {
-    "name": "Pink Cactus Flower",
+    "activity": [
+        "foraging"
+    ],
+    "description": "The spikier the cactus, the prettier the pink petals.",
     "found": [
         "The Oasis",
         "The Borderlands"
     ],
+    "icon": "star",
     "maxSpawns": 6,
+    "name": "Pink Cactus Flower",
     "price": 25,
-    "activity": [
-        "foraging"
-    ],
-    "rarity": "none",
-    "description": "The spikier the cactus, the prettier the pink petals."
+    "rarity": "none"
 }

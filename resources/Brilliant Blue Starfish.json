@@ -1,14 +1,15 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "This starfish would make a fine addition to any sandcastle.",
+    "energy": 1650,
     "found": [
         "The Oasis"
     ],
-    "price": 875,
-    "energy": 1650,
-    "rarity": "Gold",
-    "type": "Seafood",
+    "icon": "star",
     "name": "Brilliant Blue Starfish",
-    "description": "This starfish would make a fine addition to any sandcastle.",
-    "activity": [
-        "fishing"
-    ]
+    "price": 875,
+    "rarity": "Gold",
+    "type": "Seafood"
 }

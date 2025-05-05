@@ -1,15 +1,16 @@
 {
-    "name": "Ratatouille",
     "description": "A colorful plate of cooked vegetables.",
-    "type": "Entr\u00e9es",
-    "stars": 5,
     "energy": 572,
-    "price": 914,
+    "icon": "star",
     "ingredients": [
         "Tomato",
         "Eggplant",
         "Onion",
         "Zucchini",
         "Any Spice"
-    ]
+    ],
+    "name": "Ratatouille",
+    "price": 914,
+    "stars": 5,
+    "type": "Entr\u00e9es"
 }

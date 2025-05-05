@@ -1,17 +1,18 @@
 {
-    "name": "Fruit Sorbet",
+    "activity": [
+        "recipes"
+    ],
     "description": "A delicious fruity treat for the hottest days.",
-    "type": "Desserts",
-    "stars": 2,
     "energy": 857,
-    "price": 222,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Slush Ice",
         "Any Fruit"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Fruit Sorbet",
+    "price": 222,
+    "rarity": "none",
+    "stars": 2,
+    "type": "Desserts"
 }

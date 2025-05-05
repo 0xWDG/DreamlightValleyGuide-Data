@@ -1,8 +1,9 @@
 {
-    "name": "Cinderella",
-    "description": "Cinderella is a universe in Disney Dreamlight Valley based on the Disney animated film Cinderella (1950), which is based on the fairy tale by Charles Perrault.",
-    "price": 0,
     "characters": [
         "The Fairy Godmother"
-    ]
+    ],
+    "description": "Cinderella is a universe in Disney Dreamlight Valley based on the Disney animated film Cinderella (1950), which is based on the fairy tale by Charles Perrault.",
+    "icon": "star",
+    "name": "Cinderella",
+    "price": 0
 }

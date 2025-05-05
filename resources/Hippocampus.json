@@ -1,14 +1,15 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "Cousin to the hooved Hippocampus, this one thought that fins work just fine for an aquatic life.",
+    "energy": 500,
     "found": [
         "Mythopia"
     ],
-    "price": 800,
-    "energy": 500,
-    "rarity": "White, Blue",
-    "type": "Seafood",
+    "icon": "star",
     "name": "Hippocampus",
-    "description": "Cousin to the hooved Hippocampus, this one thought that fins work just fine for an aquatic life.",
-    "activity": [
-        "fishing"
-    ]
+    "price": 800,
+    "rarity": "White, Blue",
+    "type": "Seafood"
 }

@@ -7,6 +7,7 @@
         "The Wild Woods",
         "The Beanstalk Marshes"
     ],
+    "icon": "star",
     "maxSpawns": 6,
     "name": "Dusty Violet Rose",
     "price": 27

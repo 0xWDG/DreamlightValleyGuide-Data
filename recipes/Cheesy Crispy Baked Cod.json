@@ -1,13 +1,14 @@
 {
-    "name": "Cheesy Crispy Baked Cod",
     "description": "A slab of grilled white fish baked in a cheesy and crispy crust.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 840,
-    "price": 303,
+    "icon": "star",
     "ingredients": [
         "Cod",
         "Wheat",
         "Cheese"
-    ]
+    ],
+    "name": "Cheesy Crispy Baked Cod",
+    "price": 303,
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

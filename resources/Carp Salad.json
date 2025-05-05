@@ -1,18 +1,19 @@
 {
-    "name": "Carp Salad",
+    "activity": [
+        "recipes"
+    ],
     "description": "Leafy greens with tomato and fresh fish.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 2310,
-    "price": 617,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Carp",
         "Lettuce",
         "Lemon"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Carp Salad",
+    "price": 617,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

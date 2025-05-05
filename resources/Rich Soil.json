@@ -1,14 +1,14 @@
 {
-    "name": "Rich Soil",
-    "description": "This soil can be found sometimes when harvesting crops. It's brimming with vitality and may hold great potential when mixed with the right ingredients.",
-    "icon": "\ud83c\udf31",
-    "price": 25,
-    "maxSpawns": 0,
-    "found": [
-        "Harvesting Crops"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "This soil can be found sometimes when harvesting crops. It's brimming with vitality and may hold great potential when mixed with the right ingredients.",
+    "found": [
+        "Harvesting Crops"
+    ],
+    "icon": "\ud83c\udf31",
+    "maxSpawns": 0,
+    "name": "Rich Soil",
+    "price": 25,
     "rarity": "none"
 }

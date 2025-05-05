@@ -1,13 +1,14 @@
 {
-    "name": "Apple Pie",
     "description": "A warm, delicious apple pie.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 1137,
-    "price": 303,
+    "icon": "star",
     "ingredients": [
         "Apple",
         "Wheat",
         "Butter"
-    ]
+    ],
+    "name": "Apple Pie",
+    "price": 303,
+    "stars": 3,
+    "type": "Desserts"
 }

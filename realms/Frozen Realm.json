@@ -1,9 +1,10 @@
 {
-    "name": "Frozen Realm",
-    "description": "The Frozen Realm is an area accessed through a door on the second floor inside the Dream Castle. It can be unlocked for 4000 Dreamlight.",
-    "price": 4000,
     "characters": [
         "Anna",
         "Elsa"
-    ]
+    ],
+    "description": "The Frozen Realm is an area accessed through a door on the second floor inside the Dream Castle. It can be unlocked for 4000 Dreamlight.",
+    "icon": "star",
+    "name": "Frozen Realm",
+    "price": 4000
 }

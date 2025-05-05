@@ -1,13 +1,14 @@
 {
-    "name": "Pan-Seared Tilapia & Vegetables",
     "description": "A mild, sweet fish cooked to perfection with vegetables.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 2194,
-    "price": 862,
+    "icon": "star",
     "ingredients": [
         "Tilapia",
         "Any Vegetable",
         "Any Vegetable"
-    ]
+    ],
+    "name": "Pan-Seared Tilapia & Vegetables",
+    "price": 862,
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

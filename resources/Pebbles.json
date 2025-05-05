@@ -1,14 +1,14 @@
 {
-    "name": "Pebbles",
-    "description": "You need a lot of pebbles to make a mountain...",
-    "icon": "\ud83e\udea8",
-    "price": 10,
-    "maxSpawns": 0,
-    "found": [
-        "\u00a0Kristoff's Stall\u2028\u00a0Digging\r\n Dazzle Beach\r\n Forest of Valor\r\n Sunlit Plateau\r\n Forgotten Lands"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "You need a lot of pebbles to make a mountain...",
+    "found": [
+        "\u00a0Kristoff's Stall\u2028\u00a0Digging\r\n Dazzle Beach\r\n Forest of Valor\r\n Sunlit Plateau\r\n Forgotten Lands"
+    ],
+    "icon": "\ud83e\udea8",
+    "maxSpawns": 0,
+    "name": "Pebbles",
+    "price": 10,
     "rarity": "none"
 }

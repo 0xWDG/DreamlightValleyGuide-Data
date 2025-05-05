@@ -1,8 +1,8 @@
 {
-    "name": "Bass",
+    "activity": [
+        "fishing"
+    ],
     "description": "Bass can be found just about everywhere in the Meadow.",
-    "rarity": "None or White",
-    "price": 25,
     "energy": 150,
     "found": [
         "Peaceful Meadow",
@@ -12,8 +12,9 @@
         "Oasis",
         "Wild Tangle"
     ],
-    "type": "Fish",
-    "activity": [
-        "fishing"
-    ]
+    "icon": "star",
+    "name": "Bass",
+    "price": 25,
+    "rarity": "None or White",
+    "type": "Fish"
 }

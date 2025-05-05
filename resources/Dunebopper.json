@@ -1,14 +1,15 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "If times get tough, this fish inflates its balloon-like lungs to float up and glide down sand dunes to the next available water source.",
+    "energy": 1100,
     "found": [
         "The Oasis"
     ],
-    "price": 550,
-    "energy": 1100,
-    "rarity": "Blue",
-    "type": "Fish",
+    "icon": "star",
     "name": "Dunebopper",
-    "description": "If times get tough, this fish inflates its balloon-like lungs to float up and glide down sand dunes to the next available water source.",
-    "activity": [
-        "fishing"
-    ]
+    "price": 550,
+    "rarity": "Blue",
+    "type": "Fish"
 }

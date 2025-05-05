@@ -1,17 +1,18 @@
 {
-    "name": "Minnie's Gingerbread Cookies",
+    "activity": [
+        "recipes"
+    ],
     "description": "These soft, delicious gingerbread cookies are one of Minnie's special recipes. The secret ingredients are love and care.",
-    "type": "Desserts",
-    "stars": 2,
     "energy": 379,
-    "price": 132,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Ginger",
         "Wheat"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Minnie's Gingerbread Cookies",
+    "price": 132,
+    "rarity": "none",
+    "stars": 2,
+    "type": "Desserts"
 }

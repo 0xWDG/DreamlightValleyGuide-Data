@@ -1,4 +1,5 @@
 {
+    "icon": "star",
     "name": "mushu.friendship",
     "quests": [
         {
@@ -89,7 +90,7 @@
                 "Ring the gong to start Mushu's celebration.",
                 "(Optional) Dress in red and gold for the celebration.",
                 "Talk to Mushu about celebration activities.",
-                "Complete celebration activities.\r\n  \u2027 The Red Pouch Hunt\r\n  \u2027 Cooking Sesame Balls.\r\n  \u2027 Mushu's Piñata Extravaganza.",
+                "Complete celebration activities.\r\n  \u2027 The Red Pouch Hunt\r\n  \u2027 Cooking Sesame Balls.\r\n  \u2027 Mushu's Pi\u00f1ata Extravaganza.",
                 "Recap the party with Mushu.",
                 "Take a picture of Mushu at the celebration.",
                 "Talk with Mushu about his party."
@@ -181,11 +182,11 @@
             "friendship": 0
         },
         {
-            "name": "Mushu's Piñata Extravaganza",
+            "name": "Mushu's Pi\u00f1ata Extravaganza",
             "id": "mushu.friendship.7",
             "objectives": [
-                "Find and break open 3 Mushu's piñatas in the Vitalys Mines with your Pickaxe.",
-                "Collect the 10 candy from the piñatas!"
+                "Find and break open 3 Mushu's pi\u00f1atas in the Vitalys Mines with your Pickaxe.",
+                "Collect the 10 candy from the pi\u00f1atas!"
             ],
             "rewards": [
                 "500 Friendship"

@@ -1,15 +1,16 @@
 {
-    "name": "Mediterranean Salad",
     "description": "Olive oil, feta cheese, and leafy greens!",
-    "type": "Entr\u00e9es",
-    "stars": 5,
     "energy": 976,
-    "price": 605,
+    "icon": "star",
     "ingredients": [
         "Cucumber",
         "Tomato",
         "Onion",
         "Lettuce",
         "Any Spice"
-    ]
+    ],
+    "name": "Mediterranean Salad",
+    "price": 605,
+    "stars": 5,
+    "type": "Entr\u00e9es"
 }

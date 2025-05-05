@@ -1,15 +1,16 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "A slightly sweet, slightly salty fish that makes a great centerpiece for any dish.",
+    "energy": 300,
     "found": [
         "The Docks",
         "The Overlook"
     ],
-    "price": 60,
-    "energy": 300,
-    "rarity": "White",
-    "type": "Fish",
+    "icon": "star",
     "name": "Shad",
-    "description": "A slightly sweet, slightly salty fish that makes a great centerpiece for any dish.",
-    "activity": [
-        "fishing"
-    ]
+    "price": 60,
+    "rarity": "White",
+    "type": "Fish"
 }

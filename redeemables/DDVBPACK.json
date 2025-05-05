@@ -1,6 +1,7 @@
 {
     "code": "DDVBPACK",
     "description": "Celebration Backpack",
+    "icon": "star",
     "items": [
         "Celebration Backpack"
     ],

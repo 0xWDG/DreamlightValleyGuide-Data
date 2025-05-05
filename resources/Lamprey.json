@@ -1,14 +1,15 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "Though intimidating, the lamprey's mouth gapes wider the more it searches for friendship.",
+    "energy": 1800,
     "found": [
         "Everafter"
     ],
-    "price": 1500,
-    "energy": 1800,
-    "rarity": "Gold",
-    "type": "Fish",
+    "icon": "star",
     "name": "Lamprey",
-    "description": "Though intimidating, the lamprey's mouth gapes wider the more it searches for friendship.",
-    "activity": [
-        "fishing"
-    ]
+    "price": 1500,
+    "rarity": "Gold",
+    "type": "Fish"
 }

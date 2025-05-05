@@ -1,8 +1,13 @@
 {
+    "description": "Woody is a character from Disney and Pixar's Toy Story franchise.",
+    "house": "Woody's Carousel",
+    "icon": "star",
     "name": "Woody",
     "origin": "Toy Story",
-    "house": "Woody's Carousel",
-    "description": "Woody is a character from Disney and Pixar's Toy Story franchise.",
+    "quests": [
+        "woody.friendship",
+        "woody.story"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "\"Hats Off\" Lamp",
         "Woody Portrait Motif",
         "Woody's Pull String"
-    ],
-    "quests": [
-        "woody.friendship",
-        "woody.story"
     ]
 }

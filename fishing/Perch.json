@@ -1,8 +1,5 @@
 {
-    "name": "Perch",
     "description": "A rare fish found only in a special spot.",
-    "rarity": "Blue, White",
-    "price": 80,
     "energy": 400,
     "found": [
         "Forest of Valor",
@@ -10,5 +7,9 @@
         "The Grove",
         "The Lagoon"
     ],
+    "icon": "star",
+    "name": "Perch",
+    "price": 80,
+    "rarity": "Blue, White",
     "type": "Fish"
 }

@@ -1,9 +1,10 @@
 {
-    "name": "Teapot Falls",
-    "island": "Storybook Vale",
-    "description": "Teapot Falls is a biome in Storybook Vale, available only in the paid expansion The Storybook Vale.\r\n\r\nIt is the first biome the player must unlock after its subregion The Library of Lore. The Library of Lore region is unlocked at no cost immediately after purchasing the expansion and beginning the introductory quest.",
-    "price": 5000,
-    "currency": "Storybook Magic",
     "characters": [],
-    "critters": "Red Baby Dragons"
+    "critters": "Red Baby Dragons",
+    "currency": "Storybook Magic",
+    "description": "Teapot Falls is a biome in Storybook Vale, available only in the paid expansion The Storybook Vale.\r\n\r\nIt is the first biome the player must unlock after its subregion The Library of Lore. The Library of Lore region is unlocked at no cost immediately after purchasing the expansion and beginning the introductory quest.",
+    "icon": "star",
+    "island": "Storybook Vale",
+    "name": "Teapot Falls",
+    "price": 5000
 }

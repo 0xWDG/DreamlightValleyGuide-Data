@@ -1,13 +1,14 @@
 {
-    "name": "Beige Tale Cone Flower",
-    "found": [
-        "The Bind"
-    ],
-    "maxSpawns": 1,
-    "price": 57,
     "activity": [
         "foraging"
     ],
-    "rarity": "none",
-    "description": "These subtle beige flowers prefer to grow on slice-of-life stories."
+    "description": "These subtle beige flowers prefer to grow on slice-of-life stories.",
+    "found": [
+        "The Bind"
+    ],
+    "icon": "star",
+    "maxSpawns": 1,
+    "name": "Beige Tale Cone Flower",
+    "price": 57,
+    "rarity": "none"
 }

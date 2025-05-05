@@ -1,13 +1,14 @@
 {
-    "name": "Fish Pie",
     "description": "A filling dish served with mashed potatoes.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 867,
-    "price": 303,
+    "icon": "star",
     "ingredients": [
         "Any Fish",
         "Wheat",
         "Butter"
-    ]
+    ],
+    "name": "Fish Pie",
+    "price": 303,
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

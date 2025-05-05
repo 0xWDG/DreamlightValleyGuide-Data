@@ -1,13 +1,13 @@
 {
-    "name": "Magma",
+    "activity": [
+        "mining"
+    ],
     "description": "Lifeblood of the earth itself, this magma is incredibly hot.",
-    "icon": "\ud83d\udc8e",
-    "price": 400,
-    "gift": 600,
     "found": [
         "Mythopia"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "icon": "\ud83d\udc8e",
+    "name": "Magma",
+    "price": 400
 }

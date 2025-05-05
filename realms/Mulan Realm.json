@@ -1,9 +1,10 @@
 {
-    "name": "Mulan Realm",
-    "description": "The Mulan Realm is an area accessed through a door on the third floor inside the Dream Castle. It can be unlocked for 15000 Dreamlight.",
-    "price": 15000,
     "characters": [
         "Mulan",
         "Mushu"
-    ]
+    ],
+    "description": "The Mulan Realm is an area accessed through a door on the third floor inside the Dream Castle. It can be unlocked for 15000 Dreamlight.",
+    "icon": "star",
+    "name": "Mulan Realm",
+    "price": 15000
 }

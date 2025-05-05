@@ -1,14 +1,14 @@
 {
-    "name": "Yellow Bromeliad",
-    "description": "Yellow flowers that grow straight upward.",
-    "icon": "\ud83c\udf3a",
-    "price": 73,
-    "maxSpawns": 2,
-    "found": [
-        "Sunlit Plateau"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "Yellow flowers that grow straight upward.",
+    "found": [
+        "Sunlit Plateau"
+    ],
+    "icon": "\ud83c\udf3a",
+    "maxSpawns": 2,
+    "name": "Yellow Bromeliad",
+    "price": 73,
     "rarity": "none"
 }

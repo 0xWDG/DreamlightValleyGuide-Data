@@ -1,13 +1,14 @@
 {
-    "name": "Potato Puffs",
     "description": "Small, flaky pastries stuffed with potato.",
-    "type": "Appetizers",
-    "stars": 3,
     "energy": 1333,
-    "price": 736,
+    "icon": "star",
     "ingredients": [
         "Potato",
         "Egg",
         "Cheese"
-    ]
+    ],
+    "name": "Potato Puffs",
+    "price": 736,
+    "stars": 3,
+    "type": "Appetizers"
 }

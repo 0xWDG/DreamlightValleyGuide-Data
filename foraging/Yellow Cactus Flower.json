@@ -7,6 +7,7 @@
         "The Oasis",
         "The Borderlands"
     ],
+    "icon": "star",
     "maxSpawns": 4,
     "name": "Yellow Cactus Flower",
     "price": 46

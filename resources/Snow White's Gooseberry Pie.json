@@ -1,18 +1,19 @@
 {
-    "name": "Snow White's Gooseberry Pie",
+    "activity": [
+        "recipes"
+    ],
     "description": "Snow White's famously delicious pie!",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 1677,
-    "price": 338,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Gooseberry",
         "Wheat",
         "Butter"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Snow White's Gooseberry Pie",
+    "price": 338,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Desserts"
 }

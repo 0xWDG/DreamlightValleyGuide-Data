@@ -1,13 +1,14 @@
 {
-    "name": "Shiny Sapphire",
-    "description": "A rare blue mineral that can be mined.",
-    "price": 1400,
-    "gift": 600,
-    "found": [
-        "Vitalys Mine"
-    ],
     "activity": [
         "mining"
     ],
+    "description": "A rare blue mineral that can be mined.",
+    "found": [
+        "Vitalys Mine"
+    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Shiny Sapphire",
+    "price": 1400,
     "rarity": "none"
 }

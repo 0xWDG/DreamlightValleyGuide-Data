@@ -1,14 +1,15 @@
 {
-    "name": "Creamy Garlic Scallops",
     "description": "Fresh scallops in a creamy garlic sauce.",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 1844,
-    "price": 499,
+    "icon": "star",
     "ingredients": [
         "Scallop",
         "Lemon",
         "Butter",
         "Garlic"
-    ]
+    ],
+    "name": "Creamy Garlic Scallops",
+    "price": 499,
+    "stars": 4,
+    "type": "Entr\u00e9es"
 }

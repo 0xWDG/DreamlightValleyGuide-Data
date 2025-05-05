@@ -1,13 +1,14 @@
 {
-    "name": "Seared Rainbow Trout",
     "description": "While it might be mild in flavor, it's simple to prepare and very healthy for you.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 889,
-    "price": 338,
+    "icon": "star",
     "ingredients": [
         "Rainbow Trout",
         "Tomato",
         "Onion"
-    ]
+    ],
+    "name": "Seared Rainbow Trout",
+    "price": 338,
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

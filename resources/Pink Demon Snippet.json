@@ -1,15 +1,16 @@
 {
-    "name": "Pink Demon Snippet",
+    "activity": [
+        "snippets"
+    ],
     "description": "Demons: Pink Demon Snippet",
-    "type": "Demons",
-    "price": 10,
     "found": [
         "The Elysian Fields",
         "The Fiery Plains"
     ],
+    "icon": "star",
     "maxSpawns": 0,
-    "activity": [
-        "snippets"
-    ],
-    "rarity": "none"
+    "name": "Pink Demon Snippet",
+    "price": 10,
+    "rarity": "none",
+    "type": "Demons"
 }

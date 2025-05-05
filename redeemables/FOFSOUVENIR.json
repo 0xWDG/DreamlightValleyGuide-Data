@@ -1,6 +1,7 @@
 {
     "code": "FOFSOUVENIR",
     "description": "x5 Iron Ingot, x5 Gold Ingot, x5 Tinkering Parts",
+    "icon": "star",
     "items": [
         "5x Iron Ingot",
         "5x Gold Ingot",

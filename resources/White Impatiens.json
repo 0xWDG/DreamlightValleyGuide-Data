@@ -1,14 +1,14 @@
 {
-    "name": "White Impatiens",
-    "description": "A striking bouquet of white flowers.",
-    "icon": "\ud83c\udf3a",
-    "price": 30,
-    "maxSpawns": 6,
-    "found": [
-        "Forgotten Lands"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "A striking bouquet of white flowers.",
+    "found": [
+        "Forgotten Lands"
+    ],
+    "icon": "\ud83c\udf3a",
+    "maxSpawns": 6,
+    "name": "White Impatiens",
+    "price": 30,
     "rarity": "none"
 }

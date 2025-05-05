@@ -1,14 +1,15 @@
 {
-    "name": "Fish Tacos",
     "description": "The perfect beachside snack!",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 1171,
-    "price": 448,
+    "icon": "star",
     "ingredients": [
         "Any Fish",
         "Corn",
         "Chili Pepper",
         "Cheese"
-    ]
+    ],
+    "name": "Fish Tacos",
+    "price": 448,
+    "stars": 4,
+    "type": "Entr\u00e9es"
 }

@@ -1,9 +1,14 @@
 {
-    "name": "Gaston",
-    "origin": "Beauty and the Beast",
-    "house": "Gaston's House",
     "description": "Gaston is a character from the Disney film Beauty and the Beast (1991).",
     "dlc": 1,
+    "house": "Gaston's House",
+    "icon": "star",
+    "name": "Gaston",
+    "origin": "Beauty and the Beast",
+    "quests": [
+        "gaston.friendship",
+        "gaston.story"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -16,9 +21,5 @@
         "Gaston's Red Leather Coat",
         "The Bimbettes Motif",
         "Gaston's Portrait"
-    ],
-    "quests": [
-        "gaston.friendship",
-        "gaston.story"
     ]
 }

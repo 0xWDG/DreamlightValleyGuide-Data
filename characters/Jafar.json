@@ -1,9 +1,14 @@
 {
-    "name": "Jafar",
-    "origin": "Aladdin",
-    "house": "Jafar's Palace",
     "description": "Jafar is a character from the Disney film Aladdin (1992).",
     "dlc": 1,
+    "house": "Jafar's Palace",
+    "icon": "star",
+    "name": "Jafar",
+    "origin": "Aladdin",
+    "quests": [
+        "jafar.story",
+        "jafar.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -16,9 +21,5 @@
         "Vizier's Alchemy Table",
         "Snake Staff Motif",
         "Jeweled Vizier Top\r\nJeweled Vizier Trousers"
-    ],
-    "quests": [
-        "jafar.story",
-        "jafar.friendship"
     ]
 }

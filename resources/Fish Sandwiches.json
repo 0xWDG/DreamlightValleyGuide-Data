@@ -1,17 +1,18 @@
 {
-    "name": "Fish Sandwiches",
+    "activity": [
+        "recipes"
+    ],
     "description": "Fried fish between slices of bread.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 337,
-    "price": 34,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Any Fish",
         "Wheat"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Fish Sandwiches",
+    "price": 34,
+    "rarity": "none",
+    "stars": 2,
+    "type": "Entr\u00e9es"
 }

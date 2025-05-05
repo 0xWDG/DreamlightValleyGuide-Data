@@ -1,15 +1,16 @@
 {
-    "name": "Green Frog Snippet",
+    "activity": [
+        "snippets"
+    ],
     "description": "Frogs: Green Frog Snippet",
-    "type": "Frogs",
-    "price": 10,
     "found": [
         "The Wild Woods",
         "Teapot Falls"
     ],
+    "icon": "star",
     "maxSpawns": 0,
-    "activity": [
-        "snippets"
-    ],
-    "rarity": "none"
+    "name": "Green Frog Snippet",
+    "price": 10,
+    "rarity": "none",
+    "type": "Frogs"
 }

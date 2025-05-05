@@ -1,8 +1,13 @@
 {
+    "description": "Daisy Duck is a character from the classic Disney cartoons.",
+    "dlc": 0,
+    "house": "Daisy's House",
+    "icon": "star",
     "name": "Daisy",
     "origin": "Mickey & Friends",
-    "house": "Daisy's House",
-    "description": "Daisy Duck is a character from the classic Disney cartoons.",
+    "quests": [
+        "daisy.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Daisy Vanity Mirror",
         "Design Motif",
         "\"Dots & Daisies\" Dress"
-    ],
-    "dlc": 0,
-    "quests": [
-        "daisy.friendship"
     ]
 }

@@ -1,13 +1,14 @@
 {
-    "name": "Shiny Pure Ice",
-    "description": "This ice froze so solidly it now shines defiantly in the sun.",
-    "price": 1200,
-    "gift": 600,
-    "found": [
-        "Everafter"
-    ],
     "activity": [
         "mining"
     ],
+    "description": "This ice froze so solidly it now shines defiantly in the sun.",
+    "found": [
+        "Everafter"
+    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Shiny Pure Ice",
+    "price": 1200,
     "rarity": "none"
 }

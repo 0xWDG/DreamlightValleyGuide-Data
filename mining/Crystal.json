@@ -1,13 +1,13 @@
 {
-    "name": "Crystal",
+    "activity": [
+        "mining"
+    ],
     "description": "A pretty, rare crystal used for crafting.",
-    "icon": "\ud83d\udc8e",
-    "price": 30,
-    "gift": 25,
     "found": [
         "Forgotten Lands"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 25,
+    "icon": "\ud83d\udc8e",
+    "name": "Crystal",
+    "price": 30
 }

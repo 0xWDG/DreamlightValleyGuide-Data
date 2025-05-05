@@ -1,9 +1,8 @@
 {
-    "name": "Iron Ore",
+    "activity": [
+        "mining"
+    ],
     "description": "A chunk of raw iron that becomes ingots.",
-    "icon": "\u2692\ufe0f",
-    "price": 10,
-    "gift": 25,
     "found": [
         "Forest of Valor",
         "Glade of Trust",
@@ -14,7 +13,8 @@
         "The Bind",
         "Everafter"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 25,
+    "icon": "\u2692\ufe0f",
+    "name": "Iron Ore",
+    "price": 10
 }

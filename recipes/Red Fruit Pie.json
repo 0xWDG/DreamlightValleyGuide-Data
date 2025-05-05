@@ -1,13 +1,14 @@
 {
-    "name": "Red Fruit Pie",
     "description": "A warm pie with a fruity red filling.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 1047,
-    "price": 297,
+    "icon": "star",
     "ingredients": [
         "Raspberry",
         "Wheat",
         "Butter"
-    ]
+    ],
+    "name": "Red Fruit Pie",
+    "price": 297,
+    "stars": 3,
+    "type": "Desserts"
 }

@@ -1,8 +1,9 @@
 {
-    "name": "Cursed Cave",
     "biome": "Dazzle Beach",
-    "description": "The Cursed Cave or Mysterious Cave is a Location where Ursula is first encountered.",
     "characters": [
         "Ursula"
-    ]
+    ],
+    "description": "The Cursed Cave or Mysterious Cave is a Location where Ursula is first encountered.",
+    "icon": "star",
+    "name": "Cursed Cave"
 }

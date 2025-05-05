@@ -1,13 +1,14 @@
 {
+    "description": "This fish may not look very pretty, but that doesn't mean it wouldn't be delicious with a bit of butter and a little spice.",
+    "energy": 150,
     "found": [
         "The Plains",
         "The Wastes",
         "The Borderlands"
     ],
-    "price": 30,
-    "energy": 150,
-    "rarity": "None, White",
-    "type": "Fish",
+    "icon": "star",
     "name": "Sand Fish",
-    "description": "This fish may not look very pretty, but that doesn't mean it wouldn't be delicious with a bit of butter and a little spice."
+    "price": 30,
+    "rarity": "None, White",
+    "type": "Fish"
 }

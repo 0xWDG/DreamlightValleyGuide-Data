@@ -1,14 +1,15 @@
 {
-    "name": "White Rose",
+    "activity": [
+        "foraging"
+    ],
     "description": "White Rose is a flower type that can be found growing wild in The Wild Woods and The Fallen Fortress areas in Everafter.",
     "found": [
         "The Wild Woods",
         "The Fallen Fortress"
     ],
+    "icon": "star",
     "maxSpawns": 3,
+    "name": "White Rose",
     "price": 52,
-    "activity": [
-        "foraging"
-    ],
     "rarity": "none"
 }

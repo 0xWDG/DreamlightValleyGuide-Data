@@ -1,8 +1,13 @@
 {
+    "description": "Olaf is a character from the Disney films Frozen (2013), Frozen II (2019).\r\nHe can be found in a cave at Frosted Heights",
+    "house": "Frozen Castle",
+    "icon": "star",
     "name": "Olaf",
     "origin": "Frozen",
-    "house": "Frozen Castle",
-    "description": "Olaf is a character from the Disney films Frozen (2013), Frozen II (2019).\r\nHe can be found in a cave at Frosted Heights",
+    "quests": [
+        "olaf.friendship",
+        "olaf.story"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Olaf Presents... This Sweater!",
         "Olaf Frozen Wind Motif",
         "Permafrost Cloud"
-    ],
-    "quests": [
-        "olaf.friendship",
-        "olaf.story"
     ]
 }

@@ -1,15 +1,16 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "Be careful when eating this. You might end up with some nuts and bolts stuck between your teeth.",
+    "energy": 1350,
     "found": [
         "The Docks",
         "The Overlook"
     ],
-    "price": 625,
-    "energy": 1350,
-    "rarity": "Gold",
-    "type": "Fish",
+    "icon": "star",
     "name": "Robot Fish",
-    "description": "Be careful when eating this. You might end up with some nuts and bolts stuck between your teeth.",
-    "activity": [
-        "fishing"
-    ]
+    "price": 625,
+    "rarity": "Gold",
+    "type": "Fish"
 }

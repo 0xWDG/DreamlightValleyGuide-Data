@@ -1,12 +1,13 @@
 {
-    "name": "Fish Sandwiches",
     "description": "Fried fish between slices of bread.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 337,
-    "price": 34,
+    "icon": "star",
     "ingredients": [
         "Any Fish",
         "Wheat"
-    ]
+    ],
+    "name": "Fish Sandwiches",
+    "price": 34,
+    "stars": 2,
+    "type": "Entr\u00e9es"
 }

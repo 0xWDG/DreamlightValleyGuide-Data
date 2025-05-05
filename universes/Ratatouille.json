@@ -1,8 +1,9 @@
 {
-    "name": "Ratatouille",
-    "description": "Ratatouille is a universe in Disney Dreamlight Valley based on the Pixar animated film Ratatouille (2007).\r\nThe film stars Remy, a rat with a passion for cooking, and follows his journey to become a chef in Paris.",
-    "price": 0,
     "characters": [
         "Remy"
-    ]
+    ],
+    "description": "Ratatouille is a universe in Disney Dreamlight Valley based on the Pixar animated film Ratatouille (2007).\r\nThe film stars Remy, a rat with a passion for cooking, and follows his journey to become a chef in Paris.",
+    "icon": "star",
+    "name": "Ratatouille",
+    "price": 0
 }

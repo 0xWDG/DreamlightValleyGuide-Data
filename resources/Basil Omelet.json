@@ -1,19 +1,20 @@
 {
-    "name": "Basil Omelet",
+    "activity": [
+        "recipes"
+    ],
     "description": "Fluffy eggs cooked with basil.",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 2035,
-    "price": 982,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Basil",
         "Egg",
         "Cheese",
         "Milk"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Basil Omelet",
+    "price": 982,
+    "rarity": "none",
+    "stars": 4,
+    "type": "Entr\u00e9es"
 }

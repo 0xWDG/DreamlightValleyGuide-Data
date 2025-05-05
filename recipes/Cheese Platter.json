@@ -1,11 +1,12 @@
 {
-    "name": "Cheese Platter",
     "description": "A plate of diligently selected cheeses.",
-    "type": "Appetizers",
-    "stars": 1,
     "energy": 482,
-    "price": 216,
+    "icon": "star",
     "ingredients": [
         "Cheese"
-    ]
+    ],
+    "name": "Cheese Platter",
+    "price": 216,
+    "stars": 1,
+    "type": "Appetizers"
 }

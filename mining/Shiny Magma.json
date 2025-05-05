@@ -1,13 +1,13 @@
 {
-    "name": "Shiny Magma",
+    "activity": [
+        "mining"
+    ],
     "description": "This magma glimmers with the shards of gems within.",
-    "icon": "\ud83d\udc8e",
-    "price": 1600,
-    "gift": 600,
     "found": [
         "Mythopia"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "icon": "\ud83d\udc8e",
+    "name": "Shiny Magma",
+    "price": 1600
 }

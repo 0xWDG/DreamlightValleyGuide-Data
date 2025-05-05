@@ -1,9 +1,10 @@
 {
-    "name": "Alice in Wonderland Realm",
-    "description": "The Alice in Wonderland Realm is an area accessed through a small door on the third floor inside the Dream Castle. It can be unlocked for 15000 Dreamlight.",
-    "price": 15000,
     "characters": [
         "Alice",
         "Chesire Cat"
-    ]
+    ],
+    "description": "The Alice in Wonderland Realm is an area accessed through a small door on the third floor inside the Dream Castle. It can be unlocked for 15000 Dreamlight.",
+    "icon": "star",
+    "name": "Alice in Wonderland Realm",
+    "price": 15000
 }

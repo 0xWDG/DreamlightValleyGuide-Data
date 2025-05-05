@@ -1,16 +1,17 @@
 {
-    "name": "Squid",
+    "activity": [
+        "fishing"
+    ],
     "description": "Famed for their large heads and eight arms.",
-    "rarity": "Blue, White",
-    "price": 500,
     "energy": 1000,
     "found": [
         "Glade of Trust",
         "Forgotten Lands",
         "Mythopia"
     ],
-    "type": "Seafood",
-    "activity": [
-        "fishing"
-    ]
+    "icon": "star",
+    "name": "Squid",
+    "price": 500,
+    "rarity": "Blue, White",
+    "type": "Seafood"
 }

@@ -1,18 +1,19 @@
 {
-    "name": "Root Beer",
+    "activity": [
+        "recipes"
+    ],
     "description": "A sweet, fizzy drink that reminds you of your roots.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 690,
-    "price": 250,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Ginger",
         "Sugarcane",
         "Vanilla"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Root Beer",
+    "price": 250,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Desserts"
 }

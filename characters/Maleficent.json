@@ -1,10 +1,11 @@
 {
+    "description": "Maleficent is a character from the Disney film Sleeping Beauty (1959). She is a currently a non-resident of the Valley, and although she offers a story related quest on The Storybook Vale, she does not (yet) have a house, friendship level or rewards.",
+    "house": "None",
+    "icon": "star",
     "name": "Maleficent",
     "origin": "Sleeping Beauty",
-    "house": "None",
-    "description": "Maleficent is a character from the Disney film Sleeping Beauty (1959). She is a currently a non-resident of the Valley, and although she offers a story related quest on The Storybook Vale, she does not (yet) have a house, friendship level or rewards.",
-    "rewards": [],
     "quests": [
         "maleficent.story"
-    ]
+    ],
+    "rewards": []
 }

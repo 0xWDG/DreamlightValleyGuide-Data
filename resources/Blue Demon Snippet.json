@@ -1,15 +1,16 @@
 {
-    "name": "Blue Demon Snippet",
+    "activity": [
+        "snippets"
+    ],
     "description": "Demons: Blue Demon Snippet",
-    "type": "Demons",
-    "price": 20,
     "found": [
         "The Fiery Plains",
         "The Fallen Fortress"
     ],
+    "icon": "star",
     "maxSpawns": 0,
-    "activity": [
-        "snippets"
-    ],
-    "rarity": "none"
+    "name": "Blue Demon Snippet",
+    "price": 20,
+    "rarity": "none",
+    "type": "Demons"
 }

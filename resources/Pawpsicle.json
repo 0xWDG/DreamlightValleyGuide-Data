@@ -1,18 +1,19 @@
 {
-    "name": "Pawpsicle",
+    "activity": [
+        "recipes"
+    ],
     "description": "A small, frozen treat shaped like a fox's paw.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 987,
-    "price": 265,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Slush Ice",
         "Sugarcane",
         "Any Fruit"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Pawpsicle",
+    "price": 265,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Desserts"
 }

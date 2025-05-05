@@ -1,21 +1,22 @@
 {
-    "name": "Melon",
-    "type": "Fruit",
-    "found": [
-        "Glittering Dunes"
-    ],
-    "biome": "Glittering Dunes",
-    "growTime": 30,
-    "price": 93,
-    "sellPrice": 93,
-    "seedPrice": 40,
-    "grow": "30min",
-    "waterings": 1,
-    "yield": 1,
     "activity": [
         "gardening"
     ],
+    "biome": "Glittering Dunes",
     "coins": 53,
+    "description": "It's big, it's round, and it's delicious. What more could you want from a melon?",
+    "found": [
+        "Glittering Dunes"
+    ],
+    "grow": "30min",
+    "growTime": 30,
+    "icon": "star",
+    "name": "Melon",
+    "price": 93,
     "rarity": "none",
-    "description": "It's big, it's round, and it's delicious. What more could you want from a melon?"
+    "seedPrice": 40,
+    "sellPrice": 93,
+    "type": "Fruit",
+    "waterings": 1,
+    "yield": 1
 }

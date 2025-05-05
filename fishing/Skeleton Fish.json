@@ -1,16 +1,17 @@
 {
-    "name": "Skeleton Fish",
+    "activity": [
+        "fishing"
+    ],
     "description": "This fish is clearly the product of some sort of horrible magical experiment. But maybe it could be made into something delicious.",
-    "rarity": "White, Blue (Pink)",
-    "price": 100,
     "energy": 500,
-    "type": " Fish",
     "found": [
         "The Plains",
         "The Wastes",
         "The Borderlands"
     ],
-    "activity": [
-        "fishing"
-    ]
+    "icon": "star",
+    "name": "Skeleton Fish",
+    "price": 100,
+    "rarity": "White, Blue (Pink)",
+    "type": "\u00a0Fish"
 }

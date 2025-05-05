@@ -1,18 +1,19 @@
 {
-    "name": "Cherry Pie",
+    "activity": [
+        "recipes"
+    ],
     "description": "A tart cherry pie.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 1497,
-    "price": 326,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Cherry",
         "Wheat",
         "Butter"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Cherry Pie",
+    "price": 326,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Desserts"
 }

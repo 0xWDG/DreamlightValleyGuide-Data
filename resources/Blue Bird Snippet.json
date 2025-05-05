@@ -1,14 +1,15 @@
 {
-    "name": "Blue Bird Snippet",
-    "description": "Birds: Blue Bird Snippet",
-    "type": "Birds",
-    "price": 10,
-    "found": [
-        "The Bind"
-    ],
-    "maxSpawns": 0,
     "activity": [
         "snippets"
     ],
-    "rarity": "none"
+    "description": "Birds: Blue Bird Snippet",
+    "found": [
+        "The Bind"
+    ],
+    "icon": "star",
+    "maxSpawns": 0,
+    "name": "Blue Bird Snippet",
+    "price": 10,
+    "rarity": "none",
+    "type": "Birds"
 }

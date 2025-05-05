@@ -9,6 +9,7 @@
     ],
     "gift": 200,
     "growthTime": 0,
+    "icon": "star",
     "maxSpawns": 0,
     "name": "Egg",
     "price": 220,

@@ -1,18 +1,19 @@
 {
-    "name": "Sweet & Sour Kingfish Steak",
+    "activity": [
+        "recipes"
+    ],
     "description": "Grilled mackerel steak. The perfect choice if you can\u2019t decide between sweet and sour.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 2292,
-    "price": 702,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Kingfish",
         "Lemon",
         "Sugarcane"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Sweet & Sour Kingfish Steak",
+    "price": 702,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

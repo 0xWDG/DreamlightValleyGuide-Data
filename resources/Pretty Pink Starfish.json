@@ -1,14 +1,15 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "This starfish adds a bit of pink to any beach.",
+    "energy": 1500,
     "found": [
         "The Oasis"
     ],
-    "price": 875,
-    "energy": 1500,
-    "rarity": "Gold",
-    "type": "Seafood",
+    "icon": "star",
     "name": "Pretty Pink Starfish",
-    "description": "This starfish adds a bit of pink to any beach.",
-    "activity": [
-        "fishing"
-    ]
+    "price": 875,
+    "rarity": "Gold",
+    "type": "Seafood"
 }

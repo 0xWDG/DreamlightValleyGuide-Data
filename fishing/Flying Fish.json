@@ -1,11 +1,12 @@
 {
+    "description": "Some say that this fish fell in love with the sky and was gifted the ability to fly for just enough time to renew its love.",
+    "energy": 150,
     "found": [
         "Mythopia"
     ],
-    "price": 60,
-    "energy": 150,
-    "rarity": "None, White",
-    "type": "Fish",
+    "icon": "star",
     "name": "Flying Fish",
-    "description": "Some say that this fish fell in love with the sky and was gifted the ability to fly for just enough time to renew its love."
+    "price": 60,
+    "rarity": "None, White",
+    "type": "Fish"
 }

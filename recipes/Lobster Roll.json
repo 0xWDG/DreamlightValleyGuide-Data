@@ -1,15 +1,16 @@
 {
-    "name": "Lobster Roll",
     "description": "Buttered lobster stuffed in a warm roll.",
-    "type": "Entr\u00e9es",
-    "stars": 5,
     "energy": 4928,
-    "price": 1900,
+    "icon": "star",
     "ingredients": [
         "Lobster",
         "Wheat",
         "Lemon",
         "Butter",
         "Garlic"
-    ]
+    ],
+    "name": "Lobster Roll",
+    "price": 1900,
+    "stars": 5,
+    "type": "Entr\u00e9es"
 }

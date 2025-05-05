@@ -1,14 +1,14 @@
 {
-    "name": "Blue Falling Penstemon",
-    "description": "Blue wildflowers that droop when in bloom.",
-    "icon": "\ud83c\udf3a",
-    "price": 23,
-    "maxSpawns": 4,
-    "found": [
-        "Plaza"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "Blue wildflowers that droop when in bloom.",
+    "found": [
+        "Plaza"
+    ],
+    "icon": "\ud83c\udf3a",
+    "maxSpawns": 4,
+    "name": "Blue Falling Penstemon",
+    "price": 23,
     "rarity": "none"
 }

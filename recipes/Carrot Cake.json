@@ -1,14 +1,15 @@
 {
-    "name": "Carrot Cake",
     "description": "A delicious cake with carrots and cinnamon.",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 908,
-    "price": 427,
+    "icon": "star",
     "ingredients": [
         "Carrot",
         "Wheat",
         "Egg",
         "Sugarcane"
-    ]
+    ],
+    "name": "Carrot Cake",
+    "price": 427,
+    "stars": 4,
+    "type": "Desserts"
 }

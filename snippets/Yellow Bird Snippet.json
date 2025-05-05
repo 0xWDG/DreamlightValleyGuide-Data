@@ -1,14 +1,14 @@
 {
-    "name": "Yellow Bird Snippet",
+    "activity": [
+        "snippets"
+    ],
     "description": "Birds: Yellow Bird Snippet",
-    "icon": "Yellow Bird Snippet",
-    "type": "Birds",
-    "price": 30,
     "found": [
         "The Wild Woods"
     ],
+    "icon": "Yellow Bird Snippet",
     "maxSpawns": 0,
-    "activity": [
-        "snippets"
-    ]
+    "name": "Yellow Bird Snippet",
+    "price": 30,
+    "type": "Birds"
 }

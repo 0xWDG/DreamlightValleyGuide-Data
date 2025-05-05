@@ -1,8 +1,12 @@
 {
+    "description": "Mirabel Madrigal is a character from the 2021 animated film Encanto.\r\nShe is unlocked after completing The Golden Doorknob quest and placing Mini-Casita anywhere in the Valley.",
+    "house": "Mini-Casita",
+    "icon": "star",
     "name": "Mirabel",
     "origin": "Encanto",
-    "house": "Mini-Casita",
-    "description": "Mirabel Madrigal is a character from the 2021 animated film Encanto.\r\nShe is unlocked after completing The Golden Doorknob quest and placing Mini-Casita anywhere in the Valley.",
+    "quests": [
+        "mirabel.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,8 +19,5 @@
         "Wooden Fabric Display",
         "Swirl Glasses Drawing Motif",
         "Teal Dreamlore Poncho,\r\nEmerald Dreamlore Skirt"
-    ],
-    "quests": [
-        "mirabel.friendship"
     ]
 }

@@ -1,21 +1,22 @@
 {
-    "name": "Radicchio",
-    "description": "It would be ridiculous not to like radicchio.",
-    "type": "Vegetables",
-    "found": [
-        "Mythopia"
-    ],
-    "biome": "Mythopia",
-    "growTime": 1,
-    "price": 127,
-    "sellPrice": 127,
-    "seedPrice": 50,
-    "grow": "1hr",
-    "waterings": 0,
-    "yield": 1,
     "activity": [
         "gardening"
     ],
+    "biome": "Mythopia",
     "coins": 77,
-    "rarity": "none"
+    "description": "It would be ridiculous not to like radicchio.",
+    "found": [
+        "Mythopia"
+    ],
+    "grow": "1hr",
+    "growTime": 1,
+    "icon": "star",
+    "name": "Radicchio",
+    "price": 127,
+    "rarity": "none",
+    "seedPrice": 50,
+    "sellPrice": 127,
+    "type": "Vegetables",
+    "waterings": 0,
+    "yield": 1
 }

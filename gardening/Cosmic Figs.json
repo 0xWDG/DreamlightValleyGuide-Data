@@ -1,20 +1,21 @@
 {
-    "name": "Cosmic Figs",
-    "type": "Fruit",
-    "found": [
-        "Ancient's Landing"
-    ],
-    "biome": "Ancient's Landing",
-    "growTime": 25,
-    "price": 22,
-    "sellPrice": 22,
-    "seedPrice": 10,
-    "grow": "25min",
-    "waterings": 2,
-    "yield": 2,
     "activity": [
         "gardening"
     ],
+    "biome": "Ancient's Landing",
     "coins": 34,
-    "description": "The outside of this luscious fruit looks like the night sky, but the inside is bursting with a tiny nebula."
+    "description": "The outside of this luscious fruit looks like the night sky, but the inside is bursting with a tiny nebula.",
+    "found": [
+        "Ancient's Landing"
+    ],
+    "grow": "25min",
+    "growTime": 25,
+    "icon": "star",
+    "name": "Cosmic Figs",
+    "price": 22,
+    "seedPrice": 10,
+    "sellPrice": 22,
+    "type": "Fruit",
+    "waterings": 2,
+    "yield": 2
 }

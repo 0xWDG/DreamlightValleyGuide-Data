@@ -1,11 +1,12 @@
 {
-    "name": "Frozen",
-    "description": "Frozen is a universe in Disney Dreamlight Valley based on the Disney animated film Frozen (2013) and the sequel films Frozen II (2019) and the upcoming Frozen III (2027). It is loosely based on Hans Christian Anderson's fairytale The Snow Queen.",
-    "price": 0,
     "characters": [
         "Elsa",
         "Anna",
         "Olaf",
         "Kristoff"
-    ]
+    ],
+    "description": "Frozen is a universe in Disney Dreamlight Valley based on the Disney animated film Frozen (2013) and the sequel films Frozen II (2019) and the upcoming Frozen III (2027). It is loosely based on Hans Christian Anderson's fairytale The Snow Queen.",
+    "icon": "star",
+    "name": "Frozen",
+    "price": 0
 }

@@ -1,10 +1,11 @@
 {
-    "name": "Large Seafood Platter",
+    "activity": [
+        "recipes"
+    ],
     "description": "A large selection of various seafood treats.",
-    "type": "Appetizers",
-    "stars": 5,
     "energy": 1810,
-    "price": 340,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Any Seafood",
         "Any Seafood",
@@ -12,9 +13,9 @@
         "Any Seafood",
         "Lemon"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Large Seafood Platter",
+    "price": 340,
+    "rarity": "none",
+    "stars": 5,
+    "type": "Appetizers"
 }

@@ -1,8 +1,13 @@
 {
+    "description": "Simba is a character from the Disney film The Lion King (1994).",
+    "house": "Pride Rock",
+    "icon": "star",
     "name": "Simba",
     "origin": "The Lion King",
-    "house": "Pride Rock",
-    "description": "Simba is a character from the Disney film The Lion King (1994).",
+    "quests": [
+        "simba.realm",
+        "simba.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Lion Cub Living Door",
         "Moonrise Motif",
         "Simba's \"Circle of Life\" Window"
-    ],
-    "quests": [
-        "simba.realm",
-        "simba.friendship"
     ]
 }

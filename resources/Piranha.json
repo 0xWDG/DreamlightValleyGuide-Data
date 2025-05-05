@@ -1,14 +1,15 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "This little guy is cute, but watch out for those teeth.",
+    "energy": 1900,
     "found": [
         "The Lagoon"
     ],
-    "price": 1300,
-    "energy": 1900,
-    "rarity": "Gold",
-    "type": "Fish",
+    "icon": "star",
     "name": "Piranha",
-    "description": "This little guy is cute, but watch out for those teeth.",
-    "activity": [
-        "fishing"
-    ]
+    "price": 1300,
+    "rarity": "Gold",
+    "type": "Fish"
 }

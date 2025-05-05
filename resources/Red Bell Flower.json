@@ -1,14 +1,14 @@
 {
-    "name": "Red Bell Flower",
-    "description": "A stunning red flower shaped like a bell.",
-    "icon": "\ud83c\udf3a",
-    "price": 23,
-    "maxSpawns": 6,
-    "found": [
-        "Forest of Valor"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "A stunning red flower shaped like a bell.",
+    "found": [
+        "Forest of Valor"
+    ],
+    "icon": "\ud83c\udf3a",
+    "maxSpawns": 6,
+    "name": "Red Bell Flower",
+    "price": 23,
     "rarity": "none"
 }

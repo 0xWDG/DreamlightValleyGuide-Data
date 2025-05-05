@@ -1,19 +1,20 @@
 {
-    "name": "Poached Basil-Butter Sturgeon",
+    "activity": [
+        "recipes"
+    ],
     "description": "Some lemon will bring out this fish's flavor.",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 4961,
-    "price": 2200,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "White Sturgeon",
         "Basil",
         "Lemon",
         "Butter"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Poached Basil-Butter Sturgeon",
+    "price": 2200,
+    "rarity": "none",
+    "stars": 4,
+    "type": "Entr\u00e9es"
 }

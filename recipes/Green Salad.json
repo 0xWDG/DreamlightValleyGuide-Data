@@ -1,12 +1,13 @@
 {
-    "name": "Green Salad",
     "description": "A salad loaded with all sorts of leafy greens!",
-    "type": "Appetizers",
-    "stars": 2,
     "energy": 180,
-    "price": 20,
+    "icon": "star",
     "ingredients": [
         "Any Vegetable",
         "Lettuce"
-    ]
+    ],
+    "name": "Green Salad",
+    "price": 20,
+    "stars": 2,
+    "type": "Appetizers"
 }

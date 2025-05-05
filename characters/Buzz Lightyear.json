@@ -1,8 +1,13 @@
 {
+    "description": "Buzz Lightyear is a character from Disney and Pixar's Toy Story franchise.",
+    "house": "Buzz's RV",
+    "icon": "star",
     "name": "Buzz Lightyear",
     "origin": "Toy Story",
-    "house": "Buzz's RV",
-    "description": "Buzz Lightyear is a character from Disney and Pixar's Toy Story franchise.",
+    "quests": [
+        "buzzlightyear.friendship",
+        "buzzlightyear.story"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Arched Window to Deep Space",
         "Buzz Portrait Motif",
         "Buzz Lightyear's Space Pack"
-    ],
-    "quests": [
-        "buzzlightyear.friendship",
-        "buzzlightyear.story"
     ]
 }

@@ -1,18 +1,19 @@
 {
-    "name": "Coconut Boba Tea",
+    "activity": [
+        "recipes"
+    ],
     "description": "A delicious sugary treat that you're sure to go (coco)nuts for.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 1653,
-    "price": 406,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Milk",
         "Sugarcane",
         "Coconut"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Coconut Boba Tea",
+    "price": 406,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Desserts"
 }

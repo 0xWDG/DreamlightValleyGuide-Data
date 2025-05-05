@@ -1,14 +1,15 @@
 {
-    "name": "Meringue Pie",
     "description": "Sweet on top of sweet on top of sweet.",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 2014,
-    "price": 667,
+    "icon": "star",
     "ingredients": [
         "Lemon",
         "Butter",
         "Wheat",
         "Egg"
-    ]
+    ],
+    "name": "Meringue Pie",
+    "price": 667,
+    "stars": 4,
+    "type": "Desserts"
 }

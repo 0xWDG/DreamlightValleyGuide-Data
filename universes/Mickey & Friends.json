@@ -1,7 +1,4 @@
 {
-    "name": "Mickey & Friends",
-    "description": "Mickey & Friends is a universe in Disney Dreamlight Valley based on Disney's classic characters from Mickey Mouse animated shorts and comics.",
-    "price": 0,
     "characters": [
         "Daisy",
         "Donald Duck",
@@ -9,5 +6,9 @@
         "Mickey Mouse",
         "Minnie Mouse",
         "Scrooge McDuck"
-    ]
+    ],
+    "description": "Mickey & Friends is a universe in Disney Dreamlight Valley based on Disney's classic characters from Mickey Mouse animated shorts and comics.",
+    "icon": "star",
+    "name": "Mickey & Friends",
+    "price": 0
 }

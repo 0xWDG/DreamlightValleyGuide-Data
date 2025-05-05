@@ -1,14 +1,14 @@
 {
-    "name": "Red Bromeliad",
-    "description": "These flowers go from green to yellow to red.",
-    "icon": "\ud83c\udf3a",
-    "price": 27,
-    "maxSpawns": 6,
-    "found": [
-        "Sunlit Plateau"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "These flowers go from green to yellow to red.",
+    "found": [
+        "Sunlit Plateau"
+    ],
+    "icon": "\ud83c\udf3a",
+    "maxSpawns": 6,
+    "name": "Red Bromeliad",
+    "price": 27,
     "rarity": "none"
 }

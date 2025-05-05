@@ -1,18 +1,19 @@
 {
-    "name": "Porridge with Fruits",
+    "activity": [
+        "recipes"
+    ],
     "description": "A bowl of warm porridge with apples and berries.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 1155,
-    "price": 353,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Milk",
         "Wheat",
         "Any Fruit"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Porridge with Fruits",
+    "price": 353,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

@@ -1,13 +1,14 @@
 {
-    "name": "Mocha",
     "description": "A treat made with just a little cocoa, some coffee beans, and a splash of milk",
-    "type": "Appetizers",
-    "stars": 3,
     "energy": 2246,
-    "price": 425,
+    "icon": "star",
     "ingredients": [
         "Coffee Bean",
         "Milk",
         "Cocoa Bean"
-    ]
+    ],
+    "name": "Mocha",
+    "price": 425,
+    "stars": 3,
+    "type": "Appetizers"
 }

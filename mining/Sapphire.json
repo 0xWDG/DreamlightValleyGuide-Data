@@ -1,13 +1,13 @@
 {
-    "name": "Sapphire",
+    "activity": [
+        "mining"
+    ],
     "description": "A blue mineral that can be mined.",
-    "icon": "\ud83d\udc8e",
-    "price": 350,
-    "gift": 600,
     "found": [
         "Vitalys Mine"
     ],
-    "activity": [
-        "mining"
-    ]
+    "gift": 600,
+    "icon": "\ud83d\udc8e",
+    "name": "Sapphire",
+    "price": 350
 }

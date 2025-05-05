@@ -1,8 +1,13 @@
 {
+    "description": "Scar is a character from the Disney film The Lion King (1994).\r\nHe's encountered after unlocking the Sunlit Plateau and completing the story quest The Curse from Mother Gothel.",
+    "house": "Giant Skull",
+    "icon": "star",
     "name": "Scar",
     "origin": "The Lion King",
-    "house": "Giant Skull",
-    "description": "Scar is a character from the Disney film The Lion King (1994).\r\nHe's encountered after unlocking the Sunlit Plateau and completing the story quest The Curse from Mother Gothel.",
+    "quests": [
+        "scar.friendship",
+        "scar.story"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Paw Print Rock Slab",
         "Ed Motif",
         "Volcanic Stove"
-    ],
-    "quests": [
-        "scar.friendship",
-        "scar.story"
     ]
 }

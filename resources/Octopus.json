@@ -1,15 +1,16 @@
 {
+    "activity": [
+        "fishing"
+    ],
+    "description": "This soft-bodied mollusk makes up for its lack of a shell by having a genius brain.",
+    "energy": 700,
     "found": [
         "The Docks",
         "The Overlook"
     ],
-    "price": 290,
-    "energy": 700,
-    "rarity": "Blue, White",
-    "type": "Seafood",
+    "icon": "star",
     "name": "Octopus",
-    "description": "This soft-bodied mollusk makes up for its lack of a shell by having a genius brain.",
-    "activity": [
-        "fishing"
-    ]
+    "price": 290,
+    "rarity": "Blue, White",
+    "type": "Seafood"
 }

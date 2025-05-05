@@ -1,14 +1,14 @@
 {
-    "name": "Red Demon Snippet",
+    "activity": [
+        "snippets"
+    ],
     "description": "Demons: Red Demon Snippet",
-    "icon": "Red Demon Snippet",
-    "type": "Demons",
-    "price": 10,
     "found": [
         "The Statue's Shadow"
     ],
+    "icon": "Red Demon Snippet",
     "maxSpawns": 0,
-    "activity": [
-        "snippets"
-    ]
+    "name": "Red Demon Snippet",
+    "price": 10,
+    "type": "Demons"
 }

@@ -1,13 +1,14 @@
 {
-    "name": "Magma",
-    "description": "Lifeblood of the earth itself, this magma is incredibly hot.",
-    "price": 400,
-    "gift": 600,
-    "found": [
-        "Mythopia"
-    ],
     "activity": [
         "mining"
     ],
+    "description": "Lifeblood of the earth itself, this magma is incredibly hot.",
+    "found": [
+        "Mythopia"
+    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Magma",
+    "price": 400,
     "rarity": "none"
 }

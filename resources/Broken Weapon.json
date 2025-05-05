@@ -1,15 +1,15 @@
 {
-    "name": "Broken Weapon",
-    "description": "A broken sword and shield.",
-    "icon": "\ud83e\udea8",
-    "price": 25,
-    "giftReward": 0,
-    "maxSpawns": 0,
-    "found": [
-        "\u00a0Digging\r\n Mythopia"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "A broken sword and shield.",
+    "found": [
+        "\u00a0Digging\r\n Mythopia"
+    ],
+    "giftReward": 0,
+    "icon": "\ud83e\udea8",
+    "maxSpawns": 0,
+    "name": "Broken Weapon",
+    "price": 25,
     "rarity": "none"
 }

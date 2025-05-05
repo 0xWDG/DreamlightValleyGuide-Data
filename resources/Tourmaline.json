@@ -1,14 +1,15 @@
 {
-    "name": "Tourmaline",
+    "activity": [
+        "mining"
+    ],
     "description": "A crystal that can be mined.",
-    "price": 420,
-    "gift": 600,
     "found": [
         "Frosted Heights",
         "Sunlit Plateau"
     ],
-    "activity": [
-        "mining"
-    ],
+    "gift": 600,
+    "icon": "star",
+    "name": "Tourmaline",
+    "price": 420,
     "rarity": "none"
 }

@@ -1,18 +1,19 @@
 {
-    "name": "Fish Risotto",
+    "activity": [
+        "recipes"
+    ],
     "description": "A rich and creamy rice with cooked fish.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 939,
-    "price": 386,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Any Fish",
         "Rice",
         "Butter"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Fish Risotto",
+    "price": 386,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

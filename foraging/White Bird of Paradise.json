@@ -7,6 +7,7 @@
         "The Docks",
         "The Courtyard"
     ],
+    "icon": "star",
     "maxSpawns": 4,
     "name": "White Bird of Paradise",
     "price": 23

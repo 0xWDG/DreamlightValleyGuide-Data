@@ -1,15 +1,16 @@
 {
-    "name": "Plastic Scrap",
+    "activity": [
+        "fishing"
+    ],
     "description": "While it may look like garbage, it could be used to make something more.",
-    "rarity": "None",
-    "price": 10,
     "energy": 25,
     "found": [
         "The Docks",
         "The Overlook"
     ],
-    "type": "Crafting Materials",
-    "activity": [
-        "fishing"
-    ]
+    "icon": "star",
+    "name": "Plastic Scrap",
+    "price": 10,
+    "rarity": "None",
+    "type": "Crafting Materials"
 }

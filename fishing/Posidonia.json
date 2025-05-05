@@ -1,8 +1,5 @@
 {
-    "name": "Posidonia",
     "description": "This aquatic plant's fiery hue puts more sedate seaweed to shame.",
-    "rarity": "None",
-    "price": 20,
     "energy": 0,
     "found": [
         "The Elysian Fields",
@@ -10,5 +7,9 @@
         "The Statue's Shadow",
         "Mount Olympus"
     ],
+    "icon": "star",
+    "name": "Posidonia",
+    "price": 20,
+    "rarity": "None",
     "type": "Crafting Materials"
 }

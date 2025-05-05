@@ -1,16 +1,17 @@
 {
-    "name": "Candy",
-    "description": "A sweet sugar confectionery to brighten your day.",
-    "type": "Desserts",
-    "stars": 1,
-    "energy": 123,
-    "price": 22,
-    "ingredients": [
-        "Any Sweets"
-    ],
     "activity": [
         "recipes"
     ],
+    "description": "A sweet sugar confectionery to brighten your day.",
+    "energy": 123,
     "found": [],
-    "rarity": "none"
+    "icon": "star",
+    "ingredients": [
+        "Any Sweets"
+    ],
+    "name": "Candy",
+    "price": 22,
+    "rarity": "none",
+    "stars": 1,
+    "type": "Desserts"
 }

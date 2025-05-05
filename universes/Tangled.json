@@ -1,10 +1,11 @@
 {
-    "name": "Tangled",
-    "description": "Tangled is a universe in Disney Dreamlight Valley based on the Disney animated film Tangled (2010), which is based on the fairy tale Rapunzel by the Brothers Grimm.\r\nThe film stars Rapunzel, a lost young princess with magical long blonde hair who was stolen from her parents by the vain Mother Gothel and yearns to leave her secluded tower. She accepts the aid of thief Flynn Rider to take her out into the world which she has never seen.",
-    "price": 0,
     "characters": [
         "Mother Gothel",
         "Rapunzel",
         "Flynn Rider"
-    ]
+    ],
+    "description": "Tangled is a universe in Disney Dreamlight Valley based on the Disney animated film Tangled (2010), which is based on the fairy tale Rapunzel by the Brothers Grimm.\r\nThe film stars Rapunzel, a lost young princess with magical long blonde hair who was stolen from her parents by the vain Mother Gothel and yearns to leave her secluded tower. She accepts the aid of thief Flynn Rider to take her out into the world which she has never seen.",
+    "icon": "star",
+    "name": "Tangled",
+    "price": 0
 }

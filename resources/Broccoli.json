@@ -1,21 +1,22 @@
 {
-    "name": "Broccoli",
-    "type": "Vegetables",
-    "found": [
-        "Glittering Dunes"
-    ],
-    "biome": "Glittering Dunes",
-    "growTime": 40,
-    "price": 152,
-    "sellPrice": 152,
-    "seedPrice": 60,
-    "grow": "40min",
-    "waterings": 2,
-    "yield": 1,
     "activity": [
         "gardening"
     ],
+    "biome": "Glittering Dunes",
     "coins": 92,
+    "description": "If you arrange a bunch of them, they sort of look like a tiny forest.",
+    "found": [
+        "Glittering Dunes"
+    ],
+    "grow": "40min",
+    "growTime": 40,
+    "icon": "star",
+    "name": "Broccoli",
+    "price": 152,
     "rarity": "none",
-    "description": "If you arrange a bunch of them, they sort of look like a tiny forest."
+    "seedPrice": 60,
+    "sellPrice": 152,
+    "type": "Vegetables",
+    "waterings": 2,
+    "yield": 1
 }

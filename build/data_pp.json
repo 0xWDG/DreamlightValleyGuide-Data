@@ -1,6 +1,4 @@
 {
-    "version": "20250505.0748",
-    "release": "2025-05-05T07:48:53+00:00",
     "biomes": [
         {
             "name": "Ancient's Landing",
@@ -4751,6 +4749,7 @@
             "waterings": 2
         }
     ],
+    "icon": "star",
     "mining": [
         {
             "name": "Alexandrite",
@@ -17974,6 +17973,7 @@
             "validy": "9999-01-01"
         }
     ],
+    "release": "2025-05-05T07:48:53+00:00",
     "resources": [
         {
             "name": "\"My Hero\" Cookie",
@@ -26135,5 +26135,6 @@
             "price": 0,
             "characters": []
         }
-    ]
+    ],
+    "version": "20250505.0748"
 }

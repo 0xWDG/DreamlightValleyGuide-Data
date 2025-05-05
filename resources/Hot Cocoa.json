@@ -1,18 +1,19 @@
 {
-    "name": "Hot Cocoa",
+    "activity": [
+        "recipes"
+    ],
     "description": "On a cold day, there's nothing cozier than curling up with a steaming cup of hot cocoa with extra marshmallows.",
-    "type": "Desserts",
-    "stars": 3,
     "energy": 1563,
-    "price": 401,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Sugarcane",
         "Cocoa Bean",
         "Milk"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Hot Cocoa",
+    "price": 401,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Desserts"
 }

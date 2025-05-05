@@ -1,15 +1,16 @@
 {
-    "name": "Coal Ore",
-    "description": "Coal is a must to keep any oven running warm.",
-    "price": 5,
-    "maxSpawns": 0,
-    "found": [
-        "Kristoff's Stall Mining",
-        "All Biomes"
-    ],
     "activity": [
         "foraging",
         "mining"
     ],
+    "description": "Coal is a must to keep any oven running warm.",
+    "found": [
+        "Kristoff's Stall Mining",
+        "All Biomes"
+    ],
+    "icon": "star",
+    "maxSpawns": 0,
+    "name": "Coal Ore",
+    "price": 5,
     "rarity": "none"
 }

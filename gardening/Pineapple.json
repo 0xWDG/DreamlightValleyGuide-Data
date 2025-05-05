@@ -1,20 +1,21 @@
 {
-    "name": "Pineapple",
-    "type": "Fruit",
-    "found": [
-        "Wild Tangle"
-    ],
-    "biome": "Wild Tangle",
-    "growTime": 3,
-    "price": 532,
-    "sellPrice": 532,
-    "seedPrice": 200,
-    "grow": "3h",
-    "waterings": 3,
-    "yield": 1,
     "activity": [
         "gardening"
     ],
+    "biome": "Wild Tangle",
     "coins": 332,
-    "description": "Don't let that tough, spiky exterior fool you. They're actually very sweet!"
+    "description": "Don't let that tough, spiky exterior fool you. They're actually very sweet!",
+    "found": [
+        "Wild Tangle"
+    ],
+    "grow": "3h",
+    "growTime": 3,
+    "icon": "star",
+    "name": "Pineapple",
+    "price": 532,
+    "seedPrice": 200,
+    "sellPrice": 532,
+    "type": "Fruit",
+    "waterings": 3,
+    "yield": 1
 }

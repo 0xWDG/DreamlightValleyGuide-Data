@@ -1,17 +1,18 @@
 {
-    "name": "Marinated Herring",
+    "activity": [
+        "recipes"
+    ],
     "description": "Firm fish lightly marinated in a sweet sauce.",
-    "type": "Appetizers",
-    "stars": 2,
     "energy": 723,
-    "price": 305,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Onion",
         "Herring"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Marinated Herring",
+    "price": 305,
+    "rarity": "none",
+    "stars": 2,
+    "type": "Appetizers"
 }

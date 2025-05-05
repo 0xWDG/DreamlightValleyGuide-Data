@@ -1,8 +1,14 @@
 {
+    "description": "Mike Wazowski is a character from the Disney-Pixar film Monsters, Inc. (2001).",
+    "dlc": 0,
+    "house": "Mike and Sulley's Apartment",
+    "icon": "star",
     "name": "Mike Wazowski",
     "origin": "Monsters, Inc.",
-    "house": "Mike and Sulley's Apartment",
-    "description": "Mike Wazowski is a character from the Disney-Pixar film Monsters, Inc. (2001).",
+    "quests": [
+        "mikewazowski.realm",
+        "mikewazowski.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,10 +21,5 @@
         "Monsters, Inc. Phone",
         "Monster Pattern Motif",
         "Monstrous Mini Dress"
-    ],
-    "dlc": 0,
-    "quests": [
-        "mikewazowski.realm",
-        "mikewazowski.friendship"
     ]
 }

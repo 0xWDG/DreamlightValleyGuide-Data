@@ -1,14 +1,15 @@
 {
-    "name": "Green Glass-Like Flowers",
+    "activity": [
+        "foraging"
+    ],
+    "description": "Though it grows from the ground, this flower has petals that look like fine, artisan-blown glass.",
     "found": [
         "The Plains",
         "The Wastes"
     ],
+    "icon": "star",
     "maxSpawns": 4,
+    "name": "Green Glass-Like Flowers",
     "price": 29,
-    "activity": [
-        "foraging"
-    ],
-    "rarity": "none",
-    "description": "Though it grows from the ground, this flower has petals that look like fine, artisan-blown glass."
+    "rarity": "none"
 }

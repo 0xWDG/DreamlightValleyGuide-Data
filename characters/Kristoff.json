@@ -1,8 +1,13 @@
 {
+    "description": "Kristoff is a character from the 2013 Disney film Frozen.\r\nHe's available to unlock after clearing the path to the Forest of Valor.",
+    "house": "Frozen Castle",
+    "icon": "star",
     "name": "Kristoff",
     "origin": "Frozen",
-    "house": "Frozen Castle",
-    "description": "Kristoff is a character from the 2013 Disney film Frozen.\r\nHe's available to unlock after clearing the path to the Forest of Valor.",
+    "quests": [
+        "kristoff.friendship",
+        "kristoff.story"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Norwegian Spruce Tub",
         "Sven Portrait Motif",
         "Kristoff's Sled"
-    ],
-    "quests": [
-        "kristoff.friendship",
-        "kristoff.story"
     ]
 }

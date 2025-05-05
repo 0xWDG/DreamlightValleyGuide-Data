@@ -1,6 +1,7 @@
 {
-    "name": "Dark Grove",
     "biome": "Forest of Valor",
+    "characters": [],
     "description": "The Dark Grove is a location where Donald Duck is encountered during the Story Quest Lost in the Dark Grove. It can be accessed through a portal found in the southwest corner of the Forest of Valor, where Kristoff will be standing outside.\r\n\r\nTo reach the Dark Grove, the Player must select Enter on the dark portal in the Forest of Valor after unlocking the biome. After the quest Lost in the Dark Grove is complete the portal will close and the Dark Grove can no longer be accessed.",
-    "characters": []
+    "icon": "star",
+    "name": "Dark Grove"
 }

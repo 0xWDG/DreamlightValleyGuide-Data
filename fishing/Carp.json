@@ -1,12 +1,13 @@
 {
-    "name": "Carp",
     "description": "A common freshwater fish.",
-    "rarity": "Blue, White",
-    "price": 400,
     "energy": 800,
     "found": [
         "Forest of Valor",
         "Sunlit Plateau"
     ],
+    "icon": "star",
+    "name": "Carp",
+    "price": 400,
+    "rarity": "Blue, White",
     "type": "Fish"
 }

@@ -1,18 +1,19 @@
 {
-    "name": "Seafood Pie",
+    "activity": [
+        "recipes"
+    ],
     "description": "A savory pie filled with shrimp and scallops.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 813,
-    "price": 331,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Any Seafood",
         "Wheat",
         "Butter"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Seafood Pie",
+    "price": 331,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

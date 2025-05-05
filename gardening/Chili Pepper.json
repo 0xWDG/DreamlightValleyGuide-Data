@@ -1,24 +1,25 @@
 {
-    "name": "Chili Pepper",
-    "description": "A Chili pepper is the fruit of plants from the genus Capsicum, members of the nightshade family, Solanaceae. In Britain, Australia, Ireland, New Zealand, South Africa, India, and other English-speaking countries, the term chili pepper is used to describe all spicy peppers, regardless of species.",
-    "type": "Vegetables",
-    "biome": "Sunlit Plateau",
-    "grow": "45min",
-    "water": 1,
-    "yield": 1,
-    "seed": 20,
-    "sell": 78,
-    "profit": 58,
-    "coins": 58,
     "activity": [
         "gardening"
     ],
-    "price": 78,
+    "biome": "Sunlit Plateau",
+    "coins": 58,
+    "description": "A Chili pepper is the fruit of plants from the genus Capsicum, members of the nightshade family, Solanaceae. In Britain, Australia, Ireland, New Zealand, South Africa, India, and other English-speaking countries, the term chili pepper is used to describe all spicy peppers, regardless of species.",
     "found": [
         "Sunlit Plateau"
     ],
+    "grow": "45min",
     "growTime": 45,
-    "sellPrice": 78,
+    "icon": "star",
+    "name": "Chili Pepper",
+    "price": 78,
+    "profit": 58,
+    "seed": 20,
     "seedPrice": 20,
-    "waterings": 1
+    "sell": 78,
+    "sellPrice": 78,
+    "type": "Vegetables",
+    "water": 1,
+    "waterings": 1,
+    "yield": 1
 }

@@ -1,11 +1,12 @@
 {
-    "name": "Anglerfish",
     "description": "Bony fish with large mouths and sharp teeth!",
-    "rarity": "Gold",
-    "price": 1500,
     "energy": 2000,
     "found": [
         "Forgotten Lands"
     ],
+    "icon": "star",
+    "name": "Anglerfish",
+    "price": 1500,
+    "rarity": "Gold",
     "type": "Fish"
 }

@@ -1,13 +1,13 @@
 {
-    "name": "Soil",
-    "description": "A clump of soil that's perfect for gardening.",
     "activity": [
         "digging"
     ],
-    "icon": "\ud83c\udf0d",
-    "price": 3,
-    "gift": 25,
+    "description": "A clump of soil that's perfect for gardening.",
     "found": [
         "Everywhere"
-    ]
+    ],
+    "gift": 25,
+    "icon": "\ud83c\udf0d",
+    "name": "Soil",
+    "price": 3
 }

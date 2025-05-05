@@ -1,14 +1,15 @@
 {
-    "name": "Bu\u00f1uelos",
     "description": "A very popular cheese-fried delicacy often served during festive times.",
-    "type": "Appetizers",
-    "stars": 4,
     "energy": 1881,
-    "price": 948,
+    "icon": "star",
     "ingredients": [
         "Milk",
         "Egg",
         "Cheese",
         "Wheat"
-    ]
+    ],
+    "name": "Bu\u00f1uelos",
+    "price": 948,
+    "stars": 4,
+    "type": "Appetizers"
 }

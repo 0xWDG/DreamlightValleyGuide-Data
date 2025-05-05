@@ -1,12 +1,13 @@
 {
-    "name": "Porridge",
     "description": "A simple, hearty breakfast dish.",
-    "type": "Entr\u00e9es",
-    "stars": 2,
     "energy": 668,
-    "price": 301,
+    "icon": "star",
     "ingredients": [
         "Milk",
         "Wheat"
-    ]
+    ],
+    "name": "Porridge",
+    "price": 301,
+    "stars": 2,
+    "type": "Entr\u00e9es"
 }

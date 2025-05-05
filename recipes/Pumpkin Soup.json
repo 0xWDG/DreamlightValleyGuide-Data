@@ -1,14 +1,15 @@
 {
-    "name": "Pumpkin Soup",
     "description": "A thick, creamy soup with an orange hue.",
-    "type": "Appetizers",
-    "stars": 4,
     "energy": 1431,
-    "price": 1500,
+    "icon": "star",
     "ingredients": [
         "Pumpkin",
         "Ginger",
         "Milk",
         "Any Vegetable"
-    ]
+    ],
+    "name": "Pumpkin Soup",
+    "price": 1500,
+    "stars": 4,
+    "type": "Appetizers"
 }

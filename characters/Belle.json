@@ -1,8 +1,13 @@
 {
+    "description": "Belle is a character from the Disney film Beauty and the Beast (1991).",
+    "house": "Beast's Castle",
+    "icon": "star",
     "name": "Belle",
     "origin": "Beauty and the Beast",
-    "house": "Beast's Castle",
-    "description": "Belle is a character from the Disney film Beauty and the Beast (1991).",
+    "quests": [
+        "belle.friendship",
+        "belle.realm"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
@@ -15,9 +20,5 @@
         "Grand Reading Nook",
         "Book basket Motif",
         "Royal Gold Ball Gown\r\nRoyal Gold Ballroom Suit"
-    ],
-    "quests": [
-        "belle.friendship",
-        "belle.realm"
     ]
 }

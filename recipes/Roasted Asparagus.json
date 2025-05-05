@@ -1,12 +1,13 @@
 {
-    "name": "Roasted Asparagus",
     "description": "Oven-roasted with a sprinkling of salt.",
-    "type": "Appetizers",
-    "stars": 2,
     "energy": 221,
-    "price": 313,
+    "icon": "star",
     "ingredients": [
         "Asparagus",
         "Canola"
-    ]
+    ],
+    "name": "Roasted Asparagus",
+    "price": 313,
+    "stars": 2,
+    "type": "Appetizers"
 }

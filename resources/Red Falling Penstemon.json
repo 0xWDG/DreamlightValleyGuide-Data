@@ -1,14 +1,14 @@
 {
-    "name": "Red Falling Penstemon",
-    "description": "Red wildflowers that droop when in bloom.",
-    "icon": "\ud83c\udf3a",
-    "price": 18,
-    "maxSpawns": 6,
-    "found": [
-        "Plaza"
-    ],
     "activity": [
         "foraging"
     ],
+    "description": "Red wildflowers that droop when in bloom.",
+    "found": [
+        "Plaza"
+    ],
+    "icon": "\ud83c\udf3a",
+    "maxSpawns": 6,
+    "name": "Red Falling Penstemon",
+    "price": 18,
     "rarity": "none"
 }

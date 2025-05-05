@@ -1,14 +1,15 @@
 {
-    "name": "Beignets",
     "description": "Fried puff pastry dusted with powdered sugar.",
-    "type": "Desserts",
-    "stars": 4,
     "energy": 912,
-    "price": 524,
+    "icon": "star",
     "ingredients": [
         "Canola",
         "Wheat",
         "Egg",
         "Sugarcane"
-    ]
+    ],
+    "name": "Beignets",
+    "price": 524,
+    "stars": 4,
+    "type": "Desserts"
 }

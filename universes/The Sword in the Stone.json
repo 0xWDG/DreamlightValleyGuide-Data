@@ -1,8 +1,9 @@
 {
-    "name": "The Sword in the Stone",
-    "description": "The Sword in the Stone is a universe in Disney Dreamlight Valley based on the Disney animated film The Sword in the Stone (1963).\r\nThe film is a retelling of the story of King Arthur, featuring a young Arthur as he is taught the art of kingship with the help of the wizard Merlin and his owl Archimedes.\r\nThe film was the last animated Disney film released during Walt Disney's lifetime.",
-    "price": 0,
     "characters": [
         "Merlin"
-    ]
+    ],
+    "description": "The Sword in the Stone is a universe in Disney Dreamlight Valley based on the Disney animated film The Sword in the Stone (1963).\r\nThe film is a retelling of the story of King Arthur, featuring a young Arthur as he is taught the art of kingship with the help of the wizard Merlin and his owl Archimedes.\r\nThe film was the last animated Disney film released during Walt Disney's lifetime.",
+    "icon": "star",
+    "name": "The Sword in the Stone",
+    "price": 0
 }

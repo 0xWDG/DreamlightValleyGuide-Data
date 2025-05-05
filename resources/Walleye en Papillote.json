@@ -1,19 +1,20 @@
 {
-    "name": "Walleye en Papillote",
+    "activity": [
+        "recipes"
+    ],
     "description": "A cut of walleye baked to perfection with vegetables in parchment paper. Savor the aroma!",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 3689,
-    "price": 1700,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Walleye",
         "Basil",
         "Oregano",
         "Any Vegetable"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Walleye en Papillote",
+    "price": 1700,
+    "rarity": "none",
+    "stars": 4,
+    "type": "Entr\u00e9es"
 }

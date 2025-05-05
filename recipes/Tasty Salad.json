@@ -1,14 +1,15 @@
 {
-    "name": "Tasty Salad",
     "description": "A particularly yummy salad that hits the spot.",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 650,
-    "price": 292,
+    "icon": "star",
     "ingredients": [
         "Lettuce",
         "Cucumber",
         "Any Vegetable",
         "Any Spice"
-    ]
+    ],
+    "name": "Tasty Salad",
+    "price": 292,
+    "stars": 4,
+    "type": "Entr\u00e9es"
 }

@@ -1,16 +1,17 @@
 {
-    "name": "Seafood Appetizer",
-    "description": "A small assortment of seafood snacks.",
-    "type": "Appetizers",
-    "stars": 1,
-    "energy": 242,
-    "price": 54,
-    "ingredients": [
-        "Any Seafood"
-    ],
     "activity": [
         "recipes"
     ],
+    "description": "A small assortment of seafood snacks.",
+    "energy": 242,
     "found": [],
-    "rarity": "none"
+    "icon": "star",
+    "ingredients": [
+        "Any Seafood"
+    ],
+    "name": "Seafood Appetizer",
+    "price": 54,
+    "rarity": "none",
+    "stars": 1,
+    "type": "Appetizers"
 }

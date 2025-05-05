@@ -1,18 +1,19 @@
 {
-    "name": "Veggie Pasta",
+    "activity": [
+        "recipes"
+    ],
     "description": "Vegetables and pasta served in a light sauce.",
-    "type": "Entr\u00e9es",
-    "stars": 3,
     "energy": 158,
-    "price": 43,
+    "found": [],
+    "icon": "star",
     "ingredients": [
         "Tomato",
         "Wheat",
         "Any Vegetable"
     ],
-    "activity": [
-        "recipes"
-    ],
-    "found": [],
-    "rarity": "none"
+    "name": "Veggie Pasta",
+    "price": 43,
+    "rarity": "none",
+    "stars": 3,
+    "type": "Entr\u00e9es"
 }

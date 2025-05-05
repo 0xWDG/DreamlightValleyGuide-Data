@@ -1,14 +1,15 @@
 {
-    "name": "Walleye en Papillote",
     "description": "A cut of walleye baked to perfection with vegetables in parchment paper. Savor the aroma!",
-    "type": "Entr\u00e9es",
-    "stars": 4,
     "energy": 3689,
-    "price": 1700,
+    "icon": "star",
     "ingredients": [
         "Walleye",
         "Basil",
         "Oregano",
         "Any Vegetable"
-    ]
+    ],
+    "name": "Walleye en Papillote",
+    "price": 1700,
+    "stars": 4,
+    "type": "Entr\u00e9es"
 }

@@ -1,11 +1,12 @@
 {
-    "name": "Bream",
     "description": "Silver-hued fish common in mountain streams.",
-    "rarity": "Blue",
-    "price": 280,
     "energy": 1300,
     "found": [
         "Peaceful Meadow"
     ],
+    "icon": "star",
+    "name": "Bream",
+    "price": 280,
+    "rarity": "Blue",
     "type": "Fish"
 }

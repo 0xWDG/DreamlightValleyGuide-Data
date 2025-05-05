@@ -1,15 +1,16 @@
 {
-    "name": "Large Seafood Platter",
     "description": "A large selection of various seafood treats.",
-    "type": "Appetizers",
-    "stars": 5,
     "energy": 1810,
-    "price": 340,
+    "icon": "star",
     "ingredients": [
         "Any Seafood",
         "Any Seafood",
         "Any Seafood",
         "Any Seafood",
         "Lemon"
-    ]
+    ],
+    "name": "Large Seafood Platter",
+    "price": 340,
+    "stars": 5,
+    "type": "Appetizers"
 }

@@ -1,11 +1,12 @@
 {
+    "description": "At home on the muddy banks of the river Styx, these fish easily pass back and forth between the realms of the Living and the Dead.",
+    "energy": 1800,
     "found": [
         "Mythopia"
     ],
-    "price": 1500,
-    "energy": 1800,
-    "rarity": "Gold",
-    "type": "Fish",
+    "icon": "star",
     "name": "Stygian Mudskipper",
-    "description": "At home on the muddy banks of the river Styx, these fish easily pass back and forth between the realms of the Living and the Dead."
+    "price": 1500,
+    "rarity": "Gold",
+    "type": "Fish"
 }

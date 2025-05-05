@@ -1,14 +1,15 @@
 {
-    "name": "Walleye",
+    "activity": [
+        "fishing"
+    ],
     "description": "Large brown fish found in fresh waters.",
-    "rarity": "Gold",
-    "price": 1100,
     "energy": 1700,
     "found": [
         "Sunlit Plateau"
     ],
-    "type": "Fish",
-    "activity": [
-        "fishing"
-    ]
+    "icon": "star",
+    "name": "Walleye",
+    "price": 1100,
+    "rarity": "Gold",
+    "type": "Fish"
 }
