@@ -1,10 +1,10 @@
 {
     "activity": [
-        "foraging"
+        "digging"
     ],
     "description": "A broken sword and shield.",
     "found": [
-        "\u00a0Digging\r\n Mythopia"
+        "Mythopia"
     ],
     "giftReward": 0,
     "icon": "\ud83e\udea8",
