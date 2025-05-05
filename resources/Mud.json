@@ -1,10 +1,11 @@
 {
     "activity": [
-        "foraging"
+        "digging"
     ],
     "description": "Perfectly suitable for mud pies or a fancy spa day and everything in between.",
     "found": [
-        "\u00a0Digging\r\n The Bind\r\n Everafter"
+        "The Bind",
+        "Everafter"
     ],
     "giftReward": 0,
     "icon": "\ud83e\udea8",
