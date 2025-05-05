@@ -1,10 +1,13 @@
 {
     "activity": [
-        "foraging"
+        "digging"
     ],
     "description": "This can be made into all sorts of objects.",
     "found": [
-        "\u00a0Kristoff's Stall\u2028\u00a0Digging\r\n Glade of Trust\r\n Sunlit Plateau\r\n Forgotten Lands\r\n Removing Small and Big Wildebeest Bones"
+        "Kristoff's Stall",
+        "Glade of Trust",
+        "Sunlit Plateau",
+        "Forgotten Lands"
     ],
     "icon": "\ud83e\uddf1",
     "maxSpawns": 0,
