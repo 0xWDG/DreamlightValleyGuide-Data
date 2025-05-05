@@ -1,10 +1,10 @@
 {
     "activity": [
-        "foraging"
+        "fishing"
     ],
     "description": "Posidonia is a foraged material which can be caught while fishing in open water anywhere in Mythopia.",
     "found": [
-        "\u00a0Fishing\r\n Mythopia"
+        "Mythopia"
     ],
     "giftReward": 0,
     "icon": "\ud83c\udf3a",
