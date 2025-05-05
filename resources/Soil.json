@@ -1,10 +1,10 @@
 {
     "activity": [
-        "foraging"
+        "digging
     ],
     "description": "A clump of soil that's perfect for gardening.",
     "found": [
-        "\u00a0Digging\r\n Plaza\r\n Peaceful Meadow\r\n Forest of Valor\r\n Glade of Trust\r\n Sunlit Plateau\r\n Frosted Heights\r\n Forgotten Lands\r\n Ancient's Landing\r\n The Bind\r\n Everafter"
+        "Everywhere"
     ],
     "icon": "\ud83c\udf0d",
     "maxSpawns": 0,
