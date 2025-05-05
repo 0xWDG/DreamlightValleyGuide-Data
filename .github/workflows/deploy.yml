@@ -26,5 +26,5 @@ jobs:
     - name: push to Github Pages
       run: |
         git --work-tree build add --all
-        git commit -m "Automatic Deploy action"
+        git commit -m "Deploy: ${{ github.event.head_commit.message }}"
         git push origin HEAD:gh-pages --force
