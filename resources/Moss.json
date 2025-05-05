@@ -4,7 +4,8 @@
     ],
     "description": "Moss is a foraged material which can be gathered using a shovel on Mossy Logs in The Bind and gathered from the ground in Everafter.",
     "found": [
-        "\u00a0Foraging\r\n Everafter\r\n Removing Mossy Logs"
+        "Everafter",
+        "Removing Mossy Logs"
     ],
     "giftReward": 0,
     "icon": "\ud83e\udea8",
