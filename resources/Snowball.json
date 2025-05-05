@@ -1,10 +1,13 @@
 {
     "activity": [
-        "foraging"
+        "foraging",
+        "digging"
     ],
     "description": "Whatever you do, fight the urge to throw it.",
     "found": [
-        "\u00a0Kristoff's Stall\u2028\u00a0Digging\r\n Frosted Heights\r\n Removing Small and Large Ice Blocks"
+        "Kristoff's Stall",
+        "Frosted Heights",
+        "Removing Small and Large Ice Blocks"
     ],
     "icon": "\u2744\ufe0f",
     "maxSpawns": 0,
