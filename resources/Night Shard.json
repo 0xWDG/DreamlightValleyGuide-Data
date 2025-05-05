@@ -1,6 +1,7 @@
 {
     "activity": [
-        "foraging"
+        "foraging",
+        "digging"
     ],
     "description": "The opposite of a Dream Shard. Be careful.",
     "found": [
