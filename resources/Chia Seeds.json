@@ -3,7 +3,7 @@
         "gardening"
     ],
     "biome": "The Bind",
-    "coins": 1,
+    "coins": "1",
     "description": "Sprinkle a little of this over your yogurt to give it that extra special something.",
     "found": [
         "The Bind"

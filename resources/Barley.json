@@ -3,7 +3,7 @@
         "gardening"
     ],
     "biome": "The Bind",
-    "coins": 0,
+    "coins": "0",
     "description": "A grain that grows in temperate climates, this is perfect for making bread or giving a bit of starch to a stew.",
     "found": [
         "The Bind"

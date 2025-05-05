@@ -3,7 +3,7 @@
         "gardening"
     ],
     "biome": "Everafter",
-    "coins": 0,
+    "coins": "0",
     "description": "Perfect for making oatmeal or adding a little crunch to yogurt.",
     "found": [
         "Everafter"

@@ -3,7 +3,7 @@
         "gardening"
     ],
     "biome": "Glittering Dunes",
-    "coins": 92,
+    "coins": "92",
     "description": "If you arrange a bunch of them, they sort of look like a tiny forest.",
     "found": [
         "Glittering Dunes"

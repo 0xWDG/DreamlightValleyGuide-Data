@@ -3,7 +3,7 @@
         "gardening"
     ],
     "biome": "The Bind",
-    "coins": 15,
+    "coins": "15",
     "description": "Every piece of a cauliflower looks like another tiny cauliflower.",
     "found": [
         "The Bind"

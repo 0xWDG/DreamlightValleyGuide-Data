@@ -3,7 +3,7 @@
         "gardening"
     ],
     "biome": "Mythopia",
-    "coins": 85,
+    "coins": "85",
     "description": "Beneath that yellow rind, this melon is as sweet as honey and succulent as the morning dew.",
     "found": [
         "Mythopia"

@@ -6,8 +6,8 @@ foreach ($files as $file) {
     $json = file_get_contents($file);
     $json = json_decode($json, true);
 
-    if (isset($json['yield'])) {
-        $json['yield'] = intVal($json['yield']);
+    if (isset($json['coins'])) {
+        $json['coins'] = strval($json['coins']);
     }
     
     ksort($json);

@@ -4,7 +4,7 @@
         "gardening"
     ],
     "biome": "Sunlit Plateau",
-    "coins": 0,
+    "coins": "0",
     "description": "Soft fluff that can be used in lots of stuff!",
     "found": [
         "Sunlit Plateau"
