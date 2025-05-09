@@ -1,0 +1,25 @@
+{
+    "name": "Hippocampus Cepelinai Dumplings",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 1,
+    "sellPrice": 1,
+    "energy": 2,
+    "ingredients": [
+        "Hippocampus",
+        "Onion",
+        "Potato",
+        "Spiral Strawberries",
+        "Black Pepper"
+    ],
+    "description": "A dumpling made with a magical seahorse. \n",
+    "stars": 5,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

@@ -4,7 +4,9 @@
     ],
     "description": "A hearty soup made with various veggies.",
     "energy": 120,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Vegetable",
@@ -14,5 +16,7 @@
     "price": 20,
     "rarity": "none",
     "stars": 2,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 20
 }

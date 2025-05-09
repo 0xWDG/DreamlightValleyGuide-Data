@@ -4,7 +4,9 @@
     ],
     "description": "A thin pizza topped with mounds of mushrooms.",
     "energy": 837,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Mushroom",
@@ -16,5 +18,7 @@
     "price": 351,
     "rarity": "none",
     "stars": 4,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 351
 }

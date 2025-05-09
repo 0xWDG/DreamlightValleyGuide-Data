@@ -3,17 +3,21 @@
         "recipes"
     ],
     "description": "On a cold day, there's nothing cozier than curling up with a steaming cup of hot cocoa with extra marshmallows.",
-    "energy": 1563,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Sugarcane",
-        "Cocoa Bean",
-        "Milk"
+        "Milk",
+        "Cocoa Bean"
     ],
     "name": "Hot Cocoa",
     "price": 401,
     "rarity": "none",
     "stars": 3,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 401
 }

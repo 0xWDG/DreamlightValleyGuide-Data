@@ -1,16 +1,25 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A tuna patty grilled to perfection between two sesame seed buns.",
-    "energy": 1922,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Tuna",
-        "Wheat",
-        "Lemon",
         "Onion",
+        "Lemon",
+        "Wheat",
         "Any Vegetable"
     ],
     "name": "Tuna Burger",
     "price": 491,
+    "rarity": "none",
     "stars": 5,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 491
 }

@@ -1,0 +1,22 @@
+{
+    "name": "Classic Mac & Cheese",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 236,
+    "sellPrice": 236,
+    "energy": 541,
+    "ingredients": [
+        "Wheat",
+        "Cheese"
+    ],
+    "description": "Macaroni. Cheese. What more do you need? \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

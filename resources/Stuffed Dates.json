@@ -1,0 +1,22 @@
+{
+    "name": "Stuffed Dates",
+    "type": "\u00a0Desserts",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 91,
+    "sellPrice": 91,
+    "energy": 1,
+    "ingredients": [
+        "Almonds",
+        "Dates"
+    ],
+    "description": "Dates with a tasty cheese filling. Makes a great appetizer! \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

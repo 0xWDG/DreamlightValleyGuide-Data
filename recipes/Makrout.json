@@ -1,0 +1,24 @@
+{
+    "name": "Makrout",
+    "type": "\u00a0Desserts",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 254,
+    "sellPrice": 254,
+    "energy": 1,
+    "ingredients": [
+        "Wheat",
+        "Canola",
+        "Dates",
+        "Cinnamon"
+    ],
+    "description": "A delicious honeyed semolina and flour pastry. \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

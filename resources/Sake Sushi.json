@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "Thin cuts of salmon over cooked rice.",
-    "energy": 1000,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Salmon",
@@ -14,5 +16,7 @@
     "price": 274,
     "rarity": "none",
     "stars": 2,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 274
 }

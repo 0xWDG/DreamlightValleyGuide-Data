@@ -1,0 +1,22 @@
+{
+    "name": "Spiral Strawberry Smoothie",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 221,
+    "sellPrice": 221,
+    "energy": 1,
+    "ingredients": [
+        "Plain Yogurt",
+        "Spiral Strawberries"
+    ],
+    "description": "A smoothie made with slightly odd strawberries. \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

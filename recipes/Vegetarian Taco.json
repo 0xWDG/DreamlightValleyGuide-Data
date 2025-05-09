@@ -1,15 +1,24 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A tortilla with various grilled veggies.",
     "energy": 925,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
-        "Any Vegetable",
         "Corn",
         "Chili Pepper",
-        "Cheese"
+        "Cheese",
+        "Any Vegetable"
     ],
     "name": "Vegetarian Taco",
     "price": 423,
+    "rarity": "none",
     "stars": 4,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 423
 }

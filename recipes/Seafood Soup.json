@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A warm bowl of seafood soup.",
     "energy": 340,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Seafood",
@@ -8,7 +14,10 @@
         "Any Vegetable"
     ],
     "name": "Seafood Soup",
-    "price": 85,
+    "price": 23,
+    "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 23
 }

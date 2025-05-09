@@ -3,19 +3,23 @@
         "recipes"
     ],
     "description": "Fresh salmon drenched in a sweet sauce.",
-    "energy": 1726,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
-        "Salmon",
         "Soya",
+        "Salmon",
+        "Sugarcane",
         "Rice",
-        "Ginger",
-        "Sugarcane"
+        "Ginger"
     ],
     "name": "Teriyaki Salmon",
-    "price": 637,
+    "price": 557,
     "rarity": "none",
     "stars": 5,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 557
 }

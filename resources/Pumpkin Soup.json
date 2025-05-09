@@ -3,18 +3,22 @@
         "recipes"
     ],
     "description": "A thick, creamy soup with an orange hue.",
-    "energy": 1431,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
-        "Pumpkin",
-        "Ginger",
+        "Any Vegetable",
         "Milk",
-        "Any Vegetable"
+        "Ginger",
+        "Pumpkin"
     ],
     "name": "Pumpkin Soup",
-    "price": 1500,
+    "price": 1,
     "rarity": "none",
     "stars": 4,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 1
 }

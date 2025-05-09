@@ -1,12 +1,21 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A simple, healthy salad.",
     "energy": 139,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Lettuce"
     ],
     "name": "Salad",
     "price": 9,
+    "rarity": "none",
     "stars": 1,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 9
 }

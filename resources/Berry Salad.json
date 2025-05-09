@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "Leafy salad topped with a variety of berries.",
-    "energy": 2210,
-    "found": [],
+    "energy": 2,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Raspberry",
@@ -15,5 +17,7 @@
     "price": 139,
     "rarity": "none",
     "stars": 3,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 139
 }

@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Fluffy eggs, folded and topped with seasoning.",
-    "energy": 1751,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Egg",
@@ -9,6 +15,9 @@
     ],
     "name": "Omelet",
     "price": 882,
+    "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 882
 }

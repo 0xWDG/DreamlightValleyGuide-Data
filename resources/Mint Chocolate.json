@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "Savory chocolate with a cool bite.",
-    "energy": 1827,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Mint",
@@ -13,8 +15,10 @@
         "Cocoa Bean"
     ],
     "name": "Mint Chocolate",
-    "price": 490,
+    "price": 445,
     "rarity": "none",
     "stars": 4,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 445
 }

@@ -4,7 +4,9 @@
     ],
     "description": "A thin pizza topped with many vegetables.",
     "energy": 754,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Vegetable",
@@ -17,5 +19,7 @@
     "price": 350,
     "rarity": "none",
     "stars": 5,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 350
 }

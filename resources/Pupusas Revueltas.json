@@ -1,0 +1,23 @@
+{
+    "name": "Pupusas Revueltas",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 790,
+    "sellPrice": 790,
+    "energy": 627,
+    "ingredients": [
+        "Poultry",
+        "Corn",
+        "Beans"
+    ],
+    "description": "A classic Salvadoran dish with a side of salad. \n",
+    "stars": 3,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

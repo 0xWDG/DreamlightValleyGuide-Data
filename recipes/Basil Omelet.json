@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Fluffy eggs cooked with basil.",
-    "energy": 2035,
+    "energy": 2,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Basil",
@@ -9,7 +15,10 @@
         "Milk"
     ],
     "name": "Basil Omelet",
-    "price": 982,
+    "price": 1,
+    "rarity": "none",
     "stars": 4,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 1
 }

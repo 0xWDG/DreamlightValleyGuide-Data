@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Freshly picked mushrooms cooked in fat.",
     "energy": 712,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Mushroom",
@@ -8,6 +14,9 @@
     ],
     "name": "Saut\u00e9ed Mushrooms",
     "price": 286,
+    "rarity": "none",
     "stars": 2,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 286
 }

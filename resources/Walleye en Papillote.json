@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "A cut of walleye baked to perfection with vegetables in parchment paper. Savor the aroma!",
-    "energy": 3689,
-    "found": [],
+    "energy": 3,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Walleye",
@@ -13,8 +15,10 @@
         "Any Vegetable"
     ],
     "name": "Walleye en Papillote",
-    "price": 1700,
+    "price": 1,
     "rarity": "none",
     "stars": 4,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 1
 }

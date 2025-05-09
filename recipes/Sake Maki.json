@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Salmon wrapped in rice and seaweed.",
-    "energy": 1101,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Rice",
@@ -9,6 +15,9 @@
     ],
     "name": "Sake Maki",
     "price": 323,
+    "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 323
 }

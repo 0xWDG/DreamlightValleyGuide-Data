@@ -1,12 +1,36 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Fresh veggies taken straight from the grill.",
     "energy": 83,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
-        "Corn"
+        "Any Vegetable",
+        "Asparagus",
+        "Bamboo",
+        "Broccoli",
+        "Cabbage'",
+        "Celery",
+        "Chili Pepper",
+        "Corn",
+        "Eggplant",
+        "Flute Root",
+        "Onion",
+        "Pumpkin",
+        "Seaweed",
+        "Spinach",
+        "Turnip",
+        "Yam"
     ],
     "name": "Grilled Vegetables",
     "price": 9,
+    "rarity": "none",
     "stars": 1,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 9
 }

@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A cut of carp baked to perfection.",
-    "energy": 1894,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Carp",
@@ -8,6 +14,9 @@
     ],
     "name": "Baked Carp",
     "price": 767,
+    "rarity": "none",
     "stars": 2,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 767
 }

@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A slab of fish seared to perfection.",
     "energy": 537,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Fish",
@@ -8,7 +14,10 @@
         "Basil"
     ],
     "name": "Fish Steak",
-    "price": 100,
+    "price": 101,
+    "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 101
 }

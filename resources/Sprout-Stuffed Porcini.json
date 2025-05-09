@@ -1,0 +1,23 @@
+{
+    "name": "Sprout-Stuffed Porcini",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 235,
+    "sellPrice": 235,
+    "energy": 1,
+    "ingredients": [
+        "Brussels Sprout",
+        "Porcini Mushrooms",
+        "Black Pepper"
+    ],
+    "description": "Savory mushrooms stuffed full of crunchy sprouts. \n",
+    "stars": 3,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

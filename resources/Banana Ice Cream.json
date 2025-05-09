@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "Two scoops of banana-flavored goodness.",
-    "energy": 1884,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Slush Ice",
@@ -16,5 +18,7 @@
     "price": 641,
     "rarity": "none",
     "stars": 4,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 641
 }

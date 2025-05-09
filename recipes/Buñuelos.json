@@ -1,15 +1,24 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A very popular cheese-fried delicacy often served during festive times.",
-    "energy": 1881,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
-        "Milk",
-        "Egg",
+        "Wheat",
         "Cheese",
-        "Wheat"
+        "Milk",
+        "Egg"
     ],
     "name": "Bu\u00f1uelos",
     "price": 948,
+    "rarity": "none",
     "stars": 4,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 948
 }

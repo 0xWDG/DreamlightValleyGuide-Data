@@ -1,0 +1,22 @@
+{
+    "name": "Sugar-Free Fruit Muffin",
+    "type": "\u00a0Desserts",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 13,
+    "sellPrice": 13,
+    "energy": 117,
+    "ingredients": [
+        "Wheat",
+        "Any Fruit"
+    ],
+    "description": "A perfect, fluffy, tasty muffin combining a symphony of berries. \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Tourti\u00e8re",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 1,
+    "sellPrice": 1,
+    "energy": 814,
+    "ingredients": [
+        "Venison",
+        "Wheat",
+        "Potato",
+        "Any Vegetable"
+    ],
+    "description": "",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

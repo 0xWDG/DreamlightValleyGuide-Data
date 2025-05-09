@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Grilled vegetables on easy-to-hold sticks.",
     "energy": 767,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Mushroom",
@@ -10,6 +16,9 @@
     ],
     "name": "Veggie Skewers",
     "price": 427,
+    "rarity": "none",
     "stars": 4,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 427
 }

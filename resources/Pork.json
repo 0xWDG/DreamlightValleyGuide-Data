@@ -1,0 +1,18 @@
+{
+    "activity": [
+        "ingredient"
+    ],
+    "description": "This magically grown pork is versatile so you can enjoy it in barbecue or stew recipes.",
+    "found": [
+        "Gaston's Stall"
+    ],
+    "giftReward": 200,
+    "icon": "\ud83e\udea8",
+    "maxSpawns": 0,
+    "name": "Pork",
+    "type": "protein",
+    "price": 250,
+    "gift": 200,
+    "energy": 250,
+    "rarity": "none"
+}

@@ -1,14 +1,23 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A cut of salmon glazed to perfection with a reduction of apple cider.",
-    "energy": 1572,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
-        "Apple",
         "Salmon",
-        "Sugarcane"
+        "Sugarcane",
+        "Apple"
     ],
     "name": "Apple-Cider-Glazed Salmon",
     "price": 271,
+    "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 271
 }

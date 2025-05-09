@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "Delicate slices of fugu steamed to perfection.",
-    "energy": 3668,
-    "found": [],
+    "energy": 3,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Fugu",
@@ -12,8 +14,10 @@
         "Garlic"
     ],
     "name": "Steamed Fugu",
-    "price": 1400,
+    "price": 1,
     "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 1
 }

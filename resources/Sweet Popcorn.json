@@ -1,0 +1,23 @@
+{
+    "name": "Sweet Popcorn",
+    "type": "\u00a0Desserts",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 209,
+    "sellPrice": 209,
+    "energy": 390,
+    "ingredients": [
+        "Corn",
+        "Canola",
+        "Agave"
+    ],
+    "description": "The perfect snack for a movie night in an individual size. Now with added sugar. \n",
+    "stars": 3,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

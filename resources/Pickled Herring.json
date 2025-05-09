@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "A tart, pickled fish that has a unique flavor.",
-    "energy": 1742,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Herring",
@@ -13,8 +15,10 @@
         "Any Spice"
     ],
     "name": "Pickled Herring",
-    "price": 431,
+    "price": 423,
     "rarity": "none",
     "stars": 4,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 423
 }

@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "A rich, flavorful meal that doesn't require too much extra effort to make.",
-    "energy": 3155,
-    "found": [],
+    "energy": 2,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Bream",
@@ -12,8 +14,10 @@
         "Butter"
     ],
     "name": "Spicy Baked Bream",
-    "price": 1200,
+    "price": 767,
     "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 767
 }

@@ -1,0 +1,23 @@
+{
+    "name": "Salt-Pickled Garlic",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 119,
+    "sellPrice": 119,
+    "energy": 383,
+    "ingredients": [
+        "Garlic",
+        "Salt Crystal",
+        "Any Spice"
+    ],
+    "description": "Garlic cloves, brined in salt and left to pickle for maximum flavor. \n",
+    "stars": 3,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

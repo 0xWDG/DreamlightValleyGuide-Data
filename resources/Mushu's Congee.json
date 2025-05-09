@@ -3,19 +3,23 @@
         "recipes"
     ],
     "description": "Mushu's patented rice and egg breakfast bowl.",
-    "energy": 1658,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Rice",
         "Egg",
-        "Ginger",
+        "Mushroom",
         "Garlic",
-        "Mushroom"
+        "Ginger"
     ],
     "name": "Mushu's Congee",
-    "price": 753,
+    "price": 657,
     "rarity": "none",
     "stars": 5,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 657
 }

@@ -1,0 +1,24 @@
+{
+    "name": "Shovel Bird Eggs Benedict",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 420,
+    "sellPrice": 420,
+    "energy": 1,
+    "ingredients": [
+        "Elysian Grain",
+        "Shovel Bird Eggs",
+        "Spiral Strawberries",
+        "Salt Crystal"
+    ],
+    "description": "Eggs Benedict, made with farm-fresh Shovel Bird eggs straight from Tulgey Wood. \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

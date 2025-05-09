@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Small, flaky pastries stuffed with eggplant.",
-    "energy": 1941,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Eggplant",
@@ -9,6 +15,9 @@
     ],
     "name": "Eggplant Puffs",
     "price": 991,
+    "rarity": "none",
     "stars": 3,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 991
 }

@@ -1,0 +1,25 @@
+{
+    "name": "Rainbouillabaisse",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 2,
+    "sellPrice": 2,
+    "energy": 4,
+    "ingredients": [
+        "Prisma Shrimp",
+        "Any Seafood",
+        "Rainbow Trout",
+        "Tomato",
+        "Any Vegetable"
+    ],
+    "description": "An Eternity Isle take on the classic bouillabaisse. \n",
+    "stars": 5,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

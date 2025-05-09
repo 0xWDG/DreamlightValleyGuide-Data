@@ -4,7 +4,9 @@
     ],
     "description": "Lightly fried mounds of fluffy omelet eggs!",
     "energy": 689,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Egg",
@@ -14,5 +16,7 @@
     "price": 310,
     "rarity": "none",
     "stars": 2,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 310
 }

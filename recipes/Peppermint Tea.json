@@ -1,0 +1,22 @@
+{
+    "name": "Peppermint Tea",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "biome": "Dreamlight Valley",
+    "price": 107,
+    "sellPrice": 107,
+    "energy": 993,
+    "ingredients": [
+        "Lemon",
+        "Mint"
+    ],
+    "description": "A warm soothing cup of Peppermint Tea. \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "A flaky pie with a distinct banana flavor.",
-    "energy": 1227,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Banana",
@@ -15,5 +17,7 @@
     "price": 308,
     "rarity": "none",
     "stars": 3,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 308
 }

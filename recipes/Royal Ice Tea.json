@@ -1,0 +1,22 @@
+{
+    "name": "Royal Ice Tea",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 234,
+    "sellPrice": 234,
+    "energy": 610,
+    "ingredients": [
+        "Slush Ice",
+        "Majestea"
+    ],
+    "description": "A beautiful, refreshing royal blue cup of tea. \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

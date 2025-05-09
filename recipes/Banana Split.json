@@ -1,16 +1,25 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "It has bananas so it must be healthy, right?",
-    "energy": 2074,
+    "energy": 2,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Slush Ice",
         "Banana",
         "Milk",
         "Sugarcane",
-        "Any Sweets"
+        "Any Sweet"
     ],
     "name": "Banana Split",
     "price": 714,
+    "rarity": "none",
     "stars": 5,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 714
 }

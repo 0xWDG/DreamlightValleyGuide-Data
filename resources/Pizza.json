@@ -4,7 +4,9 @@
     ],
     "description": "Who doesn't love pizza?",
     "energy": 607,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Tomato",
@@ -15,5 +17,7 @@
     "price": 284,
     "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 284
 }

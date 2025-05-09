@@ -1,0 +1,24 @@
+{
+    "name": "Milky Way Stew",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 733,
+    "sellPrice": 733,
+    "energy": 1,
+    "ingredients": [
+        "Rainbow Trout",
+        "Milk",
+        "Turnip",
+        "Cosmic Figs"
+    ],
+    "description": "Every extraterrestrial being envies you for this recipe. \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

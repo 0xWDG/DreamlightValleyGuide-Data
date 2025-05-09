@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Buttered lobster stuffed in a warm roll.",
-    "energy": 4928,
+    "energy": 4,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Lobster",
@@ -10,7 +16,10 @@
         "Garlic"
     ],
     "name": "Lobster Roll",
-    "price": 1900,
+    "price": 1,
+    "rarity": "none",
     "stars": 5,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 1
 }

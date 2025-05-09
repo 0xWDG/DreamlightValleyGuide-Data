@@ -1,13 +1,22 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A large plate of oysters.",
-    "energy": 1155,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Oyster",
         "Lemon"
     ],
     "name": "Oyster Platter",
-    "price": 367,
+    "price": 107,
+    "rarity": "none",
     "stars": 2,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 107
 }

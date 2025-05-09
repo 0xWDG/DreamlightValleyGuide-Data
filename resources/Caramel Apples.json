@@ -4,7 +4,9 @@
     ],
     "description": "Sweet red apples dipped in delicious caramel.",
     "energy": 638,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Sugarcane",
@@ -14,5 +16,7 @@
     "price": 56,
     "rarity": "none",
     "stars": 2,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 56
 }

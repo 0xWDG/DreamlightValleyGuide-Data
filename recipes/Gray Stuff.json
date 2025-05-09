@@ -1,14 +1,23 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Try it -  \u2027 it's delicious!",
-    "energy": 1046,
+    "energy": 976,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
+        "Any Dairy or Oil",
         "Sugarcane",
-        "Cocoa Bean",
-        "Any Dairy or Oil"
+        "Cocoa Bean"
     ],
     "name": "Gray Stuff",
-    "price": 175,
+    "price": 87,
+    "rarity": "none",
     "stars": 3,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 87
 }

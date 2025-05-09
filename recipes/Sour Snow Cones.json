@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Ice shavings soaked in delicious fruit syrup.",
-    "energy": 1257,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Slush Ice",
@@ -9,6 +15,9 @@
     ],
     "name": "Sour Snow Cones",
     "price": 282,
+    "rarity": "none",
     "stars": 3,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 282
 }

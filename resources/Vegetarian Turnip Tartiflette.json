@@ -1,0 +1,23 @@
+{
+    "name": "Vegetarian Turnip Tartiflette",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 399,
+    "sellPrice": 399,
+    "energy": 816,
+    "ingredients": [
+        "Mushroom",
+        "Turnip",
+        "Soya"
+    ],
+    "description": "A novel vegetarian take on a traditional dish, replacing potato with turnip. \n",
+    "stars": 3,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

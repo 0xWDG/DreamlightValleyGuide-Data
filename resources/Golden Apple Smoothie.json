@@ -1,0 +1,22 @@
+{
+    "name": "Golden Apple Smoothie",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 299,
+    "sellPrice": 299,
+    "energy": 985,
+    "ingredients": [
+        "Plain Yogurt",
+        "Golden Apple"
+    ],
+    "description": "Golden apples, whipped into a smoothie packed with magical nutrients. \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

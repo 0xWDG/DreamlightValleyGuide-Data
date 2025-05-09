@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A simple puff pastry with caramelized onion.",
-    "energy": 1392,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Onion",
@@ -9,6 +15,9 @@
     ],
     "name": "Onion Puffs",
     "price": 798,
+    "rarity": "none",
     "stars": 3,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 798
 }

@@ -1,0 +1,24 @@
+{
+    "name": "Loaded Persimmon Porridge",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 438,
+    "sellPrice": 438,
+    "energy": 1,
+    "ingredients": [
+        "Oats",
+        "Oats",
+        "Persimmon",
+        "Ambrosia"
+    ],
+    "description": "A porridge loaded with flavor, made with persimmons. \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

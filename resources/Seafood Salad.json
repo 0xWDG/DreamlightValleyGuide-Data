@@ -4,15 +4,19 @@
     ],
     "description": "Leafy greens with tomato and fresh seafood.",
     "energy": 349,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Seafood",
         "Lettuce"
     ],
     "name": "Seafood Salad",
-    "price": 68,
+    "price": 11,
     "rarity": "none",
     "stars": 2,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 11
 }

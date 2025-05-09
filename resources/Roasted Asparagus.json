@@ -4,7 +4,9 @@
     ],
     "description": "Oven-roasted with a sprinkling of salt.",
     "energy": 221,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Asparagus",
@@ -14,5 +16,7 @@
     "price": 313,
     "rarity": "none",
     "stars": 2,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 313
 }

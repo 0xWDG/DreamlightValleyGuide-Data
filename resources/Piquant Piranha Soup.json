@@ -1,0 +1,23 @@
+{
+    "name": "Piquant Piranha Soup",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 2,
+    "sellPrice": 2,
+    "energy": 4,
+    "ingredients": [
+        "Chili Pepper",
+        "Bamboo",
+        "Piranha"
+    ],
+    "description": "This spicy soup is surprisingly delicious, but watch out. It's got bite. \n",
+    "stars": 3,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

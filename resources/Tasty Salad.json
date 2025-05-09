@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "A particularly yummy salad that hits the spot.",
-    "energy": 650,
-    "found": [],
+    "energy": 517,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Lettuce",
@@ -13,8 +15,10 @@
         "Any Spice"
     ],
     "name": "Tasty Salad",
-    "price": 292,
+    "price": 284,
     "rarity": "none",
     "stars": 4,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 284
 }

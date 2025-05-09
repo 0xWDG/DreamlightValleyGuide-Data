@@ -1,0 +1,22 @@
+{
+    "name": "Chrysanthemum Tea",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "biome": "Dreamlight Valley",
+    "price": 69,
+    "sellPrice": 69,
+    "energy": 687,
+    "ingredients": [
+        "Chrysanthemum Tea Leaves",
+        "Blueberry"
+    ],
+    "description": "A soothing, floral golden tea. \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

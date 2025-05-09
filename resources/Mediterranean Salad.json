@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "Olive oil, feta cheese, and leafy greens!",
-    "energy": 976,
-    "found": [],
+    "energy": 836,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Cucumber",
@@ -14,8 +16,10 @@
         "Any Spice"
     ],
     "name": "Mediterranean Salad",
-    "price": 605,
+    "price": 597,
     "rarity": "none",
     "stars": 5,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 597
 }

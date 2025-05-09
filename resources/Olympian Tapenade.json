@@ -1,0 +1,24 @@
+{
+    "name": "Olympian Tapenade",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 456,
+    "sellPrice": 456,
+    "energy": 1,
+    "ingredients": [
+        "Elysian Grain",
+        "Olives",
+        "Honeydew Melon",
+        "Any Spice"
+    ],
+    "description": "A delicious spread made with diced olives and spices. Spoon it over some bread for a tasty snack. \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

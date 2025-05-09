@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "A mild, sweet fish cooked to perfection with vegetables.",
-    "energy": 2194,
-    "found": [],
+    "energy": 2,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Tilapia",
@@ -15,5 +17,7 @@
     "price": 862,
     "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 862
 }

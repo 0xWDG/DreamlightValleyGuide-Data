@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A rich stew that uses different kinds of fish.",
-    "energy": 2114,
+    "energy": 2,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Seafood",
@@ -10,7 +16,10 @@
         "Any Vegetable"
     ],
     "name": "Bouillabaisse",
-    "price": 671,
+    "price": 529,
+    "rarity": "none",
     "stars": 5,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 529
 }

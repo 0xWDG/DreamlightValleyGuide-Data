@@ -1,0 +1,22 @@
+{
+    "name": "Scottish Porridge",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 139,
+    "sellPrice": 139,
+    "energy": 255,
+    "ingredients": [
+        "Oats",
+        "Any Fruit"
+    ],
+    "description": "Porridge with a Scottish twist. \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

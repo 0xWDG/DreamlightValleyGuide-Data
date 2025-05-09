@@ -4,7 +4,9 @@
     ],
     "description": "Small, flaky pastries stuffed with spinach.",
     "energy": 750,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Spinach",
@@ -15,5 +17,7 @@
     "price": 461,
     "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 461
 }

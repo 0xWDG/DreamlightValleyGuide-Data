@@ -1,0 +1,23 @@
+{
+    "name": "Electric Radicchio & Persimmon Salad",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 303,
+    "sellPrice": 303,
+    "energy": 1,
+    "ingredients": [
+        "Radicchio",
+        "Persimmon",
+        "Lightning Spice"
+    ],
+    "description": "A salad that's sure to electrify. \n",
+    "stars": 3,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

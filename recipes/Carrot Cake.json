@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A delicious cake with carrots and cinnamon.",
     "energy": 908,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Carrot",
@@ -10,6 +16,9 @@
     ],
     "name": "Carrot Cake",
     "price": 427,
+    "rarity": "none",
     "stars": 4,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 427
 }

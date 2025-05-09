@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A large selection of various seafood treats.",
-    "energy": 1810,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Seafood",
@@ -10,7 +16,10 @@
         "Lemon"
     ],
     "name": "Large Seafood Platter",
-    "price": 340,
+    "price": 56,
+    "rarity": "none",
     "stars": 5,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 56
 }

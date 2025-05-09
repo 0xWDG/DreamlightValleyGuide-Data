@@ -1,0 +1,25 @@
+{
+    "name": "Sweet and Sour Stir-Fry",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 2,
+    "sellPrice": 2,
+    "energy": 2,
+    "ingredients": [
+        "Poultry",
+        "Broccoli",
+        "Canola",
+        "Dreamango",
+        "Pineapple"
+    ],
+    "description": "A perfectly balanced taste for a perfect meal. \n",
+    "stars": 5,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

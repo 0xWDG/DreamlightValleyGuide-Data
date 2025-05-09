@@ -4,7 +4,9 @@
     ],
     "description": "A savory dish of pasta and tomato sauce.",
     "energy": 373,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Tomato",
@@ -15,5 +17,7 @@
     "price": 141,
     "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 141
 }

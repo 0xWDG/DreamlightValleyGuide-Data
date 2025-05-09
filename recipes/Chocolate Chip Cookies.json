@@ -1,15 +1,24 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "An ooey gooey sweet treat!",
-    "energy": 1569,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Cocoa Bean",
-        "Sugarcane",
         "Wheat",
+        "Sugarcane",
         "Butter"
     ],
     "name": "Chocolate Chip Cookies",
     "price": 373,
+    "rarity": "none",
     "stars": 4,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 373
 }

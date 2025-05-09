@@ -4,15 +4,19 @@
     ],
     "description": "A light and refreshing summer treat.",
     "energy": 695,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Slush Ice",
         "Mint"
     ],
     "name": "Mint Sorbet",
-    "price": 299,
+    "price": 260,
     "rarity": "none",
     "stars": 2,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 260
 }

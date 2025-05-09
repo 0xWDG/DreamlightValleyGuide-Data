@@ -1,13 +1,22 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A delicious fruity treat for the hottest days.",
-    "energy": 857,
+    "energy": 467,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Slush Ice",
         "Any Fruit"
     ],
     "name": "Fruit Sorbet",
-    "price": 222,
+    "price": 206,
+    "rarity": "none",
     "stars": 2,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 206
 }

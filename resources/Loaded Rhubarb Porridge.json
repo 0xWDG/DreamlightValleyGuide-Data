@@ -1,0 +1,24 @@
+{
+    "name": "Loaded Rhubarb Porridge",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 744,
+    "sellPrice": 744,
+    "energy": 1,
+    "ingredients": [
+        "Oats",
+        "Oats",
+        "Rhubarb",
+        "Ambrosia"
+    ],
+    "description": "A porridge loaded with flavor, made with rhubarb. \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

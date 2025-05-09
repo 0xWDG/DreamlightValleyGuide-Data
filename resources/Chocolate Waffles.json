@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "Fluffy waffles slathered in chocolate sauce.",
-    "energy": 2223,
-    "found": [],
+    "energy": 2,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Cocoa Bean",
@@ -16,5 +18,7 @@
     "price": 735,
     "rarity": "none",
     "stars": 4,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 735
 }

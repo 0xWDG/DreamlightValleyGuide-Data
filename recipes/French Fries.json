@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Perfectly seasoned potato fries.",
     "energy": 342,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Canola",
@@ -8,6 +14,9 @@
     ],
     "name": "French Fries",
     "price": 304,
+    "rarity": "none",
     "stars": 2,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 304
 }

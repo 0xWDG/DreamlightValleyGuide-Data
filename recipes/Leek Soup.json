@@ -1,12 +1,21 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Don\u2019t worry \u2014 there are potatoes in there, too.",
     "energy": 414,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Leek"
     ],
     "name": "Leek Soup",
     "price": 370,
+    "rarity": "none",
     "stars": 1,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 370
 }

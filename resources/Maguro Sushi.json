@@ -3,18 +3,22 @@
         "recipes"
     ],
     "description": "Thin cuts of tuna over cooked rice.",
-    "energy": 1206,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Tuna",
-        "Rice",
         "Seaweed",
+        "Rice",
         "Ginger"
     ],
     "name": "Maguro Sushi",
-    "price": 413,
+    "price": 338,
     "rarity": "none",
     "stars": 4,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 338
 }

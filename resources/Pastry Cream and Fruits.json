@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "Fruits and cream: an iconic combination!",
-    "energy": 2332,
-    "found": [],
+    "energy": 958,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Fruit",
@@ -14,8 +16,10 @@
         "Sugarcane"
     ],
     "name": "Pastry Cream and Fruits",
-    "price": 497,
+    "price": 440,
     "rarity": "none",
     "stars": 5,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 440
 }

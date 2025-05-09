@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "A thick and hearty stew to fill your belly.",
-    "energy": 2226,
-    "found": [],
+    "energy": 2,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Okra",
@@ -14,8 +16,10 @@
         "Onion"
     ],
     "name": "Gumbo",
-    "price": 1000,
+    "price": 1,
     "rarity": "none",
     "stars": 5,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 1
 }

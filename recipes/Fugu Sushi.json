@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A dangerous delicacy that tastes marvelous.",
-    "energy": 3261,
+    "energy": 3,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Fugu",
@@ -8,7 +14,10 @@
         "Seaweed"
     ],
     "name": "Fugu Sushi",
-    "price": 1300,
+    "price": 1,
+    "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 1
 }

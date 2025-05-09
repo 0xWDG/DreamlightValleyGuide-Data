@@ -1,0 +1,24 @@
+{
+    "name": "Nutmeg Cookies",
+    "type": "\u00a0Desserts",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 278,
+    "sellPrice": 278,
+    "energy": 1,
+    "ingredients": [
+        "Wheat",
+        "Plain Yogurt",
+        "Nutmeg",
+        "Any Sweet"
+    ],
+    "description": "Fresh-baked cookies right out of the oven, with a delicious nutmeg twist. \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

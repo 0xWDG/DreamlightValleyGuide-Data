@@ -1,0 +1,24 @@
+{
+    "name": "Lupine Cullen Skink",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 736,
+    "sellPrice": 736,
+    "energy": 1,
+    "ingredients": [
+        "Sea Wolf",
+        "Onion",
+        "Potato",
+        "Plain Yogurt"
+    ],
+    "description": "A tasty dish made with sea wolf and potatoes, marinated in onions and yogurt. \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

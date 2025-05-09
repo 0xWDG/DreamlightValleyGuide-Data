@@ -4,17 +4,21 @@
     ],
     "description": "Battered fish and salted fries.",
     "energy": 697,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
+        "Any Fish",
         "Wheat",
         "Canola",
-        "Potato",
-        "Any Fish"
+        "Potato"
     ],
     "name": "Fish 'n' Chips",
-    "price": 392,
+    "price": 356,
     "rarity": "none",
     "stars": 4,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 356
 }

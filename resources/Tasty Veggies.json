@@ -3,16 +3,20 @@
         "recipes"
     ],
     "description": "Delicious, freshly picked vegetables.",
-    "energy": 246,
-    "found": [],
+    "energy": 127,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Vegetable",
         "Any Spice"
     ],
     "name": "Tasty Veggies",
-    "price": 36,
+    "price": 29,
     "rarity": "none",
     "stars": 2,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 29
 }

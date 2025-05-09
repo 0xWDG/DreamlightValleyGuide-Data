@@ -1,0 +1,24 @@
+{
+    "name": "Cannoli",
+    "type": "\u00a0Desserts",
+    "icon": "star",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "biome": "Dreamlight Valley",
+    "price": 678,
+    "sellPrice": 678,
+    "energy": 1,
+    "ingredients": [
+        "Wheat",
+        "Cheese",
+        "Egg",
+        "Vanilla"
+    ],
+    "description": "A pastry with a sweet, creamy filling. Trust us -- take the cannoli! \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "The perfect snack for any hot day.",
-    "energy": 1475,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Slush Ice",
@@ -9,7 +15,10 @@
         "Vanilla"
     ],
     "name": "Vanilla Ice Cream",
-    "price": 688,
+    "price": 673,
+    "rarity": "none",
     "stars": 4,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 673
 }

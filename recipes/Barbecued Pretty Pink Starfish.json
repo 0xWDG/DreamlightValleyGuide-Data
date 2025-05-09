@@ -1,0 +1,22 @@
+{
+    "name": "Barbecued Pretty Pink Starfish",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 1,
+    "sellPrice": 1,
+    "energy": 2,
+    "ingredients": [
+        "Pretty Pink Starfish",
+        "Paprika"
+    ],
+    "description": "Not your everyday grilled seafood. \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

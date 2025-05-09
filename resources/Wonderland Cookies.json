@@ -4,7 +4,9 @@
     ],
     "description": "Chewy sugar cookies with royal adornments.",
     "energy": 970,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Butter",
@@ -13,8 +15,10 @@
         "Wheat"
     ],
     "name": "Wonderland Cookies",
-    "price": 406,
+    "price": 391,
     "rarity": "none",
     "stars": 4,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 391
 }

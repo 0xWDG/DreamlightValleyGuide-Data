@@ -1,0 +1,24 @@
+{
+    "name": "Nestling Crepe",
+    "type": "\u00a0Desserts",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 715,
+    "sellPrice": 715,
+    "energy": 1,
+    "ingredients": [
+        "Wheat",
+        "Egg",
+        "Milk",
+        "Nestling Pear"
+    ],
+    "description": "You can almost hear the pear twittering. \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

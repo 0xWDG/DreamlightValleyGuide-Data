@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "A tiered cake to celebrate a beautiful union.",
-    "energy": 1680,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Butter",
@@ -14,8 +16,10 @@
         "Wheat"
     ],
     "name": "Wedding Cake",
-    "price": 785,
+    "price": 769,
     "rarity": "none",
     "stars": 5,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 769
 }

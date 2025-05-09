@@ -4,15 +4,19 @@
     ],
     "description": "A delicious sugary treat.",
     "energy": 714,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
-        "Milk",
-        "Sugarcane"
+        "Sugarcane",
+        "Milk"
     ],
     "name": "Boba Tea",
     "price": 323,
     "rarity": "none",
     "stars": 2,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 323
 }

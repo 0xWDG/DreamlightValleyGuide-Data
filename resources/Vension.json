@@ -1,0 +1,18 @@
+{
+    "activity": [
+        "ingredient"
+    ],
+    "description": "This magically grown venison tastes spectacular as a main course or as part of a stew.",
+    "found": [
+        "Gaston's Stall"
+    ],
+    "giftReward": 200,
+    "icon": "\ud83e\udea8",
+    "maxSpawns": 0,
+    "name": "Vension",
+    "type": "protein",
+    "price": 1000,
+    "gift": 200,
+    "energy": 250,
+    "rarity": "none"
+}

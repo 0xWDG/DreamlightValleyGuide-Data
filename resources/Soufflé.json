@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "A delicate dish that packs a lot of flavor.",
-    "energy": 2386,
-    "found": [],
+    "energy": 2,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Cheese",
@@ -13,8 +15,10 @@
         "Butter"
     ],
     "name": "Souffl\u00e9",
-    "price": 1230,
+    "price": 1,
     "rarity": "none",
     "stars": 4,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 1
 }

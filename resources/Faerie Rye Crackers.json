@@ -1,0 +1,21 @@
+{
+    "name": "Faerie Rye Crackers",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 74,
+    "sellPrice": 74,
+    "energy": 126,
+    "ingredients": [
+        "Faerie Rye"
+    ],
+    "description": "They're crackers, but a little bit magical. (Even more magical when served with cheese.) \n",
+    "stars": 1,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

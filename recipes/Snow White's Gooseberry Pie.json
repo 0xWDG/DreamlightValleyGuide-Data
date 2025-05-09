@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Snow White's famously delicious pie!",
-    "energy": 1677,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Gooseberry",
@@ -9,6 +15,9 @@
     ],
     "name": "Snow White's Gooseberry Pie",
     "price": 338,
+    "rarity": "none",
     "stars": 3,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 338
 }

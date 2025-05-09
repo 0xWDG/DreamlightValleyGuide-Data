@@ -3,18 +3,22 @@
         "recipes"
     ],
     "description": "A simple, delicious soup.",
-    "energy": 1138,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
+        "Any Spice",
         "Milk",
         "Potato",
-        "Any Spice",
         "Any Vegetable"
     ],
     "name": "Creamy Soup",
-    "price": 576,
+    "price": 568,
     "rarity": "none",
     "stars": 4,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 568
 }

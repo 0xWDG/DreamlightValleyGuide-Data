@@ -1,0 +1,25 @@
+{
+    "name": "Chimera Skewer",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 1,
+    "sellPrice": 1,
+    "energy": 2,
+    "ingredients": [
+        "Hippocampus",
+        "Trumpet Snail",
+        "Flying Fish",
+        "Any Fish",
+        "Brussels Sprout"
+    ],
+    "description": "A skewer made up of various oddities. \n",
+    "stars": 5,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

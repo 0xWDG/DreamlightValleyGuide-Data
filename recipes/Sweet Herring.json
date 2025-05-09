@@ -1,0 +1,22 @@
+{
+    "name": "Sweet Herring",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "biome": "Dreamlight Valley",
+    "price": 305,
+    "sellPrice": 305,
+    "energy": 723,
+    "ingredients": [
+        "Herring",
+        "Onion"
+    ],
+    "description": "Firm fish lightly marinated in a sweet sauce. \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

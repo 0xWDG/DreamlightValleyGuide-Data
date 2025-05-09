@@ -1,12 +1,21 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A salad of bananas, apples, and other fruits.",
-    "energy": 450,
+    "energy": 83,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Fruit"
     ],
     "name": "Fruit Salad",
-    "price": 25,
+    "price": 10,
+    "rarity": "none",
     "stars": 1,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 10
 }

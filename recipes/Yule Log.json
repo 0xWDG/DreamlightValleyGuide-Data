@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A delicious treat to share at a festive celebration... or eat all by yourself.",
-    "energy": 2147,
+    "energy": 2,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Wheat",
@@ -9,7 +15,10 @@
         "Cherry"
     ],
     "name": "Yule Log",
-    "price": 213,
+    "price": 198,
+    "rarity": "none",
     "stars": 4,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 198
 }

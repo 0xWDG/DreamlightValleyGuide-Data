@@ -1,13 +1,22 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Fresh, raw fish served with rice.",
     "energy": 405,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Fish",
         "Rice"
     ],
     "name": "Sushi",
-    "price": 111,
+    "price": 80,
+    "rarity": "none",
     "stars": 2,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 80
 }

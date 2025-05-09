@@ -1,0 +1,22 @@
+{
+    "name": "Sparkling Ambrosia",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 175,
+    "sellPrice": 175,
+    "energy": 883,
+    "ingredients": [
+        "Lightning Spice",
+        "Ambrosia"
+    ],
+    "description": "A glass of ambrosia, with a little extra spark. \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

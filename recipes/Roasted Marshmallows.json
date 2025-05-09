@@ -1,0 +1,24 @@
+{
+    "name": "Roasted Marshmallows",
+    "type": "\u00a0Desserts",
+    "icon": "star",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "biome": "Dreamlight Valley",
+    "price": 300,
+    "sellPrice": 300,
+    "energy": 3,
+    "ingredients": [
+        "Pink Marshmallow",
+        "Pink Marshmallow",
+        "Blue Marshmallow",
+        "Blue Marshmallow"
+    ],
+    "description": "Gooey, sweet, and sticky. These toasted sugar treats are golden brown and delicious. \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

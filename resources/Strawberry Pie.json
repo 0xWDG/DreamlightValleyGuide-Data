@@ -1,0 +1,23 @@
+{
+    "name": "Strawberry Pie",
+    "type": "\u00a0Desserts",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 300,
+    "sellPrice": 300,
+    "energy": 1,
+    "ingredients": [
+        "Wheat",
+        "Butter",
+        "Strawberry"
+    ],
+    "description": "A sweet pie full of sugary strawberry jam. \n",
+    "stars": 3,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

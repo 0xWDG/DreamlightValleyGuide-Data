@@ -1,0 +1,25 @@
+{
+    "name": "Shawarma",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 1,
+    "sellPrice": 1,
+    "energy": 2,
+    "ingredients": [
+        "Venison",
+        "Rice",
+        "Lemon",
+        "Cinnamon",
+        "Garlic"
+    ],
+    "description": "Two skewers of perfectly marinated and roasted meat with a side of rice. \n",
+    "stars": 5,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

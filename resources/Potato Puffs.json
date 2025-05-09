@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "Small, flaky pastries stuffed with potato.",
-    "energy": 1333,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Potato",
@@ -15,5 +17,7 @@
     "price": 736,
     "rarity": "none",
     "stars": 3,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 736
 }

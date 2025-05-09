@@ -1,0 +1,25 @@
+{
+    "name": "Butter Chicken",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 1,
+    "sellPrice": 1,
+    "energy": 2,
+    "ingredients": [
+        "Poultry",
+        "Tomato",
+        "Butter",
+        "Lemon",
+        "Cumin"
+    ],
+    "description": "Curried chicken marinated in spices, tomatoes, and butter, with some rice on the side. \n",
+    "stars": 5,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

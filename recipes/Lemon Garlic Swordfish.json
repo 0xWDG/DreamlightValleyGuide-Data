@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A fresh cut of swordfish cooked in garlic and lemon.",
-    "energy": 3713,
+    "energy": 3,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Swordfish",
@@ -8,7 +14,10 @@
         "Lemon"
     ],
     "name": "Lemon Garlic Swordfish",
-    "price": 1100,
+    "price": 1,
+    "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 1
 }

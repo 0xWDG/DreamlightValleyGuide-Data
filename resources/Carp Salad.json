@@ -3,17 +3,21 @@
         "recipes"
     ],
     "description": "Leafy greens with tomato and fresh fish.",
-    "energy": 2310,
-    "found": [],
+    "energy": 2,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Carp",
-        "Lettuce",
-        "Lemon"
+        "Lemon",
+        "Lettuce"
     ],
     "name": "Carp Salad",
     "price": 617,
     "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 617
 }

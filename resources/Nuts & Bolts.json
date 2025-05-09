@@ -1,0 +1,22 @@
+{
+    "name": "Nuts & Bolts",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 866,
+    "sellPrice": 866,
+    "energy": 3,
+    "ingredients": [
+        "Robot Fish",
+        "Almonds"
+    ],
+    "description": "Well, this appetizer doesn't lack crunch at all. \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

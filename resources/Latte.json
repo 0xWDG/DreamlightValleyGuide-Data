@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "Strong coffee with a dollop of perfectly steamed milk on top.",
-    "energy": 1358,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Coffee Bean",
@@ -14,5 +16,7 @@
     "price": 345,
     "rarity": "none",
     "stars": 2,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 345
 }

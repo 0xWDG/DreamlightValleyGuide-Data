@@ -1,19 +1,23 @@
 {
-    "activity": [
-        "recipes"
-    ],
-    "description": "A perfect tasty gift for a friend.",
-    "energy": 679,
-    "found": [],
+    "name": "\"\"\"My Hero\"\" Cookie\"",
+    "type": "\u00a0Desserts",
     "icon": "star",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "biome": "Dreamlight Valley",
+    "price": 294,
+    "sellPrice": 294,
+    "energy": 679,
     "ingredients": [
         "Wheat",
         "Butter",
-        "Any Sweets"
+        "Any Sweet"
     ],
-    "name": "\"My Hero\" Cookie",
-    "price": 294,
-    "rarity": "none",
+    "description": "",
     "stars": 3,
-    "type": "Desserts"
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
 }

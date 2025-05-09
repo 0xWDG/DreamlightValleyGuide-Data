@@ -1,0 +1,25 @@
+{
+    "name": "Hawaiian Pizza",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 1,
+    "sellPrice": 1,
+    "energy": 1,
+    "ingredients": [
+        "Pork",
+        "Wheat",
+        "Tomato",
+        "Cheese",
+        "Pineapple"
+    ],
+    "description": "Pizza with pineapple on it. A controversial yet delicious addition. \n",
+    "stars": 5,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

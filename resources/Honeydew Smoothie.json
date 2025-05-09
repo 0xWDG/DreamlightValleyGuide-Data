@@ -1,0 +1,22 @@
+{
+    "name": "Honeydew Smoothie",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 318,
+    "sellPrice": 318,
+    "energy": 769,
+    "ingredients": [
+        "Plain Yogurt",
+        "Honeydew Melon"
+    ],
+    "description": "A smoothie whipped up from honeydew melon. \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

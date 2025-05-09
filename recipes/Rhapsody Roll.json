@@ -1,0 +1,24 @@
+{
+    "name": "Rhapsody Roll",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 301,
+    "sellPrice": 301,
+    "energy": 335,
+    "ingredients": [
+        "Rice",
+        "Flute Root",
+        "Seaweed",
+        "Any Vegetable"
+    ],
+    "description": "A musical take on sushi. \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

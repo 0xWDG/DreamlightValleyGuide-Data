@@ -1,0 +1,25 @@
+{
+    "name": "Mermaid Cupcake",
+    "type": "\u00a0Desserts",
+    "icon": "star",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "biome": "Dreamlight Valley",
+    "price": 785,
+    "sellPrice": 785,
+    "energy": 1,
+    "ingredients": [
+        "Butter",
+        "Milk",
+        "Wheat",
+        "Sugarcane",
+        "Scallop"
+    ],
+    "description": "These cupcakes are fin-tastic. \n",
+    "stars": 5,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

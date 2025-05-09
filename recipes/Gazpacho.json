@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A bowl of vegetable soup -  \u2027 served ice cold!",
-    "energy": 821,
+    "energy": 688,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Cucumber",
@@ -9,7 +15,10 @@
         "Any Spice"
     ],
     "name": "Gazpacho",
-    "price": 556,
+    "price": 548,
+    "rarity": "none",
     "stars": 4,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 548
 }

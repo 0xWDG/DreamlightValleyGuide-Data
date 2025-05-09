@@ -1,0 +1,22 @@
+{
+    "name": "Crab Melts",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 1,
+    "sellPrice": 1,
+    "energy": 2,
+    "ingredients": [
+        "Crab",
+        "Cheese"
+    ],
+    "description": "The perfect appetizer for the seafood and cheese amateurs. \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

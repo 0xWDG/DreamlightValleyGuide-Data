@@ -1,16 +1,26 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "An array of vegetables and dips.",
     "energy": 83,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
-        "Carrot",
-        "Zucchini",
+        "Any Vegetable",
         "Bell Pepper",
+        "Carrot",
+        "Cucumber",
         "Mushroom",
-        "Cucumber"
+        "Zucchini"
     ],
     "name": "Crudit\u00e9s",
     "price": 26,
+    "rarity": "none",
     "stars": 1,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 26
 }

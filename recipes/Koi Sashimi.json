@@ -1,0 +1,21 @@
+{
+    "name": "Koi Sashimi",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 60,
+    "sellPrice": 60,
+    "energy": 290,
+    "ingredients": [
+        "Koi"
+    ],
+    "description": "A delicacy made with raw fish, sliced thinly. Enjoy it with a bit of soy sauce. \n",
+    "stars": 1,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

@@ -4,7 +4,9 @@
     ],
     "description": "A warm bowl of seasoned fish in broth.",
     "energy": 978,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Fish",
@@ -12,8 +14,10 @@
         "Milk"
     ],
     "name": "Fish Soup",
-    "price": 368,
+    "price": 334,
     "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 334
 }

@@ -4,7 +4,9 @@
     ],
     "description": "A filling dish served with mashed potatoes.",
     "energy": 867,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Fish",
@@ -12,8 +14,10 @@
         "Butter"
     ],
     "name": "Fish Pie",
-    "price": 303,
+    "price": 269,
     "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 269
 }

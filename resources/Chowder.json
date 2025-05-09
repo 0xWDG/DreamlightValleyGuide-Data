@@ -3,18 +3,22 @@
         "recipes"
     ],
     "description": "A creamy soup with bits of clam and mushroom.",
-    "energy": 1186,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Seafood",
-        "Any Vegetable",
         "Milk",
-        "Potato"
+        "Potato",
+        "Any Vegetable"
     ],
     "name": "Chowder",
-    "price": 613,
+    "price": 547,
     "rarity": "none",
     "stars": 4,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 547
 }

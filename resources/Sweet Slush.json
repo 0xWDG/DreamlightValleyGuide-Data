@@ -4,15 +4,19 @@
     ],
     "description": "Blue, fresh and perfect for a hot day.",
     "energy": 510,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Slush Ice",
-        "Any Sweets"
+        "Any Sweet"
     ],
     "name": "Sweet Slush",
     "price": 219,
     "rarity": "none",
     "stars": 2,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 219
 }

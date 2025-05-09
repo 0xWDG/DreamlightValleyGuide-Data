@@ -4,7 +4,9 @@
     ],
     "description": "Traditional sushi roll of fish and veggies.",
     "energy": 471,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Fish",
@@ -12,8 +14,10 @@
         "Rice"
     ],
     "name": "Maki",
-    "price": 148,
+    "price": 114,
     "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 114
 }

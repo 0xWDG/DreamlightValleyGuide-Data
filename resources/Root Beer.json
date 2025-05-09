@@ -4,7 +4,9 @@
     ],
     "description": "A sweet, fizzy drink that reminds you of your roots.",
     "energy": 690,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Ginger",
@@ -12,8 +14,10 @@
         "Vanilla"
     ],
     "name": "Root Beer",
-    "price": 250,
+    "price": 166,
     "rarity": "none",
     "stars": 3,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 166
 }

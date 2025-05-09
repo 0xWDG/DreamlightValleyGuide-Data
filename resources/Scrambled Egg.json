@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "A hearty meal perfect for almost every occasion.",
-    "energy": 1070,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Egg",
@@ -14,5 +16,7 @@
     "price": 520,
     "rarity": "none",
     "stars": 2,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 520
 }

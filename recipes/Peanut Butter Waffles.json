@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Fluffy waffles slathered in peanut butter.",
-    "energy": 1938,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Peanut",
@@ -10,6 +16,9 @@
     ],
     "name": "Peanut Butter Waffles",
     "price": 978,
+    "rarity": "none",
     "stars": 4,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 978
 }

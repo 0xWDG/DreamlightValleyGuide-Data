@@ -1,12 +1,21 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A bold medium roast with notes of milk chocolate and candied walnut.",
     "energy": 730,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Coffee Bean"
     ],
     "name": "Coffee",
     "price": 43,
+    "rarity": "none",
     "stars": 1,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 43
 }

@@ -1,0 +1,24 @@
+{
+    "name": "Loaded Honeydew Porridge",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 588,
+    "sellPrice": 588,
+    "energy": 1,
+    "ingredients": [
+        "Oats",
+        "Oats",
+        "Honeydew Melon",
+        "Ambrosia"
+    ],
+    "description": "A porridge loaded with flavor, made with a honeydew melon. \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

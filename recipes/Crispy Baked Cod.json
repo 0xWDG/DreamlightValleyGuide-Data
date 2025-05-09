@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A slab of grilled white fish baked in a crispy crust.",
     "energy": 337,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Cod",
@@ -8,6 +14,9 @@
     ],
     "name": "Crispy Baked Cod",
     "price": 47,
+    "rarity": "none",
     "stars": 2,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 47
 }

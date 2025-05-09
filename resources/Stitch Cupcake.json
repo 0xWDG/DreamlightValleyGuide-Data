@@ -1,0 +1,25 @@
+{
+    "name": "Stitch Cupcake",
+    "type": "\u00a0Desserts",
+    "icon": "star",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "biome": "Dreamlight Valley",
+    "price": 751,
+    "sellPrice": 751,
+    "energy": 2,
+    "ingredients": [
+        "Butter",
+        "Milk",
+        "Wheat",
+        "Sugarcane",
+        "Blueberry"
+    ],
+    "description": "These cupcakes have a VERY high level of goodness. \n",
+    "stars": 5,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

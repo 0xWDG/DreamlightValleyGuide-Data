@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "Small, flaky pastries stuffed with pumpkin.",
-    "energy": 1466,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Pumpkin",
@@ -12,8 +14,10 @@
         "Cheese"
     ],
     "name": "Pumpkin Puffs",
-    "price": 1400,
+    "price": 1,
     "rarity": "none",
     "stars": 3,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 1
 }

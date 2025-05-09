@@ -4,14 +4,18 @@
     ],
     "description": "A small assortment of seafood snacks.",
     "energy": 242,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Seafood"
     ],
     "name": "Seafood Appetizer",
-    "price": 54,
+    "price": 1,
     "rarity": "none",
     "stars": 1,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 1
 }

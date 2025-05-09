@@ -1,0 +1,25 @@
+{
+    "name": "Brandade de Morue",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "biome": "Dreamlight Valley",
+    "price": 757,
+    "sellPrice": 757,
+    "energy": 2,
+    "ingredients": [
+        "Cod",
+        "Potato",
+        "Milk",
+        "Lemon",
+        "Garlic"
+    ],
+    "description": "A traditional French cod emulsion to savor with bread. \n",
+    "stars": 5,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

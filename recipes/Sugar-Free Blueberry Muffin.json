@@ -1,0 +1,22 @@
+{
+    "name": "Sugar-Free Blueberry Muffin",
+    "type": "\u00a0Desserts",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 39,
+    "sellPrice": 39,
+    "energy": 677,
+    "ingredients": [
+        "Wheat",
+        "Blueberry"
+    ],
+    "description": "A perfect, fluffy, sugary blueberry muffin. \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

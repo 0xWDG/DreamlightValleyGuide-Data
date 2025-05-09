@@ -3,17 +3,21 @@
         "recipes"
     ],
     "description": "A sugary treat that's berry delicious.",
-    "energy": 1203,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
-        "Milk",
         "Sugarcane",
+        "Milk",
         "Raspberry"
     ],
     "name": "Raspberry Boba Tea",
     "price": 377,
     "rarity": "none",
     "stars": 3,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 377
 }

@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "Moist cake with frosting and coconut shavings.",
-    "energy": 1750,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Coconut",
@@ -16,5 +18,7 @@
     "price": 424,
     "rarity": "none",
     "stars": 4,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 424
 }

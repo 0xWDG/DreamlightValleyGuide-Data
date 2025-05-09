@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "Fish and thin pasta in a light sauce.",
-    "energy": 1282,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Fish",
@@ -13,8 +15,10 @@
         "Milk"
     ],
     "name": "Fish Pasta",
-    "price": 475,
+    "price": 424,
     "rarity": "none",
     "stars": 4,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 424
 }

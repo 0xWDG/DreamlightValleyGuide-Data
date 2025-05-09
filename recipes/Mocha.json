@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A treat made with just a little cocoa, some coffee beans, and a splash of milk",
-    "energy": 2246,
+    "energy": 2,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Coffee Bean",
@@ -9,6 +15,9 @@
     ],
     "name": "Mocha",
     "price": 425,
+    "rarity": "none",
     "stars": 3,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 425
 }

@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "A light, frozen dessert with red fruit flavor.",
-    "energy": 2179,
-    "found": [],
+    "energy": 2,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Slush Ice",
@@ -16,5 +18,7 @@
     "price": 359,
     "rarity": "none",
     "stars": 4,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 359
 }

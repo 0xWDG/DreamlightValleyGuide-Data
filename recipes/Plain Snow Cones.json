@@ -1,12 +1,21 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Think of what you can create with a little bit of added flavor.",
     "energy": 410,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Ice"
     ],
     "name": "Plain Snow Cones",
     "price": 180,
+    "rarity": "none",
     "stars": 1,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 180
 }

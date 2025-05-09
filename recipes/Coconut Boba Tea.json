@@ -1,14 +1,23 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A delicious sugary treat that you're sure to go (coco)nuts for.",
-    "energy": 1653,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
-        "Milk",
         "Sugarcane",
+        "Milk",
         "Coconut"
     ],
     "name": "Coconut Boba Tea",
     "price": 406,
+    "rarity": "none",
     "stars": 3,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 406
 }

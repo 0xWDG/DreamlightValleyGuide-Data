@@ -4,15 +4,19 @@
     ],
     "description": "Sweet hard candy with a decidedly cool taste.",
     "energy": 391,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Mint",
         "Sugarcane"
     ],
     "name": "Mint Candy",
-    "price": 128,
+    "price": 89,
     "rarity": "none",
     "stars": 2,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 89
 }

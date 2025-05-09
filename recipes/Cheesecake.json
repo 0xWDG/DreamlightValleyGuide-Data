@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A rich, creamy dessert served with fruit sauce.",
-    "energy": 1161,
+    "energy": 725,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Cheese",
@@ -9,7 +15,10 @@
         "Any Fruit"
     ],
     "name": "Cheesecake",
-    "price": 332,
+    "price": 314,
+    "rarity": "none",
     "stars": 4,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 314
 }

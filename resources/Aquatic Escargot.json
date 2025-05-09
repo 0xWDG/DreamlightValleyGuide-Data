@@ -1,0 +1,23 @@
+{
+    "name": "Aquatic Escargot",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 182,
+    "sellPrice": 182,
+    "energy": 581,
+    "ingredients": [
+        "Trumpet Snail",
+        "Garlic",
+        "Salt Crystal"
+    ],
+    "description": "A sea snail topped with sea salt, with just a dash of garlic (not from the sea). \n",
+    "stars": 3,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

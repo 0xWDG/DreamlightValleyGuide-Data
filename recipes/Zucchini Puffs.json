@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Small, flaky pastries stuffed with zucchini.",
-    "energy": 1216,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Zucchini",
@@ -9,6 +15,9 @@
     ],
     "name": "Zucchini Puffs",
     "price": 632,
+    "rarity": "none",
     "stars": 3,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 632
 }

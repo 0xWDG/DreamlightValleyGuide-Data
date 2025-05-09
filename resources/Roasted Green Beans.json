@@ -1,0 +1,22 @@
+{
+    "name": "Roasted Green Beans",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 336,
+    "sellPrice": 336,
+    "energy": 379,
+    "ingredients": [
+        "Green Beans",
+        "Garlic"
+    ],
+    "description": "Green beans, roasted and seasoned. You're going to agree: These beans are magic. \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

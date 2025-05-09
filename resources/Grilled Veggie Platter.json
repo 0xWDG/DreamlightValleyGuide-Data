@@ -4,7 +4,9 @@
     ],
     "description": "A selection of grilled vegetables.",
     "energy": 161,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Vegetable",
@@ -15,5 +17,7 @@
     "price": 33,
     "rarity": "none",
     "stars": 3,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 33
 }

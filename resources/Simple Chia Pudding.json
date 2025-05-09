@@ -1,0 +1,21 @@
+{
+    "name": "Simple Chia Pudding",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 7,
+    "sellPrice": 7,
+    "energy": 80,
+    "ingredients": [
+        "Chia Seeds"
+    ],
+    "description": "Why make chia pudding complicated? \n",
+    "stars": 1,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

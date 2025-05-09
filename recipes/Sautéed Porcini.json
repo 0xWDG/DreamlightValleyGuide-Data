@@ -1,0 +1,22 @@
+{
+    "name": "Saut\u00e9ed Porcini",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 136,
+    "sellPrice": 136,
+    "energy": 500,
+    "ingredients": [
+        "Porcini Mushrooms",
+        "Garlic"
+    ],
+    "description": "",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

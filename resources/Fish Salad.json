@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "A green salad with fresh fish.",
-    "energy": 1140,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Fish",
@@ -12,8 +14,10 @@
         "Lettuce"
     ],
     "name": "Fish Salad",
-    "price": 92,
+    "price": 58,
     "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 58
 }

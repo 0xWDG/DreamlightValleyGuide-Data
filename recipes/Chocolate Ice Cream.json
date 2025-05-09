@@ -1,15 +1,24 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Rich, decadent scoops of chilled deliciousness.",
-    "energy": 2074,
+    "energy": 2,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
-        "Slush Ice",
         "Cocoa Bean",
         "Sugarcane",
-        "Milk"
+        "Milk",
+        "Slush Ice"
     ],
     "name": "Chocolate Ice Cream",
     "price": 655,
+    "rarity": "none",
     "stars": 4,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 655
 }

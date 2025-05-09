@@ -1,0 +1,21 @@
+{
+    "name": "Oatmeal",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Storybook Vale"
+    ],
+    "biome": "Storybook Vale",
+    "price": 118,
+    "sellPrice": 118,
+    "energy": 210,
+    "ingredients": [
+        "Oats"
+    ],
+    "description": "Not too hot, not too cold. This bowl of oatmeal is just right. \n",
+    "stars": 1,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

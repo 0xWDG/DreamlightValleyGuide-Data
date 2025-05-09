@@ -1,0 +1,24 @@
+{
+    "name": "Mooncake",
+    "type": "\u00a0Desserts",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 276,
+    "sellPrice": 276,
+    "energy": 465,
+    "ingredients": [
+        "Wheat",
+        "Canola",
+        "Beans",
+        "Agave"
+    ],
+    "description": "Traditionally prepared for the Mid-Autumn Festival, this pastry goes really well with tea. \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

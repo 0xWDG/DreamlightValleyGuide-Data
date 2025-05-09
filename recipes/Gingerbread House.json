@@ -1,16 +1,25 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Looks almost too warm and cozy to eat... but too delicious not to!",
-    "energy": 1460,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
-        "Ginger",
-        "Egg",
         "Wheat",
+        "Ginger",
+        "Sugarcane",
         "Vanilla",
-        "Sugarcane"
+        "Egg"
     ],
     "name": "Gingerbread House",
-    "price": 641,
+    "price": 545,
+    "rarity": "none",
     "stars": 5,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 545
 }

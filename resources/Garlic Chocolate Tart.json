@@ -1,0 +1,25 @@
+{
+    "name": "Garlic Chocolate Tart",
+    "type": "\u00a0Desserts",
+    "icon": "star",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "biome": "Dreamlight Valley",
+    "price": 783,
+    "sellPrice": 783,
+    "energy": 2,
+    "ingredients": [
+        "Cheese",
+        "Cocoa Bean",
+        "Garlic",
+        "Egg",
+        "Wheat"
+    ],
+    "description": "Garlic and chocolate? This tart is perfect for a Nonsense Party. \n",
+    "stars": 5,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

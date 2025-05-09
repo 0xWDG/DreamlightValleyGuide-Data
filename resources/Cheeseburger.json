@@ -1,0 +1,24 @@
+{
+    "name": "Cheeseburger",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 1,
+    "sellPrice": 1,
+    "energy": 1,
+    "ingredients": [
+        "Venison",
+        "Wheat",
+        "Any Vegetable",
+        "Cheese"
+    ],
+    "description": "Cheese on a burger. Why complicate perfection? \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

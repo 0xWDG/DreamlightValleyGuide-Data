@@ -3,18 +3,22 @@
         "recipes"
     ],
     "description": "Sweet on top of sweet on top of sweet.",
-    "energy": 2014,
-    "found": [],
+    "energy": 2,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Lemon",
-        "Butter",
         "Wheat",
-        "Egg"
+        "Egg",
+        "Butter"
     ],
     "name": "Meringue Pie",
     "price": 667,
     "rarity": "none",
     "stars": 4,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 667
 }

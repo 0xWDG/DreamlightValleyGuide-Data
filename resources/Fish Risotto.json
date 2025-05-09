@@ -4,7 +4,9 @@
     ],
     "description": "A rich and creamy rice with cooked fish.",
     "energy": 939,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Fish",
@@ -12,8 +14,10 @@
         "Butter"
     ],
     "name": "Fish Risotto",
-    "price": 386,
+    "price": 352,
     "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 352
 }

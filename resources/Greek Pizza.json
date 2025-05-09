@@ -3,19 +3,23 @@
         "recipes"
     ],
     "description": "A thin pizza with olive oil and many toppings.",
-    "energy": 1152,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Spice",
-        "Wheat",
-        "Cheese",
         "Tomato",
-        "Onion"
+        "Onion",
+        "Cheese",
+        "Wheat"
     ],
     "name": "Greek Pizza",
-    "price": 630,
+    "price": 622,
     "rarity": "none",
     "stars": 5,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 622
 }

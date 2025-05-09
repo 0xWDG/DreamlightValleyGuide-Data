@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "Delicious veggies backed to perfection.",
-    "energy": 821,
-    "found": [],
+    "energy": 688,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Vegetable",
@@ -13,8 +15,10 @@
         "Any Spice"
     ],
     "name": "Veggie Casserole",
-    "price": 324,
+    "price": 316,
     "rarity": "none",
     "stars": 4,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 316
 }

@@ -1,14 +1,23 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Grilled mackerel steak. The perfect choice if you can\u2019t decide between sweet and sour.",
-    "energy": 2292,
+    "energy": 2,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Kingfish",
-        "Lemon",
-        "Sugarcane"
+        "Sugarcane",
+        "Lemon"
     ],
     "name": "Sweet & Sour Kingfish Steak",
     "price": 702,
+    "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 702
 }

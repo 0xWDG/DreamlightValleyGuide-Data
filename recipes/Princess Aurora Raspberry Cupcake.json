@@ -1,0 +1,25 @@
+{
+    "name": "Princess Aurora Raspberry Cupcake",
+    "type": "\u00a0Desserts",
+    "icon": "star",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "biome": "Dreamlight Valley",
+    "price": 738,
+    "sellPrice": 738,
+    "energy": 1,
+    "ingredients": [
+        "Butter",
+        "Milk",
+        "Wheat",
+        "Sugarcane",
+        "Raspberry"
+    ],
+    "description": "These cupcakes are fit for royalty! Is the pink or blue frosting tastier? \n",
+    "stars": 5,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

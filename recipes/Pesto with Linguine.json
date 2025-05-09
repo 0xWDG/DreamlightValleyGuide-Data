@@ -1,0 +1,24 @@
+{
+    "name": "Pesto with Linguine",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "biome": "Dreamlight Valley",
+    "price": 438,
+    "sellPrice": 438,
+    "energy": 1,
+    "ingredients": [
+        "Wheat",
+        "Butter",
+        "Garlic",
+        "Oregano"
+    ],
+    "description": "A classic staple of Italian cuisine. \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

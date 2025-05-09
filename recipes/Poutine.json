@@ -1,0 +1,23 @@
+{
+    "name": "Poutine",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "biome": "Dreamlight Valley",
+    "price": 580,
+    "sellPrice": 580,
+    "energy": 845,
+    "ingredients": [
+        "Potato",
+        "Canola",
+        "Cheese"
+    ],
+    "description": "\"Squeak, squeak,\" says the cheese under your teeth. \n",
+    "stars": 3,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

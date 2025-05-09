@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "Fresh scallops in a creamy garlic sauce.",
-    "energy": 1844,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Scallop",
@@ -13,8 +15,10 @@
         "Garlic"
     ],
     "name": "Creamy Garlic Scallops",
-    "price": 499,
+    "price": 484,
     "rarity": "none",
     "stars": 4,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 484
 }

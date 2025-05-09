@@ -4,7 +4,9 @@
     ],
     "description": "A warm and savory pie filled with veggies.",
     "energy": 634,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Vegetable",
@@ -15,5 +17,7 @@
     "price": 279,
     "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 279
 }

@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A spicy sauce of fish and veggies over rice.",
     "energy": 822,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Fish",
@@ -10,7 +16,10 @@
         "Tomato"
     ],
     "name": "Fish Creole",
-    "price": 280,
+    "price": 225,
+    "rarity": "none",
     "stars": 5,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 225
 }

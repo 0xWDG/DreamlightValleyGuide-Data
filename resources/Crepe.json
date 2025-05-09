@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "A thin pancake sprinkled with sugar and fruit.",
-    "energy": 1624,
-    "found": [],
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Wheat",
@@ -13,8 +15,10 @@
         "Vanilla"
     ],
     "name": "Crepe",
-    "price": 768,
+    "price": 753,
     "rarity": "none",
     "stars": 4,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 753
 }

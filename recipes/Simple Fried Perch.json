@@ -1,14 +1,23 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A cut of perch fried to perfection.",
-    "energy": 1317,
+    "energy": 1,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Perch",
-        "Butter",
-        "Wheat"
+        "Wheat",
+        "Butter"
     ],
     "name": "Simple Fried Perch",
     "price": 380,
+    "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 380
 }

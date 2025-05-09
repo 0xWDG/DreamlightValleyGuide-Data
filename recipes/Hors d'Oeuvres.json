@@ -1,12 +1,21 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A tasty appetizer before the main course.",
-    "energy": 202,
+    "energy": 90,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Spice"
     ],
     "name": "Hors d'Oeuvres",
-    "price": 24,
+    "price": 18,
+    "rarity": "none",
     "stars": 1,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 18
 }

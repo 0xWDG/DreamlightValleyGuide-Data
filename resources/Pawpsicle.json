@@ -3,8 +3,10 @@
         "recipes"
     ],
     "description": "A small, frozen treat shaped like a fox's paw.",
-    "energy": 987,
-    "found": [],
+    "energy": 574,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Slush Ice",
@@ -12,8 +14,10 @@
         "Any Fruit"
     ],
     "name": "Pawpsicle",
-    "price": 265,
+    "price": 248,
     "rarity": "none",
     "stars": 3,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 248
 }

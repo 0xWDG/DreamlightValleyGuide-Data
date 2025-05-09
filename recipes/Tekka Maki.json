@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Itty bitty sushi rolls that are perfect when on the go.",
     "energy": 984,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Tuna",
@@ -10,6 +16,9 @@
     ],
     "name": "Tekka Maki",
     "price": 366,
+    "rarity": "none",
     "stars": 4,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 366
 }

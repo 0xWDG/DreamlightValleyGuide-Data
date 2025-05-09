@@ -1,12 +1,21 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A sweet sugar confectionery to brighten your day.",
     "energy": 123,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
-        "Any Sweets"
+        "Any Sweet"
     ],
     "name": "Candy",
     "price": 22,
+    "rarity": "none",
     "stars": 1,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 22
 }

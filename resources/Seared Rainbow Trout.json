@@ -4,7 +4,9 @@
     ],
     "description": "While it might be mild in flavor, it's simple to prepare and very healthy for you.",
     "energy": 889,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Rainbow Trout",
@@ -15,5 +17,7 @@
     "price": 338,
     "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 338
 }

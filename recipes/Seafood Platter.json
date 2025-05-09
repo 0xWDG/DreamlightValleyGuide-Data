@@ -1,13 +1,22 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "An assortment of select seafood.",
     "energy": 458,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Seafood",
         "Any Seafood"
     ],
     "name": "Seafood Platter",
-    "price": 116,
+    "price": 2,
+    "rarity": "none",
     "stars": 2,
-    "type": "Appetizers"
+    "type": "\u00a0Appetizers",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 2
 }

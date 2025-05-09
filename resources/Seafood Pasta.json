@@ -4,7 +4,9 @@
     ],
     "description": "Seafood and thin pasta in a light sauce.",
     "energy": 921,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Seafood",
@@ -12,8 +14,10 @@
         "Milk"
     ],
     "name": "Seafood Pasta",
-    "price": 387,
+    "price": 325,
     "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 325
 }

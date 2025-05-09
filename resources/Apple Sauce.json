@@ -1,0 +1,22 @@
+{
+    "name": "Apple Sauce",
+    "type": "\u00a0Desserts",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 71,
+    "sellPrice": 71,
+    "energy": 823,
+    "ingredients": [
+        "Apple",
+        "Cinnamon"
+    ],
+    "description": "Apples... now in sauce form! \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

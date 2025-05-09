@@ -1,0 +1,22 @@
+{
+    "name": "Barbecued Brilliant Blue Starfish",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 1,
+    "sellPrice": 1,
+    "energy": 3,
+    "ingredients": [
+        "Brilliant Blue Starfish",
+        "Mint"
+    ],
+    "description": "A deep sea treat with a barbecue twist. \n",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

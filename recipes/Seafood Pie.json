@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "A savory pie filled with shrimp and scallops.",
     "energy": 813,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Seafood",
@@ -8,7 +14,10 @@
         "Butter"
     ],
     "name": "Seafood Pie",
-    "price": 331,
+    "price": 269,
+    "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 269
 }

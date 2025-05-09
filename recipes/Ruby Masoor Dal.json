@@ -1,0 +1,23 @@
+{
+    "name": "Ruby Masoor Dal",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 357,
+    "sellPrice": 357,
+    "energy": 405,
+    "ingredients": [
+        "Chili Pepper",
+        "Tomato",
+        "Ruby Lentils"
+    ],
+    "description": "This spicy curry dish shines like jewels. \n",
+    "stars": 3,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

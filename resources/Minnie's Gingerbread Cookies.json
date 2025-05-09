@@ -4,15 +4,19 @@
     ],
     "description": "These soft, delicious gingerbread cookies are one of Minnie's special recipes. The secret ingredients are love and care.",
     "energy": 379,
-    "found": [],
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
-        "Ginger",
-        "Wheat"
+        "Wheat",
+        "Ginger"
     ],
     "name": "Minnie's Gingerbread Cookies",
-    "price": 132,
+    "price": 67,
     "rarity": "none",
     "stars": 2,
-    "type": "Desserts"
+    "type": "\u00a0Desserts",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 67
 }

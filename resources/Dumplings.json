@@ -1,0 +1,24 @@
+{
+    "name": "Dumplings",
+    "type": "\u00a0Appetizers",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 493,
+    "sellPrice": 493,
+    "energy": 710,
+    "ingredients": [
+        "Any Meat",
+        "Wheat",
+        "Any Vegetable",
+        "Soya"
+    ],
+    "description": "Try them with a bit of ginger and soy sauce! \n",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

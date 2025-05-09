@@ -1,0 +1,21 @@
+{
+    "name": "Tofu",
+    "type": "\u00a0Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Eternity Isle"
+    ],
+    "biome": "Eternity Isle",
+    "price": 82,
+    "sellPrice": 82,
+    "energy": 142,
+    "ingredients": [
+        "Soya"
+    ],
+    "description": "A few perfect cubes of tofu ready to accompany any dish. \n",
+    "stars": 1,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

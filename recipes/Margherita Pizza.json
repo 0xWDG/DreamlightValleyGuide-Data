@@ -1,6 +1,12 @@
 {
+    "activity": [
+        "recipes"
+    ],
     "description": "Tomato sauce and mozzarella cheese. A classic!",
-    "energy": 818,
+    "energy": 685,
+    "found": [
+        "Dreamlight Valley"
+    ],
     "icon": "star",
     "ingredients": [
         "Any Spice",
@@ -9,7 +15,10 @@
         "Wheat"
     ],
     "name": "Margherita Pizza",
-    "price": 336,
+    "price": 328,
+    "rarity": "none",
     "stars": 4,
-    "type": "Entr\u00e9es"
+    "type": "\u00a0Entr\u00e9es",
+    "biome": "Dreamlight Valley",
+    "sellPrice": 328
 }
