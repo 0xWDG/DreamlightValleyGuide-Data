@@ -7,9 +7,7 @@
     "coins": "21",
     "description": "It's sort of like a pumpkin, but a little bit squashed.",
     "found": [
-        [
-            "The Bind"
-        ]
+        "The Bind"
     ],
     "grow": "30min",
     "growTime": 30,

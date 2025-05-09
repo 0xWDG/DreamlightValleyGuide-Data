@@ -3,9 +3,7 @@
     "type": "Vegetables",
     "icon": "star",
     "found": [
-        [
-            "Wild Tangle"
-        ]
+        "Wild Tangle"
     ],
     "price": 80,
     "sellPrice": 80,

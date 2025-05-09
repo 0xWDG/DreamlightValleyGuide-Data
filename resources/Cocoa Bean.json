@@ -3,10 +3,8 @@
     "type": "Sweets",
     "icon": "star",
     "found": [
-        [
-            "Sunlit Plateau",
-            "Glade of Trust"
-        ]
+        "Sunlit Plateau",
+        "Glade of Trust"
     ],
     "price": 38,
     "sellPrice": 38,

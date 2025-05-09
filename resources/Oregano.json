@@ -3,9 +3,7 @@
     "type": "Spices",
     "icon": "star",
     "found": [
-        [
-            "Plaza"
-        ]
+        "Plaza"
     ],
     "price": 50,
     "sellPrice": 50,

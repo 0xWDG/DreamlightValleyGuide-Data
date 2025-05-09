@@ -6,9 +6,7 @@
     "description": "This tasty mollusk is surprisingly good at filtering water.",
     "energy": 150,
     "found": [
-        [
-            "Mythopia"
-        ]
+        "Mythopia"
     ],
     "icon": "star",
     "name": "Mussel",

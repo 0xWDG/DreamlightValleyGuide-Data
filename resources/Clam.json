@@ -7,9 +7,7 @@
     "description": "Can be found on Dazzle Beach. Go and explore!",
     "energy": 120,
     "found": [
-        [
-            "Dazzle Beach"
-        ]
+        "Dazzle Beach"
     ],
     "gift": 0,
     "icon": "star",

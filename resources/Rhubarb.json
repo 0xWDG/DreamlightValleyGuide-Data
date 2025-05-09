@@ -7,9 +7,7 @@
     "coins": "29",
     "description": "An excellent addition to any strawberry pie.",
     "found": [
-        [
-            "Everafter"
-        ]
+        "Everafter"
     ],
     "grow": "3hr",
     "growTime": 3,

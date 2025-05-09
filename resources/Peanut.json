@@ -3,9 +3,7 @@
     "type": "Dairy and Oil",
     "icon": "star",
     "found": [
-        [
-            "Chez Remy"
-        ]
+        "Chez Remy"
     ],
     "price": 200,
     "sellPrice": 200,

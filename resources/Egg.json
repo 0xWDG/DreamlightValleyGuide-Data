@@ -5,9 +5,7 @@
     "description": "Scrambled, fried, sunny side up? So many options. Available at Chez Remy!",
     "energy": 330,
     "found": [
-        [
-            "Chez Remy"
-        ]
+        "Chez Remy"
     ],
     "gift": 0,
     "growthTime": 0,

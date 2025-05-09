@@ -3,9 +3,7 @@
     "type": "\u00a0Fruit",
     "icon": "star",
     "found": [
-        [
-            "Glittering Dunes"
-        ]
+        "Glittering Dunes"
     ],
     "price": 34,
     "sellPrice": 34,

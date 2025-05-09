@@ -7,9 +7,7 @@
     "coins": "13",
     "description": "This will bring a bit of spice to any dish. Best served with its friend: salt.",
     "found": [
-        [
-            "Mythopia"
-        ]
+        "Mythopia"
     ],
     "grow": "1hr 30min",
     "growTime": 1,

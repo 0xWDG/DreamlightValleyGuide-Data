@@ -5,9 +5,7 @@
     ],
     "description": "Ginger is a spice type ingredient used in cooking. It can be found growing wild on the ground in the Forgotten Lands.",
     "found": [
-        [
-            "Forgotten Lands"
-        ]
+        "Forgotten Lands"
     ],
     "icon": "star",
     "maxSpawns": 10,

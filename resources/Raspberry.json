@@ -3,10 +3,8 @@
     "type": "\u00a0Fruit",
     "icon": "star",
     "found": [
-        [
-            "Plaza",
-            "Peaceful Meadow"
-        ]
+        "Plaza",
+        "Peaceful Meadow"
     ],
     "price": 21,
     "sellPrice": 21,

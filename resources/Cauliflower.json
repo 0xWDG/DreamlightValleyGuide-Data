@@ -7,9 +7,7 @@
     "coins": "15",
     "description": "Every piece of a cauliflower looks like another tiny cauliflower.",
     "found": [
-        [
-            "The Bind"
-        ]
+        "The Bind"
     ],
     "grow": "10min",
     "growTime": 10,

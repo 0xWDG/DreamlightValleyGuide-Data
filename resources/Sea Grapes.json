@@ -6,9 +6,7 @@
     "description": "A very edible sea alga.",
     "energy": 25,
     "found": [
-        [
-            "The Bind"
-        ]
+        "The Bind"
     ],
     "icon": "star",
     "name": "Sea Grapes",

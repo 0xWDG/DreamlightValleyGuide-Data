@@ -3,9 +3,7 @@
     "type": "\u00a0Fruit",
     "icon": "star",
     "found": [
-        [
-            "Wild Tangle"
-        ]
+        "Wild Tangle"
     ],
     "price": 42,
     "sellPrice": 42,

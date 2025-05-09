@@ -3,9 +3,7 @@
     "type": "Ice",
     "icon": "star",
     "found": [
-        [
-            "Chez Remy"
-        ]
+        "Chez Remy"
     ],
     "price": 150,
     "sellPrice": 150,

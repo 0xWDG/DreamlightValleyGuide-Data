@@ -37,7 +37,7 @@ $requiredKeys = [
     "characters" => ["name", "description"],
     "poi" => ["name", "description"],
     "quests" => ["name"],
-    "resources" => ["name", "description", "found", "activity"],
+    "resources" => ["name", "description", "found", "activity", "found"],
     "redeemables" => [/*"name", */"description"],
     "universes" => ["name", "description"],
     "realms" => ["name", "description", "price"],
@@ -60,6 +60,18 @@ foreach ($dirs as $directory) {
             continue;
         }
 
+        if (
+            isset($json['found']) &&
+            !empty($json['found']) &&
+            is_array($json['found'][0])
+        ) {
+            echo "Found is array in array in file: $file, autofixing\n";
+
+            $json['found'] = $json['found'][0];
+            file_put_contents($file, json_encode($json, JSON_PRETTY_PRINT));
+
+            continue;
+        }
         if (
             in_array($directory, ["biomes", "resources", "fishing", "digging", "foraging", "gardening", "mining"]) &&
             !is_numeric($json['price'])

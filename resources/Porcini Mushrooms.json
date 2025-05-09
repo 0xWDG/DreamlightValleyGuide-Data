@@ -3,9 +3,7 @@
     "type": "Vegetables",
     "icon": "star",
     "found": [
-        [
-            "Everafter"
-        ]
+        "Everafter"
     ],
     "price": 55,
     "sellPrice": 55,

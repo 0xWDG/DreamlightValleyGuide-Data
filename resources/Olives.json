@@ -3,9 +3,7 @@
     "type": "Dairy and Oil",
     "icon": "star",
     "found": [
-        [
-            "Mythopia"
-        ]
+        "Mythopia"
     ],
     "price": 35,
     "sellPrice": 35,

@@ -7,9 +7,7 @@
     "coins": "0",
     "description": "Perfect for making oatmeal or adding a little crunch to yogurt.",
     "found": [
-        [
-            "Everafter"
-        ]
+        "Everafter"
     ],
     "grow": "2hr",
     "growTime": 2,

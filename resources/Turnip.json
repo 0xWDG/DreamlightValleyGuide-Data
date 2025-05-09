@@ -7,9 +7,7 @@
     "coins": "274",
     "description": "A few of these are sure to \"turnip\" whenever you need to make a tasty meal.",
     "found": [
-        [
-            "Wild Tangle"
-        ]
+        "Wild Tangle"
     ],
     "grow": "4h",
     "growTime": 4,

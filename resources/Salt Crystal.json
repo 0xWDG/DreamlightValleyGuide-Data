@@ -6,9 +6,7 @@
     "description": "Salt brings out the best in any dish. Best served alongside its friend: pepper.",
     "energy": 25,
     "found": [
-        [
-            "Everafter"
-        ]
+        "Everafter"
     ],
     "icon": "star",
     "name": "Salt Crystal",

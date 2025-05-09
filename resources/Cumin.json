@@ -3,9 +3,7 @@
     "type": "Spices",
     "icon": "star",
     "found": [
-        [
-            "Ancient's Landing"
-        ]
+        "Ancient's Landing"
     ],
     "price": 15,
     "sellPrice": 15,

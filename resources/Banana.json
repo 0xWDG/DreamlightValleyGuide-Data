@@ -3,11 +3,9 @@
     "type": "\u00a0Fruit",
     "icon": "star",
     "found": [
-        [
-            "Peaceful Meadow",
-            "Dazzle Beach",
-            "Moana Realm"
-        ]
+        "Peaceful Meadow",
+        "Dazzle Beach",
+        "Moana Realm"
     ],
     "price": 29,
     "sellPrice": 29,

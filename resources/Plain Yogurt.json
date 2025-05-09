@@ -3,9 +3,7 @@
     "type": "Dairy and Oil",
     "icon": "star",
     "found": [
-        [
-            "The Bind"
-        ]
+        "The Bind"
     ],
     "price": 120,
     "sellPrice": 120,

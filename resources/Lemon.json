@@ -3,10 +3,8 @@
     "type": "\u00a0Fruit",
     "icon": "star",
     "found": [
-        [
-            "Forest of Valor",
-            "Glade of Trust"
-        ]
+        "Forest of Valor",
+        "Glade of Trust"
     ],
     "price": 33,
     "sellPrice": 33,

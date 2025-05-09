@@ -7,9 +7,7 @@
     "coins": "218",
     "description": "A handful of these may look like rare gems, but they're much tastier (and more economical) in soups and stews.",
     "found": [
-        [
-            "Wild Tangle"
-        ]
+        "Wild Tangle"
     ],
     "grow": "2h",
     "growTime": 2,

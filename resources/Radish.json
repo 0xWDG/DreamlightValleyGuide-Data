@@ -7,9 +7,7 @@
     "coins": "33",
     "description": "A root vegetable that will really spice up your salad.",
     "found": [
-        [
-            "Everafter"
-        ]
+        "Everafter"
     ],
     "grow": "1hr 45min",
     "growTime": 1,

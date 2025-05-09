@@ -7,9 +7,7 @@
     "coins": "74",
     "description": "Zucchini is a low-calorie, high volume vegetable with plenty of vitamins B6 and C. It's also a good source of potassium, folate, and vitamin A. Zucchini is considered a low-carbohydrate vegetable with plenty of fiber.",
     "found": [
-        [
-            "Sunlit Plateau"
-        ]
+        "Sunlit Plateau"
     ],
     "grow": "40min",
     "growTime": 40,

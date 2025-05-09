@@ -7,9 +7,7 @@
     "coins": "78",
     "description": "Spinach (Spinacia oleracea) is a leafy green vegetable that originated in Persia. It belongs to the amaranth family and is related to beets and quinoa. What's more, it's considered very healthy, as it's loaded with nutrients and antioxidants. There are many ways to prepare spinach.",
     "found": [
-        [
-            "Glade of Trust"
-        ]
+        "Glade of Trust"
     ],
     "grow": "60min",
     "growTime": 60,

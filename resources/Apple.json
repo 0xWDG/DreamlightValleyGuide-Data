@@ -6,10 +6,8 @@
     "description": "A fruit that can be picked from trees.",
     "energy": 300,
     "found": [
-        [
-            "Forgotten Lands",
-            "Plaza"
-        ]
+        "Forgotten Lands",
+        "Plaza"
     ],
     "gift": 0,
     "growthTime": 20,

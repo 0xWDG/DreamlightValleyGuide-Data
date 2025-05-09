@@ -7,9 +7,7 @@
     "coins": "332",
     "description": "Don't let that tough, spiky exterior fool you. They're actually very sweet!",
     "found": [
-        [
-            "Wild Tangle"
-        ]
+        "Wild Tangle"
     ],
     "grow": "3h",
     "growTime": 3,

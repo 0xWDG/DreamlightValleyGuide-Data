@@ -7,9 +7,7 @@
     "coins": "0",
     "description": "They're green. They're beans. It doesn't need to be any more complicated than that.",
     "found": [
-        [
-            "Everafter"
-        ]
+        "Everafter"
     ],
     "grow": "4hr",
     "growTime": 4,

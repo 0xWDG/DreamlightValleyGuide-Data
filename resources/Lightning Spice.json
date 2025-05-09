@@ -3,9 +3,7 @@
     "type": "Spices",
     "icon": "star",
     "found": [
-        [
-            "Mythopia"
-        ]
+        "Mythopia"
     ],
     "price": 65,
     "sellPrice": 65,

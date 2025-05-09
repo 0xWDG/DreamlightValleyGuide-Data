@@ -7,9 +7,7 @@
     "coins": "147",
     "description": "soybean, (Glycine max), also called soja bean or soya bean, annual legume of the pea family (Fabaceae) and its edible seed. The soybean is economically the most important bean in the world, providing vegetable protein for millions of people and ingredients for hundreds of chemical products.",
     "found": [
-        [
-            "Sunlit Plateau"
-        ]
+        "Sunlit Plateau"
     ],
     "grow": "1h 30min",
     "growTime": 1,

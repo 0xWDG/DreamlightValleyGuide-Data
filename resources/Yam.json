@@ -7,9 +7,7 @@
     "coins": "21",
     "description": "I yam what I yam.",
     "found": [
-        [
-            "Ancient's Landing"
-        ]
+        "Ancient's Landing"
     ],
     "grow": "15min",
     "growTime": 15,

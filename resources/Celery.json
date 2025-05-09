@@ -7,9 +7,7 @@
     "coins": "45",
     "description": "Perfect for dipping in some cheese or chopping up and throwing in a stir-fry.",
     "found": [
-        [
-            "Ancient's Landing"
-        ]
+        "Ancient's Landing"
     ],
     "grow": "10min",
     "growTime": 10,

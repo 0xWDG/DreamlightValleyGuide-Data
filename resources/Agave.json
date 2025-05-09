@@ -3,9 +3,7 @@
     "type": "Sweets",
     "icon": "star",
     "found": [
-        [
-            "Glittering Dunes"
-        ]
+        "Glittering Dunes"
     ],
     "price": 25,
     "sellPrice": 25,

@@ -7,9 +7,7 @@
     "coins": "97",
     "description": "The magical fruit.",
     "found": [
-        [
-            "Glittering Dunes"
-        ]
+        "Glittering Dunes"
     ],
     "grow": "1h",
     "growTime": 1,

@@ -7,9 +7,7 @@
     "coins": "22",
     "description": "Nature's candy, fresh off the vine.",
     "found": [
-        [
-            "Ancient's Landing"
-        ]
+        "Ancient's Landing"
     ],
     "grow": "20min",
     "growTime": 20,

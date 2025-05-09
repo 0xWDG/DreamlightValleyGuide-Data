@@ -3,9 +3,7 @@
     "type": "Protein",
     "icon": "star",
     "found": [
-        [
-            "Glittering Dunes"
-        ]
+        "Glittering Dunes"
     ],
     "price": 500,
     "sellPrice": 500,

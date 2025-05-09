@@ -3,10 +3,8 @@
     "type": "\u00a0Fruit",
     "icon": "star",
     "found": [
-        [
-            "Dazzle Beach",
-            "Moana Realm"
-        ]
+        "Dazzle Beach",
+        "Moana Realm"
     ],
     "price": 42,
     "sellPrice": 42,
