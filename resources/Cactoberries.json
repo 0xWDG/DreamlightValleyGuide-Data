@@ -1,0 +1,24 @@
+{
+    "name": "Cactoberries",
+    "type": "\u00a0Fruit",
+    "icon": "star",
+    "found": [
+        [
+            "Glittering Dunes"
+        ]
+    ],
+    "price": 34,
+    "sellPrice": 34,
+    "buyPrice": 0,
+    "energy": 400,
+    "rarity": "none",
+    "growthTime": 45,
+    "water": 0,
+    "yield": 2,
+    "maxSpawns": 2,
+    "gift": 0,
+    "description": "These berries are filled with sweet juices -- if you can get past the spines. \n",
+    "activity": [
+        "ingredient"
+    ]
+}

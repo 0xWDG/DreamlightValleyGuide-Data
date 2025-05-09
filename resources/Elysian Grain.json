@@ -1,0 +1,24 @@
+{
+    "name": "Elysian Grain",
+    "type": "Grains",
+    "icon": "star",
+    "found": [
+        [
+            "Mythopia"
+        ]
+    ],
+    "price": 130,
+    "sellPrice": 130,
+    "buyPrice": 260,
+    "energy": 50,
+    "rarity": "none",
+    "growthTime": 0,
+    "water": 0,
+    "yield": 0,
+    "maxSpawns": 0,
+    "gift": 0,
+    "description": "A very fortunate golden grain. \n",
+    "activity": [
+        "ingredient"
+    ]
+}

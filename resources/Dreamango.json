@@ -1,0 +1,24 @@
+{
+    "name": "Dreamango",
+    "type": "\u00a0Fruit",
+    "icon": "star",
+    "found": [
+        [
+            "Wild Tangle"
+        ]
+    ],
+    "price": 50,
+    "sellPrice": 50,
+    "buyPrice": 0,
+    "energy": 600,
+    "rarity": "none",
+    "growthTime": 1,
+    "water": 0,
+    "yield": 2,
+    "maxSpawns": 2,
+    "gift": 0,
+    "description": "One bite and you'll want to punch yourself to make sure you aren't dreaming. \n",
+    "activity": [
+        "ingredient"
+    ]
+}

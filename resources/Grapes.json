@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "Ancient's Landing",
     "coins": "22",
     "description": "Nature's candy, fresh off the vine.",
     "found": [
-        "Ancient's Landing"
+        [
+            "Ancient's Landing"
+        ]
     ],
     "grow": "20min",
     "growTime": 20,
@@ -16,7 +19,13 @@
     "rarity": "none",
     "seedPrice": 5,
     "sellPrice": 9,
-    "type": "Fruit",
+    "type": "\u00a0Fruit",
     "waterings": 1,
-    "yield": 3
+    "yield": 3,
+    "buyPrice": 0,
+    "energy": 21,
+    "growthTime": 20,
+    "water": 1,
+    "maxSpawns": 3,
+    "gift": 0
 }

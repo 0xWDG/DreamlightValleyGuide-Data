@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "Peaceful Meadow",
     "coins": "3",
     "description": "Wheat is a valuable source of essential nutrients, providing carbohydrate-based energy and fiber, protein, B vitamins, calcium, magnesium, phosphorus, potassium, zinc, and iron. In low and medium-income countries, grain-based foods still make up the central part of the diet.",
     "found": [
-        "Peaceful Meadow"
+        [
+            "Peaceful Meadow"
+        ]
     ],
     "grow": "1min",
     "growTime": 1,
@@ -22,5 +25,10 @@
     "type": "Grains",
     "water": 1,
     "waterings": 1,
-    "yield": 2
+    "yield": 2,
+    "buyPrice": 3,
+    "energy": 19,
+    "growthTime": 1,
+    "maxSpawns": 2,
+    "gift": 0
 }

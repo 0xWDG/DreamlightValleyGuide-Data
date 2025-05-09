@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "Everafter",
     "coins": "33",
     "description": "A root vegetable that will really spice up your salad.",
     "found": [
-        "Everafter"
+        [
+            "Everafter"
+        ]
     ],
     "grow": "1hr 45min",
     "growTime": 1,
@@ -18,5 +21,11 @@
     "sellPrice": 133,
     "type": "Vegetables",
     "waterings": 0,
-    "yield": 1
+    "yield": 1,
+    "buyPrice": 100,
+    "energy": 97,
+    "growthTime": 1,
+    "water": 0,
+    "maxSpawns": 1,
+    "gift": 0
 }

@@ -1,0 +1,24 @@
+{
+    "name": "Olives",
+    "type": "Dairy and Oil",
+    "icon": "star",
+    "found": [
+        [
+            "Mythopia"
+        ]
+    ],
+    "price": 35,
+    "sellPrice": 35,
+    "buyPrice": 0,
+    "energy": 350,
+    "rarity": "none",
+    "growthTime": 0,
+    "water": 0,
+    "yield": 4,
+    "maxSpawns": 4,
+    "gift": 0,
+    "description": "When ground into an oil, this is an essential part of any Mediterranean dish. \n",
+    "activity": [
+        "ingredient"
+    ]
+}

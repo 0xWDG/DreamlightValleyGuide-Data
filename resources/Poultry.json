@@ -4,15 +4,22 @@
     ],
     "description": "This magically grown poultry is perfect for making some chicken noodle soup when you're feeling sick.",
     "found": [
-        "Gaston's Stall"
+        [
+            "Glittering Dunes"
+        ]
     ],
     "giftReward": 200,
-    "icon": "\ud83e\udea8",
+    "icon": "star",
     "maxSpawns": 0,
     "name": "Poultry",
-    "type": "protein",
+    "type": "Protein",
     "price": 500,
-    "gift": 200,
+    "gift": 0,
     "energy": 250,
-    "rarity": "none"
+    "rarity": "none",
+    "sellPrice": 500,
+    "buyPrice": 500,
+    "growthTime": 0,
+    "water": 0,
+    "yield": 0
 }

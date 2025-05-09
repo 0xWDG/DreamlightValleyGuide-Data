@@ -5,13 +5,20 @@
     "description": "Scrambled, fried, sunny side up? So many options. Available at Chez Remy!",
     "energy": 330,
     "found": [
-        "Chez Remy"
+        [
+            "Chez Remy"
+        ]
     ],
-    "gift": 200,
+    "gift": 0,
     "growthTime": 0,
     "icon": "star",
     "maxSpawns": 0,
     "name": "Egg",
     "price": 220,
-    "rarity": "none"
+    "rarity": "none",
+    "type": "Dairy and Oil",
+    "sellPrice": 220,
+    "buyPrice": 220,
+    "water": 0,
+    "yield": 0
 }

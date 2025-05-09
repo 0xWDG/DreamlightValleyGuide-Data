@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "The Bind",
     "coins": "0",
     "description": "A grain that grows in temperate climates, this is perfect for making bread or giving a bit of starch to a stew.",
     "found": [
-        "The Bind"
+        [
+            "The Bind"
+        ]
     ],
     "grow": "15min",
     "growTime": 15,
@@ -18,5 +21,11 @@
     "sellPrice": 15,
     "type": "Grains",
     "waterings": 0,
-    "yield": 1
+    "yield": 1,
+    "buyPrice": 15,
+    "energy": 19,
+    "growthTime": 15,
+    "water": 1,
+    "maxSpawns": 1,
+    "gift": 0
 }

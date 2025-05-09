@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "Everafter",
     "coins": "0",
     "description": "They're green. They're beans. It doesn't need to be any more complicated than that.",
     "found": [
-        "Everafter"
+        [
+            "Everafter"
+        ]
     ],
     "grow": "4hr",
     "growTime": 4,
@@ -18,5 +21,11 @@
     "sellPrice": 209,
     "type": "Vegetables",
     "waterings": 0,
-    "yield": 1
+    "yield": 1,
+    "buyPrice": 250,
+    "energy": 59,
+    "growthTime": 4,
+    "water": 0,
+    "maxSpawns": 1,
+    "gift": 0
 }

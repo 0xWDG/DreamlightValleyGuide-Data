@@ -1,0 +1,25 @@
+{
+    "name": "Coconut",
+    "type": "\u00a0Fruit",
+    "icon": "star",
+    "found": [
+        [
+            "Dazzle Beach",
+            "Moana Realm"
+        ]
+    ],
+    "price": 42,
+    "sellPrice": 42,
+    "buyPrice": 0,
+    "energy": 500,
+    "rarity": "none",
+    "growthTime": 23,
+    "water": 0,
+    "yield": 3,
+    "maxSpawns": 3,
+    "gift": 0,
+    "description": "A hard fruit that can be picked from trees. \n",
+    "activity": [
+        "ingredient"
+    ]
+}

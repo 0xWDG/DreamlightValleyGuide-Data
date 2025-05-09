@@ -4,15 +4,22 @@
     ],
     "description": "This magically grown pork is versatile so you can enjoy it in barbecue or stew recipes.",
     "found": [
-        "Gaston's Stall"
+        [
+            "Glittering Dunes"
+        ]
     ],
     "giftReward": 200,
-    "icon": "\ud83e\udea8",
+    "icon": "star",
     "maxSpawns": 0,
     "name": "Pork",
-    "type": "protein",
+    "type": "Protein",
     "price": 250,
-    "gift": 200,
+    "gift": 0,
     "energy": 250,
-    "rarity": "none"
+    "rarity": "none",
+    "sellPrice": 250,
+    "buyPrice": 250,
+    "growthTime": 0,
+    "water": 0,
+    "yield": 0
 }

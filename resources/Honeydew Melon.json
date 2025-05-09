@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "Mythopia",
     "coins": "85",
     "description": "Beneath that yellow rind, this melon is as sweet as honey and succulent as the morning dew.",
     "found": [
-        "Mythopia"
+        [
+            "Mythopia"
+        ]
     ],
     "grow": "45min",
     "growTime": 45,
@@ -16,7 +19,13 @@
     "rarity": "none",
     "seedPrice": 40,
     "sellPrice": 125,
-    "type": "Fruit",
+    "type": "\u00a0Fruit",
     "waterings": 0,
-    "yield": 1
+    "yield": 1,
+    "buyPrice": 40,
+    "energy": 123,
+    "growthTime": 45,
+    "water": 0,
+    "maxSpawns": 1,
+    "gift": 0
 }

@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "Ancient's Landing",
     "coins": "45",
     "description": "Perfect for dipping in some cheese or chopping up and throwing in a stir-fry.",
     "found": [
-        "Ancient's Landing"
+        [
+            "Ancient's Landing"
+        ]
     ],
     "grow": "10min",
     "growTime": 10,
@@ -18,5 +21,11 @@
     "sellPrice": 65,
     "type": "Vegetables",
     "waterings": 1,
-    "yield": 1
+    "yield": 1,
+    "buyPrice": 0,
+    "energy": 60,
+    "growthTime": 10,
+    "water": 1,
+    "maxSpawns": 1,
+    "gift": 0
 }

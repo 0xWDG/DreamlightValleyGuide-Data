@@ -1,15 +1,25 @@
 {
     "activity": [
-        "fishing"
+        "fishing",
+        "ingredient"
     ],
     "description": "This tasty mollusk is surprisingly good at filtering water.",
     "energy": 150,
     "found": [
-        "Mythopia"
+        [
+            "Mythopia"
+        ]
     ],
     "icon": "star",
     "name": "Mussel",
     "price": 75,
-    "rarity": "None",
-    "type": "Seafood"
+    "rarity": "none",
+    "type": "Seafood",
+    "sellPrice": 75,
+    "buyPrice": 0,
+    "growthTime": 0,
+    "water": 0,
+    "yield": 7,
+    "maxSpawns": 7,
+    "gift": 0
 }

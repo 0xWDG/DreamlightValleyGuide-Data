@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "Glittering Dunes",
     "coins": "97",
     "description": "The magical fruit.",
     "found": [
-        "Glittering Dunes"
+        [
+            "Glittering Dunes"
+        ]
     ],
     "grow": "1h",
     "growTime": 1,
@@ -16,7 +19,13 @@
     "rarity": "none",
     "seedPrice": 50,
     "sellPrice": 49,
-    "type": "Dairy and Oil",
+    "type": "Vegetables",
     "waterings": 1,
-    "yield": 3
+    "yield": 3,
+    "buyPrice": 0,
+    "energy": 41,
+    "growthTime": 1,
+    "water": 1,
+    "maxSpawns": 3,
+    "gift": 0
 }

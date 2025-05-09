@@ -1,0 +1,24 @@
+{
+    "name": "Shovel Bird Eggs",
+    "type": "Dairy and Oil",
+    "icon": "star",
+    "found": [
+        [
+            "The Bind"
+        ]
+    ],
+    "price": 80,
+    "sellPrice": 80,
+    "buyPrice": 160,
+    "energy": 200,
+    "rarity": "none",
+    "growthTime": 0,
+    "water": 0,
+    "yield": 0,
+    "maxSpawns": 0,
+    "gift": 0,
+    "description": "This egg comes from a bird with a magnificent shovel for a head. \n",
+    "activity": [
+        "ingredient"
+    ]
+}

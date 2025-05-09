@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "Glade of Trust",
     "coins": "87",
     "description": "Rice, Edible starchy cereal grain and the annual grass (Oryza sativa, family Poaceae) that produces it. Roughly one-half of the world's population, including almost all of East and Southeast Asia, depends on rice as its principal staple food.",
     "found": [
-        "Glade of Trust"
+        [
+            "Glade of Trust"
+        ]
     ],
     "grow": "50min",
     "growTime": 50,
@@ -22,5 +25,10 @@
     "type": "Grains",
     "water": 2,
     "waterings": 2,
-    "yield": 2
+    "yield": 2,
+    "buyPrice": 92,
+    "energy": 59,
+    "growthTime": 50,
+    "maxSpawns": 2,
+    "gift": 0
 }

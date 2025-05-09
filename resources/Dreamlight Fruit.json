@@ -1,0 +1,27 @@
+{
+    "name": "Dreamlight Fruit",
+    "type": "\u00a0Fruit",
+    "icon": "star",
+    "found": [
+        [
+            "Sunlit Plateau",
+            "\u00a0\u00a0  Glade of Trust",
+            "Frosted Heights",
+            "Forgotten Lands"
+        ]
+    ],
+    "price": 40,
+    "sellPrice": 40,
+    "buyPrice": 0,
+    "energy": 500,
+    "rarity": "none",
+    "growthTime": 1,
+    "water": 0,
+    "yield": 3,
+    "maxSpawns": 3,
+    "gift": 0,
+    "description": "The mysterious fruit of the Dreamlight Tree smells sweet, and you can only wonder what it tastes like. Will you be brave enough to taste it? \n",
+    "activity": [
+        "ingredient"
+    ]
+}

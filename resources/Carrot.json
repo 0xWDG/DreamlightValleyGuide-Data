@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "Peaceful Meadow",
     "coins": "34",
     "description": "The carrot (Daucus carota) is a root vegetable often claimed to be the perfect health food. It is crunchy, tasty, and highly nutritious. Carrots are a particularly good source of beta carotene, fiber, vitamin K1, potassium, and antioxidants ( 1 ). They also have a number of health benefits.",
     "found": [
-        "Peaceful Meadow"
+        [
+            "Peaceful Meadow"
+        ]
     ],
     "grow": "15min",
     "growTime": 15,
@@ -22,5 +25,10 @@
     "type": "Vegetables",
     "water": 1,
     "waterings": 1,
-    "yield": 1
+    "yield": 1,
+    "buyPrice": 66,
+    "energy": 57,
+    "growthTime": 15,
+    "maxSpawns": 1,
+    "gift": 0
 }

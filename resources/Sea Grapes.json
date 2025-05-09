@@ -1,16 +1,25 @@
 {
     "activity": [
-        "fishing"
+        "fishing",
+        "ingredient"
     ],
     "description": "A very edible sea alga.",
     "energy": 25,
     "found": [
-        "The Library of Lore",
-        "The Bind"
+        [
+            "The Bind"
+        ]
     ],
     "icon": "star",
     "name": "Sea Grapes",
     "price": 20,
-    "rarity": "None",
-    "type": "Spices"
+    "rarity": "none",
+    "type": "\u00a0Fruit",
+    "sellPrice": 20,
+    "buyPrice": 0,
+    "growthTime": 0,
+    "water": 0,
+    "yield": 1,
+    "maxSpawns": 1,
+    "gift": 0
 }

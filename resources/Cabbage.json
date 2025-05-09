@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "Wild Tangle",
     "coins": "106",
     "description": "Use it to make a nice salad... or put a hat on it and turn it into a scarecrow.",
     "found": [
-        "Wild Tangle"
+        [
+            "Wild Tangle"
+        ]
     ],
     "grow": "1h",
     "growTime": 1,
@@ -18,5 +21,11 @@
     "sellPrice": 256,
     "type": "Vegetables",
     "waterings": 2,
-    "yield": 1
+    "yield": 1,
+    "buyPrice": 0,
+    "energy": 142,
+    "growthTime": 1,
+    "water": 2,
+    "maxSpawns": 1,
+    "gift": 0
 }

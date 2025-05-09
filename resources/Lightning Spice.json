@@ -1,0 +1,24 @@
+{
+    "name": "Lightning Spice",
+    "type": "Spices",
+    "icon": "star",
+    "found": [
+        [
+            "Mythopia"
+        ]
+    ],
+    "price": 65,
+    "sellPrice": 65,
+    "buyPrice": 0,
+    "energy": 140,
+    "rarity": "none",
+    "growthTime": 0,
+    "water": 0,
+    "yield": 10,
+    "maxSpawns": 10,
+    "gift": 0,
+    "description": "If you're looking to add a bit of zap to your dish, this is sure to do it. (Careful: risk of electrocution.) \n",
+    "activity": [
+        "ingredient"
+    ]
+}

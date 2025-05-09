@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "Wild Tangle",
     "coins": "274",
     "description": "A few of these are sure to \"turnip\" whenever you need to make a tasty meal.",
     "found": [
-        "Wild Tangle"
+        [
+            "Wild Tangle"
+        ]
     ],
     "grow": "4h",
     "growTime": 4,
@@ -18,5 +21,11 @@
     "sellPrice": 187,
     "type": "Vegetables",
     "waterings": 1,
-    "yield": 2
+    "yield": 2,
+    "buyPrice": 0,
+    "energy": 263,
+    "growthTime": 4,
+    "water": 1,
+    "maxSpawns": 2,
+    "gift": 0
 }

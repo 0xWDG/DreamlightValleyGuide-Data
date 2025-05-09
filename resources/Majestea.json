@@ -1,0 +1,24 @@
+{
+    "name": "Majestea",
+    "type": "Spices",
+    "icon": "star",
+    "found": [
+        [
+            "Ancient's Landing"
+        ]
+    ],
+    "price": 30,
+    "sellPrice": 30,
+    "buyPrice": 0,
+    "energy": 105,
+    "rarity": "none",
+    "growthTime": 0,
+    "water": 0,
+    "yield": 10,
+    "maxSpawns": 10,
+    "gift": 0,
+    "description": "The aromatic blue and silver leaves can be used for many things from brewing a spicy yet floral tea to creating dyes or paints. \n",
+    "activity": [
+        "ingredient"
+    ]
+}

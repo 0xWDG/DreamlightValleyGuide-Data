@@ -1,17 +1,26 @@
 {
     "activity": [
         "digging",
-        "foraging"
+        "foraging",
+        "ingredient"
     ],
     "description": "Can be found on Dazzle Beach. Go and explore!",
     "energy": 120,
     "found": [
-        "Dazzle Beach"
+        [
+            "Dazzle Beach"
+        ]
     ],
-    "gift": 200,
+    "gift": 0,
     "icon": "star",
-    "maxSpawns": 0,
+    "maxSpawns": 5,
     "name": "Clam",
-    "price": 20,
-    "rarity": "none"
+    "price": 50,
+    "rarity": "none",
+    "type": "Seafood",
+    "sellPrice": 50,
+    "buyPrice": 0,
+    "growthTime": 0,
+    "water": 0,
+    "yield": 5
 }

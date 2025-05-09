@@ -1,0 +1,24 @@
+{
+    "name": "Sour Berries",
+    "type": "\u00a0Fruit",
+    "icon": "star",
+    "found": [
+        [
+            "The Bind"
+        ]
+    ],
+    "price": 40,
+    "sellPrice": 40,
+    "buyPrice": 0,
+    "energy": 400,
+    "rarity": "none",
+    "growthTime": 30,
+    "water": 0,
+    "yield": 3,
+    "maxSpawns": 3,
+    "gift": 0,
+    "description": "Who says candy doesn't come from bushes? \n",
+    "activity": [
+        "ingredient"
+    ]
+}

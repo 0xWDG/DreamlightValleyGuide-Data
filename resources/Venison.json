@@ -1,0 +1,24 @@
+{
+    "name": "Venison",
+    "type": "Protein",
+    "icon": "star",
+    "found": [
+        [
+            "Glittering Dunes"
+        ]
+    ],
+    "price": 500,
+    "sellPrice": 500,
+    "buyPrice": 1,
+    "energy": 250,
+    "rarity": "none",
+    "growthTime": 0,
+    "water": 0,
+    "yield": 0,
+    "maxSpawns": 0,
+    "gift": 0,
+    "description": "This magically grown venison tastes spectacular as a main course or as part of a stew. \n",
+    "activity": [
+        "ingredient"
+    ]
+}

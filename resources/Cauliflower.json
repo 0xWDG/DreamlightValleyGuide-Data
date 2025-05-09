@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "The Bind",
     "coins": "15",
     "description": "Every piece of a cauliflower looks like another tiny cauliflower.",
     "found": [
-        "The Bind"
+        [
+            "The Bind"
+        ]
     ],
     "grow": "10min",
     "growTime": 10,
@@ -18,5 +21,11 @@
     "sellPrice": 25,
     "type": "Vegetables",
     "waterings": 0,
-    "yield": 1
+    "yield": 1,
+    "buyPrice": 10,
+    "energy": 72,
+    "growthTime": 10,
+    "water": 2,
+    "maxSpawns": 1,
+    "gift": 0
 }

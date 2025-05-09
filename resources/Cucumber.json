@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "Frosted Heights",
     "coins": "119",
     "description": "Cucumber is a highly refreshing vegetable thanks to its water content, it has a low content of lipids, carbohydrates and proteins. The great vitamin C and B9 content is the most outstanding characteristic, along with its laxative properties and its capacity to relieve kidney disorders.",
     "found": [
-        "Frosted Heights"
+        [
+            "Frosted Heights"
+        ]
     ],
     "grow": "1h 15min",
     "growTime": 1,
@@ -22,5 +25,10 @@
     "type": "Vegetables",
     "water": 1,
     "waterings": 1,
-    "yield": 1
+    "yield": 1,
+    "buyPrice": 239,
+    "energy": 145,
+    "growthTime": 1,
+    "maxSpawns": 1,
+    "gift": 0
 }

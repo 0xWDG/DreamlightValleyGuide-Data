@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "Wild Tangle",
     "coins": "332",
     "description": "Don't let that tough, spiky exterior fool you. They're actually very sweet!",
     "found": [
-        "Wild Tangle"
+        [
+            "Wild Tangle"
+        ]
     ],
     "grow": "3h",
     "growTime": 3,
@@ -16,7 +19,13 @@
     "rarity": "none",
     "seedPrice": 200,
     "sellPrice": 532,
-    "type": "Fruit",
+    "type": "\u00a0Fruit",
     "waterings": 3,
-    "yield": 1
+    "yield": 1,
+    "buyPrice": 0,
+    "energy": 168,
+    "growthTime": 3,
+    "water": 3,
+    "maxSpawns": 1,
+    "gift": 0
 }

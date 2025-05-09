@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "The Bind",
     "coins": "21",
     "description": "It's sort of like a pumpkin, but a little bit squashed.",
     "found": [
-        "The Bind"
+        [
+            "The Bind"
+        ]
     ],
     "grow": "30min",
     "growTime": 30,
@@ -18,5 +21,11 @@
     "sellPrice": 41,
     "type": "Vegetables",
     "waterings": 0,
-    "yield": 1
+    "yield": 1,
+    "buyPrice": 20,
+    "energy": 32,
+    "growthTime": 30,
+    "water": 0,
+    "maxSpawns": 1,
+    "gift": 0
 }

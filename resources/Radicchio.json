@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "Mythopia",
     "coins": "77",
     "description": "It would be ridiculous not to like radicchio.",
     "found": [
-        "Mythopia"
+        [
+            "Mythopia"
+        ]
     ],
     "grow": "1hr",
     "growTime": 1,
@@ -18,5 +21,11 @@
     "sellPrice": 127,
     "type": "Vegetables",
     "waterings": 0,
-    "yield": 1
+    "yield": 1,
+    "buyPrice": 50,
+    "energy": 186,
+    "growthTime": 1,
+    "water": 0,
+    "maxSpawns": 1,
+    "gift": 0
 }

@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "Glittering Dunes",
     "coins": "92",
     "description": "If you arrange a bunch of them, they sort of look like a tiny forest.",
     "found": [
-        "Glittering Dunes"
+        [
+            "Glittering Dunes"
+        ]
     ],
     "grow": "40min",
     "growTime": 40,
@@ -18,5 +21,11 @@
     "sellPrice": 152,
     "type": "Vegetables",
     "waterings": 2,
-    "yield": 1
+    "yield": 1,
+    "buyPrice": 0,
+    "energy": 73,
+    "growthTime": 40,
+    "water": 2,
+    "maxSpawns": 1,
+    "gift": 0
 }

@@ -1,0 +1,24 @@
+{
+    "name": "Bamboo",
+    "type": "Vegetables",
+    "icon": "star",
+    "found": [
+        [
+            "Wild Tangle"
+        ]
+    ],
+    "price": 80,
+    "sellPrice": 80,
+    "buyPrice": 0,
+    "energy": 155,
+    "rarity": "none",
+    "growthTime": 0,
+    "water": 0,
+    "yield": 10,
+    "maxSpawns": 10,
+    "gift": 0,
+    "description": "Whether you need to build a house or add a bit of crunch to a salad, bamboo has you covered. \n",
+    "activity": [
+        "ingredient"
+    ]
+}

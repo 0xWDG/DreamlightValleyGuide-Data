@@ -1,12 +1,15 @@
 {
     "activity": [
-        "gardening"
+        "gardening",
+        "ingredient"
     ],
     "biome": "Forest of Valor",
     "coins": "84",
     "description": "Canola is dairy and oil type ingredient used in cooking. It can be grown from Canola Seed, which is purchased from Goofy's Stall in the Forest of Valor.",
     "found": [
-        "Forest of Valor"
+        [
+            "Forest of Valor"
+        ]
     ],
     "grow": "35min",
     "growTime": 35,
@@ -20,7 +23,12 @@
     "sell": 109,
     "sellPrice": 109,
     "type": "Dairy and Oil",
-    "water": 4,
+    "water": 3,
     "waterings": 4,
-    "yield": 1
+    "yield": 1,
+    "buyPrice": 164,
+    "energy": 59,
+    "growthTime": 35,
+    "maxSpawns": 1,
+    "gift": 0
 }

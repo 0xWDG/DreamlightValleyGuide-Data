@@ -1,0 +1,24 @@
+{
+    "name": "Brussels Sprout",
+    "type": "Vegetables",
+    "icon": "star",
+    "found": [
+        [
+            "Everafter"
+        ]
+    ],
+    "price": 30,
+    "sellPrice": 30,
+    "buyPrice": 0,
+    "energy": 400,
+    "rarity": "none",
+    "growthTime": 0,
+    "water": 0,
+    "yield": 4,
+    "maxSpawns": 4,
+    "gift": 0,
+    "description": "With a little butter dolloped on top, eating these won't feel like eating your vegetables. \n",
+    "activity": [
+        "ingredient"
+    ]
+}
