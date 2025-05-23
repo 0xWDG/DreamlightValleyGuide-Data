@@ -9,5 +9,17 @@
     "icon": "star",
     "island": "Eternity Isle",
     "name": "Ancient's Landing",
+    "regions": [
+        "The Docks",
+        "The Courtyard",
+        "The Overlook",
+        "The Ruins"
+    ],
+    "prices": [
+        0,
+        0,
+        6000,
+        10000
+    ],
     "price": 0
 }

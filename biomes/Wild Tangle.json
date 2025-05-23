@@ -8,5 +8,17 @@
     "icon": "star",
     "island": "Eternity Isle",
     "name": "Wild Tangle",
+    "regions": [
+        "The Grasslands",
+        "The Promenade",
+        "The Grove",
+        "The Lagoon"
+    ],
+    "prices": [
+        0,
+        4000,
+        6000,
+        10000
+    ],
     "price": 2000
 }
