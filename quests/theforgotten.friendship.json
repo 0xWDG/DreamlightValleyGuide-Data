@@ -55,6 +55,21 @@
                 "Even More Miraculous Pickaxe Polish"
             ],
             "friendship": 0
+        },
+        {
+            "name": "A Forgotten Name",
+            "id": "theforgotten.friendship.4",
+            "objectives": [
+                "Talk to The Forgotten.",
+                "Go to Skull Rock Island with the Forgotten.",
+                "Talk to the Forgotten.",
+                "Welcome The Forgotten as a real Villager."
+            ],
+            "rewards": [
+                "The Forgotten as a real Villager."
+            ],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }
