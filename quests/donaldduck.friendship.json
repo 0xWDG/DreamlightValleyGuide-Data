@@ -100,7 +100,7 @@
                 "Find the Villager who owns the Slimy Stocking.",
                 "Make sure you have the Slimy Stocking in your Inventory.",
                 "Search Donald's House for a clue.",
-                "Look for a clue by removing the trash in Donald's House (5)",
+                "Look for a clue by removing the 5 trash in Donald's House",
                 "Pick up the Strange Device",
                 "Bring the Strange Device to Donald"
             ],
@@ -113,8 +113,8 @@
             "objectives": [
                 "You found another sock! This one has a \"G\" sewn into it.\r\n  \u2027 Find the Villager who owns the Chewed-Up Sock\r\n  \u2027 Make sure you have the Chewed-Up Sock in your Inventory.",
                 "Search Goofy's House for a clue.",
-                "Look for a clue by removing the trash in Goofy's House (5)",
-                "You found a clue by removing the trash in Goofy's House (5)",
+                "Look for a clue by removing the 5 trash in Goofy's House",
+                "You found a clue by removing the trash in Goofy's House",
                 "Bring the Blue Fur to Donald."
             ],
             "rewards": [],
@@ -127,7 +127,7 @@
                 "Another sock! To find out who this one belongs to you might need to ask around a bit.\r\n  \u2027 Talk to Mickey\r\n  \u2027 Talk to Kristoff\r\n  \u2027 Talk to Merlin",
                 "Make sure you have the Knitted Orange Sock in your inventory.",
                 "Search Merlin's library for a clue",
-                "Remove the trash in Merlin's library to find a clue. (5)",
+                "Remove the 5 trash in Merlin's library to find a clue.",
                 "You found a clue in Merlin's library! Pick it up!",
                 "Bring the Mysterious Claw to Donald",
                 "Place the Homing Beacon on Skull Rock.",
@@ -148,7 +148,7 @@
             "objectives": [
                 "Take 3 pictures of Donald next to the Trash on Dazzle Beach.",
                 "Talk to Donald.",
-                "Remove the Trash from Dazzle Beach. (8)",
+                "Remove the 8 Trash from Dazzle Beach.",
                 "Talk to Donald.",
                 "Make sure the Photo of Donald is in your Inventory.",
                 "Bring the Photo of Donald to Sulley."

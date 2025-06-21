@@ -36,7 +36,7 @@
                 "Return to Rapunzel.",
                 "Gather the following resources from across Eternity Isle:\r\n  \u2027 4 Green Fly Trap.\r\n  \u2027 4 Purple Fly Trap.\r\n  \u2027 4 Red Pitcher Plant.\r\n  \u2027 4 Yellow Pitcher Plant.\r\n  \u2027 12 Tropical Wood.",
                 "Craft 2 Carnivorous Floral Arrangement.",
-                "Decorate using the Carnivorous Floral Arrangement near the Bug-Infested Pedestal in the Grove. (2)",
+                "Decorate using the Carnivorous Floral Arrangement near the Bug-Infested Pedestal in the Grove.",
                 "Now all that's left to do is wait. This might take a while.\r\n  \u2027 Check on Gaston and how he's doing with his task.",
                 "The plants should have eaten the insects by now.\r\n  \u2027 Return to the Pedestal in the Grove.",
                 "You found the Jungle Scarab Piece!\r\n  \u2027 Pick up the Jungle Scarab Piece from the pedestal.",
@@ -110,7 +110,7 @@
                 "Return to Rapunzel.",
                 "Gather the following resources from across Eternity Isle:\r\n  \u2027 4 Green Fly Trap.\r\n  \u2027 4 Purple Fly Trap.\r\n  \u2027 4  Red Pitcher Plant.\r\n  \u2027 4  Yellow Pitcher Plant.\r\n  \u2027 12 Tropical Wood.",
                 "Craft 2 Carnivorous Floral Arrangement.",
-                "Decorate using the Carnivorous Floral Arrangement near the Bug-Infested Pedestal in the Grove. (2)",
+                "Decorate using the Carnivorous Floral Arrangement near the Bug-Infested Pedestal in the Grove.",
                 "Now all that's left to do is wait. This might take a while.",
                 "Check on Gaston and how he's doing with his task.",
                 "The plants should have eaten the insects by now.",
@@ -156,7 +156,7 @@
                 "Talk to Gaston.",
                 "Break rocks around Eternity Isle to prove your strength.\r\n  \u2027 3 Copper Rocks\r\n  \u2027 3 Glass Stalagmites",
                 "See how Oswald fared with his task.",
-                "Fill in the many (4) holes Oswald left in the Glittering Dunes",
+                "Fill in the 4 holes Oswald left in the Glittering Dunes",
                 "Check back with Gaston to see who won the challenge."
             ],
             "rewards": [

@@ -6,7 +6,7 @@
             "name": "Hakuna Matata",
             "id": "simba.friendship.1",
             "objectives": [
-                "Put together a Casual outfit (3)",
+                "Put together a Casual outfit",
                 "Return to Simba",
                 "Add some relaxing Furniture to the Peaceful Meadow.\r\n  \u2027 3 Seating\r\n  \u2027 5 Landscaping",
                 "Return to Simba.",
@@ -27,7 +27,7 @@
             "objectives": [
                 "Talk to Remy.",
                 "Figure out the last Ingredient for the cake. It asks for Eggs, Milk, Fruit, Wheat, and... something sweet?",
-                "Cook the Meals for Simba's gathering:\r\n  \u2027 Aurora's Cake (Wheat, Egg, Milk, Any Fruit, Sugarcane)\r\n  \u2027 Large Seafood Platter. (Any Seafood (4), Lemon)",
+                "Cook the Meals for Simba's gathering:\r\n  \u2027 Aurora's Cake (Wheat, Egg, Milk, Any Fruit, Sugarcane)\r\n  \u2027 Large Seafood Platter. (4 Seafood, Lemon)",
                 "Bring the Meals to Simba",
                 "Invite the following Villagers to Simba's gathering:\r\n  \u2027 Goofy.\r\n  \u2027 Minnie.\r\n  \u2027 Maui.",
                 "Return to Simba",
@@ -36,8 +36,8 @@
                 "Return to Simba.",
                 "Listen to Simba apologize to Nala.",
                 "Talk to Simba.",
-                "Plant and grow Carrots in the Meadow (9)",
-                "Feed some animals around the Valley (5)",
+                "Plant and grow 9 Carrots in the Meadow",
+                "Feed 5 animals around the Valley",
                 "Talk to Nala.",
                 "Return to Simba.."
             ],
