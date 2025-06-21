@@ -119,6 +119,14 @@
             ]
         },
         {
+            "name": "The Memento",
+            "id": "merlin.story.memento",
+            "objectives": [
+                "Talk to Merlin about the strange, magical object you found."
+            ],
+            "rewards": []
+        },
+        {
             "name": "Odds & Ends...",
             "id": "merlin.story.remembered.1",
             "objectives": [
