@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "snippets"
+    ],
+    "description": "Frogs: Shadowy Frog Snippet",
+    "found": [
+        "Everafter"
+    ],
+    "icon": "star",
+    "maxSpawns": 0,
+    "name": "Shadowy Frog Snippet",
+    "price": 10,
+    "rarity": "none",
+    "type": "Frogs"
+}
