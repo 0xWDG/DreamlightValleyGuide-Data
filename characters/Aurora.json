@@ -1,0 +1,24 @@
+{
+    "description": "Aurora is a character from the Disney film Sleeping Beauty (1959). She is unlocked after completing a series of quests in the Unwritten Realms during the story part of The Storybook Vale Part 2.",
+    "house": "Aurora's House",
+    "icon": "star",
+    "name": "Aurora",
+    "origin": "Sleeping Beauty",
+    "quests": [
+        "aurora.story",
+        "aurora.friendship"
+    ],
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Lantern Tree Column",
+        "Motif",
+        "StarCoins 500",
+        "Rustic Brick Oven",
+        "Motif",
+        "StarCoins 1000",
+        "Painted Cottage - Upstairs",
+        "Motif",
+        "Once Upon a Dream Dress"
+    ]
+}
