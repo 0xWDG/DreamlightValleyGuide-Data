@@ -1,0 +1,16 @@
+{
+    "activity": [
+        "snippets"
+    ],
+    "description": "Birds: Shadowy Bird Snippet",
+    "found": [
+        "The Library of Lore",
+	      "The Binds"
+    ],
+    "icon": "star",
+    "maxSpawns": 0,
+    "name": "Shadowy Bird Snippet",
+    "price": 20,
+    "rarity": "none",
+    "type": "Birds"
+}
