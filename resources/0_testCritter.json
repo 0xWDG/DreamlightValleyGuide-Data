@@ -1,0 +1,15 @@
+{
+    "name": "Test Critter",
+    "type": "Critter",
+    "icon": "star",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "biome": "Dreamlight Valley",
+    "price": 0,
+    "description": "Test Critter.",
+    "activity": [
+        "Critter"
+    ],
+    "rarity": "none"
+}
