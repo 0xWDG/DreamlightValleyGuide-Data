@@ -1,15 +1,15 @@
 {
-    "name": "Test Critter",
-    "type": "critters",
+    "name": "Test Craft",
+    "type": "crafting",
     "icon": "star",
     "found": [
         "Dreamlight Valley"
     ],
     "biome": "Dreamlight Valley",
     "price": 0,
-    "description": "Test Critter.",
+    "description": "Test Craft.",
     "activity": [
-        "critters"
+        "crafting"
     ],
     "rarity": "none"
 }
