@@ -1,0 +1,19 @@
+{
+    "name": "Owls",
+    "type": "critters",
+    "icon": "star",
+    "found": [
+        "The Bind"
+    ],
+    "biome": "The Bind",
+    "price": 0,
+    "description": "Owls.",
+    "activity": [
+        "critters"
+    ],
+    "rarity": "none",
+    "instructions": "Just feed them, they aren't shy.",
+    "favoriteFood": [
+        "Barley"
+    ]
+}

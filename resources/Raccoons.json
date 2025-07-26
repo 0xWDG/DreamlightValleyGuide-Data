@@ -1,0 +1,19 @@
+{
+    "name": "Raccoons",
+    "type": "critters",
+    "icon": "star",
+    "found": [
+        "Forest of Valor"
+    ],
+    "biome": "Forest of Valor",
+    "price": 0,
+    "description": "Raccoons.",
+    "activity": [
+        "critters"
+    ],
+    "rarity": "none",
+    "instructions": "Watch their body language, and approach when they are relaxed. When they are alert, with their head up, remain still - otherwise, the Critter will move to a new location.",
+    "favoriteFood": [
+        "Blueberry"
+    ]
+}

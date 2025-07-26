@@ -1,0 +1,19 @@
+{
+    "name": "Cobras",
+    "type": "critters",
+    "icon": "star",
+    "found": [
+        "Glittering Dunes"
+    ],
+    "biome": "Glittering Dunes",
+    "price": 0,
+    "description": "Cobras.",
+    "activity": [
+        "critters"
+    ],
+    "rarity": "none",
+    "instructions": "Watch their body language, and approach when they are relaxed. When they are alert, with their head up, remain still - otherwise, the Critter will move to a new location.",
+    "favoriteFood": [
+        "Egg"
+    ]
+}

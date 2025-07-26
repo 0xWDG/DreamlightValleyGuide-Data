@@ -1,0 +1,19 @@
+{
+    "name": "Foxes",
+    "type": "critters",
+    "icon": "star",
+    "found": [
+        "Frosted Heights"
+    ],
+    "biome": "Frosted Heights",
+    "price": 0,
+    "description": "Foxes.",
+    "activity": [
+        "critters"
+    ],
+    "rarity": "none",
+    "instructions": "When you have caught their attention, chase after them until they stop.",
+    "favoriteFood": [
+        "White Sturgeon"
+    ]
+}

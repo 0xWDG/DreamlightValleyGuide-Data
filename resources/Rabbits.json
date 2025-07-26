@@ -1,0 +1,19 @@
+{
+    "name": "Rabbits",
+    "type": "critters",
+    "icon": "star",
+    "found": [
+        "Peaceful Meadow"
+    ],
+    "biome": "Peaceful Meadow",
+    "price": 0,
+    "description": "Rabbits.",
+    "activity": [
+        "critters"
+    ],
+    "rarity": "none",
+    "instructions": "When you have caught their attention, chase after them until they stop.",
+    "favoriteFood": [
+        "Carrot"
+    ]
+}

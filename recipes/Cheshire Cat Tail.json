@@ -1,6 +1,6 @@
 {
     "name": "Cheshire Cat Tail",
-    "type": "\u00a0Desserts",
+    "type": "Desserts",
     "icon": "star",
     "found": [
         "Dreamlight Valley"
@@ -15,7 +15,7 @@
         "Wheat",
         "Sugarcane"
     ],
-    "description": "",
+    "description": "Cheshire Cat Tail is an Alice in Wonderland themed piece of back clothing.",
     "stars": 4,
     "activity": [
         "recipes"

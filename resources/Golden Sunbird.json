@@ -1,0 +1,20 @@
+{
+    "name": "Golden Sunbird",
+    "type": "critters",
+    "icon": "star",
+    "found": [
+        "Sunlit Plateau"
+    ],
+    "biome": "Sunlit Plateau",
+    "price": 0,
+    "description": "Golden Sunbird.",
+    "activity": [
+        "critters"
+    ],
+    "rarity": "none",
+    "instructions": "Just feed them, they aren't shy.",
+    "favoriteFood": [
+        "Orange Flowers",
+        "Yellow Flowers"
+    ]
+}

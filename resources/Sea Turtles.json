@@ -1,0 +1,19 @@
+{
+    "name": "Sea Turtles",
+    "type": "critters",
+    "icon": "star",
+    "found": [
+        "Dazzle Beach"
+    ],
+    "biome": "Dazzle Beach",
+    "price": 0,
+    "description": "Sea Turtles.",
+    "activity": [
+        "critters"
+    ],
+    "rarity": "none",
+    "instructions": "Wait until they are ready to come out of their shells. You can also drop food, like seaweed, in front of them and they will come out immediately.",
+    "favoriteFood": [
+        "Seaweed"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Baby Dragons",
+    "type": "critters",
+    "icon": "star",
+    "found": [
+        "Everafter"
+    ],
+    "biome": "Everafter",
+    "price": 0,
+    "description": "Baby Dragons.",
+    "activity": [
+        "critters"
+    ],
+    "rarity": "none",
+    "instructions": "Wait until they aren't shy.",
+    "favoriteFood": [
+        "Pure Ice",
+        "Shiny Pure Ice",
+        "Magma",
+        "Shiny Magma"
+    ]
+}

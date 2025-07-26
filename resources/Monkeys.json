@@ -1,0 +1,19 @@
+{
+    "name": "Monkeys",
+    "type": "critters",
+    "icon": "star",
+    "found": [
+        "Ancient's Landing"
+    ],
+    "biome": "Ancient's Landing",
+    "price": 0,
+    "description": "Monkeys.",
+    "activity": [
+        "critters"
+    ],
+    "rarity": "none",
+    "instructions": "When you have caught their attention, chase after them until they stop.",
+    "favoriteFood": [
+        "5-Star Dessert type Meals"
+    ]
+}

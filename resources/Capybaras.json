@@ -1,0 +1,19 @@
+{
+    "name": "Capybaras",
+    "type": "critters",
+    "icon": "star",
+    "found": [
+        "Wild Tangle"
+    ],
+    "biome": "Wild Tangle",
+    "price": 0,
+    "description": "Capybaras.",
+    "activity": [
+        "critters"
+    ],
+    "rarity": "none",
+    "instructions": "Just feed them, they aren't shy.",
+    "favoriteFood": [
+        "Cabbage"
+    ]
+}

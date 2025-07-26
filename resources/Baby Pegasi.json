@@ -1,0 +1,20 @@
+{
+    "name": "Baby Pegasi",
+    "type": "critters",
+    "icon": "star",
+    "found": [
+        "Mythopia"
+    ],
+    "biome": "Mythopia",
+    "price": 0,
+    "description": "Baby Pegasi.",
+    "activity": [
+        "critters"
+    ],
+    "rarity": "none",
+    "instructions": "When you have caught their attention, chase after them until they stop.",
+    "favoriteFood": [
+        "5-Star Vegetable-Based Meals",
+        "4-Star Vegetable-Based Meals"
+    ]
+}

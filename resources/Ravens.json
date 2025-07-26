@@ -1,0 +1,19 @@
+{
+    "name": "Ravens",
+    "type": "critters",
+    "icon": "star",
+    "found": [
+        "Forgotten Lands"
+    ],
+    "biome": "Forgotten Lands",
+    "price": 0,
+    "description": "Ravens.",
+    "activity": [
+        "critters"
+    ],
+    "rarity": "none",
+    "instructions": "Wait until they have finished circling your head.",
+    "favoriteFood": [
+        "5-Star Meals"
+    ]
+}

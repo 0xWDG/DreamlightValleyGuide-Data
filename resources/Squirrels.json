@@ -1,0 +1,19 @@
+{
+    "name": "Squirrels",
+    "type": "critters",
+    "icon": "star",
+    "found": [
+        "Plaza"
+    ],
+    "biome": "Plaza",
+    "price": 0,
+    "description": "Squirrels.",
+    "activity": [
+        "critters"
+    ],
+    "rarity": "none",
+    "instructions": "Just feed them, they aren't shy.",
+    "favoriteFood": [
+        "Peanut"
+    ]
+}
