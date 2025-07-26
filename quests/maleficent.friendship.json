@@ -1,0 +1,144 @@
+{
+    "icon": "star",
+    "name": "maleficent.friendship",
+    "quests": [
+        {
+            "name": "The Corvid Companion",
+            "id": "maleficent.friendship.1",
+            "objectives": [
+                "Gather Ingredients to cook a Chimera Skewer.\r\n  \u2027 Hippocampus.\r\n  \u2027 Flying Fish.\r\n  \u2027 Trumpet Snail.\r\n  \u2027 Brussels Sprout.\r\n  \u2027 Stygian Mudskipper.",
+                "Cook a Chimera Skewer for Maleficent's Raven.",
+                "Talk to The Lorekeeper.",
+                "Solve the new floor puzzle to unlock the portal to the Unwritten Realms.",
+                "Enter the Unwritten Realms.",
+                "Find a Magic Quill to ask about Maleficent's Raven.",
+                "Explore the Unwritten Realms to find the three keys.\r\n  \u2027 Buried in the Ground.\r\n  \u2027 Behind some Inkies.\r\n  \u2027 Near some filing cabinets.",
+                "Find the room with three locks and use the keys you found.",
+                "Claim the Drawbridge Lever from the chest.",
+                "Lower the drawbridge near the Waiting Room by using the Drawbridge Lever.",
+                "Maleficent's raven is locked up in a cage!\r\n  \u2027 Lower the suspended cage and find a key to unlock the cage door.",
+                "Make sure you have the Chimera Skewer in your Inventory.",
+                "Bring the Chimera Skewer to Maleficent's Raven.",
+                "Talk to Maleficent.",
+                "Gather resources to craft a Luxury Corvid Perch.\r\n  \u2027 15 Petrified Wood.\r\n  \u2027 10 Marble.\r\n  \u2027 15 Mud.\r\n  \u2027 5 Sea Monster Tooth.",
+                "Craft the Luxury Corvid Perch.",
+                "Place the Luxury Corvid Perch in Everafter close to Maleficent's Castle.",
+                "Talk to Maleficent."
+            ],
+            "rewards": [
+                "440 Friendship",
+                "Maleficent's Raven",
+                "Luxury Corvid Perch"
+            ],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "Rekindling the Fire",
+            "id": "maleficent.friendship.2",
+            "objectives": [
+                "Remove 10 Hades' Greek columns from around Maleficent's Castle in Everafter.",
+                "Talk to Maleficent.",
+                "Visit the largest pond near the Teapot Falls.",
+                "There's no orb, but there is a... feather?!\r\n  \u2027 Dig up the White Feather.",
+                "Show the White Feather to these Villagers to figure out who it belongs to.\r\n  \u2027 Donald.\r\n  \u2027 Daisy.\r\n  \u2027 Scrooge McDuck.",
+                "Find the buried orb near the end of one of the curved staircases in the Bind.",
+                "Collect Maleficent's Orb from where Scrooge McDuck buried it.",
+                "Bring Maleficent's Orb back to her.",
+                "Bring the Bag of Gems to Flynn.",
+                "Follow Flynn to see his \"art.\"",
+                "Enter the Trial area to see Flynn's \"art.\"",
+                "Listen to Hades and Flynn argue about Flynn's \"art.\"",
+                "Take a picture of Flynn's \"art.\"",
+                "Clean up 5 Flynn's \"art.\"",
+                "Talk to Hades and Flynn.",
+                "Go inside Hades' House to see what Maleficent is plotting.",
+                "Talk to Maleficent and Hades.",
+                "Leave Hades' House.",
+                "Talk to Maleficent."
+            ],
+            "rewards": [
+                "880 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 4
+        },
+        {
+            "name": "Collateral Damage",
+            "id": "maleficent.friendship.3",
+            "objectives": [
+                "Open your mailbox and read the mail from Remy.",
+                "Go to Remy's House.",
+                "This place is a disaster zone!\r\n  \u2027 Extinguish the 6 blue and green flames to rescue Remy.",
+                "Talk to Remy in his House.",
+                "Talk to The Lorekeeper.",
+                "Gather what you need to prepare gifts for Hades and Maleficent.\r\n  \u2027 Fish Cereberus's Chew Toy out of a pond in Mount Olympus.\r\n  \u2027 Gather Ingredients for some Feather Balm.\r\n  \u2027 - Olive.\r\n  \u2027 - Cape Gooseberry.\r\n  \u2027 - Trumpet Snail.\r\n  \u2027 - Green Beans.\r\n  \u2027 - Extra Salty Salt Crystal.",
+                "Cook up some Feather Balm for Maleficent's raven.",
+                "Bring Cereberus's Chew Toy from \"Maleficent\" to Hades.",
+                "Bring the Feather Balm from \"Hades\" to Maleficent.",
+                "Meet Maleficent and Hades in your House.",
+                "Talk to Maleficent and Hades.",
+                "Leave your House.",
+                "Ask Merida for advice in getting Hades and Maleficent to speak to each other.",
+                "Gather resources to craft a Bonfire Pit.\r\n  \u2027 3 Gold Ingots.\r\n  \u2027 10 Marble.\r\n  \u2027 50 Stone.\r\n  \u2027 15 Coal.",
+                "Craft a Bonfire Pit.",
+                "Go into Maleficent's castle to show her the Bonfire Pit.",
+                "Hades is here too! Why are they on speaking terms now?!\r\n  \u2027 Spy on Maleficent and Hades discussion.",
+                "Make sure you have the Bonfire Pit in your Inventory.",
+                "Talk to Maleficent and Hades.",
+                "Place the Bonfire Pit in the Bind.",
+                "Gather Hades and Maleficent around the Bonfire Pit.",
+                "Talk to The Lorekeeper."
+            ],
+            "rewards": [
+                "2200 Friendship",
+                "Bonfire Pit"
+            ],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "The Two Flames United",
+            "id": "maleficent.friendship.4",
+            "objectives": [
+                "Open your mailbox and read the mail from Scrooge McDuck.",
+                "Find Scrooge McDuck in his shop.",
+                "Go to Scrooge McDuck's Store.",
+                "Listen to Scrooge McDuck argue with the Magic Quill.",
+                "Talk to Magic Quill and Scrooge McDuck.",
+                "Visit Chez Remy.",
+                "Talk to the Magic Quill and Remy.",
+                "Gather Ingredients for the Grecian Baked Fish.\r\n  \u2027 Stygian Mudskipper.\r\n  \u2027 Elysian Grain.\r\n  \u2027 Olives.\r\n  \u2027 Ambrosia.\r\n  \u2027 Salt Crystal.",
+                "Cook the Grecian Baked Fish.",
+                "Make sure you have the Grecian Baked Fish in your Inventory.",
+                "Bring the Grecian Baked Fish to the Magic Quill.",
+                "The Quills are also hassling Goofy?!\r\n  \u2027 Better visit Goofy's House.",
+                "Talk to Goofy and the Magic Quill.",
+                "Take a glamourous picture of the Quill bureaucrat.",
+                "Talk to the Magic Quill.",
+                "Talk to The Lorekeeper.",
+                "Place the Dreamlight Bell Beacon in the Library of Lore to play the Call to Adventure.",
+                "Gather your friends with the Call to Adventure.",
+                "Enter the open portal to the Unwritten Realms.",
+                "The evil Quills are blocking the way!\r\n  \u2027 Talk to Aurora.",
+                "Confront the Quills blocking the way - with all the Villagers backing you.",
+                "Go find Hades and Maleficent in the Unwritten Realms.",
+                "Confront Hades and Maleficent.",
+                "Extinguish the 3 whirling flames with your Royal Watering Can while Hades and Maleficent are distracted.",
+                "Enter the portal that Hades and Maleficent were guarding.",
+                "The Heart of Stories contains a... typewriter?\r\n  \u2027 Try writing something on it.",
+                "Return to the Vale.",
+                "Ask the Lorekeeper about what you found in the Heart of Stories.",
+                "Talk to Hades.",
+                "Talk to Maleficent."
+            ],
+            "rewards": [
+                "3080 Friendship",
+                "Dark Fairy Ensemble",
+                "Dreamlight Bell Beacon"
+            ],
+            "dlc": false,
+            "friendship": 7
+        }
+    ]
+}

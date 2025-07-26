@@ -5,7 +5,19 @@
     "name": "Maleficent",
     "origin": "Sleeping Beauty",
     "quests": [
-        "maleficent.story"
+        "maleficent.story",
+        "maleficent.friendship"
     ],
-    "rewards": []
+    "rewards": [
+        "",
+        "Black Gothic Chandelier",
+        "Raven Shadow Motif",
+        "500 StarCoins",
+        "Black Gothic Chair",
+        "Dragon Scale Material",
+        "1000 StarCoins",
+        "Black Gothic Desk",
+        "Thorny Strip Motif",
+        "Dark Fairy Ensemble"
+    ]
 }
