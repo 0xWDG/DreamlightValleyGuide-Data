@@ -1,6 +1,6 @@
 {
     "name": "Test Critter",
-    "type": "Critter",
+    "type": "critter",
     "icon": "star",
     "found": [
         "Dreamlight Valley"
@@ -9,7 +9,7 @@
     "price": 0,
     "description": "Test Critter.",
     "activity": [
-        "Critter"
+        "critter"
     ],
     "rarity": "none"
 }
