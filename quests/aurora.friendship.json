@@ -1,0 +1,142 @@
+{
+    "icon": "star",
+    "name": "aurora.friendship",
+    "quests": [
+        {
+            "name": "The Family Recipe",
+            "id": "aurora.friendship.1",
+            "objectives": [
+                "Go to Merida's House.",
+                "Listen to Merida and Flynn.",
+                "Talk to Flynn inside Merida's House.",
+                "Gather the following materials for the Banners:\r\n  \u2027 10 Petrified Wood.\r\n  \u2027 10 Marble.\r\n  \u2027 10 Posidonia.",
+                "Go back to Merida's House to check on Flynn and Merida's progress.",
+                "Listen to Merida and Flynn arguing.",
+                "They're still arguing? About what?!",
+                "Craft the Fairy Cake Celebration Banners at a Crafting Station",
+                "Place the Fairy Cake Celebration Banners in the Vale",
+                "Talk to Aurora.",
+                "Gather the following Ingredients for Aurora's Cake:\r\n  \u2027 12 Shovel Bird Eggs.\r\n  \u2027 5 Porcini Mushrooms.\r\n  \u2027 5 Lightning.",
+                "Bring the Ingredients to Aurora in her House.",
+                "Go check on Flynn to see if he is done with the seating arrangement.",
+                "Talk to Aurora.",
+                "Hang out with Aurora.",
+                "Gather Spiral Strawberries with Aurora",
+                "Talk to Aurora.",
+                "Stop hanging out with Aurora before going to see Flynn.",
+                "Go talk to Flynn.",
+                "Go to Flynn's House.",
+                "Oh no... You've been busted.\r\n  \u2027 Come clean to Aurora.",
+                "Talk to Remy.",
+                "Gather the Ingredients for the new cake.\r\n  \u2027 1 Milk.\r\n  \u2027 1 Elysian Grain.\r\n  \u2027 1 Spiral Strawberries.\r\n  \u2027 1 Faerie Rye.",
+                "Cooking the new cake at a Cooking Station.",
+                "Make sure the cake is in your Inventory.",
+                "Bring the cake to Aurora.",
+                "Place the cake in the Vale.",
+                "Attend the cake party.",
+                "Listen to Flynn and Aurora.",
+                "Talk to Aurora."
+            ],
+            "rewards": [
+                "440 Friendship",
+                "5 Fairy Cake Celebration Banner Improved Fairy Cake"
+            ],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "Redeeming Literature",
+            "id": "aurora.friendship.2",
+            "objectives": [
+                "Talk to the Lorekeeper.",
+                "Talk to Aurora about your conversation with the Lorekeeper.",
+                "Search for the book in the West Wing of the Library of Lore.",
+                "The bookshelf has been trashed! Look around for some clues",
+                "Talk to Stitch.",
+                "Gather the following materials: (\"Romance\" chosen)\r\n  \u2027 6 Yellow Tale Cone Flower.\r\n  \u2027 5 White Rose.\r\n  \u2027 5 Dusty Violet Rose.",
+                "Gather the following materials: (\"Adventure\" chosen)\r\n  \u2027 3 Olive Green Tale Cone Flower.\r\n  \u2027 5 Lightning Spice.\r\n  \u2027 5 Magma.",
+                "Ask Belle how to repair the book.",
+                "Fish in Mythopia at the foot of Mount Olympus to find the Artisanal Book Glue.",
+                "Bind the Romance ending into the book at a Crafting Station. OR Bind the Adventure ending into the book at a Crafting Station.",
+                "Make sure the repaired book is in your Inventory.",
+                "Bring the repaired book to Aurora.",
+                "Talk to Aurora and the Lorekeeper.",
+                "Talk to Aurora."
+            ],
+            "rewards": [
+                "880 Friendship"
+            ],
+            "dlc": false,
+            "friendship": 3
+        },
+        {
+            "name": "The Princess Tour",
+            "id": "aurora.friendship.3",
+            "objectives": [
+                "Talk to Jasmine.",
+                "Open your Inventory and activate the Aphrodite's Delight recipe.",
+                "Cook 2 Aphrodite's Delight.",
+                "Bring the Aphrodite's Delight to Aurora.",
+                "Go to Aurora's cottage.",
+                "Listen to Aurora sing to the critters.",
+                "Talk to Aurora in her cottage.",
+                "Talk to Tiana.",
+                "Go around the Vale and take pictures for Belle and Tiana's scrapbook:\r\n  \u2027 Jasmine's House.\r\n  \u2027 A waterfall in the Wild Woods of Everafter.\r\n  \u2027 A critter from Mythopia.",
+                "Speak to Tiana.",
+                "Talk to Mulan.",
+                "Dress up for the training:\r\n  \u2027 Fairytale Armor.",
+                "Meet Mulan and Merida in the Knight's Trial in the Fallen Fortress.",
+                "Talk to Merida.",
+                "Break the 3 practice bricks with your Royal Pickaxe.",
+                "Talk to Mulan.",
+                "Talk to Aurora.",
+                "Gather the following materials for Aurora's Princess Party Banner:\r\n  \u2027 10 Petrified Wood.\r\n  \u2027 10 Marble.\r\n  \u2027 5 Pine Cones.\r\n  \u2027 2 Opal.\r\n  \u2027 2 Star Sapphire.",
+                "Craft Aurora's Princess Party Banner at a Crafting Station.",
+                "Place Aurora's Princess Party Banner in the Vale.",
+                "Celebrate with the Princesses!",
+                "Talk to Aurora."
+            ],
+            "rewards": [
+                "2200 Friendship",
+                "Aurora's Princess Party Banner"
+            ],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "Dreams and Dark Designs",
+            "id": "aurora.friendship.4",
+            "objectives": [
+                "Talk to the following Villagers about their sleeping problems.\r\n  \u2027 Flynn.\r\n  \u2027 Merida.",
+                "Talk to Aurora.",
+                "Go to Hades' House.",
+                "Hades and Maleficent... together?!",
+                "Talk to Hades.",
+                "Gather the materials to craft a Dream Spinner.\r\n  \u2027 4 Star Sapphire.\r\n  \u2027 10 Volcanic Rock.\r\n  \u2027 20 Petrified Wood.\r\n  \u2027 1 Dream Threads from the Sacred Spring in the Elysian Fields.",
+                "Craft the Dream Spinner at a Crafting Station.",
+                "Make sure the Dream Spinner is in your Inventory.",
+                "Bring the Dream Spinner to Aurora.",
+                "Talk to Remy.",
+                "Gather the following Ingredients to cook some Warm Spiced Milk:\r\n  \u2027 2 Milk.\r\n  \u2027 2 Ambrosia.\r\n  \u2027 2 Nutmeg.",
+                "Cook 2 Warm Spiced Milk.",
+                "Make sure the 3 Warm Spiced Milk is in your Inventory.",
+                "Bring the Warm Spiced Milk to Aurora in her House.",
+                "Interact with the Dream Spinner.",
+                "Examine the dream image.",
+                "Talk to Aurora in her House about what image the Dream Spinner captured.",
+                "Go to the top of Mount Olympus and look for the area in the dream image.",
+                "Interact with the rift in Mount Olympus.",
+                "Examine the image from within the rift.",
+                "Talk to The Lorekeeper and Aurora about what you found in Mount Olympus.",
+                "Go to Maleficent's Castle to confront her and Hades.",
+                "Confront Maleficent and Hades in Maleficent's Castle."
+            ],
+            "rewards": [
+                "3080 Friendship",
+                "Dream Spinning Wheel"
+            ],
+            "dlc": false,
+            "friendship": 7
+        }
+    ]
+}
