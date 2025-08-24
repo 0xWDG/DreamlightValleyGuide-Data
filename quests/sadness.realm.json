@@ -1,0 +1,58 @@
+{
+    "icon": "star",
+    "name": "sadness.realm",
+    "quests": [
+        {
+            "name": "Out of the Blue",
+            "id": "sadness.realm.1",
+            "objectives": [
+                "Find Sadness in Long Term Memory.",
+                "Search 4 Long Term Memory for music notes played by Piano Lesson Musical Memories.",
+                "Talk to Sadness.",
+                "Follow Sadness back to the Long Term Memory entrance.",
+                "Talk to Sadness.",
+                "Put the Piano Lesson Musical Memories into the recall tube.",
+                "Interact with the recall tube to send the Piano Lesson Musical Memories back to Headquarters.",
+                "Talk to Sadness.",
+                "Return to Headquarters with Sadness."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "Get Up and Glow!",
+            "id": "sadness.realm.2",
+            "objectives": [
+                "Return to Headquarters in the Inside Out Realm.",
+                "Talk to Sadness.",
+                "Go to Long Term Memory with Sadness.",
+                "Talk to Sadness.",
+                "Search 4 Long Term Memory for music notes played by Pop Concert Musical Memories.",
+                "Talk to Sadness.",
+                "Go to the recall tube near the entrance.",
+                "Place the Pop Concert Musical Memories into the recall tube.",
+                "Interact with the recall tube to send the Pop Concert Musical Memories back to HQ.",
+                "Talk to Sadness.",
+                "Return to the Dream Productions studio.",
+                "Talk to Sadness.",
+                "Decorate the stage with 6 pop concert furniture from the Dream Productions platform.",
+                "Talk to Sadness.",
+                "Dress up like a pop star in any Bold clothing",
+                "Make sure you have the Go Go Glow Light Stick in your Inventory.",
+                "Bring the Go Go Glow Light Stick to Sadness.",
+                "Use the microphone on the stage to start the dream.",
+                "A day has passed! Time to check in with Sadness.",
+                "Go back to Dreamlight Valley.",
+                "Welcome Sadness to the Valley.",
+                "Talk to Sadness."
+            ],
+            "rewards": [
+                "Go Go Glow Light Stick",
+                "Unlock Sadness"
+            ],
+            "dlc": false,
+            "friendship": 0
+        }
+    ]
+}

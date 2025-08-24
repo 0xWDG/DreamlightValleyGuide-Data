@@ -1,0 +1,148 @@
+{
+    "icon": "star",
+    "name": "joy.friendship",
+    "quests": [
+        {
+            "name": "Capture the Sun",
+            "id": "joy.friendship.1",
+            "objectives": [
+                "Find the best spot for a game of Capture the Sun.\r\n  \u2027 Take a selfie with Joy at each location.\r\n  \u2027 - The southern edge of the Meadow.\r\n  \u2027 - Near the Wishing Well in the Plaza.\r\n  \u2027 - The inside of the Dream Castle.",
+                "Report back to Joy.",
+                "Recruit players for the game of Capture the Sun.\r\n  \u2027 Merlin.\r\n  \u2027 Donald Duck.\r\n  \u2027 Goofy.\r\n  \u2027 Vanellope.",
+                "Return to Joy.",
+                "Gather materials for the Flag Poles.\r\n  \u2027 5 Yellow Daisies\r\n  \u2027 10 Softwood\r\n  \u2027 1 Topaz.",
+                "Craft 5 Flag Poles.",
+                "Bring the Flag Poles to Joy.",
+                "Dress up in at least one yellow item of clothing.",
+                "Enter the Dream Castle.",
+                "Take a picture of everyone together before the game!",
+                "Talk to Joy to begin playing Capture the Sun.",
+                "Grab three Floating Suns and bring them to your own Flag Pole.",
+                "You won! Meet Joy in the Dream Castle for your prize.",
+                "Talk to Joy inside the Dream Castle to receive your prize.",
+                "Open your prize! You deserve it.",
+                "That prize seems odd... Check in with Joy."
+            ],
+            "rewards": [
+                "440 Friendship",
+                "Plush Bear Head",
+                "Miniature Glowing Sun (From mailbox after quest)"
+            ],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "Mood Swings",
+            "id": "joy.friendship.2",
+            "objectives": [
+                "Check in on the Capture the Sun players.\r\n  \u2027 Merlin.\r\n  \u2027 Vanellope.\r\n  \u2027 Donald Duck.\r\n  \u2027 Goofy.",
+                "Talk to Joy.",
+                "Meet Donald inside his House.",
+                "Talk to Donald inside his House.",
+                "Break some of Donald's furniture with your Pickaxe.\r\n  \u2027 Couch.\r\n  \u2027 Table.\r\n  \u2027 Bookcase.",
+                "Talk to Donald.",
+                "Visit the Dreamlight Library.",
+                "Help Merlin out by cleaning the Dreamlight Library.\r\n  \u2027 Clean up the 3 Spiderwebs around the Dreamlight Library.\r\n  \u2027 Put the Four Nondescript Potion Bottles back on the shelves.",
+                "Talk to Merlin.",
+                "Talk to Vanellope.",
+                "Cook a Joyful Meal for Vanellope.",
+                "Bring Vanellope the Joyful Meal.",
+                "Talk to Goofy.",
+                "Gather the materials to craft a Shiny New Fishing Rod for Goofy.\r\n  \u2027 10 Softwood.\r\n  \u2027 4 Fiber.\r\n  \u2027 2 Iron Ingot.\r\n  \u2027 Tinkering Parts.",
+                "Craft the Shiny New Fishing Rod for Goofy.",
+                "Make sure you have the Shiny New Fishing Rod in your Inventory.",
+                "Bring the Shiny New Fishing Rod to Goofy.",
+                "Fish for an interesting fish in the large pond in the Peaceful Meadow.",
+                "You found Plush Bear Thread! Bring it to Merlin for consultation.",
+                "Talk to Joy about the Plush Bear Thread."
+            ],
+            "rewards": [
+                "880 Friendship",
+                "Plush Bear Thread"
+            ],
+            "dlc": false,
+            "friendship": 4
+        },
+        {
+            "name": "Imagination Land",
+            "id": "joy.friendship.3",
+            "objectives": [
+                "Follow Joy to the Forgotten Lands.",
+                "Visit the Fairy Godmother's House.",
+                "Find the Forgotten Lands Biome Plans in the Fairy Godmother's House.",
+                "Make sure you have the Forgotten Lands Biome Plans in your Inventory.",
+                "Bring the Forgotten Lands Biome Plans to Joy.",
+                "Remove some Green Fires and Night Thorns from the Forgotten Lands.\r\n  \u2027 5 Green Fires.\r\n  \u2027 7 Night Thorns.",
+                "Talk to Joy.",
+                "Gather materials to craft the Imagination Land Arch.\r\n  \u2027 3 Topaz.\r\n  \u2027 10 Dark Wood.\r\n  \u2027 2 Yellow Nasturtium.",
+                "Craft the Imagination Land Arch.",
+                "Make sure you have the Imagination Land Arch in your Inventory.",
+                "Give the Imagination Land Arch to Joy.",
+                "Gather materials to craft Sunflower and Daisy Pots.\r\n  \u2027 10 Sunflowers\r\n  \u2027 20 Yellow Daisies",
+                "Craft 10 Flower Pots.",
+                "Craft 10 Sunflower Pots and Daisy Pots.",
+                "Talk to Joy.",
+                "Meet up with Joy in the Forgotten Lands.",
+                "Place the Imagination Land Arch in the Forgotten Lands.",
+                "Decorate the Forgotten Lands with the 10 Sunflower and Daisy Pots.",
+                "Celebrate the brand-new Forgotten Lands!",
+                "Talk to Joy.",
+                "Remove the Night Thorns from the Forgotten Lands once more.\r\n  \u2027 7 Night Thorns.",
+                "Brown Plush Bear Yarn was underneath the Night Thorns! Pick them up.",
+                "Talk to Merlin.",
+                "Talk to Joy."
+            ],
+            "rewards": [
+                "2200 Friendship",
+                "Imagination Land Arch",
+                "Imagination Land Arch recipe",
+                "Brown Plush Bear Yarn"
+            ],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "Dream a Little Dream",
+            "id": "joy.friendship.4",
+            "objectives": [
+                "Talk to Sadness.",
+                "Return to the Inside Out Realm.",
+                "Find the materials for the Dream Production.\r\n  \u2027 Dream Camera.\r\n  \u2027 Pot of Green Paint.\r\n  \u2027 Dream Documentation.\r\n  \u2027 Spotlights.",
+                "Make sure you have the Dream Documentation in your Inventory.",
+                "Bring the Dream Documentation to Belle.",
+                "Talk to Joy.",
+                "Gather materials for the Camera Lens Filter.\r\n  \u2027 Topaz.\r\n  \u2027 Amethyst.\r\n  \u2027 Emerald.\r\n  \u2027 Garnet.\r\n  \u2027 Ruby.\r\n  \u2027 Sapphire.\r\n  \u2027 Tourmaline.",
+                "Craft the Camera Lens Filter.",
+                "Go to the secret chamber in the Frosted Heights.",
+                "Place the filming equipment in the secret chamber.\r\n  \u2027 Dream Camera.\r\n  \u2027 Pot of Green Paint.\r\n  \u2027 Spotlight 1.\r\n  \u2027 Spotlight 2.",
+                "Talk to Joy.",
+                "Place the Camera Lens Filter on the Dream Camera.",
+                "Talk to Sadness about the emotions of the Dream Production.",
+                "Talk to The Forgotten.",
+                "Return to the secret chamber in the Frosted Heights to film a Dream Production.",
+                "Talk to The Forgotten on the movie set.",
+                "Talk to Joy.",
+                "Clean up the 6 glasses.",
+                "Craft three new Light Bulbs.",
+                "Make sure you have the three Light Bulbs in your Inventory.",
+                "Give Joy the Light Bulbs inside the secret chamber.",
+                "Find the right mood for the start of the scene by changing the lighting.\r\n  \u2027 Try a joyful, yellow mood.",
+                "Listen to the performance.",
+                "Find the right mood for the middle of the scene by changing the lighting.\r\n  \u2027 Try a sad, blue mood.",
+                "Listen to the performance.",
+                "Find the right mood for the end of the scene by changing the lighting.\r\n  \u2027 Try a angry, purple mood.",
+                "Listen to the performance.",
+                "Some Yellow Plush Bear Yarn appeared! Pick them up.",
+                "Talk to Joy."
+            ],
+            "rewards": [
+                "4400 Friendship",
+                "Joyful Retro Outfit",
+                "Joyful Retro Hat",
+                "Yellow Plush Bear Yarn"
+            ],
+            "dlc": false,
+            "friendship": 10
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "description": "Joy is a character from the Disney-Pixar film Inside Out (2015). She is unlocked after opening the Inside Out Realm, and placing her home during the quest Dream On!.",
+    "house": "Emotions' Headquarters",
+    "icon": "star",
+    "name": "Joy",
+    "origin": "Inside Out",
+    "quests": [
+        "joy.realm",
+        "joy.friendship"
+    ],
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Headquarters Dials",
+        "Touch of Magic Material",
+        "StarCoins 500",
+        "Memory Transport Tube",
+        "Joy Sun Motif",
+        "StarCoins 1000",
+        "Memory Viewer",
+        "Heart Badge Motif",
+        "Joyful Retro Hat\r\nJoyful Retro Outfit"
+    ]
+}
