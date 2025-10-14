@@ -1,0 +1,24 @@
+{
+    "description": "Cogsworth is a character from the film Beauty and the Beast (1991). He is unlocked after opening the Beauty and the Beast Realm during the quest A Guide to Better Castle-Keeping.",
+    "house": "Beast's Castle",
+    "icon": "star",
+    "name": "Cogsworth",
+    "origin": "Beauty and the Beast",
+    "quests": [
+        "cogsworth.friendship",
+        "cogsworth.realm"
+    ],
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Elegant Castle Mirror",
+        "Fleur de lis Pattern Motif",
+        "StarCoins 500",
+        "Clockwork Admiral Hat",
+        "Cogsworth Portrait Motif",
+        "StarCoins 1000",
+        "Rococo Craftsmen's Desk",
+        "Lace Pattern Motif",
+        "Clockwork Coat\r\nElegant Butler Trousers"
+    ]
+}
