@@ -1,0 +1,24 @@
+{
+    "description": "Lumiere is a character from the film Beauty and the Beast (1991). He is unlocked after opening the Beauty and the Beast Realm during the quest A Guide to Better Castle-Keeping.",
+    "house": "Beast's Castle",
+    "icon": "star",
+    "name": "Lumiere",
+    "origin": "Beauty and the Beast",
+    "quests": [
+        "lumiere.friendship",
+        "lumiere.realm"
+    ],
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Elegant Castle Chaise Longue",
+        "Damask Pattern Motif",
+        "StarCoins 500",
+        "Stage Tights",
+        "Lumiere Portrait Motif",
+        "StarCoins 1000",
+        "Elegant Staircase",
+        "Ruffled Valance Motif",
+        "Elegant Stage Necklace\r\nRuffled Stage Dress\r\nRuffled Stage Shoes"
+    ]
+}
