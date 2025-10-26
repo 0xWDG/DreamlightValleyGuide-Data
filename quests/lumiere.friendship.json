@@ -1,0 +1,132 @@
+{
+    "icon": "star",
+    "name": "lumiere.friendship",
+    "quests": [
+        {
+            "name": "At Your Service",
+            "id": "lumiere.friendship.1",
+            "objectives": [
+                "Go to Chez Remy with Lumiere.",
+                "Talk to Remy with Lumiere.",
+                "Find items for Lumiere in the Beauty and the Beast Realm:\r\n  \u2027 1 French Bread in the backroom.\r\n  \u2027 3 French Spices in the garden.\r\n  \u2027 3 French Recipe Books in the library.",
+                "Return to Chez Remy with the French items.",
+                "Talk to Remy.",
+                "Clean up Chez Remy.\r\n  \u2027 Remove all 6 broken dishes.",
+                "Meet Tiana and Lumiere inside Tiana's Palace.",
+                "Tiana and Lumiere seem to be preparing something...",
+                "Talk to Lumiere in the kitchen of Tiana's Palace.",
+                "Gather materials for the romantic evening at Tiana's Palace:\r\n  \u2027 40 Stone.\r\n  \u2027 25 Softwood.\r\n  \u2027 6 Green Rising Penstemon.\r\n  \u2027 3 Purple Hydrangea.",
+                "Make sure to have all Ingredients for the French desserts:\r\n  \u2027 3 Milk.\r\n  \u2027 2 Egg.\r\n  \u2027 1 Sugarcane.\r\n  \u2027 1 Vanilla.\r\n  \u2027 1 Butter.\r\n  \u2027 1 Wheat.\r\n  \u2027 1 Cheese.\r\n  \u2027 3 Any Fruit.",
+                "Cook some French Desserts for Tiana",
+                "Crepe.",
+                "Pastry Cream and Fruits.",
+                "Soufflé.",
+                "Craft the Romantic Arch.",
+                "Place the Romantic Arch in front of Tiana's Palace.",
+                "Return to Tiana's Palace.",
+                "Talk to Lumiere in the dining room in Tiana's Palace.",
+                "Clean up Tiana's Palace:\r\n  \u2027 Remove the 6 broken dishes.\r\n  \u2027 Pick up the 3 floating cutlery.\r\n  \u2027 Catch all the 3 flying items.",
+                "Bring all the haunted items to Lumiere."
+            ],
+            "rewards": [
+                "1000 Friendship",
+                "Crepe Recipe",
+                "Pastry Cream Fruit Recipe",
+                "Soufflé Recipe",
+                "Romantic Arch",
+                "Unlock Romantic Arch recipe"
+            ],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "Here, There, and Everywhere",
+            "id": "lumiere.friendship.2",
+            "objectives": [
+                "Talk to Villagers about Tiana's Palace.\r\n  \u2027 Minnie Mouse.\r\n  \u2027 The Beast.",
+                "Investigate alongside Lumiere:\r\n  \u2027 Look for 5 ghostly clues in both Remy's and Tiana's restaurants.\r\n  \u2027 Return to Lumiere with the clues you found.",
+                "Talk to Jack Skellington.",
+                "Find the spell materials for Jack Skellington.\r\n  \u2027 1 Pumpkin Soup.\r\n  \u2027 2 Shiny Ruby.\r\n  \u2027 2 Shiny Sapphire.\r\n  \u2027 10 Night Shard.\r\n  \u2027 10 Purified Night Shard.",
+                "Return to Tiana's Palace with the materials.",
+                "Bring the spell materials to Jack Skellington inside Tiana's Palace.",
+                "Put on the Masquerade Mask to see more of the Here and There.",
+                "A Here and There Spirit was here...\r\n  \u2027 Investigate and remove the 5 Here and There tracks in Tiana's Palace.",
+                "Clear the Here and There burrow in Tiana's kitchen.\r\n  \u2027 Make sure to wear the Masquerade Mask.",
+                "Something escaped the Here and There burrow!\r\n  \u2027 Follow the spirit trail outside of Tiana's Palace.",
+                "The Here and There Spirit is now loose in the Village! Return to Lumiere."
+            ],
+            "rewards": [
+                "Pumpkin Soup Recipe"
+            ],
+            "dlc": false,
+            "friendship": 4
+        },
+        {
+            "name": "Spirit Hunters",
+            "id": "lumiere.friendship.3",
+            "objectives": [
+                "Meet the investigation crew in Beast's Castle.",
+                "Talk to Lumiere along with Belle, Tiana, and Cogsworth in the Beast's Castle.",
+                "Cogsworth felt an unnatural cold breeze in the Mystical Cave on Dazzle Beach.\r\n  \u2027 Meet Cogsworth in the Mystical Cave.\r\n  \u2027 Talk to Cogsworth.",
+                "Cogsworth felt an unnatural cold breeze in the Mystical Cave on Dazzle Beach.\r\n  \u2027 Put on the Masquerade Mask to search for clues.\r\n  \u2027 Follow paw tracks to find the clue.\r\n  \u2027 Return to Cogsworth with the Frozen Red Passion Lily.",
+                "Tiana saw strange blue lights within the Vitalys Mines on the Sunlit Plateau.\r\n  \u2027 Meet Tiana in the Vitalys Mines.",
+                "Tiana saw strange blue lights within the Vitalys Mines on the Sunlit Plateau.\r\n  \u2027 Put on the Masquerade Mask to search for clues.\r\n  \u2027 Follow paw tracks to find the clue.\r\n  \u2027 Return to Tiana with the Frozen Thorn.",
+                "Belle caught a glimpse of the Here and There Spirit inside Elsa's Ice Cavern.\r\n  \u2027 Put on the Masquerade Mask to search for clues.\r\n  \u2027 Investigate the Ice Cavern for one more clue.",
+                "Make sure you have all the clues in your Inventory:\r\n  \u2027 Frozen Book.\r\n  \u2027 Frozen Red Passion Lily.\r\n  \u2027 Frozen Thorn.",
+                "Talk to Lumiere about the clues you found.",
+                "Investigate the secret chamber in the Frosted Heights.\r\n  \u2027 (Optional) Follow more (3) tracks using the Masquerade Mask.",
+                "You found the Here and There Spirit's den!\r\n  \u2027 Pick up the Clay Paw Print.",
+                "Clear the 3 Here and There thorns in the secret chamber in the Frosted Heights.",
+                "Dark Symbols have appeared in the secret chamber.\r\n  \u2027 Talk to Lumiere.",
+                "Find the Book of Symbols in the Dark Castle's first-floor library.",
+                "Bring the Book of Symbols to Belle.",
+                "Gather the necessary materials for the Binding Spell:\r\n  \u2027 12 Dream Shard.\r\n  \u2027 18 Here and There Debris.\r\n  \u2027 1 Clay Paw Print.\r\n  \u2027 20 Stone.\r\n  \u2027 3 Crystal.",
+                "Return to the Frosted Heights' secret chamber with the spell materials.",
+                "Bring the spell materials to Belle in the secret chamber.",
+                "The Binding Spell is ready:\r\n  \u2027 Use the 3 crystals to rotate and match the Symbols on the floor.",
+                "Is the Here and There Spirit a... fox?\r\n  \u2027 Talk to Lumiere."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "Long Lost Loves",
+            "id": "lumiere.friendship.4",
+            "objectives": [
+                "Visit the Here and There Fox in the secret chamber.",
+                "Talk to Lumiere and the Here and There Fox.",
+                "Pick up the Memory given by the Here and There Fox.",
+                "Talk to Lumiere.",
+                "Feed some critters:\r\n  \u2027 A raccoon.\r\n  \u2027 A fox.",
+                "Did feeding critters work?\r\n  \u2027 Use the Fox's previous Memory to find and search the next Memory location.",
+                "Talk to Lumiere.",
+                "Bring Villagers their favorite gifts",
+                "Another Memory from the Fox must have appeared...\r\n  \u2027 Use the previous Memory to find and search the next Memory location.",
+                "Talk to Lumiere.",
+                "Find a way to return to the Dark Grove.\r\n  \u2027 Talk to Merlin.",
+                "Gather the materials needed to craft the Fox and Raccoon Sculpture:\r\n  \u2027 Lumiere's Flame from Lumiere.\r\n  \u2027 12 Clay.\r\n  \u2027 12 Dream Shard.\r\n  \u2027 2 Red Rose from the Beast's Greenhouse.",
+                "Craft the Fox and Raccoon Sculpture.",
+                "Find more Dark Symbols in the Forest of Valor to re-open the portal.\r\n  \u2027 Find the Dark Symbols in the Forest of Valor.\r\n  \u2027 Place the Fox and Raccoon Sculpture near the Dark Symbols.",
+                "Enter the Dark Portal in the Forest of Valor.",
+                "Find the Here and There Raccoon in the Dark Grove.\r\n  \u2027 Follow the guiding light!",
+                "The Here and There Raccoon looks strange...\r\n  \u2027 Talk to Lumiere.",
+                "Give the Clay Paw Print to the Here and There Raccoon.",
+                "The Here and There Raccoon seems to remember the fox again!\r\n  \u2027 Follow Lumiere and the Raccoon to the Dark Grove's exit.",
+                "Exit the Dark Grove with Lumiere and meet near the Dark Portal.",
+                "Talk to Lumiere.",
+                "The Here and There critters are reunited!\r\n  \u2027 Take a picture of the reunion with all your friends.",
+                "Talk to Lumiere."
+            ],
+            "rewards": [
+                "Ruffled Stage Dress",
+                "Elegant Stage Necklace",
+                "Ruffled Stage Shoes",
+                "Clay Paw Prints",
+                "Fox and Raccoon Sculpture"
+            ],
+            "dlc": false,
+            "friendship": 10
+        }
+    ]
+}
