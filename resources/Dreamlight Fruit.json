@@ -1,10 +1,10 @@
 {
     "name": "Dreamlight Fruit",
-    "type": "\u00a0Fruit",
+    "type": "Fruit",
     "icon": "star",
     "found": [
         "Sunlit Plateau",
-        "\u00a0\u00a0  Glade of Trust",
+        "  Glade of Trust",
         "Frosted Heights",
         "Forgotten Lands"
     ],

@@ -16,7 +16,7 @@
     "name": "Apple",
     "price": 25,
     "rarity": "none",
-    "type": "\u00a0Fruit",
+    "type": "Fruit",
     "sellPrice": 25,
     "buyPrice": 50,
     "water": 0,

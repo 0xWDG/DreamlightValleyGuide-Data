@@ -12,7 +12,7 @@
     "name": "Sea Grapes",
     "price": 20,
     "rarity": "none",
-    "type": "\u00a0Fruit",
+    "type": "Fruit",
     "sellPrice": 20,
     "buyPrice": 0,
     "growthTime": 0,

@@ -14,7 +14,7 @@
     "price": 50,
     "rarity": "none",
     "timeToSpawn": 40,
-    "type": "\u00a0Fruit",
+    "type": "Fruit",
     "sellPrice": 50,
     "buyPrice": 100,
     "energy": 600,

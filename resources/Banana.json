@@ -1,6 +1,6 @@
 {
     "name": "Banana",
-    "type": "\u00a0Fruit",
+    "type": "Fruit",
     "icon": "star",
     "found": [
         "Peaceful Meadow",
