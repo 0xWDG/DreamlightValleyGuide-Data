@@ -1,0 +1,145 @@
+{
+    "icon": "star",
+    "name": "cogsworth.friendship",
+    "quests": [
+        {
+            "name": "Running Like Clockwork",
+            "id": "cogsworth.friendship.1",
+            "objectives": [
+                "Gather the following materials:\r\n  \u2027 25 Hardwood.\r\n  \u2027 10 Green Passion Lily.",
+                "Craft the 6 Harmonious Screen.",
+                "Arrange the 6 Harmonious Screens around Vanellope's House.",
+                "Talk to Cogsworth.",
+                "Remove the Harmonious Screens from around Vanellope's House.",
+                "Talk to Vanellope.",
+                "Talk to Cogsworth.",
+                "Talk to Moana.",
+                "Search Dazzle Beach's sand and water to find 6 Broken Pieces of a Tropical Lifeguard Chair.",
+                "Craft Tropical Lifeguard Chair.",
+                "Place Tropical Lifeguard Chair anywhere on Dazzle Beach.",
+                "Talk to Moana.",
+                "Talk to Cogsworth, if you can.",
+                "Talk to Stitch.",
+                "Catch Cogsworth's Gears. (They're flying around the Valley.)\r\n  \u2027 Forest of Valor.\r\n  \u2027 Dazzle Beach.\r\n  \u2027 Plaza.",
+                "Make sure you have Cogsworth's Gears in your Inventory.",
+                "Bring Cogsworth's Gears to Cogsworth."
+            ],
+            "rewards": [
+                "Tropical Lifeguard Chair",
+                "6 Harmonious Screen",
+                "Unlock  Harmonious Screen recipe"
+            ],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "On Her Majesty's Festive Service",
+            "id": "cogsworth.friendship.2",
+            "objectives": [
+                "Talk to Anna.",
+                "Place the Winter Carnival Banner in the following Biomes:\r\n  \u2027 Near Scrooge McDuck's Store.\r\n  \u2027 The Glade of Trust.\r\n  \u2027 Dazzle Beach.\r\n  \u2027 The Sunlit Plateau.",
+                "Gather materials for the icy furniture:\r\n  \u2027 125 Snowball.\r\n  \u2027 10 Dry Wood.\r\n  \u2027 10 Crystal.",
+                "Craft a:\r\n  \u2027 Icy Armchair.\r\n  \u2027 Snow Hut.",
+                "Decorate the Frosted Heights to prepare for the Winter Carnival.\r\n  \u2027 Icy Armchair.\r\n  \u2027 Snow Hut.",
+                "Talk to Cogsworth.",
+                "Check on Olaf inside Chez Remy.",
+                "Talk to Olaf.",
+                "Serve 3 clients in Chez Remy.",
+                "Talk to Cogsworth.",
+                "Prepare for the Winter Carnival.\r\n  \u2027 Place the Frozen Hot Cocoa Counter in the Frosted Heights to start the carnival.",
+                "Enjoy the Winter Carnival.",
+                "Talk to Anna.",
+                "Talk to Cogsworth."
+            ],
+            "rewards": [
+                "4 Winter Carnival Banner",
+                "Icy Armchair",
+                "Frozen Hot Cocoa Counter",
+                "Unlock Icy Armchair recipe",
+                "Unlock Icy Counter recipe"
+            ],
+            "dlc": false,
+            "friendship": 4
+        },
+        {
+            "name": "The Circle of Friendship",
+            "id": "cogsworth.friendship.3",
+            "objectives": [
+                "Visit Timon and Pumbaa at Pride Rock.",
+                "Talk to Cogsworth.",
+                "Gather some Clay for Lumiere.\r\n  \u2027 5 Clay.",
+                "Bring Clay to Lumiere.",
+                "Gather 5 Mushrooms for Cogsworth.",
+                "Bring Mushrooms to Cogsworth.",
+                "Visit the Beast's Castle.",
+                "Talk to Cogsworth.",
+                "Gather the materials to make the Red Rose Vase and the Leafy Hammock:\r\n  \u2027 15 Clay.\r\n  \u2027 6 Red Rose.\r\n  \u2027 5 Gold Ingot.\r\n  \u2027 8 Blue Falling Penstemon.\r\n  \u2027 5 Pink Bromeliad.\r\n  \u2027 5 Red Bromeliad.\r\n  \u2027 8 Jungle Bamboo from The Lion King Realm.",
+                "Craft furniture for Cogsworth and Lumiere's competition:\r\n  \u2027 1 Red Rose Vase.\r\n  \u2027 1 Leafy Hammock.",
+                "Check up on Cogsworth in the Beast's Castle.",
+                "WHAT IS GOING ON HERE?\r\n  \u2027 Catch the 3 bugs in the Beast's Castle.",
+                "Make sure you have Red Rose Vase in your Inventory.",
+                "Bring the Red Rose Vase to Cogsworth.",
+                "Check up on Lumiere at Pride Rock.",
+                "This is NOT fine.\r\n  \u2027 Put out the 8 fires at Pride Rock.",
+                "Bring the Leafy Hammock to Lumiere.",
+                "Eavesdrop on Lumiere and Cogsworth.",
+                "Talk to Cogsworth.",
+                "Gather Ingredients for Cogsworth:\r\n  \u2027 2 Wheat.\r\n  \u2027 2 Egg.\r\n  \u2027 2 Milk.\r\n  \u2027 2 Sugarcane.",
+                "Bring the Ingredients to Cogsworth.",
+                "Put on 3 Elegant clothing.",
+                "Go into the Beast's Castle.",
+                "Talk to Cogsworth."
+            ],
+            "rewards": [
+                "2 Birthday Cake",
+                "Red Rose Vase"
+            ],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "Vote for Cogsworth!",
+            "id": "cogsworth.friendship.4",
+            "objectives": [
+                "Gather materials for the Election Signs and a Ballot Box.\r\n  \u2027 25 Softwood.\r\n  \u2027 20 Hardwood.\r\n  \u2027 3 Black Passion Lily.\r\n  \u2027 10 Purple Impatiens.\r\n  \u2027 3 Gold Ingot.",
+                "Craft the following items:\r\n  \u2027 5 Election Sign.\r\n  \u2027 1 Ballot Box.",
+                "Place the 3 Election Signs in the Valley.",
+                "Make sure you have the Ballot Box in your Inventory.\r\n  \u2027 Ballot Box.",
+                "Bring the Ballot Box to Cogsworth.",
+                "Talk to Villagers who might be interested in the electoral campaign.",
+                "Talk to:\r\n  \u2027 Scar.\r\n  \u2027 Jasmine.\r\n  \u2027 Buzz Lightyear.",
+                "Return to Cogsworth.",
+                "Help the Villagers with their election campaigns.\r\n  \u2027 Cogsworth's Campaign\r\n  \u2027 Jasmine's Campaign\r\n  \u2027 Scar's Campaign",
+                "Check in with Cogsworth.",
+                "Enter the Dreamlight Castle to begin the campaign speeches.",
+                "Talk to Cogsworth to begin the campaign speeches.",
+                "Place the celebration table anywhere in the Valley.",
+                "Celebrate the election of the new Dreamlight Valley mayor.",
+                "Talk to everyone who participated in the election:\r\n  \u2027 Cogsworth.\r\n  \u2027 Scar.\r\n  \u2027 Jasmine.",
+                "Return to Cogsworth."
+            ],
+            "rewards": [
+                "Clockwork Coat",
+                "Elegant Butler Trousers",
+                "Election Victory Party"
+            ],
+            "dlc": false,
+            "friendship": 10
+        },
+        {
+            "name": "Cogsworth's Campaign: No Substitute for Hard Work",
+            "id": "cogsworth.friendship.5",
+            "objectives": [
+                "Talk to Cogsworth.",
+                "Begin a hangout with Cogsworth.",
+                "Complete 5 Dreamlight Duties while hanging out with Cogsworth.",
+                "Talk to Cogsworth.",
+                "Talk to other Villagers to help Cogsworth's campaign.\r\n  \u2027 Belle.\r\n  \u2027 Merlin.\r\n  \u2027 Mushu.",
+                "Talk to Cogsworth."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
+        }
+    ]
+}
