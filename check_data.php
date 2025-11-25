@@ -124,8 +124,6 @@ foreach ($dirs as $directory) {
 echo "Check completed.\n";
 echo "Total data warnings found: $warnings\n";
 echo "Total data errors found: $errors\n";
-echo "To fix: php check_data.php fix\n";
-echo "Fixing is a manual process, files will be opened in VSCode\n";
 
 if ($errors > 0) {
     exit(1);
