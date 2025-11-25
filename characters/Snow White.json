@@ -1,0 +1,21 @@
+{
+    "description": "Snow White is a character from the Disney film Snow White and the Seven Dwarfs (1937).",
+    "house": "Snow White's Cottage",
+    "icon": "star",
+    "name": "Snow White",
+    "origin": "Snow White",
+    "quests": [],
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Alpine Grandfather Clock",
+        "Alpine Floral Circle",
+        "StarCoins 500",
+        "Alpine Hair Net",
+        "Alpine Floral Stripe",
+        "StarCoins 1000",
+        "Comfy Alpine Sofa",
+        "Alpine Floral Arch Shape",
+        "Mountainous Adventure Wear"
+    ]
+}
