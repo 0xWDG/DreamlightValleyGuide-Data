@@ -1,0 +1,21 @@
+{
+    "description": "Cruella is a character from the Disney film One Hundred and One Dalmatians (1961).",
+    "house": "Cruella De Vil's Manor",
+    "icon": "star",
+    "name": "Cruella",
+    "origin": "One Hundred and One Dalmatians",
+    "quests": [],
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Spots Material",
+        "Modernist Chair",
+        "StarCoins 500",
+        "Cruella Angry Motif",
+        "Fashionista Design Table",
+        "StarCoins 1000",
+        "Fur Bundle Motif",
+        "Walk-In Closet",
+        "Black, White, and Chic All Over Hat\r\nBlack, White, and Chic All Over Jacket"
+    ]
+}
