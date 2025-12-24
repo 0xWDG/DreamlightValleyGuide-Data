@@ -4,7 +4,10 @@
     "icon": "star",
     "name": "Snow White",
     "origin": "Snow White",
-    "quests": [],
+    "quests": [
+        "snowwhite.story",
+        "snowwhite.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",

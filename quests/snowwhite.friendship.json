@@ -1,0 +1,169 @@
+{
+    "icon": "star",
+    "name": "snowwhite.friendship",
+    "quests": [
+        {
+            "name": "Handle with Care",
+            "id": "snowwhite.friendship.1",
+            "objectives": [
+                "Follow Snow White to the entrance of the Ranch.",
+                "Progress in the \"Ghost Town\" quest to unlock the bridge.",
+                "Gather resources to repair the Careblossom Topiary.\r\n  \u2027 12 Dry Wood.\r\n  \u2027 8 Rusty Hinges.\r\n  \u2027 10 Pebbles.\r\n  \u2027 2 Pyrite.",
+                "Interact with the Careblossom Topiary to repair it.\r\n  \u2027 You'll need 12 Dry Wood, 8 Rusty Hinges, 10 Pebbles, and 2 Pyrite.",
+                "Talk to Snow White.",
+                "Gather resources to build your Blooming Rock Gardens.\r\n  \u2027 5 Pink Crocus.\r\n  \u2027 4 Purple Crocus.\r\n  \u2027 2 Yellow Crocus.\r\n  \u2027 15 Reclaimed Barn Wood.",
+                "Craft 4 Blooming Rock Gardens.",
+                "Place the Blooming Rock Gardens around the Careblossom Topiary.",
+                "Talk to Snow White.",
+                "Dress your horse with Snow White's Saddle",
+                "Take a picture of your horse in Snow White's Saddle.",
+                "Talk to Snow White.",
+                "Care for your horse to summon sparks.\r\n  \u2027 In a single day, feed your horse its three favorite daily meals, brush it, and pet it.",
+                "Check on the Careblossom Topiary near the entrance to the Wishblossom Ranch."
+            ],
+            "rewards": [
+                "Snow White's Saddle",
+                "4 Blooming Rock Garden"
+            ],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "Making Peace",
+            "id": "snowwhite.friendship.2",
+            "objectives": [
+                "Make sure you have Snow White's pie in your Inventory.",
+                "Bring the pie to Cruella.",
+                "Talk to Snow White.",
+                "Gather materials to make the Horse Plushie Friend.\r\n  \u2027 3 Black Silk Flower.\r\n  \u2027 10 Sequin Strands.\r\n  \u2027 3 Measuring-Tape Snail.",
+                "Craft a Horse Plushie Friend for Cruella.",
+                "Place the Horse Plushie Friend near Cruella De Vil's House.",
+                "Talk to Cruella.",
+                "Talk to Snow White.",
+                "Gather Ingredients to cook Natural Cloak Dye.\r\n  \u2027 Beetroot.\r\n  \u2027 Scarlet Kale.\r\n  \u2027 Pincushion Peach.",
+                "Cook the Natural Cloak Dye for Snow White.",
+                "Make sure you have the Natural Cloak Dye in your Inventory.",
+                "Bring the Natural Cloak Dye to Snow White.",
+                "Make sure you have the Fairly Fashionable Cloak in your Inventory.",
+                "Bring the Fairly Fashionable Cloak to Cruella.",
+                "Check in with Snow White.",
+                "Gather materials to repair the Destroyed Fairly Fashionable Cloak.\r\n  \u2027 5 Pearly Barley.\r\n  \u2027 5 Button Mushroom.\r\n  \u2027 20 Pixie Dust.",
+                "Repair the Destroyed Fairly Fashionable Cloak.",
+                "Dress up with the Fairly Fashionable Cloak to cheer up Snow White.",
+                "Talk to Snow White.",
+                "Check on the Careblossom Topiary at the entrance to Wishblossom Ranch."
+            ],
+            "rewards": [
+                "Fairly Fashionable Cloak",
+                "Horse Plushie Friend"
+            ],
+            "dlc": false,
+            "friendship": 4
+        },
+        {
+            "name": "The Copycat",
+            "id": "snowwhite.friendship.3",
+            "objectives": [
+                "Visit Cruella De Vil's House.",
+                "Talk to Cruella in her house.",
+                "Exit Cruella De Vil's House.",
+                "Talk to Snow White about the meeting at Cruella's House.",
+                "Talk to Olaf about Cruella's plans.",
+                "Gather Wire Coat Hangers by fishing outside of ripples in Glamour Gulch",
+                "Bring the Wire Coat Hangers to Olaf.",
+                "Talk to WALL-E about Cruella's plans.",
+                "Mine for Antique Clothes Irons in Glamour Gulch (or grab them from your storage!)",
+                "Bring the Antique Clothes Irons to WALL-E.",
+                "Talk to Snow White about what you learned of Cruella's plans.",
+                "Talk to Snow White inside Cruella De Vil's House.",
+                "Take a picture of one of the mannequins wearing the copycat cloaks in Cruella's House.",
+                "Leave Cruella De Vil's House.",
+                "Confront Cruella about her copycat cloak production.",
+                "Talk to Snow White about the Copycat Horse Blankets.",
+                "Dress up your Wishblossom Horse with the Copycat Horse Blanket.",
+                "Talk to Cruella.",
+                "Your act of kindness for Snow White has made something happen!\r\n  \u2027 Check on the Careblossom Topiary at the entrance to Wishblossom Ranch."
+            ],
+            "rewards": [
+                "Copycat Horse Blanket"
+            ],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "The Wishblossom Fair",
+            "id": "snowwhite.friendship.4",
+            "objectives": [
+                "Bring Wishblossom Fair invitations to competition judges:\r\n  \u2027 Tiana.\r\n  \u2027 Daisy.\r\n  \u2027 Mulan.",
+                "Talk to Snow White.",
+                "Decorate the Ranch grounds with:\r\n  \u2027 3 Wishblossom Fair Table.\r\n  \u2027 8 Alpine Lampposts.",
+                "Dress up in red, blue, or white clothing.",
+                "Talk to Snow White.",
+                "Complete all activities at the Wishblossom Fair:\r\n  \u2027 The Cooking Competition.\r\n  \u2027 The Horse Beauty Contest.\r\n  \u2027 The Riding Demonstration.",
+                "Talk to Snow White.",
+                "Return to the Careblossom Topiary at the entrance to Wishblossom Ranch.",
+                "All of the Careblossoms are dead? Again?!\r\n  \u2027 Talk to Snow White.",
+                "Only one Villager could have done this... Talk to Cruella.",
+                "Talk to Tinker Bell about the ruined Careblossom Topiary.",
+                "Water the Careblossom Topiary.",
+                "Place the Wishblossom Fair Trophy close to the restored Careblossom Topiary.",
+                "Take a picture with the Wishblossom Fair guests.",
+                "Talk to Snow White."
+            ],
+            "rewards": [
+                "Mountainous Adventure Wear",
+                "2 Yellow Alpine Lamppost",
+                "2 White Alpine Lamppost",
+                "2 Purple Alpine Lamppost",
+                "2 Pink Alpine Lamppost",
+                "3 Wishblossom Fair Table",
+                "1 Wishblossom Fair Trophy",
+                "Unlock Flowery Wishblossom Garden recipe"
+            ],
+            "dlc": false,
+            "friendship": 10
+        },
+        {
+            "name": "Hold Your Horses: The Wishing Alps",
+            "id": "snowwhite.friendship.hold.1",
+            "objectives": [
+                "Gather the materials needed to craft the Wishing Alps Stable Repair Kit:\r\n  \u2027 10 Reclaimed Barn Wood.\r\n  \u2027 10 Pixie Dust.\r\n  \u2027 5 Yellow Crocus.\r\n  \u2027 2 Shiny Pyrite.",
+                "Craft the Wishing Alps Stable Repair Kit.",
+                "Use the sign beside the Stables to unlock a new stall with the Wishing Alps Stable Repair Kit."
+            ],
+            "rewards": [
+                "Second Wishblossom Horse stall"
+            ],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "Hold Your Horses: Glamour Gulch",
+            "id": "snowwhite.friendship.hold.2",
+            "objectives": [
+                "Gather the materials needed to craft the Glamour Gulch Stable Repair Kit:\r\n  \u2027 20 Sequin Strands.\r\n  \u2027 20 Pixie Dust.\r\n  \u2027 10 Green Silk Flower.\r\n  \u2027 4 Shiny Jasper.",
+                "Craft the Glamour Gulch Stable Repair Kit.",
+                "Use the sign beside the Stables to unlock a new stall with the Glamour Gulch Stable Repair Kit."
+            ],
+            "rewards": [
+                "Third Wishblossom Horse stall"
+            ],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "Hold Your Horses: Pixie Acres",
+            "id": "snowwhite.friendship.hold.3",
+            "objectives": [
+                "Gather the materials needed to craft the Pixie Acres Stable Repair Kit:\r\n  \u2027 30 Copter Seeds.\r\n  \u2027 30 Pixie Dust.\r\n  \u2027 15 Yellow Lily of the Valley.\r\n  \u2027 6 Shiny Honeycomb Stone.",
+                "Craft the Pixie Acres Stable Repair Kit.",
+                "Use the sign beside the Stables to unlock a new stall with the Stable Repair Kit."
+            ],
+            "rewards": [
+                "Fourth Wishblossom Horse stall"
+            ],
+            "dlc": false,
+            "friendship": 0
+        }
+    ]
+}
