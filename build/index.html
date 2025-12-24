@@ -23,6 +23,7 @@
                 "id": $('input[name=id]').value,
                 "objectives": $('textarea[name=objectives]')
                     .value
+                    .replaceAll("\n- - ", '$NL$  \u2027 \u2027 ')
                     .replaceAll("\n- ", '$NL$  \u2027 ')
                     .replaceAll(/\. \(\d+\)/gi, '')
                     .split('\n')

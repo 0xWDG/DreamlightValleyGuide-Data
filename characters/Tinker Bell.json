@@ -4,7 +4,10 @@
     "icon": "star",
     "name": "Tinker Bell",
     "origin": "Peter Pan",
-    "quests": [],
+    "quests": [
+        "tinkerbell.story",
+        "tinkerbell.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
