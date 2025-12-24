@@ -1,0 +1,129 @@
+{
+    "icon": "star",
+    "name": "cruella.friendship",
+    "quests": [
+        {
+            "name": "Automotive Appeal",
+            "id": "cruella.friendship.1",
+            "objectives": [
+                "Talk to Goofy.",
+                "Dress up like a mechanic:\r\n  \u2027 1 Rustic or Casual Top.\r\n  \u2027 1 Rustic or Casual Pants.\r\n  \u2027 1 Rustic or Casual Shoes.",
+                "Gather resources for an Automobile Mechanic's Toolbox:\r\n  \u2027 20 Antique Clothes Irons.\r\n  \u2027 5 Rusty Hinges.\r\n  \u2027 3 Wire Coat Hangers.\r\n  \u2027 2 Jasper.",
+                "Craft an Automobile Mechanic's Toolbox.",
+                "Make sure the Automobile Mechanic's Toolbox is in your Inventory.",
+                "Bring the Automobile Mechanic's Toolbox to Goofy.",
+                "Mount Maximus and head to Cruella's Car in the Quarry to pick up the Upholstery Fabric scent trail.",
+                "The trail begins in the Quarry!\r\n  \u2027 Track the scent trail from Cruella's Car to the Upholstery Fabric.",
+                "Harvest the Upholstery Fabric.",
+                "Make sure the Upholstery Fabric is in your Inventory.",
+                "Bring the Upholstery Fabric to Goofy.",
+                "Follow Goofy to the Quarry.",
+                "Talk to Goofy.",
+                "Make a fancy display around Cruella's Car.\r\n  \u2027 Purple Furniture.\r\n  \u2027 Modern Furniture.\r\n  \u2027 Traditional Furniture.",
+                "Take a picture of Cruella's Car.",
+                "Talk to Cruella."
+            ],
+            "rewards": [
+                "Cruella's Car"
+            ],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "You're Really Wearing THAT?",
+            "id": "cruella.friendship.2",
+            "objectives": [
+                "Read the recipe for Jellied Salad by activating it from within your Inventory.",
+                "gather the Ingredients needed for a pair of Jellied Salads.\r\n  \u2027 2 Scarlet Kale\r\n  \u2027 2 Jellied Fish. (They lurk in yellow ripples...)",
+                "Cook 2 Jellied Salads.",
+                "Ursula and Cruella are waiting for their snack!",
+                "Bring the Jellied Salad to Ursula.",
+                "Make sure the Jellied Salad is in your Inventory.",
+                "Take a picture of some of the Villagers.\r\n  \u2027 ...Snow White.\r\n  \u2027 Alice.\r\n  \u2027 ...Daisy.",
+                "Ursula and Cruella are waiting to hear about the fashion crimes you witnessed.\r\n  \u2027 Talk to Ursula.",
+                "Dress up fashionably with a:\r\n  \u2027 Modern or Professional Top.\r\n  \u2027 A pair of Modern or Professional Paints.",
+                "Go inside Cruella's House to show her your new outfit.",
+                "Talk to Cruella.",
+                "Search Cruella's House for a clue about who committed the fashion crimes.",
+                "Show the Fishing Lure to Cruella.",
+                "Talk to the potential fashion criminals:\r\n  \u2027 Moana.\r\n  \u2027 Donald Duck.\r\n  \u2027 Kristoff.",
+                "Talk to Cruella.",
+                "Talk to Daisy.",
+                "Gather the resources needed to craft a Photo Backdrop.\r\n  \u2027 10 Beady Soil\r\n  \u2027 5 Antique Clothes Iron\r\n  \u2027 5 Reclaimed Barn Wood",
+                "Craft a Photo Backdrop.",
+                "Make sure the Photo Backdrop is in your Inventory.",
+                "Bring the Photo Backdrop to Cruella.",
+                "Go the the Heart for the photo shoot.",
+                "Find Daisy and Cruella in the Wishblossom Heart and take pictures of them against the Photo Backdrop.",
+                "Talk to Daisy.",
+                "Talk to Cruella."
+            ],
+            "rewards": [
+                "Fashionista Backdrop",
+                "Jellied Salad Recipe"
+            ],
+            "dlc": false,
+            "friendship": 4
+        },
+        {
+            "name": "Stripes Are In This Season",
+            "id": "cruella.friendship.3",
+            "objectives": [
+                "Wear the colors Cruella suggested.\r\n  \u2027 Something pink.\r\n  \u2027 Something orange.",
+                "Talk to Cruella.",
+                "Cruella claims that Ursula stole her fashion sense!\r\n  \u2027 Talk to Ursula to get her side of the story.",
+                "Talk to Tigger.",
+                "Dress up Tigger-style:\r\n  \u2027 Something orange.\r\n  \u2027 Something black.\r\n  \u2027 Something quirky.",
+                "Or... Ignore Tigger's instructions and figure out where Tigger hid Cruella's Fashion Sense.",
+                "Show Tigger's style to other Villagers.\r\n  \u2027 Donald Duck.\r\n  \u2027 Snow White.\r\n  \u2027 Goofy.",
+                "Find Cruella's Fashion Sense buried near a \"sweet\" \"water feature\" in \"Hunny Falls\".",
+                "Show Cruella's Fashion Sense to Tigger.",
+                "Talk to Cruella.",
+                "Gather the resources to craft an Antique British Lamppost.\r\n  \u2027 10 Pixie Dust.\r\n  \u2027 10 Pyrite.\r\n  \u2027 5 Jasper.\r\n  \u2027 5 Fairy Sprinkles.",
+                "Craft an Antique British Lamppost.",
+                "Decorate in Wishblossom Ranch with the Antique British Lamppost.",
+                "Talk to Cruella."
+            ],
+            "rewards": [
+                "Antique British Lamppost"
+            ],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "Headdress to Impress",
+            "id": "cruella.friendship.4",
+            "objectives": [
+                "Will Daisy and Sally take part in the fashion show?\r\n  \u2027 Talk to Daisy to find out.",
+                "Gather the following materials for Sally and Daisy to make their hat:\r\n  \u2027 5 Antique Clothes Iron.\r\n  \u2027 5 White Crocus Flowers.\r\n  \u2027 5 Red Silk Flowers.",
+                "Go to Snow White's House.",
+                "Listen to Cruella and Daisy.",
+                "Make sure the following materials for Sally and Daisy Duck's hat are in your Inventory:\r\n  \u2027 5 Antique Clothes Iron.\r\n  \u2027 5 White Crocus Flowers.\r\n  \u2027 5 Red Silk Flowers.",
+                "Give the hat-making materials to Daisy.",
+                "Talk to Cruella.",
+                "Gather the materials needed to craft a Fashion Show Runway.\r\n  \u2027 5 Grassy Ore.\r\n  \u2027 5 Old Braided Rope.\r\n  \u2027 5 Wire Coat Hanger.\r\n  \u2027 5 Rusty Hinge.",
+                "Craft a Fashion Show Runway.",
+                "Make sure the Fashion Show Runway is in your Inventory.",
+                "Bring the Fashion Show Runway to Cruella.",
+                "Cruella seemed shifty - better check up on Sally and Daisy.\r\n  \u2027 Go into Snow White's House.\r\n  \u2027 Talk to Sally.",
+                "Fish Daisy and Sally's Damaged Hat out of a body of water in the Fortress.",
+                "Make sure that the Damaged Hat is in your Inventory.",
+                "Bring the Damaged Hat to Mirabel.",
+                "Cruella won't be happy to hear that Sally and Daisy got their hat repaired.\r\n  \u2027 Talk to Cruella to tell her that the contest is still on.",
+                "Put together a top-tier outfit using whichever hat you like the most.\r\n  \u2027 Either Cruella's Ornate Derby Hat or Sally's Nightmarish Witch Hat.\r\n  \u2027 Whatever else you think matches.",
+                "Place the Fashion Show Runway in the Wishblossom Ranch.",
+                "Walk the catwalk with your chosen outfit.",
+                "Talk to Cruella."
+            ],
+            "rewards": [
+                "Black, White, and Chic All Over Hat",
+                "Black, White, and Chic All Over Jacket",
+                "Sally's Nightmarish Witch Hat",
+                "Cruella's Ornate Derby Hat",
+                "Fashion Show Runway"
+            ],
+            "dlc": false,
+            "friendship": 10
+        }
+    ]
+}

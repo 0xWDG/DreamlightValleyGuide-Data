@@ -1,0 +1,109 @@
+{
+    "icon": "star",
+    "name": "cruella.story",
+    "quests": [
+        {
+            "name": "The Decay of Fashion",
+            "id": "cruella.story.1",
+            "objectives": [
+                "Return to Wishblossom Ranch.",
+                "Talk to Snow White when you're ready to begin the next part of your adventure in Glamour Gulch.",
+                "Reach Friendship Level 3 with Maximus to be able to leap into Glamour Gulch.\r\n  \u2027 Gain XP with your horses by riding them, jumping obstacles, and doing Valley activities.\r\n  \u2027 Pet, brush, and feed them their favorite items once a day for big XP boosts!",
+                "Talk to Snow White.",
+                "Follow Snow White to the bridge leading to Glamour Gulch.",
+                "Talk to Snow White.",
+                "Cruella seems to have left tire tracks throughout Glamour Gulch! Follow them to try and find her.",
+                "Oh no, the bridge is broken!\r\n  \u2027 Mount Maximus and use shift to gallop towards it and leap across the gap.",
+                "Cruella seems to have left tire tracks throughout Glamour Gulch! Follow them to try and find her.",
+                "The tire tracks lead right to the Quarry...\r\n  \u2027 Explore the Quarry to find a clue to Cruella's location.",
+                "Could that be Cruella's Makeup Kit on the ground?!\r\n  \u2027 Give Maximus a sniff of Cruella's Makeup Kit by interacting with it while riding him.",
+                "Get back on Maximus to track Cruella's scent.",
+                "Follow the scent trail through Glamour Gulch.",
+                "It's Cruella! Talk to her.",
+                "Take pictures of the following features in Glamour Gulch.\r\n  \u2027 Quarry Mine Tracks.\r\n  \u2027 Iron Bridge.\r\n  \u2027 The Lighthouse near the beach.",
+                "Talk to Cruella in the cave near the Quarry.",
+                "Follow Cruella to the Bell Tower.",
+                "Talk to Cruella by the ruins of the Bell Tower.",
+                "Gather the following materials to repair the Bell Tower.\r\n  \u2027 Clear away Dead Wishblossoms to find 20 Pixie Dust.\r\n  \u2027 Forage for 10 Sequin Strands.\r\n  \u2027 Mine for 10 Antique Clothes Irons.\r\n  \u2027 Dig for 10 Beady Soil.\r\n  \u2027 Mine for 5 Jasper.",
+                "Interact with the Bell Tower in the Haute Plateau to begin repairing it.",
+                "Talk to Cruella.",
+                "Read the recipe for Afternoon Tea from within your Inventory.",
+                "Talk to Goofy.",
+                "Gather the Ingredients needed to prepare some Afternoon Tea. Goofy's Caravan should have some seeds you need!\r\n  \u2027 1 Dark Chocolate Coffee Beans.\r\n  \u2027 1 Pearly Barley.\r\n  \u2027 1 Pincushion Peach.\r\n  \u2027 1 Any vegetable.",
+                "Cook up the Afternoon Tea.",
+                "Make sure the Afternoon Tea is in your Inventory.",
+                "Bring the Afternoon Tea to Cruella for evaluation.",
+                "Decorate in Glamour Gulch with the Afternoon Tea Set.",
+                "Have tea with Cruella.",
+                "Talk to Cruella."
+            ],
+            "rewards": [
+                "Scarlet Bell Tower",
+                "Afternoon Tea Recipe",
+                "Afternoon Tea Party"
+            ],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "The De Vil Crash",
+            "id": "cruella.story.2",
+            "objectives": [
+                "Talk to Cruella.",
+                "Dress up according to Cruella's standards.\r\n  \u2027 Chic Equestrian Uniform.",
+                "Talk to Cruella.",
+                "Find each fragment of Cruella's journal:\r\n  \u2027 Near the Quarry entrance on the beach.\r\n  \u2027 At the bottom of the Quarry.\r\n  \u2027 Near a waterfall on the eastern edge of Glamour Gulch at the foot of the Fortress.",
+                "Talk to Cruella at the Quarry.",
+                "Find the resources needed for the Rope and Pulley Repair Kit.\r\n  \u2027 10 Pearly Barley.\r\n  \u2027 10 Beady Soil.\r\n  \u2027 3 Wire Coat Hangers (fish outside of the ripples).\r\n  \u2027 2 Measuring-Tape Snail (fish in Glamour Gulch).",
+                "Craft the Rope and Pulley Repair Kit.",
+                "Almost ready to pull Cruella's Car out of the ditch in the Quarry!\r\n  \u2027 Repair the Rope and Pulley with the Rope and Pulley Repair Kit.",
+                "Talk to Cruella.",
+                "Put the Mod Saddle on your Wishblossom Horse.",
+                "Talk to Cruella.",
+                "Talk to Cruella."
+            ],
+            "rewards": [
+                "Chic Equestrian Uniform",
+                "Mod Saddle"
+            ],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "The Skunk Rebellion",
+            "id": "cruella.story.3",
+            "objectives": [
+                "Talk to Cruella.",
+                "Look for the Crystal Key in the trunk of Cruella's car.",
+                "Hey! The Crystal Key isn't in the car. Cruella lied to you...",
+                "Bring the Seed Samples to Cruella.",
+                "Make sure you have the Seed Samples in your Inventory.",
+                "Talk to \"the dry-cleaning girl\"? Cruella said she's pasty, and wears yellow and blue clothes.",
+                "Gather materials for the skunk houses.\r\n  \u2027 10 Beady Soil.\r\n  \u2027 5 Black Silk Flower.\r\n  \u2027 3 Red Silk Flower.\r\n  \u2027 2 Jasper.",
+                "Craft a house for the skunks.",
+                "Place the Skunk House in Glamour Gulch.",
+                "You've proved yourself to the skunks! Find a flag outside a cave bearing the face of a fashionable skunk.\r\n  \u2027 Snow White said they like to meet in a cave near the eastern border of Glamour Gulch.",
+                "Talk to Professor Mouffette.",
+                "Talk to Snow White.",
+                "Follow Snow White to Cruella's Fortress.",
+                "Replace the lever in the bridge mechanism for Cruella's Fortress.",
+                "Lower the bridge with the lever.",
+                "Enter the Fortress to begin the rebellion!",
+                "Deactivate the barking greyhound statues without getting caught by the mannequins",
+                "Talk to Cruella.",
+                "Place Cruella's House in one of the main areas of Glamour Gulch.",
+                "Unlock Cruella's House.",
+                "Welcome Cruella to the Ranch.",
+                "Talk to Cruella."
+            ],
+            "rewards": [
+                "Crystal Key",
+                "Professor Mouffette",
+                "Unlock  Cruella",
+                "Cruella De Vil's Manor"
+            ],
+            "dlc": false,
+            "friendship": 0
+        }
+    ]
+}
