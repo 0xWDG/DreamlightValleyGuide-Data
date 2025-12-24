@@ -87,6 +87,36 @@
                 "1760 Friendship"
             ],
             "friendship": 10
+        },
+        {
+            "name": "The Pumpkin and the Princess",
+            "id": "fairygodmother.friendship.cinderella",
+            "objectives": [
+                "You found a Lost Shoe. If you bring it to the Fairy Godmother in her House, maybe she could tell you more about it...",
+                "Make sure you have the Lost Shoe with you.",
+                "Gather the Ingredients to craft the Wish Enchantment.\r\n  \u2027 5 Ginger.\r\n  \u2027 5 Gooseberry.\r\n  \u2027 1 Orange Nasturtium.\r\n  \u2027 1 Diamond.",
+                "Craft the Wish Enchantment.",
+                "Use the Wish Enchantment with your Watering Can.",
+                "Meet The Fairy Godmother in her House to discuss what to do next about the Small Spell Pumpkin.",
+                "Plant the Small Spell Pumpkin anywhere in the Valley.",
+                "Water the Small Spell Pumpkin, then harvest it when it's grown. (It will take fifteen minutes to grow.)",
+                "The Spell Pumpkin has vanished! Talk to the Fairy Godmother to find out what to do.",
+                "Go to the Restaurant to see if Remy has the Spell Pumpkin.",
+                "Retrieve the Spell Pumpkin from Remy.",
+                "Show The Fairy Godmother the Spell Pumpkin.",
+                "Place Cinderella's House in Dreamlight Valley.",
+                "Use the Scrooge McDuck Sign to pay for the construction of Cinderella's House.",
+                "Place the Spell Pumpkin close to the Plaza's Wishing well along with the appropriate furniture.\r\n  \u2027 8 Elegant white, yellow, or blue furniture.\r\n  \u2027 1 Spell Pumpkin.",
+                "The spell is working! Interact with the Spell Pumpkin to summon Cinderella.",
+                "Welcome Cinderella back to Dreamlight Valley.",
+                "Check in with the Fairy Godmother to make sure the magic spell is complete."
+            ],
+            "rewards": [
+                "Unlock  Cinderella",
+                "Cinderella's House"
+            ],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }

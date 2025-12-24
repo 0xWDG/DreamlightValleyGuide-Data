@@ -1,0 +1,23 @@
+{
+    "description": "Cinderella is a character from the Disney animated film Cinderella (1950). She can be unlocked after picking up the Lost Shoe in the Plaza, and completing the quest The Pumpkin and the Princess.",
+    "house": "Cinderella's House",
+    "icon": "star",
+    "name": "Cinderella",
+    "origin": "Cinderella",
+    "quests": [
+        "cinderella.friendship"
+    ],
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Velvet Curtain Doorway",
+        "Cinderella Silhouette Motif",
+        "StarCoins 500",
+        "Enchanted Garden Chair",
+        "Button Motif",
+        "StarCoins 1000",
+        "Helping Wing Banner",
+        "Touch of Magic Material",
+        "Silver Pumpkin Necklace\r\nPink Homespun Gown\r\nPink Homespun Gloves\r\nGlass Bow Heels"
+    ]
+}
