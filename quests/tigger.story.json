@@ -1,0 +1,148 @@
+{
+    "icon": "star",
+    "name": "tigger.story",
+    "quests": [
+        {
+            "name": "Bounce Up, Never Down",
+            "id": "tigger.story.1",
+            "objectives": [
+                "Talk to Snow White to let her know about Khan.",
+                "Reach Friendship Level 4 with Khan to clear the way to Pixie Acres.\r\n  \u2027 Gain XP with your horses by riding them, jumping obstacles, and doing activities. Pet, brush, and feed them each day for big XP boosts!",
+                "Talk to Snow White about your friendship with Khan.",
+                "Search the eastern edge of Modish Marsh to find a steel barrier blocking the way to Pixie Acres. Use Khan to kick it down when you're ready to keep exploring!",
+                "Break the steel barrier with Khan to enter Pixie Acres.",
+                "Enter Pixie Acres and explore Sundae Shores to find a new friend.",
+                "Find Tigger in the Hundred-Acre Fields. (Turn left at the waterfalls, then go through the giant hollow log.)",
+                "Talk to Tigger up in the Ginormous Flowering Tree.",
+                "Talk a picture of the word HELP for Tinker Bell.",
+                "Explore Pixie Acres to gather potion Ingredients for Tinker Bell:\r\n  \u2027 Pick 2 Yellow Lily of the Valley.\r\n  \u2027 Pick 2 Blue Lily of the Valley.\r\n  \u2027 Pick 2 Pink Lily of the Valley.\r\n  \u2027 Gather 2 Bonsai Star Fruit.",
+                "Bring the potion Ingredients to Tinker Bell.",
+                "Use your Pickaxe to break each HELP near the Ginormous Flowering Tree in Pixie Acresand collect the three letter Hs",
+                "Interact with the Ginormous Flowering Tree to build a ladder out of letter Hs.",
+                "Tigger isn't giving you any more words to build with. Talk to Snow White for ideas to make Tigger talk.",
+                "Cook Honey Pancakes for Tigger.",
+                "Make sure you have Honey Pancakes in your Inventory for Tigger.",
+                "Bring Honey Pancakes to Tigger up the the Ginormous Flowering Tree.",
+                "Use your Pickaxe to break each HONEY in the lower Hundred-Acre Fields (past the hollow log) and gather the letter Hs",
+                "Interact with the Ginormous Flowering Tree to complete the letter ladder.",
+                "Talk to Tigger to make sure he's okay."
+            ],
+            "rewards": [
+                "Honey Pancakes Recipe"
+            ],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "The BallOOn Family",
+            "id": "tigger.story.2",
+            "objectives": [
+                "Tigger seems to have new plans. Talk to him.",
+                "Follow Tigger to the Sundae Shores beach to find the red balloon.",
+                "Ask Tigger about the balloon and the rock.",
+                "Break the red balloon free from the rock trapping it.",
+                "Red BallOOn is on the run. Catch him!",
+                "Chase Red BallOOn and catch him.",
+                "Make sure you have Red BallOOn in your Inventory.",
+                "Bring Red BallOOn to Tigger.",
+                "Find Sister BallOOn. (She was last seen past the waterfalls and butterflies in the Hundred-Acre Fields. Don't let any decoys fool you!)",
+                "Find Mama BallOOn. (She was last seen uphill from the beach in Sundae Shores. Don't be fooled by imitations!)",
+                "Make sure Mama and Sister BallOOn are safe, then bring them to Tigger.\r\n  \u2027 Make sure you have Sister BallOOn in your Inventory.\r\n  \u2027 Make sure you have Mama BallOOn in your Inventory.",
+                "Bring Mama and Sister BallOOn to Tigger.",
+                "Papa BallOOn is still missing! Follow Tigger to find him.",
+                "Talk to Tigger.",
+                "Fish Papa BallOOn out of the pond near the waterfalls.",
+                "Make sure you have Papa BallOOn in your Inventory.",
+                "Bring Deflated Papa BallOOn to Tigger.",
+                "Papa BallOOn needs helium, stat! Gather resources to fix the Broken Helium Tank:\r\n  \u2027 Broken Helium Tank.\r\n  \u2027 Gather 6 Copter Seeds.\r\n  \u2027 Dig for 12 Giant Acorns.\r\n  \u2027 Fish outside of ripples for 2 Balloon Fish.",
+                "Repair the Broken Helium Tank.",
+                "Make sure the Helium Tank is in your Inventory.",
+                "Bring the Helium Tank to Tigger.",
+                "Place the BallOOn Family BOuquet anywhere in the Wishblossom Mountains.",
+                "Take a picture with the BallOOn Family BOuquet.",
+                "Talk to Tigger."
+            ],
+            "rewards": [
+                "BallOOn Family BOuquet"
+            ],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "Fun! Fun! Fun!",
+            "id": "tigger.story.3",
+            "objectives": [
+                "Talk to Tigger to learn about his biggest wish yet.",
+                "Ask Tigger about STOP.",
+                "Follow Tigger towards Pixie Flats to see what he wished for.",
+                "Explore Pixie Acres to gather STOP-breaking potion Ingredients for Tigger:\r\n  \u2027 Mine for 12 Grassy Ore.\r\n  \u2027 Gather 4 Pixie Dust.\r\n  \u2027 Fish for 4 Honey Coral.\r\n  \u2027 Gather 4 Fairy Sprinkles.",
+                "Bring Tigger the Pickaxe Potion Ingredients.",
+                "Use your even-more-powerful Pickaxe to break the STOP barrier and enter Pixie Flats",
+                "Follow Tigger to see his fantabulous wished-for creation in Pixie Flats.",
+                "Win enough tickets to claim the Crystal Key.\r\n  \u2027 Win 10 tickets from each game:\r\n  \u2027 \u2027 Test Your Strength Tickets.\r\n  \u2027 \u2027 Catch the Lucky Lily Pad Tickets.\r\n  \u2027 \u2027 Solve the Puzzle Tickets.",
+                "Exchange your tickets at the prize stand.",
+                "Talk to Tigger about what happens next.",
+                "Place Tigger's House anywhere in the Wishblossom Mountains.",
+                "Unlock Tigger's House by interacting with the Scrooge McDuck Sign next to it.",
+                "Welcome Tigger!",
+                "Talk with Tigger about his wish."
+            ],
+            "rewards": [
+                "Crystal Key",
+                "Unlock Tigger",
+                "Tigger's House"
+            ],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "Test Your Strength",
+            "id": "tigger.story.4",
+            "objectives": [
+                "Go check out the Strength-Testing Flower.",
+                "The Strength-Testing Flower seems incomplete. Talk to Tigger about it.",
+                "Find the missing Bell. (Check near some tall white puffy dandelions.)",
+                "Install the Bell on the Strength-Testing Flower.",
+                "Use your Pickaxe to hit the mark on the Strength-Testing Flower.",
+                "Claim your tickets at the prize stand."
+            ],
+            "rewards": [
+                "Prize Tickets: Test of Strength"
+            ],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "Catch the Lucky Lily Pad",
+            "id": "tigger.story.5",
+            "objectives": [
+                "Go visit the lily pad pond.",
+                "Fish for the winning lily pad.",
+                "Claim your tickets at the prize stand."
+            ],
+            "rewards": [
+                "Prize Tickets: Lily Pad"
+            ],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "Solve the Puzzle",
+            "id": "tigger.story.6",
+            "objectives": [
+                "Find the Matching Puzzle.",
+                "Gather resources to repair the Broken Tile:\r\n  \u2027 Find the Broken Tile. (Did you check behind the fence?)\r\n  \u2027 Pick 8 Hardwood.\r\n  \u2027 Mine for 2 Honeycomb Stone.\r\n  \u2027 Dig for 10 Clay.",
+                "Craft the Repaired Tile.",
+                "Make sure the Repaired Tile is in your Inventory.",
+                "Place the Repaired Tile in the Matching Puzzle.",
+                "Solve the Matching Puzzle.",
+                "Claim your tickets at the prize stand."
+            ],
+            "rewards": [
+                "Prize Tickets: Puzzle"
+            ],
+            "dlc": false,
+            "friendship": 0
+        }
+    ]
+}
