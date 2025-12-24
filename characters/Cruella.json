@@ -4,7 +4,10 @@
     "icon": "star",
     "name": "Cruella",
     "origin": "One Hundred and One Dalmatians",
-    "quests": [],
+    "quests": [
+        "cruella.story",
+        "cruella.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
