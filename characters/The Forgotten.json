@@ -7,5 +7,17 @@
     "quests": [
         "theforgotten.friendship"
     ],
-    "rewards": []
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Nefarious Chandelier",
+        "Touch of Magic Material",
+        "StarCoins 500",
+        "Nefarious Night Thorn Rug",
+        "Thorny Circle Motif",
+        "StarCoins 1000",
+        "Nefarious Table",
+        "Embossed Diamond Motif",
+        "Shadow Wings"
+    ]
 }
