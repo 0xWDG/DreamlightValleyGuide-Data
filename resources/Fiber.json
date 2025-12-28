@@ -1,0 +1,18 @@
+{
+    "activity": [
+        "crafting"
+    ],
+    "description": "Fiber is a refined material which can be crafted using a crafting station.",
+    "found": [
+        "Kristoff's Stall"
+    ],
+    "ingredients": [
+        "Fiber"
+    ],
+    "gift": 25,
+    "icon": "star",
+    "name": "Fiber",
+    "price": 6,
+    "sellPrice": 6,
+    "rarity": "none"
+}

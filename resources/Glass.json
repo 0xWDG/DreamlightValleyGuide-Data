@@ -1,0 +1,19 @@
+{
+    "activity": [
+        "crafting"
+    ],
+    "description": "Glass is a refined material which can be crafted using a crafting station.",
+    "found": [
+        "Kristoff's Stall"
+    ],
+    "ingredients": [
+        "Sand (5)",
+        "Coal Ore"
+    ],
+    "gift": 25,
+    "icon": "star",
+    "name": "Glass",
+    "price": 50,
+    "sellPrice": 50,
+    "rarity": "none"
+}
