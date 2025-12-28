@@ -1,0 +1,20 @@
+{
+    "activity": [
+        "crafting"
+    ],
+    "description": "Empty Vial is a refined material which can be crafted using a crafting station.",
+    "found": [
+        "Kristoff's Stall"
+    ],
+    "ingredients": [
+        "Glass",
+        "Glass",
+        "Glass"
+    ],
+    "gift": 25,
+    "icon": "star",
+    "name": "Empty Vial",
+    "price": 180,
+    "sellPrice": 180,
+    "rarity": "none"
+}

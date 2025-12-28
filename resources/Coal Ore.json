@@ -1,7 +1,8 @@
 {
     "activity": [
         "foraging",
-        "mining"
+        "mining",
+        "crafting"
     ],
     "description": "Coal is a must to keep any oven running warm.",
     "found": [
@@ -11,6 +12,8 @@
     "icon": "star",
     "maxSpawns": 0,
     "name": "Coal Ore",
+    "gift": 25,
     "price": 5,
+    "sellPrice": 5,
     "rarity": "none"
 }

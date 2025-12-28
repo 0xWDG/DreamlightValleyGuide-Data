@@ -1,0 +1,22 @@
+{
+    "activity": [
+        "crafting"
+    ],
+    "description": "_crafting_ is a refined material which can be crafted using a crafting station.",
+    "found": [
+        "Kristoff's Stall"
+    ],
+    "ingredients": [
+        "Clay",
+        "Clay",
+        "Clay",
+        "Clay",
+        "Clay"
+    ],
+    "gift": 25,
+    "icon": "star",
+    "name": "_crafting_",
+    "price": 120,
+    "sellPrice": 120,
+    "rarity": "none"
+}

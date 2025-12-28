@@ -1,0 +1,22 @@
+{
+    "activity": [
+        "crafting"
+    ],
+    "description": "Fabric is a refined material which can be crafted using a crafting station.",
+    "found": [
+        "Kristoff's Stall"
+    ],
+    "ingredients": [
+        "Cotton",
+        "Cotton",
+        "Cotton",
+        "Cotton",
+        "Cotton"
+    ],
+    "gift": 25,
+    "icon": "star",
+    "name": "Fabric",
+    "price": 220,
+    "sellPrice": 220,
+    "rarity": "none"
+}
