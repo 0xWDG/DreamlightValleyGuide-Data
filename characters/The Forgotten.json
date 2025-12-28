@@ -5,7 +5,8 @@
     "name": "The Forgotten",
     "origin": "Dreamlight Valley",
     "quests": [
-        "theforgotten.friendship"
+        "theforgotten.friendship",
+        "theforgotten.story"
     ],
     "rewards": [
         "",
