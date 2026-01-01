@@ -1,0 +1,19 @@
+{
+    "activity": [
+        "crafting"
+    ],
+    "description": "Mechanical Parts is a refined material which can be crafted using a crafting station.",
+    "found": [
+        "Kristoff's Stall (Eternity Isle)"
+    ],
+    "ingredients": [
+        "Brass Ingot",
+        "Copper Ingot"
+    ],
+    "gift": 25,
+    "icon": "star",
+    "name": "Mechanical Parts",
+    "price": 275,
+    "sellPrice": 275,
+    "rarity": "none"
+}

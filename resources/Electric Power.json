@@ -1,0 +1,17 @@
+{
+    "activity": [
+        "crafting"
+    ],
+    "description": "Electric Power is a refined material which can be crafted using a crafting station.",
+    "found": [],
+    "ingredients": [
+        "Copper",
+        "Electric Eel (3)"
+    ],
+    "gift": 25,
+    "icon": "star",
+    "name": "Electric Power",
+    "price": 0,
+    "sellPrice": 3700,
+    "rarity": "none"
+}
