@@ -1,0 +1,16 @@
+{
+    "activity": [
+        "currency",
+    ],
+    "description": "Daisy Coins are rewarded from completing daily design challenges in the Boutique for Daisy. Challenges can be completed once every 24 hours, and Daisy Coins can be exchanged for Touch of Magic base clothing and furniture by speaking to Daisy in the Boutique.",
+    "found": [
+        "the Boutique"
+    ],
+    "gift": 0,
+    "icon": "DaisyCoin",
+    "name": "Daisy Coin",
+    "price": 0,
+    "sellPrice": 0,
+    "daisyCoin": 1,
+    "rarity": "none"
+}

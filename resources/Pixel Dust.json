@@ -1,0 +1,16 @@
+{
+    "activity": [
+        "currency"
+    ],
+    "description": "Pixel Dust is a currency awarded from submissions to DreamSnaps. Each submission will reward Pixel Dust when it's score is calculated.",
+    "found": [
+        "DreamSnaps"
+    ],
+    "gift": 0,
+    "icon": "PixelDust",
+    "name": "Pixel Dust",
+    "price": 0,
+    "sellPrice": 0,
+    "pixelDust": 1,
+    "rarity": "none"
+}

@@ -1,0 +1,20 @@
+{
+    "activity": [
+        "currency",
+        "crafting"
+    ],
+    "description": "Dreamlight is a currency used to unlock new biomes in the Valley and realms inside the Dream Castle. It can be earned by completing objectives in the Dreamlight Menu, or crafted.",
+    "found": [
+        "Dreamlight Duties"
+    ],
+    "ingredients": [
+        "Dream Shard (10)",
+    ],
+    "gift": 0,
+    "icon": "star",
+    "name": "Dreamlight",
+    "price": 0,
+    "sellPrice": 0,
+    "dreamlight": 250,
+    "rarity": "none"
+}
