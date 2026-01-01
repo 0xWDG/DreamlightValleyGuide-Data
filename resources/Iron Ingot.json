@@ -1,0 +1,19 @@
+{
+    "activity": [
+        "crafting"
+    ],
+    "description": "Iron Ingot is a refined material which can be crafted using a crafting station.",
+    "found": [
+        "Kristoff's Stall"
+    ],
+    "ingredients": [
+        "Iron Ore (5)",
+        "Coal Ore"
+    ],
+    "gift": 25,
+    "icon": "star",
+    "name": "Iron Ingot",
+    "price": 150,
+    "sellPrice": 70,
+    "rarity": "none"
+}

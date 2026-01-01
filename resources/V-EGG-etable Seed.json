@@ -1,0 +1,21 @@
+{
+    "activity": [
+        "crafting"
+    ],
+    "description": "V-EGG-etable Seed is a refined material which can be crafted using a crafting station.",
+    "found": [],
+    "ingredients": [
+        "Egg-cellent Fruit",
+        "Wild Spring Egg",
+        "Dreamlight (20)"
+    ],
+    "gift": 10,
+    "icon": "egg",
+    "name": "V-EGG-etable Seed",
+    "price": 0,
+    "sellPrice": 50,
+    "rarity": "none",
+    "grow": "30min",
+    "growTime": 30,
+    "waterings": 2
+}

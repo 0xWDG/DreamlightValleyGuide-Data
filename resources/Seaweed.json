@@ -1,15 +1,19 @@
 {
     "activity": [
-        "fishing"
+        "fishing",
+        "crafting"
     ],
     "description": "A type of algae found in the ocean.",
-    "energy": 25,
     "found": [
         "Everywhere"
+    ],
+    "ingredients": [
+        "Red Algae"
     ],
     "icon": "star",
     "name": "Seaweed",
     "price": 20,
+    "energy": 25,
     "rarity": "None",
     "type": "Vegetables"
 }

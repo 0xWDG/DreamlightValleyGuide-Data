@@ -1,12 +1,17 @@
 {
     "activity": [
         "foraging",
-        "digging"
+        "digging",
+        "crafting"
     ],
     "description": "The opposite of a Dream Shard. Be careful.",
     "found": [
         "Digging Sparkling Holes"
     ],
+    "ingredients": [
+        "Onyx"
+    ],
+    "gift": 25,
     "icon": "\ud83d\udc8e",
     "maxSpawns": 0,
     "name": "Night Shard",
