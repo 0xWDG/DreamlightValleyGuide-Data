@@ -1,10 +1,11 @@
 {
     "code": "CENTENNIAL",
-    "description": "Centennial Celebration",
+    "description": "The code was shared inside a Disney Centennial celebration post shared on social media by the developers.",
     "icon": "star",
     "items": [
         "Melting Platinum Minnie Mouse Ears",
         "15x Iron Ingot"
     ],
-    "validy": "2023-03-31"
+    "validy": "2023-03-31",
+    "available": "2023-02-23"
 }

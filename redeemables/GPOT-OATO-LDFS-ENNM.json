@@ -1,9 +1,10 @@
 {
     "code": "GPOT-OATO-LDFS-ENNM",
-    "description": "Golden Potato",
+    "description": "The code was shared hidden inside a screenshot shared in the official discord game news channel by the developers on October 24, 2022. The code is very faintly written on the top of the bench in the image - and is quite easy to miss.\r\nThe developers gave a hint to the discord server moderators about the code and they managed to find and solve it. It wasn't discovered/shared by the rest of players in the discord until November 24, 2022 - a month after the image had been shared.",
     "icon": "star",
     "items": [
         "Golden Potato"
     ],
-    "validy": "2023-06-07"
+    "validy": "2023-06-07",
+    "available": "2022-10-24"
 }

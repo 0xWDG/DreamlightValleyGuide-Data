@@ -1,9 +1,12 @@
 {
     "code": "LOADING26",
-    "description": "?",
+    "description": "This code was shared by Gameloft in a social media post.",
     "icon": "star",
     "items": [
-        "?"
+        "Yule Log (25)",
+        "Moonstone (250)",
+        "Star Coins (2500)"
     ],
-    "validy": "2026-01-01"
+    "validy": "2026-01-01",
+    "available": "2025-12-04"
 }
