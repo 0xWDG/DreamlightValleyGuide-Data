@@ -12,5 +12,6 @@
     "icon": "star",
     "name": "Four-Leaf Clover",
     "sellPrice": 350,
-    "rarity": "none"
+    "rarity": "none",
+    "price": 0
 }
