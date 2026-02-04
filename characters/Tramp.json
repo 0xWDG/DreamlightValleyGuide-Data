@@ -1,0 +1,21 @@
+{
+    "description": "Tramp is a character from the Disney animated film Lady and the Tramp",
+    "house": "Tramp's doghouse?",
+    "icon": "star",
+    "name": "Tramp",
+    "origin": "Lady and the Tramp",
+    "quests": [],
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Wallpaper / Furniture / Clothing",
+        "Design Motif",
+        "StarCoins 500",
+        "Furniture",
+        "Design Motif",
+        "StarCoins 1000",
+        "Furniture",
+        "Design Motif",
+        "Clothing"
+    ]
+}
