@@ -10,5 +10,6 @@
     "maxSpawns": 1,
     "name": "Beige Tale Cone Flower",
     "price": 57,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

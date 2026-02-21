@@ -9,9 +9,10 @@
         "Dazzle Beach",
         "Removing Small and Large Sea Debris"
     ],
-    "icon": "\ud83c\udfd6\ufe0f",
+    "icon": "🏖️",
     "maxSpawns": 0,
     "name": "Sand",
     "price": 8,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

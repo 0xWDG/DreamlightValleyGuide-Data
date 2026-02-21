@@ -6,9 +6,10 @@
     "found": [
         "Everywhere"
     ],
-    "icon": "\ud83c\udf3f",
+    "icon": "🌿",
     "maxSpawns": 0,
     "name": "Red Algae",
     "price": 150,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

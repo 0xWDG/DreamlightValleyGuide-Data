@@ -6,9 +6,10 @@
     "found": [
         "Forgotten Lands"
     ],
-    "icon": "\ud83e\udeb5",
+    "icon": "🪵",
     "maxSpawns": 0,
     "name": "Dark Wood",
     "price": 50,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

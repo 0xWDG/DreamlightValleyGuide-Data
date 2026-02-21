@@ -10,5 +10,6 @@
     "maxSpawns": 3,
     "name": "Blue Tale Cone Flower",
     "price": 29,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

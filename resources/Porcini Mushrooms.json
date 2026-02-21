@@ -18,5 +18,6 @@
     "description": "The perfect ingredient in any panini or creamy soup. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

@@ -12,5 +12,6 @@
     "name": "Electric Eel",
     "price": 1025,
     "rarity": "Gold",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

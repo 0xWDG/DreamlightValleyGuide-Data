@@ -12,5 +12,6 @@
     "name": "Blue Demon Snippet",
     "price": 20,
     "rarity": "none",
-    "type": "Demons"
+    "type": "Demons",
+    "image": true
 }

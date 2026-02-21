@@ -11,5 +11,6 @@
     "icon": "star",
     "name": "Shiny Spinel",
     "price": 1800,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

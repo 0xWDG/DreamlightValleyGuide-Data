@@ -10,5 +10,6 @@
     "icon": "star",
     "name": "Evergem",
     "price": 300,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

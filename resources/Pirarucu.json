@@ -14,5 +14,6 @@
     "name": "Pirarucu",
     "price": 625,
     "rarity": "Blue",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

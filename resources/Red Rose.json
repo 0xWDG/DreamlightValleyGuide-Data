@@ -2,7 +2,7 @@
     "activity": [
         "foraging"
     ],
-    "description": "This vivid bloom is a lovely gift \u2014 as long as you watch out for its thorns.",
+    "description": "This vivid bloom is a lovely gift — as long as you watch out for its thorns.",
     "found": [
         "Beast's Greenhouse"
     ],
@@ -10,5 +10,6 @@
     "maxSpawns": 0,
     "name": "Red Rose",
     "price": 35,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

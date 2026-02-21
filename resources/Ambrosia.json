@@ -18,5 +18,6 @@
     "description": "The nectar of the gods. This would probably make a dessert extra sweet. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

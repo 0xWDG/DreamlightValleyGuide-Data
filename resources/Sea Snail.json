@@ -12,5 +12,6 @@
     "name": "Sea Snail",
     "price": 250,
     "rarity": "Blue, White",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": true
 }

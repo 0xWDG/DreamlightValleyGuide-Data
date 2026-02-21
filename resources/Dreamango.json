@@ -18,5 +18,6 @@
     "description": "One bite and you'll want to punch yourself to make sure you aren't dreaming. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

@@ -15,5 +15,6 @@
     "name": "Mechanical Parts",
     "price": 275,
     "sellPrice": 275,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

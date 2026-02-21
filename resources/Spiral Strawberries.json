@@ -18,5 +18,6 @@
     "description": "In Everafter, even the strawberries are a bit twisted. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

@@ -6,9 +6,10 @@
     "found": [
         "Forest of Valor"
     ],
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 4,
     "name": "Purple Bell Flower",
     "price": 30,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

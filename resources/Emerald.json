@@ -11,5 +11,6 @@
     "icon": "star",
     "name": "Emerald",
     "price": 325,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

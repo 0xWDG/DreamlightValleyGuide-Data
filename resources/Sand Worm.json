@@ -13,5 +13,6 @@
     "name": "Sand Worm",
     "price": 800,
     "rarity": "Gold",
-    "type": "Dairy and Oil"
+    "type": "Dairy and Oil",
+    "image": true
 }

@@ -11,5 +11,6 @@
     "maxSpawns": 4,
     "name": "Slate Gray Rose",
     "price": 35,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

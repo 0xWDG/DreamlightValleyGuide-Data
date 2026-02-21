@@ -11,5 +11,6 @@
     "maxSpawns": 4,
     "name": "Purple Fly Trap",
     "price": 35,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

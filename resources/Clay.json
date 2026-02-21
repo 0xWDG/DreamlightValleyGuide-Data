@@ -9,9 +9,10 @@
         "Sunlit Plateau",
         "Forgotten Lands"
     ],
-    "icon": "\ud83e\uddf1",
+    "icon": "🧱",
     "maxSpawns": 0,
     "name": "Clay",
     "price": 20,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

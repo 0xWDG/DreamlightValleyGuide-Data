@@ -15,5 +15,6 @@
     "instructions": "Wait until they have finished circling your head.",
     "favoriteFood": [
         "5-Star Meals"
-    ]
+    ],
+    "image": true
 }

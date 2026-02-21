@@ -11,5 +11,6 @@
     "maxSpawns": 2,
     "name": "Black Glass-Like Flowers",
     "price": 57,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

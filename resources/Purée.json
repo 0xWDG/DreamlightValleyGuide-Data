@@ -11,11 +11,12 @@
     "ingredients": [
         "Potato"
     ],
-    "name": "Pur\u00e9e",
+    "name": "Purée",
     "price": 151,
     "rarity": "none",
     "stars": 1,
     "type": "Appetizers",
     "biome": "Dreamlight Valley",
-    "sellPrice": 151
+    "sellPrice": 151,
+    "image": true
 }

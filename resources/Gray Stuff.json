@@ -2,7 +2,7 @@
     "activity": [
         "recipes"
     ],
-    "description": "Try it -  \u2027 it's delicious!",
+    "description": "Try it -  ‧ it's delicious!",
     "energy": 976,
     "found": [
         "Dreamlight Valley"
@@ -19,5 +19,6 @@
     "stars": 3,
     "type": "Desserts",
     "biome": "Dreamlight Valley",
-    "sellPrice": 87
+    "sellPrice": 87,
+    "image": true
 }

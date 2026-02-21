@@ -25,5 +25,6 @@
     "growthTime": 20,
     "water": 1,
     "maxSpawns": 3,
-    "gift": 0
+    "gift": 0,
+    "image": true
 }

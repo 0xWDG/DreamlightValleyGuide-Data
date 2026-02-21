@@ -9,9 +9,10 @@
         "Forgotten Lands",
         "Vitalys Mine"
     ],
-    "icon": "\ud83d\udfe1",
+    "icon": "🟡",
     "maxSpawns": 0,
     "name": "Gold Nugget",
     "price": 20,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

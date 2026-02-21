@@ -10,5 +10,6 @@
     "maxSpawns": 0,
     "name": "Pixel Shard",
     "price": 0,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

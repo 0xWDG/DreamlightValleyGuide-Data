@@ -11,9 +11,10 @@
         "Glade of Trust",
         "Removing Small and Large Tree Stumps"
     ],
-    "icon": "\ud83e\udeb5",
+    "icon": "🪵",
     "maxSpawns": 0,
     "name": "Softwood",
     "price": 5,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

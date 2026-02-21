@@ -12,5 +12,6 @@
     "price": 0,
     "sellPrice": 0,
     "pixelDust": 1,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

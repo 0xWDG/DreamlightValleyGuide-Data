@@ -20,5 +20,6 @@
     "description": "A yellow fruit that can be picked from trees. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

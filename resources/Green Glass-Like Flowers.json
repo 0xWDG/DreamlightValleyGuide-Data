@@ -11,5 +11,6 @@
     "maxSpawns": 4,
     "name": "Green Glass-Like Flowers",
     "price": 29,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

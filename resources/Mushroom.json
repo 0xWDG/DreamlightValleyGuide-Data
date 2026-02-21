@@ -18,5 +18,6 @@
     "description": "A fungus that can be found in swamplands. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

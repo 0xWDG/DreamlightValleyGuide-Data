@@ -18,5 +18,6 @@
     "description": "These tea leaves emit a strong smoky and forestry aroma, promising a fortifying beverage. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

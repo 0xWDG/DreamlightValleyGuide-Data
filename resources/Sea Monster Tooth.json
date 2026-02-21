@@ -7,9 +7,10 @@
         "Everafter"
     ],
     "giftReward": 0,
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 0,
     "name": "Sea Monster Tooth",
     "price": 550,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

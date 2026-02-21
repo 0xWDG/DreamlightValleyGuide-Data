@@ -7,9 +7,10 @@
         "Forgotten Lands",
         "Feeding Sunbirds liked foods"
     ],
-    "icon": "\ud83d\udc8e",
+    "icon": "💎",
     "maxSpawns": 0,
     "name": "Crystal",
     "price": 30,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

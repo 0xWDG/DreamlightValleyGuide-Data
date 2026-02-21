@@ -11,5 +11,6 @@
     "name": "Purple Frog Snippet",
     "price": 10,
     "rarity": "none",
-    "type": "Frogs"
+    "type": "Frogs",
+    "image": true
 }

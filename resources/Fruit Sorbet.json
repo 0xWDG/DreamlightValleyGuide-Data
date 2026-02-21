@@ -18,5 +18,6 @@
     "stars": 2,
     "type": "Desserts",
     "biome": "Dreamlight Valley",
-    "sellPrice": 206
+    "sellPrice": 206,
+    "image": true
 }

@@ -12,9 +12,10 @@
         "Onyx"
     ],
     "gift": 25,
-    "icon": "\ud83d\udc8e",
+    "icon": "💎",
     "maxSpawns": 0,
     "name": "Night Shard",
     "price": 0,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

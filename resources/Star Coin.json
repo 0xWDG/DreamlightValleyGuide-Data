@@ -14,5 +14,6 @@
     "name": "Star Coin",
     "price": 1,
     "sellPrice": 1,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

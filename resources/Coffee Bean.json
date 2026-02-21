@@ -18,5 +18,6 @@
     "description": "A medium roast, with rich, full-bodied chocolate flavor and a subtle hint of hazelnut. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

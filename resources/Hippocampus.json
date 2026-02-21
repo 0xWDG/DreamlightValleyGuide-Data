@@ -11,5 +11,6 @@
     "name": "Hippocampus",
     "price": 800,
     "rarity": "White, Blue",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": true
 }

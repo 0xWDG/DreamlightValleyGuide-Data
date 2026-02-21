@@ -6,9 +6,10 @@
     "found": [
         "Forest of Valor"
     ],
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 4,
     "name": "Blue Star Lily",
     "price": 30,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

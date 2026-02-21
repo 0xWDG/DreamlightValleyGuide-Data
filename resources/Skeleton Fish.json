@@ -13,5 +13,6 @@
     "name": "Skeleton Fish",
     "price": 100,
     "rarity": "White, Blue (Pink)",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

@@ -18,5 +18,6 @@
     "description": "The perfect ingredient for a cold treat on a hot day. Available at Chez Remy. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

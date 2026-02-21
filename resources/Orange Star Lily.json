@@ -6,9 +6,10 @@
     "found": [
         "Forest of Valor"
     ],
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 3,
     "name": "Orange Star Lily",
     "price": 43,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

@@ -15,5 +15,6 @@
     "name": "Iron Ingot",
     "price": 150,
     "sellPrice": 70,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

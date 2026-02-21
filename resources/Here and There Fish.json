@@ -17,5 +17,6 @@
     "name": "Here and There Fish",
     "price": 2000,
     "rarity": "None, White",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

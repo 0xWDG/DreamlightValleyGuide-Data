@@ -1,6 +1,6 @@
 {
     "name": "Salt-Baked Sea Wolf",
-    "type": "Entr\u00e9es",
+    "type": "Entrées",
     "icon": "star",
     "found": [
         "Storybook Vale"
@@ -18,5 +18,6 @@
     "activity": [
         "recipes"
     ],
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

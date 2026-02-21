@@ -14,5 +14,6 @@
     "name": "Perch",
     "price": 80,
     "rarity": "Blue, White",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

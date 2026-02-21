@@ -1,5 +1,5 @@
 {
-    "name": "Past\u00e9is de Nata",
+    "name": "Pastéis de Nata",
     "type": "Desserts",
     "icon": "star",
     "found": [
@@ -20,5 +20,6 @@
     "activity": [
         "recipes"
     ],
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

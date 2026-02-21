@@ -11,5 +11,6 @@
     "icon": "star",
     "name": "Shiny Alexandrite",
     "price": 1400,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

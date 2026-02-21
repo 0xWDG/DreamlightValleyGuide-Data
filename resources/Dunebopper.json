@@ -11,5 +11,6 @@
     "name": "Dunebopper",
     "price": 550,
     "rarity": "Blue",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

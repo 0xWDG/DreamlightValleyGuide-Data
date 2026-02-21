@@ -11,5 +11,6 @@
     "maxSpawns": 3,
     "name": "White Rose",
     "price": 52,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

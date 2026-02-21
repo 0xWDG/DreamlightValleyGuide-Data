@@ -11,5 +11,6 @@
     "maxSpawns": 6,
     "name": "Pink Cactus Flower",
     "price": 25,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

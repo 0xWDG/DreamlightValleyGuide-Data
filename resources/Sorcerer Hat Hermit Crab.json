@@ -11,5 +11,6 @@
     "name": "Sorcerer Hat Hermit Crab",
     "price": 800,
     "rarity": "Gold",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": true
 }

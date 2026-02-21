@@ -11,5 +11,6 @@
     "icon": "star",
     "name": "Shiny Emerald",
     "price": 1300,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

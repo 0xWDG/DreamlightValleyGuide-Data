@@ -20,5 +20,6 @@
     "buyPrice": 0,
     "growthTime": 0,
     "water": 0,
-    "yield": 5
+    "yield": 5,
+    "image": true
 }

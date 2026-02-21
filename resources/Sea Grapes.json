@@ -19,5 +19,6 @@
     "water": 0,
     "yield": 1,
     "maxSpawns": 1,
-    "gift": 0
+    "gift": 0,
+    "image": true
 }

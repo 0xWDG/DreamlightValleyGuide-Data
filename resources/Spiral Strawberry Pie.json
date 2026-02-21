@@ -19,5 +19,6 @@
     "activity": [
         "recipes"
     ],
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

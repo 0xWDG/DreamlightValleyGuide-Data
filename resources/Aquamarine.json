@@ -11,5 +11,6 @@
     "icon": "star",
     "name": "Aquamarine",
     "price": 250,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

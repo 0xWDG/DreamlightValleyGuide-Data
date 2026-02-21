@@ -6,9 +6,10 @@
     "found": [
         "Sunlit Plateau"
     ],
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 2,
     "name": "Yellow Bromeliad",
     "price": 73,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

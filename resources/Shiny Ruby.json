@@ -10,5 +10,6 @@
     "icon": "star",
     "name": "Shiny Ruby",
     "price": 1400,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

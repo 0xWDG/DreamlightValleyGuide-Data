@@ -1,5 +1,5 @@
 {
-    "name": "Saut\u00e9ed Porcini",
+    "name": "Sautéed Porcini",
     "type": "Appetizers",
     "icon": "star",
     "found": [
@@ -18,5 +18,6 @@
     "activity": [
         "recipes"
     ],
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

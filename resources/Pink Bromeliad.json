@@ -6,9 +6,10 @@
     "found": [
         "Sunlit Plateau"
     ],
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 6,
     "name": "Pink Bromeliad",
     "price": 27,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

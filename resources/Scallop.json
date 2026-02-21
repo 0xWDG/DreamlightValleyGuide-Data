@@ -19,5 +19,6 @@
     "buyPrice": 0,
     "growthTime": 0,
     "water": 0,
-    "yield": 4
+    "yield": 4,
+    "image": true
 }

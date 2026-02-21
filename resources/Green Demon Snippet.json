@@ -11,5 +11,6 @@
     "name": "Green Demon Snippet",
     "price": 10,
     "rarity": "none",
-    "type": "Demons"
+    "type": "Demons",
+    "image": true
 }

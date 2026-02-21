@@ -11,5 +11,6 @@
     "name": "Pike",
     "price": 800,
     "rarity": "Gold",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

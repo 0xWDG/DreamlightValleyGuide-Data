@@ -11,5 +11,6 @@
     "maxSpawns": 3,
     "name": "White Cactus Flower",
     "price": 32,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

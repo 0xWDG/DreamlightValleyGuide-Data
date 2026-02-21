@@ -14,11 +14,12 @@
         "Butter",
         "Lemon"
     ],
-    "name": "Sole Meuni\u00e8re",
+    "name": "Sole Meunière",
     "price": 637,
     "rarity": "none",
     "stars": 4,
-    "type": "Entr\u00e9es",
+    "type": "Entrées",
     "biome": "Dreamlight Valley",
-    "sellPrice": 637
+    "sellPrice": 637,
+    "image": true
 }

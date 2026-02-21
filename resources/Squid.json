@@ -13,5 +13,6 @@
     "name": "Squid",
     "price": 500,
     "rarity": "Blue, White",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": true
 }

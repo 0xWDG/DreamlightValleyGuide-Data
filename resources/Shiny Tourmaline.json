@@ -11,5 +11,6 @@
     "icon": "star",
     "name": "Shiny Tourmaline",
     "price": 1680,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

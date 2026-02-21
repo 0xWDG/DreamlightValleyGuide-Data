@@ -10,5 +10,6 @@
     "icon": "star",
     "name": "Shiny Topaz",
     "price": 960,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

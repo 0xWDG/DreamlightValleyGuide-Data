@@ -18,5 +18,6 @@
     "description": "An earthy spice that will make your kitchen smell amazing. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

@@ -18,5 +18,6 @@
     "description": "When ground into an oil, this is an essential part of any Mediterranean dish. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

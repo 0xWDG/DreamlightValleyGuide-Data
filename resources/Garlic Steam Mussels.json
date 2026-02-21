@@ -1,6 +1,6 @@
 {
     "name": "Garlic Steam Mussels",
-    "type": "Entr\u00e9es",
+    "type": "Entrées",
     "icon": "star",
     "found": [
         "Storybook Vale"
@@ -14,10 +14,11 @@
         "Onion",
         "Garlic"
     ],
-    "description": "Steamed mussels saut\u00e9ed with some garlic and spices. \n",
+    "description": "Steamed mussels sautéed with some garlic and spices. \n",
     "stars": 3,
     "activity": [
         "recipes"
     ],
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

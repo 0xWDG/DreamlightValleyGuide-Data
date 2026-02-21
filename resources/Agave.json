@@ -18,5 +18,6 @@
     "description": "A plant with a golden nectar that adds a bit of sweetness to any dish. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

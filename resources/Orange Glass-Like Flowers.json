@@ -11,5 +11,6 @@
     "maxSpawns": 3,
     "name": "Orange Glass-Like Flowers",
     "price": 41,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

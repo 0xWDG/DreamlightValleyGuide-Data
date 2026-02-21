@@ -11,5 +11,6 @@
     "maxSpawns": 4,
     "name": "Orange Pitcher Plant",
     "price": 39,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

@@ -18,5 +18,6 @@
     "description": "These tiny pears grow inside closed blooms, which only open when the pears are perfectly ripe. This leaves the ground below covered in golden, feathery pollen. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

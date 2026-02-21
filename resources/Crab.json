@@ -11,5 +11,6 @@
     "name": "Crab",
     "price": 600,
     "rarity": "Blue, White",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": true
 }

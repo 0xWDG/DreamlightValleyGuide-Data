@@ -18,5 +18,6 @@
     "description": "This magically grown venison tastes spectacular as a main course or as part of a stew. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

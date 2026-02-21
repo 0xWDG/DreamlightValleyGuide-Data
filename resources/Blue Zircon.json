@@ -10,5 +10,6 @@
     "icon": "star",
     "name": "Blue Zircon",
     "price": 500,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

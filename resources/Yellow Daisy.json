@@ -6,9 +6,10 @@
     "found": [
         "Peaceful Meadow"
     ],
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 6,
     "name": "Yellow Daisy",
     "price": 20,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

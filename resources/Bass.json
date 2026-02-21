@@ -16,5 +16,6 @@
     "name": "Bass",
     "price": 25,
     "rarity": "None or White",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

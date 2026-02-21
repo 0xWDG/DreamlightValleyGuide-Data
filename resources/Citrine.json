@@ -11,5 +11,6 @@
     "icon": "star",
     "name": "Citrine",
     "price": 380,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

@@ -1,6 +1,6 @@
 {
     "name": "Wheat Porridge",
-    "type": "Entr\u00e9es",
+    "type": "Entrées",
     "icon": "star",
     "found": [
         "Dreamlight Valley"
@@ -18,5 +18,6 @@
     "activity": [
         "recipes"
     ],
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

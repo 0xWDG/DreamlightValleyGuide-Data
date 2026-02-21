@@ -10,5 +10,6 @@
     "icon": "star",
     "name": "Shiny Magma",
     "price": 1600,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

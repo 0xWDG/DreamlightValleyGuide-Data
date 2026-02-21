@@ -11,5 +11,6 @@
     "maxSpawns": 6,
     "name": "Blue Glass-Like Flowers",
     "price": 23,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

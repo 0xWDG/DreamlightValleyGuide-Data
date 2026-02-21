@@ -12,11 +12,12 @@
         "Mushroom",
         "Butter"
     ],
-    "name": "Saut\u00e9ed Mushrooms",
+    "name": "Sautéed Mushrooms",
     "price": 286,
     "rarity": "none",
     "stars": 2,
     "type": "Appetizers",
     "biome": "Dreamlight Valley",
-    "sellPrice": 286
+    "sellPrice": 286,
+    "image": true
 }

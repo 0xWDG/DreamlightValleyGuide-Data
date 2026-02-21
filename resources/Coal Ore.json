@@ -15,5 +15,6 @@
     "gift": 25,
     "price": 5,
     "sellPrice": 5,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

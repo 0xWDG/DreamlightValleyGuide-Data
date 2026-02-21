@@ -14,5 +14,6 @@
     "name": "Salmon",
     "price": 150,
     "rarity": "White, Blue",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

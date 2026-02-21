@@ -17,5 +17,6 @@
     "name": "Bones",
     "price": 20,
     "rarity": "none",
-    "type": "Crafting Materials"
+    "type": "Crafting Materials",
+    "image": true
 }

@@ -9,9 +9,10 @@
         "Frosted Heights",
         "Forgotten Lands"
     ],
-    "icon": "\ud83e\udeb5",
+    "icon": "🪵",
     "maxSpawns": 0,
     "name": "Dry Wood",
     "price": 25,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

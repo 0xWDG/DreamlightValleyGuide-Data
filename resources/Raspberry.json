@@ -19,5 +19,6 @@
     "description": "A tart berry that you can pick from bushes. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

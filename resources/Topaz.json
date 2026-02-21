@@ -10,5 +10,6 @@
     "icon": "star",
     "name": "Topaz",
     "price": 240,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

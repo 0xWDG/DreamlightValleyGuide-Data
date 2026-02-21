@@ -11,5 +11,6 @@
     "name": "Blue Bird Snippet",
     "price": 10,
     "rarity": "none",
-    "type": "Birds"
+    "type": "Birds",
+    "image": true
 }

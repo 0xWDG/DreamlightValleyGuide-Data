@@ -11,5 +11,6 @@
     "maxSpawns": 3,
     "name": "Pink Luminescent Flower",
     "price": 36,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

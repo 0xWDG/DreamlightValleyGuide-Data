@@ -10,5 +10,6 @@
     "icon": "star",
     "name": "Star Sapphire",
     "price": 450,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

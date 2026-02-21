@@ -12,5 +12,6 @@
     "name": "Plastic Scrap",
     "price": 10,
     "rarity": "None",
-    "type": "Crafting Materials"
+    "type": "Crafting Materials",
+    "image": true
 }

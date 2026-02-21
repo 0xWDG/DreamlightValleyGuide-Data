@@ -10,5 +10,6 @@
     "icon": "star",
     "name": "Shiny Diamond",
     "price": 2400,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

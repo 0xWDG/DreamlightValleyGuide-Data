@@ -11,5 +11,6 @@
     "name": "Swordfish",
     "price": 700,
     "rarity": "Gold",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

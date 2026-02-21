@@ -16,5 +16,6 @@
     "price": 0,
     "sellPrice": 0,
     "dreamlight": 250,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

@@ -6,9 +6,10 @@
     "found": [
         "Harvesting Crops"
     ],
-    "icon": "\ud83c\udf31",
+    "icon": "🌱",
     "maxSpawns": 0,
     "name": "Rich Soil",
     "price": 25,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

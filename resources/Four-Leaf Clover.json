@@ -13,5 +13,6 @@
     "name": "Four-Leaf Clover",
     "sellPrice": 350,
     "rarity": "none",
-    "price": 0
+    "price": 0,
+    "image": true
 }

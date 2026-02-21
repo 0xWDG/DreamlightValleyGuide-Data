@@ -13,5 +13,6 @@
     "icon": "star",
     "name": "Garnet",
     "price": 160,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

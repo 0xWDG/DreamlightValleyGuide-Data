@@ -11,5 +11,6 @@
     "name": "Catfish",
     "price": 550,
     "rarity": "Gold",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

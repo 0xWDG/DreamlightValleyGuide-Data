@@ -11,5 +11,6 @@
     "name": "White Sturgeon",
     "price": 1250,
     "rarity": "Gold",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

@@ -20,5 +20,6 @@
     "sellPrice": 25,
     "buyPrice": 50,
     "water": 0,
-    "yield": 3
+    "yield": 3,
+    "image": true
 }

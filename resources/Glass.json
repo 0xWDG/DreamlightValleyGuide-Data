@@ -15,5 +15,6 @@
     "name": "Glass",
     "price": 50,
     "sellPrice": 50,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

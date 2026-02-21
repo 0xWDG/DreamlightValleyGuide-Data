@@ -11,9 +11,10 @@
         "Forgotten Lands",
         "Vitalys Mine"
     ],
-    "icon": "\u2692\ufe0f",
+    "icon": "⚒️",
     "maxSpawns": 0,
     "name": "Iron Ore",
     "price": 10,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

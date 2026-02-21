@@ -10,5 +10,6 @@
     "maxSpawns": 0,
     "name": "Oasis Glass",
     "price": 20,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

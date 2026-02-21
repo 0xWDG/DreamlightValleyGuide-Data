@@ -8,9 +8,10 @@
         "Everafter"
     ],
     "giftReward": 0,
-    "icon": "\ud83e\udea8",
+    "icon": "🪨",
     "maxSpawns": 0,
     "name": "Mud",
     "price": 10,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

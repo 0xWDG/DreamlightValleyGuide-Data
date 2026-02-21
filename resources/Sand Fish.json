@@ -13,5 +13,6 @@
     "name": "Sand Fish",
     "price": 30,
     "rarity": "None, White",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

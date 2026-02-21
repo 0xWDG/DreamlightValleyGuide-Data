@@ -8,9 +8,10 @@
         "Kristoff's Stall",
         "Removing Small and Big Rocks"
     ],
-    "icon": "\ud83e\udea8",
+    "icon": "🪨",
     "maxSpawns": 0,
     "name": "Stone",
     "price": 2,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

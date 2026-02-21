@@ -18,5 +18,6 @@
     "description": "Can be found on Dazzle Beach. Go and explore! \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

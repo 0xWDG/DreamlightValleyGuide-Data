@@ -6,9 +6,10 @@
     "found": [
         "Plaza"
     ],
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 4,
     "name": "Blue Falling Penstemon",
     "price": 23,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

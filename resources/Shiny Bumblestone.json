@@ -10,5 +10,6 @@
     "icon": "star",
     "name": "Shiny Bumblestone",
     "price": 1600,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

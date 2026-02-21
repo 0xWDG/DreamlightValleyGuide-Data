@@ -18,5 +18,6 @@
     "description": "You can eat them raw, but they're also a great addition to any latte. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

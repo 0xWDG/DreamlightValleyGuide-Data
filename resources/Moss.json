@@ -8,9 +8,10 @@
         "Removing Mossy Logs"
     ],
     "giftReward": 0,
-    "icon": "\ud83e\udea8",
+    "icon": "🪨",
     "maxSpawns": 0,
     "name": "Moss",
     "price": 70,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

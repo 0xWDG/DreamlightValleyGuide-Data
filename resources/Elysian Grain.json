@@ -18,5 +18,6 @@
     "description": "A very fortunate golden grain. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

@@ -18,5 +18,6 @@
     "description": "These berries are filled with sweet juices -- if you can get past the spines. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

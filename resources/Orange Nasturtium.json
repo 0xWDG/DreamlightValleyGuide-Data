@@ -6,9 +6,10 @@
     "found": [
         "Forgotten Lands"
     ],
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 3,
     "name": "Orange Nasturtium",
     "price": 60,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

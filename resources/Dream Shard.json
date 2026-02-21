@@ -8,9 +8,10 @@
         "Feeding Critters",
         "Removing Night Thorns"
     ],
-    "icon": "\ud83d\udc8e",
+    "icon": "💎",
     "maxSpawns": 0,
     "name": "Dream Shard",
     "price": 0,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

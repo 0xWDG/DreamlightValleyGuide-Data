@@ -14,5 +14,6 @@
     "name": "Fiber",
     "price": 6,
     "sellPrice": 6,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

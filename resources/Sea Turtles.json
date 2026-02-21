@@ -15,5 +15,6 @@
     "instructions": "Wait until they are ready to come out of their shells. You can also drop food, like seaweed, in front of them and they will come out immediately.",
     "favoriteFood": [
         "Seaweed"
-    ]
+    ],
+    "image": true
 }

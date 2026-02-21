@@ -10,9 +10,10 @@
         "Sunlit Plateau",
         "Forgotten Lands"
     ],
-    "icon": "\ud83e\udea8",
+    "icon": "🪨",
     "maxSpawns": 0,
     "name": "Pebbles",
     "price": 10,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

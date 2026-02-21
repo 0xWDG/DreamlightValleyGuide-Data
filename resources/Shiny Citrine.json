@@ -11,5 +11,6 @@
     "icon": "star",
     "name": "Shiny Citrine",
     "price": 1520,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

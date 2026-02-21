@@ -18,5 +18,6 @@
     "description": "Whether it's grilled, on macaroni, or paired with pepperoni on a pizza...nothing improves a dish like a little bit of cheese. Available at Chez Remy. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

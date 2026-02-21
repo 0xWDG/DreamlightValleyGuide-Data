@@ -6,9 +6,10 @@
     "found": [
         "Peaceful Meadow"
     ],
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 4,
     "name": "Purple Rising Penstemon",
     "price": 25,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

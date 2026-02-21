@@ -2,7 +2,7 @@
     "activity": [
         "recipes"
     ],
-    "description": "Grilled mackerel steak. The perfect choice if you can\u2019t decide between sweet and sour.",
+    "description": "Grilled mackerel steak. The perfect choice if you can’t decide between sweet and sour.",
     "energy": 2,
     "found": [
         "Dreamlight Valley"
@@ -17,7 +17,8 @@
     "price": 702,
     "rarity": "none",
     "stars": 3,
-    "type": "Entr\u00e9es",
+    "type": "Entrées",
     "biome": "Dreamlight Valley",
-    "sellPrice": 702
+    "sellPrice": 702,
+    "image": true
 }

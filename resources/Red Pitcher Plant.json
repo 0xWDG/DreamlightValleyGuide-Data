@@ -11,5 +11,6 @@
     "maxSpawns": 2,
     "name": "Red Pitcher Plant",
     "price": 82,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

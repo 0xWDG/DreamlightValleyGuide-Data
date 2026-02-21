@@ -18,5 +18,6 @@
     "description": "It's not as musical as it looks \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

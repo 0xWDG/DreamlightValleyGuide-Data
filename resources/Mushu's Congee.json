@@ -19,7 +19,8 @@
     "price": 657,
     "rarity": "none",
     "stars": 5,
-    "type": "Entr\u00e9es",
+    "type": "Entrées",
     "biome": "Dreamlight Valley",
-    "sellPrice": 657
+    "sellPrice": 657,
+    "image": true
 }

@@ -19,5 +19,6 @@
     "description": "A sweet fruit that can be picked from bushes. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

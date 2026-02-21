@@ -12,5 +12,6 @@
     "name": "Carp",
     "price": 400,
     "rarity": "Blue, White",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

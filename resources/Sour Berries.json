@@ -18,5 +18,6 @@
     "description": "Who says candy doesn't come from bushes? \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

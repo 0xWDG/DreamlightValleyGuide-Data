@@ -17,5 +17,6 @@
     "rarity": "none",
     "grow": "30min",
     "growTime": 30,
-    "waterings": 2
+    "waterings": 2,
+    "image": true
 }

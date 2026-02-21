@@ -19,5 +19,6 @@
     "description": "A tart citrus fruit that you can pick from trees. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

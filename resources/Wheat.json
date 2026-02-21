@@ -28,5 +28,6 @@
     "energy": 19,
     "growthTime": 1,
     "maxSpawns": 2,
-    "gift": 0
+    "gift": 0,
+    "image": true
 }

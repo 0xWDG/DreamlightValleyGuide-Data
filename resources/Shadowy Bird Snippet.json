@@ -5,12 +5,13 @@
     "description": "Birds: Shadowy Bird Snippet",
     "found": [
         "The Library of Lore",
-	"The Bind"
+        "The Bind"
     ],
     "icon": "star",
     "maxSpawns": 0,
     "name": "Shadowy Bird Snippet",
     "price": 20,
     "rarity": "none",
-    "type": "Birds"
+    "type": "Birds",
+    "image": true
 }

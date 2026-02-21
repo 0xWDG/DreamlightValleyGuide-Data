@@ -11,5 +11,6 @@
     "name": "Scales",
     "price": 10,
     "rarity": "None",
-    "type": "Crafting Materials"
+    "type": "Crafting Materials",
+    "image": true
 }

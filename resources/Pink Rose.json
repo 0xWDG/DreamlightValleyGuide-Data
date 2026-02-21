@@ -11,5 +11,6 @@
     "maxSpawns": 2,
     "name": "Pink Rose",
     "price": 73,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

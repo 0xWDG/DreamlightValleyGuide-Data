@@ -6,9 +6,10 @@
     "found": [
         "Forest of Valor"
     ],
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 2,
     "name": "White Bell Flower",
     "price": 60,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

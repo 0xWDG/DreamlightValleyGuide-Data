@@ -11,9 +11,10 @@
         "Frosted Heights",
         "Removing Large Tree Stumps"
     ],
-    "icon": "\ud83e\udeb5",
+    "icon": "🪵",
     "maxSpawns": 0,
     "name": "Hardwood",
     "price": 10,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

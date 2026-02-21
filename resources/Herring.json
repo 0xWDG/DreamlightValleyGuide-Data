@@ -12,5 +12,6 @@
     "name": "Herring",
     "price": 65,
     "rarity": "White",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

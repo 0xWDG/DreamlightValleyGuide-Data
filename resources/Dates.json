@@ -18,5 +18,6 @@
     "description": "It's a date! Wait, no, not that kind of date. The kind you eat! \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

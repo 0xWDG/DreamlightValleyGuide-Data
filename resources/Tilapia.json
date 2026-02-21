@@ -12,5 +12,6 @@
     "name": "Tilapia",
     "price": 600,
     "rarity": "Blue, White",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

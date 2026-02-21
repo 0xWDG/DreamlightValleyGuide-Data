@@ -11,5 +11,6 @@
     "name": "Green Reward Chest",
     "price": 0,
     "rarity": "none",
-    "timeToSpawn": 24
+    "timeToSpawn": 24,
+    "image": true
 }

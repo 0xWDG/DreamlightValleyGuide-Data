@@ -16,5 +16,6 @@
     "name": "Brass Ingot",
     "price": 135,
     "sellPrice": 135,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

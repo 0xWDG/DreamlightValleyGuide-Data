@@ -11,5 +11,6 @@
     "name": "Prisma Shrimp",
     "price": 1100,
     "rarity": "Gold",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": true
 }

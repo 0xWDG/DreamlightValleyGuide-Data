@@ -14,5 +14,6 @@
     "name": "Fabric",
     "price": 220,
     "sellPrice": 220,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

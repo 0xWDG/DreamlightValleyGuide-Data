@@ -7,9 +7,10 @@
         "Wild Tangle"
     ],
     "giftReward": 25,
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 0,
     "name": "Amber",
     "price": 30,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

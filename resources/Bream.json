@@ -11,5 +11,6 @@
     "name": "Bream",
     "price": 280,
     "rarity": "Blue",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

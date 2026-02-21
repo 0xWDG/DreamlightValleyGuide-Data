@@ -18,5 +18,6 @@
     "description": "With a little butter dolloped on top, eating these won't feel like eating your vegetables. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

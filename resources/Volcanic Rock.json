@@ -8,9 +8,10 @@
         "Mythopia"
     ],
     "gift": 0,
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 0,
     "name": "Volcanic Rock",
     "price": 30,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

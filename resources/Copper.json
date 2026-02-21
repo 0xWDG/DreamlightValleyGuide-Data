@@ -12,5 +12,6 @@
     "maxSpawns": 0,
     "name": "Copper",
     "price": 15,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

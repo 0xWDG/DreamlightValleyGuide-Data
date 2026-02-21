@@ -11,5 +11,6 @@
     "name": "Fugu",
     "price": 900,
     "rarity": "Gold",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

@@ -21,5 +21,6 @@
     "growthTime": 40,
     "water": 0,
     "yield": 3,
-    "gift": 0
+    "gift": 0,
+    "image": true
 }

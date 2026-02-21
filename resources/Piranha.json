@@ -11,5 +11,6 @@
     "name": "Piranha",
     "price": 1300,
     "rarity": "Gold",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

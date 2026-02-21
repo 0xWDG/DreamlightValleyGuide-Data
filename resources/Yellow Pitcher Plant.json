@@ -11,5 +11,6 @@
     "maxSpawns": 6,
     "name": "Yellow Pitcher Plant",
     "price": 29,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

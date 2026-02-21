@@ -11,5 +11,6 @@
     "maxSpawns": 6,
     "name": "Crimson Eternal Poppies",
     "price": 27,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

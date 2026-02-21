@@ -11,5 +11,6 @@
     "name": "Green Bird Snippet",
     "price": 30,
     "rarity": "none",
-    "type": "Birds"
+    "type": "Birds",
+    "image": true
 }

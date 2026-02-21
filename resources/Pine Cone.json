@@ -7,9 +7,10 @@
         "The Bind"
     ],
     "giftReward": 0,
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 0,
     "name": "Pine Cone",
     "price": 80,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

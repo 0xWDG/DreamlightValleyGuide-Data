@@ -19,5 +19,6 @@
     "description": "A flavorful bean you can pick from trees. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

@@ -6,9 +6,10 @@
     "found": [
         "Forest of Valor"
     ],
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 6,
     "name": "Red Bell Flower",
     "price": 23,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

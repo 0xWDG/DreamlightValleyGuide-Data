@@ -18,5 +18,6 @@
     "description": "A mix of green tea leaves and dried jasmine flowers just waiting for some \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

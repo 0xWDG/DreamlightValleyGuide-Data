@@ -13,5 +13,6 @@
     "name": "Scorpion",
     "price": 425,
     "rarity": "Blue (Pink)",
-    "type": "Dairy and Oil"
+    "type": "Dairy and Oil",
+    "image": true
 }

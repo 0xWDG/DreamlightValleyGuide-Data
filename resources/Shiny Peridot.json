@@ -11,5 +11,6 @@
     "icon": "star",
     "name": "Shiny Peridot",
     "price": 800,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

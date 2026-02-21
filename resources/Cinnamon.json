@@ -18,5 +18,6 @@
     "description": "A dash of this can make it feel like autumn all year long. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

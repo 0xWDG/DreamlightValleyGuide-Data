@@ -13,5 +13,6 @@
     "name": "Tuna",
     "price": 95,
     "rarity": "White, Blue",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

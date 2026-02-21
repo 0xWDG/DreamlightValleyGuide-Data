@@ -12,5 +12,6 @@
     "name": "Shad",
     "price": 60,
     "rarity": "White",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

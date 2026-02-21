@@ -14,5 +14,6 @@
     "name": "Brick",
     "price": 120,
     "sellPrice": 120,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

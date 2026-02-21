@@ -14,11 +14,12 @@
         "Milk",
         "Egg"
     ],
-    "name": "Bu\u00f1uelos",
+    "name": "Buñuelos",
     "price": 948,
     "rarity": "none",
     "stars": 4,
     "type": "Appetizers",
     "biome": "Dreamlight Valley",
-    "sellPrice": 948
+    "sellPrice": 948,
+    "image": true
 }

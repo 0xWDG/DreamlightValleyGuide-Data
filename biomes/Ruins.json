@@ -3,5 +3,6 @@
     "characters": [],
     "description": "The Ruins are a Location. It is a specific region of the Forgotten Lands. The Pedestals used in the Ursula Level 10 Friendship quest \"A Deal with Ursula\" are found in this location.",
     "icon": "star",
-    "name": "Ruins"
+    "name": "Ruins",
+    "price": 0
 }

@@ -18,5 +18,6 @@
     "description": "Tangy and creamy, there are near-limitless culinary options for yogurt. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

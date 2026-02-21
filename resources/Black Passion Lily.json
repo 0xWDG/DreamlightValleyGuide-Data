@@ -6,9 +6,10 @@
     "found": [
         "Frosted Heights"
     ],
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 2,
     "name": "Black Passion Lily",
     "price": 79,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

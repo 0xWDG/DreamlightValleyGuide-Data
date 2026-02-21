@@ -10,5 +10,6 @@
     "icon": "star",
     "name": "Shiny Blue Zircon",
     "price": 2000,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

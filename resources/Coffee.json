@@ -17,5 +17,6 @@
     "stars": 1,
     "type": "Appetizers",
     "biome": "Dreamlight Valley",
-    "sellPrice": 43
+    "sellPrice": 43,
+    "image": true
 }

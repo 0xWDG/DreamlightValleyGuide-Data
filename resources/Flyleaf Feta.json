@@ -18,5 +18,6 @@
     "description": "This literary cheese can often be found on the inside cover of other cheese-books. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

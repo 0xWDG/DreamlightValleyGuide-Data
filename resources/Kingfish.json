@@ -11,5 +11,6 @@
     "name": "Kingfish",
     "price": 450,
     "rarity": "Blue",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

@@ -18,5 +18,6 @@
     "description": "This is an apple suitable for a banquet on Mount Olympus. Just make sure that Hera, Athena, and Aphrodite don't fight over it. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

@@ -13,5 +13,6 @@
     "icon": "star",
     "name": "Peridot",
     "price": 200,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

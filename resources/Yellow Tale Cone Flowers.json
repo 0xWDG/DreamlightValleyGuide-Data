@@ -10,5 +10,6 @@
     "maxSpawns": 4,
     "name": "Yellow Tale Cone Flowers",
     "price": 23,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

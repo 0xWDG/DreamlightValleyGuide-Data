@@ -11,5 +11,6 @@
     "maxSpawns": 2,
     "name": "Purple Cactus Flower",
     "price": 65,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

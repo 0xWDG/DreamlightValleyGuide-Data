@@ -18,5 +18,6 @@
     "description": "A dash of this will make your latte extra cozy. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

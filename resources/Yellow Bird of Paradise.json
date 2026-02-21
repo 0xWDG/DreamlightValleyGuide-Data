@@ -11,5 +11,6 @@
     "maxSpawns": 2,
     "name": "Yellow Bird of Paradise",
     "price": 41,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

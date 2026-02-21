@@ -13,5 +13,6 @@
     "name": "Rainbow Trout",
     "price": 50,
     "rarity": "White",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

@@ -18,5 +18,6 @@
     "description": "This fruit tastes faintly of cinnamon and brown sugar when ripe. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

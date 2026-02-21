@@ -11,5 +11,6 @@
     "icon": "star",
     "name": "Jade",
     "price": 250,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

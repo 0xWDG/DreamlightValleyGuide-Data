@@ -11,5 +11,6 @@
     "maxSpawns": 4,
     "name": "White Bird of Paradise",
     "price": 23,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

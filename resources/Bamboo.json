@@ -18,5 +18,6 @@
     "description": "Whether you need to build a house or add a bit of crunch to a salad, bamboo has you covered. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

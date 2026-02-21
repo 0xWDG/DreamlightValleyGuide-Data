@@ -2,7 +2,7 @@
     "activity": [
         "recipes"
     ],
-    "description": "A bowl of vegetable soup -  \u2027 served ice cold!",
+    "description": "A bowl of vegetable soup -  ‧ served ice cold!",
     "energy": 688,
     "found": [
         "Dreamlight Valley"
@@ -20,5 +20,6 @@
     "stars": 4,
     "type": "Appetizers",
     "biome": "Dreamlight Valley",
-    "sellPrice": 548
+    "sellPrice": 548,
+    "image": true
 }

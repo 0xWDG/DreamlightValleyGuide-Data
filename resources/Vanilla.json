@@ -18,5 +18,6 @@
     "description": "A spice that grows wild throughout the Valley. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

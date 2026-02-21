@@ -18,5 +18,6 @@
     "description": "If you're looking to add a bit of zap to your dish, this is sure to do it. (Careful: risk of electrocution.) \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

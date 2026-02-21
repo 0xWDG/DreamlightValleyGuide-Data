@@ -11,5 +11,6 @@
     "maxSpawns": 4,
     "name": "Yellow Cactus Flower",
     "price": 46,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

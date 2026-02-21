@@ -12,5 +12,6 @@
     "name": "Pink Frog Snippet",
     "price": 20,
     "rarity": "none",
-    "type": "Frogs"
+    "type": "Frogs",
+    "image": true
 }

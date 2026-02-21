@@ -15,5 +15,6 @@
     "instructions": "Stop when they have their heads up. Go when they have their heads down. Repeat until they lay on their bellies. Approach them carefully to start the game.",
     "favoriteFood": [
         "Lobster"
-    ]
+    ],
+    "image": true
 }

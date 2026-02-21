@@ -11,5 +11,6 @@
     "name": "Stygian Mudskipper",
     "price": 1500,
     "rarity": "Gold",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

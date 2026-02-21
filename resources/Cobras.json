@@ -15,5 +15,6 @@
     "instructions": "Watch their body language, and approach when they are relaxed. When they are alert, with their head up, remain still - otherwise, the Critter will move to a new location.",
     "favoriteFood": [
         "Egg"
-    ]
+    ],
+    "image": true
 }

@@ -12,5 +12,6 @@
     "name": "Robot Fish",
     "price": 625,
     "rarity": "Gold",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

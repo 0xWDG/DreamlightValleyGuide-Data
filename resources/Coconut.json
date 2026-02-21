@@ -19,5 +19,6 @@
     "description": "A hard fruit that can be picked from trees. \n",
     "activity": [
         "ingredient"
-    ]
+    ],
+    "image": true
 }

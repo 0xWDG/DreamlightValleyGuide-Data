@@ -7,9 +7,10 @@
         "Glittering Dunes"
     ],
     "giftReward": 25,
-    "icon": "\ud83e\udea8",
+    "icon": "🪨",
     "maxSpawns": 0,
     "name": "Tin",
     "price": 25,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

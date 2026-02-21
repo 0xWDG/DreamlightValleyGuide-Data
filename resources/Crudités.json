@@ -16,11 +16,12 @@
         "Mushroom",
         "Zucchini"
     ],
-    "name": "Crudit\u00e9s",
+    "name": "Crudités",
     "price": 26,
     "rarity": "none",
     "stars": 1,
     "type": "Appetizers",
     "biome": "Dreamlight Valley",
-    "sellPrice": 26
+    "sellPrice": 26,
+    "image": true
 }

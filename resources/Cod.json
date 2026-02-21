@@ -16,5 +16,6 @@
     "name": "Cod",
     "price": 35,
     "rarity": "None or White",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

@@ -12,5 +12,6 @@
     "name": "Octopus",
     "price": 290,
     "rarity": "Blue, White",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": true
 }

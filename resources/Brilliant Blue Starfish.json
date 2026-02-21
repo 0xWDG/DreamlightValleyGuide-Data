@@ -11,5 +11,6 @@
     "name": "Brilliant Blue Starfish",
     "price": 875,
     "rarity": "Gold",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": true
 }

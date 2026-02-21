@@ -20,5 +20,6 @@
     "growthTime": 0,
     "water": 0,
     "yield": 10,
-    "gift": 0
+    "gift": 0,
+    "image": true
 }

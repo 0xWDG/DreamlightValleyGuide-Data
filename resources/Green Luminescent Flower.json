@@ -11,5 +11,6 @@
     "maxSpawns": 2,
     "name": "Green Luminescent Flower",
     "price": 49,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

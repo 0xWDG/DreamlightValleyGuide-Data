@@ -9,9 +9,10 @@
         "Frosted Heights",
         "Removing Small and Large Ice Blocks"
     ],
-    "icon": "\u2744\ufe0f",
+    "icon": "❄️",
     "maxSpawns": 0,
     "name": "Snowball",
     "price": 25,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

@@ -11,5 +11,6 @@
     "icon": "star",
     "name": "Shiny Garnet",
     "price": 640,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

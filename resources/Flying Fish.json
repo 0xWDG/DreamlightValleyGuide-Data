@@ -11,5 +11,6 @@
     "name": "Flying Fish",
     "price": 60,
     "rarity": "None, White",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

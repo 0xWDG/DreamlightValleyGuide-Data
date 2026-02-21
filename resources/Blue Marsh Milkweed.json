@@ -6,9 +6,10 @@
     "found": [
         "Glade of Trust"
     ],
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 3,
     "name": "Blue Marsh Milkweed",
     "price": 48,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

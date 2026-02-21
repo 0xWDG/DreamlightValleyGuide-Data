@@ -11,5 +11,6 @@
     "name": "Pretty Pink Starfish",
     "price": 875,
     "rarity": "Gold",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": true
 }

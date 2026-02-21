@@ -11,7 +11,7 @@
     ],
     "grow": "25min",
     "growTime": 25,
-    "icon": "\ud83c\udf3e",
+    "icon": "🌾",
     "maxSpawns": 0,
     "name": "Cotton",
     "price": 37,
@@ -20,5 +20,6 @@
     "sellPrice": 37,
     "type": "Crafting Materials",
     "waterings": 4,
-    "yield": 1
+    "yield": 1,
+    "image": true
 }

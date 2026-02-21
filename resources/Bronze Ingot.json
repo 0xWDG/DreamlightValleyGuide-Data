@@ -16,5 +16,6 @@
     "name": "Bronze Ingot",
     "price": 95,
     "sellPrice": 95,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

@@ -6,9 +6,10 @@
     "found": [
         "Dazzle Beach"
     ],
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 4,
     "name": "Blue Hydrangea",
     "price": 28,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

@@ -11,5 +11,6 @@
     "maxSpawns": 4,
     "name": "Blue Luminescent Flower",
     "price": 26,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

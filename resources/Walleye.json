@@ -11,5 +11,6 @@
     "name": "Walleye",
     "price": 1100,
     "rarity": "Gold",
-    "type": "Fish"
+    "type": "Fish",
+    "image": true
 }

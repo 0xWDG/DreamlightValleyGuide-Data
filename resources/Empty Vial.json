@@ -14,5 +14,6 @@
     "name": "Empty Vial",
     "price": 180,
     "sellPrice": 180,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

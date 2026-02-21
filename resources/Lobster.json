@@ -11,5 +11,6 @@
     "name": "Lobster",
     "price": 950,
     "rarity": "Gold",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": true
 }

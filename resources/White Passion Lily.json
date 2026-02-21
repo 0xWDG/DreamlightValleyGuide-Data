@@ -6,9 +6,10 @@
     "found": [
         "Frosted Heights"
     ],
-    "icon": "\ud83c\udf3a",
+    "icon": "🌺",
     "maxSpawns": 4,
     "name": "White Passion Lily",
     "price": 38,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }

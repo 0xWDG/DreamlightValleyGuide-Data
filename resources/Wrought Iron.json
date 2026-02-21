@@ -10,5 +10,6 @@
     "maxSpawns": 0,
     "name": "Wrought Iron",
     "price": 200,
-    "rarity": "none"
+    "rarity": "none",
+    "image": true
 }
