@@ -1,0 +1,15 @@
+{
+    "code": "WLCMJAMESTURNER0326",
+    "description": "A welcome code given to streamers, each with a different text based on the streamer name. Other streamer codes share one redemption - after collecting items from one code the others will no longer redeem.",
+    "icon": "star",
+    "items": [
+        "5x Berry Salad",
+        "10x Stone",
+        "15x Softwoord",
+        "10x Carrot Seed",
+        "10x Wheat Seed",
+        "10x Cabbage Seed"
+    ],
+    "validy": "9999-01-01",
+    "available": "2026-03-19"
+}
