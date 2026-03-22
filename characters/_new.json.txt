@@ -1,0 +1,21 @@
+{
+    "description": "NEW",
+    "house": "NEW House",
+    "icon": "star",
+    "name": "NEW",
+    "origin": "NEW",
+    "quests": [],
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Wallpaper / Furniture / Clothing",
+        "Design Motif",
+        "StarCoins 500",
+        "Furniture",
+        "Design Motif",
+        "StarCoins 1000",
+        "Furniture",
+        "Design Motif",
+        "Clothing"
+    ]
+}
