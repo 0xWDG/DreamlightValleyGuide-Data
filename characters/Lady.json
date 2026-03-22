@@ -4,18 +4,21 @@
     "icon": "star",
     "name": "Lady",
     "origin": "Lady and the Tramp",
-    "quests": [],
+    "quests": [
+        "lady.realm",
+        "lady.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
-        "Wallpaper / Furniture / Clothing",
-        "Design Motif",
+        "Edwardian Wallpaper",
+        "Fabric Ruffles Motif",
         "StarCoins 500",
-        "Furniture",
-        "Design Motif",
+        "Curtained Bay Window",
+        "Floral Pattern Motif",
         "StarCoins 1000",
-        "Furniture",
-        "Design Motif",
-        "Clothing"
+        "Edwardian Marble Fireplace",
+        "Lady Portrait Motif",
+        "Lady Edwardian Hat and Hairstyle\r\nLady Edwardian Ensemble\r\nLady Bow Boots\r\nLady Ruffled Parasol"
     ]
 }

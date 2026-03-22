@@ -3,5 +3,6 @@
     "characters": [],
     "description": "The Elephant Graveyard is a Location. It is a specific region of the Sunlit Plateau decorated with bones and foggy lighting effects. The Giant Skull is originally found in this location.",
     "icon": "star",
-    "name": "Elephant Graveyard"
+    "name": "Elephant Graveyard",
+    "price": 0
 }

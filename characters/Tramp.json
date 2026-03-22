@@ -4,18 +4,21 @@
     "icon": "star",
     "name": "Tramp",
     "origin": "Lady and the Tramp",
-    "quests": [],
+    "quests": [
+        "tramp.realm",
+        "tramp.friendship"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
-        "Wallpaper / Furniture / Clothing",
-        "Design Motif",
+        "Antique Fire Hydrant",
+        "Tramp Patch Motif",
         "StarCoins 500",
-        "Furniture",
-        "Design Motif",
+        "Tramp Barrel Bed",
+        "Ornate Pattern Motif",
         "StarCoins 1000",
-        "Furniture",
-        "Design Motif",
-        "Clothing"
+        "Dogcatcher's Wagon",
+        "Tramp Portrait Motif",
+        "Tramp Button-Down and Trousers\r\nScruffy Cap\r\nTramp Shoes\r\nCharming Tramp Goatee\r\nCharming Tramp Moustache\r\n"
     ]
 }
