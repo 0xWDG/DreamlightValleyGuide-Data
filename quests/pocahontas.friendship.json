@@ -1,0 +1,136 @@
+{
+    "icon": "star",
+    "name": "pocahontas.friendship",
+    "quests": [
+        {
+            "name": "The Three Sisters Garden",
+            "id": "pocahontas.friendship.1",
+            "objectives": [
+                "Gather the materials needed to set up Pocahontas's garden:\r\n  \u2027 12 Soil.\r\n  \u2027 10 Pebbles.\r\n  \u2027 10 Softwood.",
+                "Craft the Garden Setup.",
+                "Make sure you have the Garden Setup in your Inventory.",
+                "Meet Pocahontas inside her Yehakin.",
+                "Bring the Garden Setup to Pocahontas.",
+                "Go to WALL-E's House.",
+                "Talk to WALL-E.",
+                "Gather the following:\r\n  \u2027 5 Seaweed.\r\n  \u2027 2 Shrimp.",
+                "Bring the Seaweed and Shrimp to Pocahontas.",
+                "Dig out the 3 Three Sisters Seeds near the river in the Forest of Valor.",
+                "Bring the Three Sisters Seeds to Pocahontas.",
+                "Gather the following Ingredients:\r\n  \u2027 Plant the 3 Three Sisters Seeds and harvest after 5 minutes.\r\n  \u2027 3 Onion.\r\n  \u2027 3 Any spice.",
+                "Cook the 3 Succotash.",
+                "Make sure the 3 Succotash is in your Inventory.",
+                "Bring the 3 Succotash to Pocahontas.",
+                "Place the Powhatan Picnic in the Valley.",
+                "Gather together with Pocahontas and WALL-E.",
+                "Talk to Pocahontas."
+            ],
+            "rewards": [
+                "Powhatan Picnic"
+            ],
+            "dlc": false,
+            "friendship": 2
+        },
+        {
+            "name": "Working Together",
+            "id": "pocahontas.friendship.2",
+            "objectives": [
+                "Go to the Dream Castle.",
+                "Listen to Stitch and Cogsworth's argument.",
+                "Talk to Pocahontas.",
+                "Take pictures of the Valley to inspire Cogsworth and Stitch.\r\n  \u2027 The Wishing Well in the Plaza.\r\n  \u2027 One of the ponds in the Peaceful Meadow.\r\n  \u2027 The bridge of the Frosted Heights.",
+                "Show the pictures to Pocahontas.",
+                "Gather the flowers to create the Imperfect Bouquet.\r\n  \u2027 5 Dandelion.\r\n  \u2027 3 Black Passion Lily.\r\n  \u2027 3 Green Rising Penstemon.",
+                "Bring the flowers to Pocahontas to create the Imperfect Bouquet.",
+                "Get the materials for the Stage Repair Kit:\r\n  \u2027 Stage Blueprint (inside the Beast's House).\r\n  \u2027 10 Hardwood.\r\n  \u2027 4 Iron Ingot.\r\n  \u2027 3 Rope.",
+                "Craft the Stage Repair Kit at a Crafting Station.",
+                "Dress up in Casual clothes to help repair the stage:\r\n  \u2027 Casual Top.\r\n  \u2027 Casual Pants.",
+                "Return to the Dream Castle.",
+                "Watch Stitch and Cogsworth practicing.",
+                "Give the Stage Repair Kit to Pocahontas.",
+                "Place the Moontide Glow Stage on Dazzle Beach.",
+                "Celebrate repairing the stage for the Celestial Celebration on Dazzle Beach.",
+                "Talk to Pocahontas."
+            ],
+            "rewards": [
+                "Imperfect Bouquet",
+                "Moontide Glow Stage"
+            ],
+            "dlc": false,
+            "friendship": 4
+        },
+        {
+            "name": "A Little Algae Problem",
+            "id": "pocahontas.friendship.3",
+            "objectives": [
+                "Ask some Villagers to help gather the Glowing Algae:\r\n  \u2027 Talk to Jasmine.\r\n  \u2027 Talk to Cinderella.\r\n  \u2027 Talk to Mother Gothel.",
+                "Go to Pocahontas's Yehakin.",
+                "Use the boating gear in Pocahontas's Yehakin to go to Moontide Island.",
+                "Talk to Pocahontas.",
+                "Clear the rocks on Moontide Island",
+                "Talk to Pocahontas.",
+                "Gather Glowing Algae by digging around Moontide Island",
+                "Bring the Glowing Algae to Pocahontas.",
+                "Gather the following materials:\r\n  \u2027 15 Softwood.\r\n  \u2027 10 Hardwood.\r\n  \u2027 6 Clay.\r\n  \u2027 4 Glass.\r\n  \u2027 1 Special Resin (inside Pocahontas's Yehakin).",
+                "Bring the materials to Jasmine.",
+                "Pocahontas went looking for the algae-eating creature! Find her on Moontide Island.",
+                "Talk to Pocahontas.",
+                "Remove the rocks to reach the beast hiding in the cave on Moontide Island.",
+                "Talk to Mike Wazowski.",
+                "Follow Mike to the boat.",
+                "Get on the boat and fish around Moontide Island.\r\n  \u2027 5 Glowing Algae.",
+                "(Optional) Talk with Mike Wazowski.\r\n  \u2027 5 Glowing Algae.",
+                "Bring the Glowing Algae to Pocahontas.",
+                "Take a picture with Pocahontas, Jasmine, Cinderella, and Mike on Moontide Island.",
+                "Talk to Pocahontas."
+            ],
+            "rewards": [
+                "Imperfect Bouquet",
+                "Moontide Glow Stage"
+            ],
+            "dlc": false,
+            "friendship": 7
+        },
+        {
+            "name": "A Raccoon's Return",
+            "id": "pocahontas.friendship.4",
+            "objectives": [
+                "Put the Moontide Glow decorations on Dazzle Beach:\r\n  \u2027 4 Moontide Glow Lamppost.\r\n  \u2027 1 Moontide Glow Banner.",
+                "Talk to Pocahontas.",
+                "Investigate inside the Cursed Cave.",
+                "Take a picture of the paw prints inside the Cursed Cave.",
+                "Talk to Pocahontas.",
+                "Gather the following materials for the Moontide Glow Necklace:\r\n  \u2027 5 Glass.\r\n  \u2027 5 Fiber.\r\n  \u2027 5 White Impatiens.\r\n  \u2027 5 Glowing Algae\r\n\t\t(Hint: You can fish and dig for Glowing Algae on Dazzle Beach.)",
+                "Bring the materials to Pocahontas.",
+                "Bring a Moontide Glow Necklace to the following Villagers:\r\n  \u2027 Cinderella.\r\n  \u2027 Mike.\r\n  \u2027 WALL-E.",
+                "Talk to Pocahontas in the Cursed Cave.",
+                "Put on the Moontide Glow Necklace.",
+                "Put on black clothes.",
+                "Follow the paw prints on Dazzle Beach.",
+                "Talk to Pocahontas.",
+                "Talk to Merlin.",
+                "Gather the following materials to make Raccoon Bait:\r\n  \u2027 3 Gooseberries.\r\n  \u2027 3 Raspberries.\r\n  \u2027 3 Blueberries.\r\n  \u2027 5 Fiber.\r\n  \u2027 5 Dream Shard.",
+                "Craft the Raccoon Bait at a Crafting Station.",
+                "Make sure the Raccoon Bait is in your Inventory.",
+                "Bring the Raccoon Bait to Pocahontas.",
+                "Follow Pocahontas to the dock on Dazzle Beach.",
+                "Talk to Pocahontas.",
+                "There was a letter stuck to Meeko's fur! Investigate the letter in your Inventory.",
+                "Talk to Pocahontas."
+            ],
+            "rewards": [
+                "Tan Embroidered Jacket",
+                "Embroidered Jeans",
+                "Embroidered Mukluks",
+                "Beaded Earrings",
+                "Moontide Glow Waves",
+                "Meeko",
+                "4 Moontide Glow Lamppost",
+                "Moontide Glow Banner",
+                "Glowing Necklace"
+            ],
+            "dlc": false,
+            "friendship": 10
+        }
+    ]
+}
