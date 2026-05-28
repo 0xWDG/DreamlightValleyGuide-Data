@@ -1,0 +1,126 @@
+{
+    "icon": "star",
+    "name": "tramp.friendship",
+    "quests": [
+        {
+            "name": "Not Your Average Squeaky Toy",
+            "id": "tramp.friendship.1",
+            "objectives": [
+                "Talk to Woody.",
+                "Visit Buzz's RV.",
+                "Clean up the 5 mess in Buzz's RV.",
+                "Talk to Woody in Buzz's RV.",
+                "Gather Ingredients for the Plastic Filler:\r\n  \u2027 10 Sugarcane.\r\n  \u2027 10 Wheat.",
+                "Make sure you have the Ingredients for the 'Plastic Filler to repair Buzz's RV.\r\n  \u2027 10 Sugarcane.\r\n  \u2027 10 Wheat.",
+                "Bring the Ingredients for the Plastic Filler to Woody in Buzz's RV.",
+                "Talk to Mirabel.",
+                "Talk to Tramp.",
+                "Put the 10 Elegant White Fences down anywhere in the Valley to make a dog park for Tramp. ",
+                "Talk to Tramp.",
+                "Visit Lady and Tramp's House.",
+                "Pick up the 4 Dog Toy Wheels inside Lady and Tramp's House.",
+                "Gather the remaining materials to craft the Edwardian Dog Toy:\r\n  \u2027 40 Stone.\r\n  \u2027 30 Fiber.\r\n  \u2027 4 Dog Toy Wheels.\r\n  \u2027 2 Peridot.",
+                "Craft the Edwardian Dog Toy.",
+                "Place the Edwardian Dog Toy anywhere in the Valley.",
+                "Take a picture of Tramp near his new dog toy.",
+                "Talk to Tramp."
+            ],
+            "rewards": [
+                "Edwardian Dog Toy",
+                "50 Elegant White Fence (50)",
+                "Unlock Elegant White Fence"
+            ],
+            "dlc": true,
+            "friendship": 2
+        },
+        {
+            "name": "Cleanliness Is Next to Dogliness",
+            "id": "tramp.friendship.2",
+            "objectives": [
+                "Go inside Lady and Tramp's House.",
+                "Talk to Lady.",
+                "Use your Royal Watering Can to clean up the mess in Lady and Tramp's House",
+                "Pick up the special soil left behind from Tramp's mess",
+                "Talk to Daisy inside her House.",
+                "Plant the flower seeds that Daisy gave you:\r\n  \u2027 5 Fragrant Hydrangeas.\r\n  \u2027 5 Fragrant Purple Rising Penstemons.",
+                "Water the flowers with the Royal Watering Can and wait 5 minutes as they grow.\r\n  \u2027 5 Fragrant Hydrangeas.\r\n  \u2027 5 Fragrant Purple Rising Penstemons.",
+                "Harvest the Fragrant Flowers for Daisy.\r\n  \u2027 Return to Daisy's House to give her the Fragrant Flowers.\r\n  \u2027 5 Fragrant Hydrangeas.\r\n  \u2027 5 Fragrant Purple Rising Penstemons.",
+                "Order an Edwardian Dog Bath from Scrooge for 5,000 Star Coins.",
+                "Bring the Edwardian Dog Bath to Daisy.",
+                "Bring the Edwardian Dog Bath to Daisy in her House.",
+                "Put the Heavy-Duty Dog Shampoo in the Edwardian Dog Bath",
+                "Gather Ingredients for Mike's cologne:\r\n  \u2027 Clam.\r\n  \u2027 Seaweed.\r\n  \u2027 Infused Rich Soil.\r\n  \u2027 Wet Fur.",
+                "Cook the Eau-de-Chien-Soggy.",
+                "Be sure to have the Eau-de-Chien-Soggy in your Inventory.",
+                "Bring the Eau-de-Chien-Soggy to Mike Wazowski.",
+                "Go see Daisy inside her House.",
+                "Talk to Tramp."
+            ],
+            "rewards": [
+                "Edwardian Dog Bath"
+            ],
+            "dlc": true,
+            "friendship": 4
+        },
+        {
+            "name": "And How Did That Make You Feel?",
+            "id": "tramp.friendship.3",
+            "objectives": [
+                "Put flags in the Biomes for Timon and Tramp.\r\n  \u2027 Red Flag on the Sunlit Plateau.\r\n  \u2027 Blue Flag in the Forest of Valor.",
+                "Talk to Tramp.",
+                "Talk to Joy.",
+                "Fish out Joy's Wet Blanket from a pond in the Peaceful Meadow.",
+                "Be sure you have Joy's Wet Blanket with you.",
+                "Bring Joy's Wet Blanket back to Joy.",
+                "Go inside the Emotion's Headquarters.",
+                "Set up the discussion zone with Joy's Comfy Blanket and Sadness's Tissue Box in the middle of the room.",
+                "Talk to Tramp.",
+                "Re-order the jumbled Memory by touching the Orb inside the Emotion's Headquarters.\r\n  \u2027 You can find the puzzle Memory inside the Quest Puzzles section of the Collection menu.",
+                "Talk to Tramp.",
+                "Gather resources to craft a Zoo Fountain:\r\n  \u2027 20 Dry Wood.\r\n  \u2027 20 Stone.\r\n  \u2027 5 Brick.",
+                "Craft the Zoo Fountain.",
+                "Place the Zoo Fountain in the Valley.",
+                "Play in the Zoo Fountain with Tramp, Timon, and Pumbaa.",
+                "Talk to Tramp."
+            ],
+            "rewards": [
+                "Zoo Fountain"
+            ],
+            "dlc": true,
+            "friendship": 7
+        },
+        {
+            "name": "Canine Archaeology",
+            "id": "tramp.friendship.4",
+            "objectives": [
+                "Follow Tramp to the mysterious buried object on the Sunlit Plateau.\r\n  \u2027 (Hint: Put on the Substitute Snout to sniff the location.)",
+                "Dig out and pick up the mysterious buried object.",
+                "Talk to Tramp.",
+                "Follow Tramp to the next piece of the statue.",
+                "Fish the object out of the water on Dazzle Beach.",
+                "Talk to Tramp.",
+                "Talk to Nala about the missing statue pieces.",
+                "Follow Tramp.",
+                "Chase away the 3 ravens from the final piece of the statue.",
+                "Dig up the final piece of the statue.\r\n  \u2027 (Hint: Put on the Substitute Snout to sniff out the location too.)",
+                "Visit Lady and Tramp's House.",
+                "Assemble the pieces of the Lady and Tramp Statue.",
+                "Talk to Tramp.",
+                "Talk to Cogsworth.",
+                "Use the Metal Polish to clean up the Lady and Tramp Statue inside their House.",
+                "Talk to Tramp."
+            ],
+            "rewards": [
+                "1790 Friendship",
+                "Tramp Button-Down and Trousers",
+                "Scruffy Cap",
+                "Tramp Shoes",
+                "Charming Tramp Goatee",
+                "Charming Tramp Moustache",
+                "Golden Lady and Tramp Statue"
+            ],
+            "dlc": true,
+            "friendship": 10
+        }
+    ]
+}
