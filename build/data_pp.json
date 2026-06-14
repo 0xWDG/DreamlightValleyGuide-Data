@@ -1204,6 +1204,7 @@
             "name": "Moana",
             "origin": "Moana",
             "quests": [
+                "moana.realm",
                 "moana.friendship"
             ],
             "rewards": [
