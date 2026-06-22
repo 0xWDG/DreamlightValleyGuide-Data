@@ -1,0 +1,21 @@
+{
+    "name": "Festive Cherry Hot Cocoa",
+    "type": "Desserts",
+    "icon": "star",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "biome": "Dreamlight Valley",
+    "price": 511,
+    "sellPrice": 511,
+    "energy": 1932,
+    "ingredients": [
+        "{{name|Sugarcane}}<br>\n{{name|Milk}}<br>\n{{name|Festive Cocoa Bean}}<br>\n{{name|Cherry}}"
+    ],
+    "description": "|type=Meal",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

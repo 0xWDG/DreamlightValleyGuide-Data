@@ -1,0 +1,24 @@
+{
+    "name": "Stargazy Pie",
+    "type": "Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 1953,
+    "sellPrice": 1953,
+    "energy": 5026,
+    "ingredients": [
+        "Measuring-Tape Snail",
+        "Satin-Finned Betta",
+        "Red Alpine Bass",
+        "Wheat"
+    ],
+    "description": "A classic English dish, the vertical position of the fish ensures that the oils properly flavor the pie.",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

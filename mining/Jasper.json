@@ -1,0 +1,13 @@
+{
+    "name": "Jasper",
+    "description": "The delicate stripes in this stone make it a perfect candidate for premium accessories.",
+    "icon": "star",
+    "found": [
+        "Glamour Gulch"
+    ],
+    "price": 400,
+    "activity": [
+        "mining"
+    ],
+    "rarity": "none"
+}

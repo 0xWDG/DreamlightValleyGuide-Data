@@ -1,0 +1,23 @@
+{
+    "name": "Felted Breakfast Spread",
+    "type": "Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 1022,
+    "sellPrice": 1022,
+    "energy": 2597,
+    "ingredients": [
+        "Button Mushroom",
+        "Egg",
+        "Satin-Finned Betta"
+    ],
+    "description": "A hearty breakfast spread of salted fish, eggs and mushrooms - just pick the threads from your teeth later.",
+    "stars": 3,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

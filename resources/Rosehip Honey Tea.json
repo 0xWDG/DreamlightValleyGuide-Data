@@ -1,0 +1,21 @@
+{
+    "name": "Rosehip Honey Tea",
+    "type": "Appetizers",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 210,
+    "sellPrice": 210,
+    "energy": 570,
+    "ingredients": [
+        "Honey Coral"
+    ],
+    "description": "This delicate and fragrant tea is enjoyed throughout the Wishblossom Mountains.",
+    "stars": 1,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

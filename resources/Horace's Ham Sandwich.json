@@ -1,0 +1,23 @@
+{
+    "name": "Horace's Ham Sandwich",
+    "type": "Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 326,
+    "sellPrice": 326,
+    "energy": 643,
+    "ingredients": [
+        "Pearly Barley",
+        "Cheese",
+        "Vegetables"
+    ],
+    "description": "Regretfully, the ham has already been stolen from this sandwich by a mischievous puppy.",
+    "stars": 3,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

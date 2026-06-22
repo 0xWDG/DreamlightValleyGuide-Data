@@ -1,0 +1,21 @@
+{
+    "name": "Festive Blueberry Hot Cocoa",
+    "type": "Desserts",
+    "icon": "star",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "biome": "Dreamlight Valley",
+    "price": 491,
+    "sellPrice": 491,
+    "energy": 1647,
+    "ingredients": [
+        "{{name|Sugarcane}}<br>\n{{name|Milk}}<br>\n{{name|Festive Cocoa Bean}}<br>\n{{name|Blueberry}}"
+    ],
+    "description": "|type=Meal",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

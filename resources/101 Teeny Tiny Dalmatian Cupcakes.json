@@ -1,0 +1,24 @@
+{
+    "name": "101 Teeny Tiny Dalmatian Cupcakes",
+    "type": "Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 460,
+    "sellPrice": 460,
+    "energy": 862,
+    "ingredients": [
+        "Dark Chocolate Coffee Beans",
+        "Egg",
+        "Wheat",
+        "Sugarcane"
+    ],
+    "description": "Fortunately, these teeny tiny cupcakes are as tasty as they are tiny.",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

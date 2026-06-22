@@ -1,0 +1,14 @@
+{
+    "name": "Mountain Whitefish",
+    "description": "Mountain Whitefish is a fish in Disney Dreamlight Valley.",
+    "icon": "star",
+    "found": [
+        "Wishing Alps"
+    ],
+    "price": 30,
+    "activity": [
+        "fishing"
+    ],
+    "rarity": "none",
+    "energy": 150
+}

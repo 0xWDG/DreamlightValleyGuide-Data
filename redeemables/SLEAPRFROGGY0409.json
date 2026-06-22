@@ -1,0 +1,13 @@
+{
+    "code": "SLEAPRFROGGY0409",
+    "description": "A welcome code given to streamers, each with a different text based on the streamer name. Other streamer codes share one redemption - after collecting items from one code the others will no longer redeem.",
+    "icon": "star",
+    "items": [
+        "3x Bouillabaisse",
+        "10x Corn Seed",
+        "10x Tomato Seed",
+        "10x Sugarcane"
+    ],
+    "validy": "9999-01-01",
+    "available": "2026-04-09"
+}

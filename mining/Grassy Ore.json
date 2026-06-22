@@ -1,0 +1,13 @@
+{
+    "name": "Grassy Ore",
+    "description": "An ore that can be mined in the Wishblossom Mountains. Please don't try to run a lawnmower on it.",
+    "icon": "star",
+    "found": [
+        "Pixie Acres"
+    ],
+    "price": 25,
+    "activity": [
+        "mining"
+    ],
+    "rarity": "none"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Smoked Fish Charcuterie Spread",
+    "type": "Appetizers",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 191,
+    "sellPrice": 191,
+    "energy": 1321,
+    "ingredients": [
+        "Mountain Whitefish",
+        "Tuna",
+        "Fish",
+        "Wheat"
+    ],
+    "description": "This spread of smoked fish and local veggies is sure to please any party.",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

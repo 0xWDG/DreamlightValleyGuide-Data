@@ -1,0 +1,15 @@
+{
+    "name": "Copper",
+    "description": "A soft and malleable metal that's highly conductive.",
+    "icon": "star",
+    "found": [
+        "Ancient's Landing",
+        "Glittering Dunes",
+        "Wild Tangle"
+    ],
+    "price": 15,
+    "activity": [
+        "mining"
+    ],
+    "rarity": "none"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Pixie Ice Cream Dome Cake",
+    "type": "Desserts",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 554,
+    "sellPrice": 554,
+    "energy": 1489,
+    "ingredients": [
+        "Fairy Kamut",
+        "Fairy Sprinkles",
+        "Slush Ice",
+        "Red Currants"
+    ],
+    "description": "Every slice is bursting with tasty layers of cake, ice cream, and rainbow sprinkles.",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

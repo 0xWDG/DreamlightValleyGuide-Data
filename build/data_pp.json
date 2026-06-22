@@ -1,6 +1,6 @@
 {
-    "version": "20260101.1320",
-    "release": "2026-01-01T13:20:10+00:00",
+    "version": "20260622.1846",
+    "release": "2026-06-22T18:46:13+00:00",
     "biomes": [
         {
             "characters": [
@@ -34,7 +34,8 @@
             ],
             "description": "The Cursed Cave or Mysterious Cave is a Location where Ursula is first encountered.",
             "icon": "star",
-            "name": "Cursed Cave"
+            "name": "Cursed Cave",
+            "price": 0
         },
         {
             "biome": "The Plaza",
@@ -43,14 +44,16 @@
             ],
             "description": "The Dark Castle is a Location accessed through a portal during the The Dark Castle. Is a darker version of the Dream Castle, with night thorns obstructing the stairs, shattered pillars, and other rubble strewn about.",
             "icon": "star",
-            "name": "Dark Castle"
+            "name": "Dark Castle",
+            "price": 0
         },
         {
             "biome": "Forest of Valor",
             "characters": [],
             "description": "The Dark Grove is a location where Donald Duck is encountered during the Story Quest Lost in the Dark Grove. It can be accessed through a portal found in the southwest corner of the Forest of Valor, where Kristoff will be standing outside.\r\n\r\nTo reach the Dark Grove, the Player must select Enter on the dark portal in the Forest of Valor after unlocking the biome. After the quest Lost in the Dark Grove is complete the portal will close and the Dark Grove can no longer be accessed.",
             "icon": "star",
-            "name": "Dark Grove"
+            "name": "Dark Grove",
+            "price": 0
         },
         {
             "characters": [
@@ -75,21 +78,24 @@
             ],
             "description": "The Deserted Island is a Location where Ariel is first encountered during her Friendship Quest The Lonely Island. It will already be placed when beginning a new game and its entrance is found in the southeast quadrant of Dazzle Beach, on the island near the Skull Rock.\r\nTo reach the island, the Player must Embark on the raft repaired during the quest The Mysterious Wreck.",
             "icon": "star",
-            "name": "Dark Grove"
+            "name": "Dark Grove",
+            "price": 0
         },
         {
             "biome": "Forgotten Lands",
             "characters": [],
             "description": "The Dreamscape is a Location accessed through a portal inside a treehouse disguised as a large rock in the Forgotten Lands during the quest Miracles Take Time.",
             "icon": "star",
-            "name": "Dreamscape"
+            "name": "Dreamscape",
+            "price": 0
         },
         {
             "biome": "Sunlit Plateau",
             "characters": [],
             "description": "The Elephant Graveyard is a Location. It is a specific region of the Sunlit Plateau decorated with bones and foggy lighting effects. The Giant Skull is originally found in this location.",
             "icon": "star",
-            "name": "Elephant Graveyard"
+            "name": "Elephant Graveyard",
+            "price": 0
         },
         {
             "characters": [
@@ -172,14 +178,16 @@
             "characters": [],
             "description": "The Herbalist Room is a Location. It cannot be entered until it is unlocked during the Simba Level 7 Friendship quest \"Seed of Memories\".",
             "icon": "star",
-            "name": "Herbalist Room"
+            "name": "Herbalist Room",
+            "price": 0
         },
         {
             "biome": "Kristoff's Stall",
             "characters": [],
             "description": "Kristoff's Stall is a stall operated by Kristoff.\r\nIt sells a variety of foraged resources and refined materials. The stock cycles daily. Only limited quantities of each resource may be purchased per day.",
             "icon": "star",
-            "name": "Kristoff's Stall"
+            "name": "Kristoff's Stall",
+            "price": 0
         },
         {
             "characters": [],
@@ -196,7 +204,8 @@
             "characters": [],
             "description": "The Mystical Cave is a Location. It is a dark, mysterious cave that has 4 levels descending into the earth, with a pool of water and broken pillars at the lowest level.",
             "icon": "star",
-            "name": "Mystical Cave"
+            "name": "Mystical Cave",
+            "price": 0
         },
         {
             "characters": [
@@ -242,7 +251,8 @@
             "characters": [],
             "description": "The Ruins are a Location. It is a specific region of the Forgotten Lands. The Pedestals used in the Ursula Level 10 Friendship quest \"A Deal with Ursula\" are found in this location.",
             "icon": "star",
-            "name": "Ruins"
+            "name": "Ruins",
+            "price": 0
         },
         {
             "biome": "Frosted Heights",
@@ -251,21 +261,24 @@
             ],
             "description": "The Secret Chamber is a Location where Olaf is first encountered.",
             "icon": "star",
-            "name": "Secret Chamber"
+            "name": "Secret Chamber",
+            "price": 0
         },
         {
             "biome": "Dream Castle",
             "characters": [],
             "description": "The Secret Room is a Location. It will already be placed when beginning a new game and its entrance is found inside the Dream Castle, to the right after you enter, through some potted topiaries. Its entrance will not be revealed and cannot be entered until it is unlocked during the Mickey Mouse Level 10 Friendship quest \"The Secret Door\".",
             "icon": "star",
-            "name": "Secret Room"
+            "name": "Secret Room",
+            "price": 0
         },
         {
             "biome": "Dream Castle",
             "characters": [],
             "description": "The Stardust Port is a Location found on the third floor of the Dream Castle. Its entrance will not be unlocked until the paid Expansion Pass quest The Port of Many Worlds.",
             "icon": "star",
-            "name": "Stardust Port"
+            "name": "Stardust Port",
+            "price": 0
         },
         {
             "characters": [
@@ -380,7 +393,8 @@
             "characters": [],
             "description": "The Vitalys Mine is a series of underground tunnels rich with Mining Nodes found in the Sunlit Plateau.",
             "icon": "star",
-            "name": "Vitalys Mine"
+            "name": "Vitalys Mine",
+            "price": 0
         },
         {
             "characters": [
@@ -864,6 +878,27 @@
             ]
         },
         {
+            "description": "Hercules is a character from the Disney animated film Hercules (1997). He is a demigod and the son of Zeus, known for his incredible strength and heroic deeds.",
+            "house": "Hercules' Villa",
+            "icon": "star",
+            "name": "Hercules",
+            "origin": "Hercules",
+            "quests": [],
+            "rewards": [
+                "",
+                "Character Unlocked",
+                "Herculean Wall Plates",
+                "Hercules Muscle Motif",
+                "StarCoins 500",
+                "Hercules Trophy Pedestal",
+                "Geometric Pattern Material",
+                "StarCoins 1000",
+                "Hercules Statue",
+                "Greek Simple Bar Pattern Motif",
+                "Azure Greek Chestplate\r\nAzure Greek Cloak\r\nAzure Greek Helmet\r\nAzure Riveted Battle Skirt"
+            ]
+        },
+        {
             "description": "Jack Skellington is a character from the Disney film The Nightmare Before Christmas (1993).",
             "house": "Jack Skellington House",
             "icon": "star",
@@ -981,6 +1016,30 @@
                 "Norwegian Spruce Tub",
                 "Sven Portrait Motif",
                 "Kristoff's Sled"
+            ]
+        },
+        {
+            "description": "Lady is a character from the Disney animated film Lady and the Tramp",
+            "house": "Lady's doghouse?",
+            "icon": "star",
+            "name": "Lady",
+            "origin": "Lady and the Tramp",
+            "quests": [
+                "lady.realm",
+                "lady.friendship"
+            ],
+            "rewards": [
+                "",
+                "Character Unlocked",
+                "Edwardian Wallpaper",
+                "Fabric Ruffles Motif",
+                "StarCoins 500",
+                "Curtained Bay Window",
+                "Floral Pattern Motif",
+                "StarCoins 1000",
+                "Edwardian Marble Fireplace",
+                "Lady Portrait Motif",
+                "Lady Edwardian Hat and Hairstyle\r\nLady Edwardian Ensemble\r\nLady Bow Boots\r\nLady Ruffled Parasol"
             ]
         },
         {
@@ -1389,6 +1448,50 @@
                 "Underground Hideout Alcove",
                 "Treasure Map Motif",
                 "Never Land Adventure Outfit"
+            ]
+        },
+        {
+            "description": "Phil is a character from the Disney animated film Hercules (1997).",
+            "house": "Hercules' Villa",
+            "icon": "star",
+            "name": "Phil",
+            "origin": "Hercules",
+            "quests": [],
+            "rewards": [
+                "",
+                "Character Unlocked",
+                "Hero Training Targets",
+                "Phil Motif",
+                "StarCoins 500",
+                "Luxury Pegasus Fountain",
+                "Greek Seal Motif",
+                "StarCoins 1000",
+                "Rhodes Feet",
+                "Greek Laurel Pattern Material",
+                "Sartorial Satyr Horns\r\nSartorial Satyr Outfit\r\nSartorial Satyr Sandals\r\nSartorial Satyr Tan Armbands"
+            ]
+        },
+        {
+            "description": "Pocahontas is a character from the Disney animated film Pocahontas (1995). She is known for her adventurous spirit and deep connection to nature.",
+            "house": "Pocahontas's Yehakin",
+            "icon": "star",
+            "name": "Pocahontas",
+            "origin": "Pocahontas",
+            "quests": [
+                "pocahontas.friendship"
+            ],
+            "rewards": [
+                "",
+                "Character Unlocked",
+                "Powhatan Canoe",
+                "Compass Motif",
+                "StarCoins 500",
+                "Storyteller's Fire",
+                "Feather Motif",
+                "StarCoins 1000",
+                "Chair of the Chieftain",
+                "Embroidered Pattern Motif",
+                "Beaded Earrings\r\nEmbroidered Jeans\r\nEmbroidered Mukluks\r\nTan Embroidered Jacket"
             ]
         },
         {
@@ -1860,6 +1963,30 @@
             ]
         },
         {
+            "description": "Tramp is a character from the Disney animated film Lady and the Tramp",
+            "house": "Tramp's doghouse?",
+            "icon": "star",
+            "name": "Tramp",
+            "origin": "Lady and the Tramp",
+            "quests": [
+                "tramp.realm",
+                "tramp.friendship"
+            ],
+            "rewards": [
+                "",
+                "Character Unlocked",
+                "Antique Fire Hydrant",
+                "Tramp Patch Motif",
+                "StarCoins 500",
+                "Tramp Barrel Bed",
+                "Ornate Pattern Motif",
+                "StarCoins 1000",
+                "Dogcatcher's Wagon",
+                "Tramp Portrait Motif",
+                "Tramp Button-Down and Trousers\r\nScruffy Cap\r\nTramp Shoes\r\nCharming Tramp Goatee\r\nCharming Tramp Moustache\r\n"
+            ]
+        },
+        {
             "description": "Ursula is a character from the Disney film The Little Mermaid (1989).",
             "house": "Ursula's Lair",
             "icon": "star",
@@ -2223,6 +2350,20 @@
             "type": "Fish"
         },
         {
+            "name": "Balloon Fish",
+            "description": "Balloon Fish is a resource in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Pixie Acres"
+            ],
+            "price": 60,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 0
+        },
+        {
             "description": "Bass can be found just about everywhere in the Meadow.",
             "energy": 150,
             "found": [
@@ -2384,6 +2525,20 @@
             "type": "Fish"
         },
         {
+            "name": "Goose Feathers",
+            "description": "Goose Feathers is a resource in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Pixie Acres"
+            ],
+            "price": 20,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 0
+        },
+        {
             "description": "Just because it doesn't look delicious doesn't mean it can't be part of a delicious meal.",
             "energy": 1000,
             "found": [
@@ -2425,6 +2580,34 @@
             "price": 800,
             "rarity": "White, Blue",
             "type": "Seafood"
+        },
+        {
+            "name": "Honey Coral",
+            "description": "Honey Coral is a sweets in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Pixie Acres"
+            ],
+            "price": 175,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 325
+        },
+        {
+            "name": "Jellied Fish",
+            "description": "Jellied Fish is a fish in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Glamour Gulch"
+            ],
+            "price": 1000,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 1500
         },
         {
             "description": "A mackerel found in warmer ocean waters.",
@@ -2487,6 +2670,34 @@
             "type": "Seafood"
         },
         {
+            "name": "Measuring-Tape Snail",
+            "description": "Measuring-Tape Snail is a seafood in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Glamour Gulch"
+            ],
+            "price": 100,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 400
+        },
+        {
+            "name": "Mountain Whitefish",
+            "description": "Mountain Whitefish is a fish in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Wishing Alps"
+            ],
+            "price": 30,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 150
+        },
+        {
             "description": "This tasty mollusk is surprisingly good at filtering water.",
             "energy": 150,
             "found": [
@@ -2510,6 +2721,20 @@
             "price": 290,
             "rarity": "Blue, White",
             "type": "Seafood"
+        },
+        {
+            "name": "Old Braided Rope",
+            "description": "Old Braided Rope is a resource in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Wishing Alps"
+            ],
+            "price": 20,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 0
         },
         {
             "description": "A rare fish found only in a special spot.",
@@ -2644,6 +2869,20 @@
             "type": "Crafting materials"
         },
         {
+            "name": "Red Alpine Bass",
+            "description": "Red Alpine Bass is a fish in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Wishing Alps"
+            ],
+            "price": 750,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 1250
+        },
+        {
             "description": "Be careful when eating this. You might end up with some nuts and bolts stuck between your teeth.",
             "energy": 1350,
             "found": [
@@ -2713,6 +2952,20 @@
             "price": 800,
             "rarity": "Gold",
             "type": "Dairy and Oil"
+        },
+        {
+            "name": "Satin-Finned Betta",
+            "description": "Satin-Finned Betta is a fish in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Glamour Gulch"
+            ],
+            "price": 450,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 950
         },
         {
             "description": "These scales must have fallen off some very beautiful fish. Now maybe you could use them to make something equally beautiful...",
@@ -2909,6 +3162,20 @@
             "type": "Fish"
         },
         {
+            "name": "Tigger Fish",
+            "description": "Tigger Fish is a fish in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Pixie Acres"
+            ],
+            "price": 1600,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 1600
+        },
+        {
             "description": "A small fish often found in shallow rivers.",
             "energy": 1150,
             "found": [
@@ -2958,6 +3225,20 @@
             "price": 1250,
             "rarity": "Gold",
             "type": "Fish"
+        },
+        {
+            "name": "Wire Coat Hanger",
+            "description": "Wire Coat Hanger is a resource in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Glamour Gulch"
+            ],
+            "price": 20,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 0
         }
     ],
     "foraging": [
@@ -5819,6 +6100,19 @@
             "price": 500
         },
         {
+            "name": "Antique Clothes Iron",
+            "description": "Filled with Wish Magic, certain veins of iron will spontaneously form into clothes irons.",
+            "icon": "star",
+            "found": [
+                "Glamour Gulch"
+            ],
+            "price": 20,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "mining"
             ],
@@ -5884,6 +6178,21 @@
             "icon": "\ud83d\udd25",
             "name": "Coal Ore",
             "price": 5
+        },
+        {
+            "name": "Copper",
+            "description": "A soft and malleable metal that's highly conductive.",
+            "icon": "star",
+            "found": [
+                "Ancient's Landing",
+                "Glittering Dunes",
+                "Wild Tangle"
+            ],
+            "price": 15,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
         },
         {
             "activity": [
@@ -5972,6 +6281,32 @@
             "price": 20
         },
         {
+            "name": "Grassy Ore",
+            "description": "An ore that can be mined in the Wishblossom Mountains. Please don't try to run a lawnmower on it.",
+            "icon": "star",
+            "found": [
+                "Pixie Acres"
+            ],
+            "price": 25,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Honeycomb Stone",
+            "description": "Despite its delicious appearance, this hexagonal crystal isn't edible. Please don't lick the rock.",
+            "icon": "star",
+            "found": [
+                "Pixie Acres"
+            ],
+            "price": 550,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "mining"
             ],
@@ -6006,6 +6341,19 @@
             "price": 250
         },
         {
+            "name": "Jasper",
+            "description": "The delicate stripes in this stone make it a perfect candidate for premium accessories.",
+            "icon": "star",
+            "found": [
+                "Glamour Gulch"
+            ],
+            "price": 400,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "mining"
             ],
@@ -6017,6 +6365,19 @@
             "icon": "\ud83d\udc8e",
             "name": "Magma",
             "price": 400
+        },
+        {
+            "name": "Marble",
+            "description": "This marble is smooth as Hades himself!",
+            "icon": "star",
+            "found": [
+                "Mythopia"
+            ],
+            "price": 30,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
         },
         {
             "activity": [
@@ -6061,6 +6422,35 @@
             "price": 200
         },
         {
+            "name": "Petrified Wood",
+            "description": "Wood from the stone tree will take centuries just to grow a few feet tall.",
+            "icon": "star",
+            "found": [
+                "The Bind",
+                "Everafter"
+            ],
+            "price": 20,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Pixie Dust",
+            "description": "This magical dust comes from deep inside the Wishblossom Mountains. Its magic helps living Wishblossoms grant wishes!",
+            "icon": "star",
+            "found": [
+                "Wishing Alps",
+                "Glamour Gulch",
+                "Pixie Acres"
+            ],
+            "price": 15,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "mining"
             ],
@@ -6072,6 +6462,32 @@
             "icon": "\ud83d\udc8e",
             "name": "Shiny Pure Ice",
             "price": 1200
+        },
+        {
+            "name": "Pyrite",
+            "description": "This golden stone is sometimes called \"fool's gold.\"",
+            "icon": "star",
+            "found": [
+                "Wishing Alps"
+            ],
+            "price": 250,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Quartz",
+            "description": "A beautiful crystalline structure.",
+            "icon": "star",
+            "found": [
+                "Ancient's Landing"
+            ],
+            "price": 20,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
         },
         {
             "activity": [
@@ -6237,6 +6653,19 @@
             "price": 640
         },
         {
+            "name": "Shiny Honeycomb Stone",
+            "description": "Despite its delicious appearance, this hexagonal crystal isn't edible. Fortunately, it's not sticky either.",
+            "icon": "star",
+            "found": [
+                "Pixie Acres"
+            ],
+            "price": 2200,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "mining"
             ],
@@ -6249,6 +6678,19 @@
             "icon": "\ud83d\udc8e",
             "name": "Shiny Jade",
             "price": 1000
+        },
+        {
+            "name": "Shiny Jasper",
+            "description": "The delicate stripes in this shiny stone make it a perfect candidate for premium accessories.",
+            "icon": "star",
+            "found": [
+                "Glamour Gulch"
+            ],
+            "price": 1600,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
         },
         {
             "activity": [
@@ -6302,6 +6744,26 @@
             "icon": "\ud83d\udc8e",
             "name": "Shiny Pure Ice",
             "price": 1200
+        },
+        {
+            "name": "Shiny Pyrite",
+            "description": "This gleaming stone is so bright and shiny, it could be mistaken for real gold.",
+            "icon": "star",
+            "found": [
+                "Wishing Alps",
+                "|}",
+                "==All Mining Artifacts by Biome\/Region==",
+                "{",
+                "! Location",
+                "! Rock Spots",
+                "! Possible Artifacts",
+                "! Minerals"
+            ],
+            "price": 1000,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
         },
         {
             "activity": [
@@ -6384,6 +6846,29 @@
             "price": 1680
         },
         {
+            "name": "Silver Ore",
+            "description": "This flashy ore can be mined in the Wishblossom Mountains then crafted into very shiny things indeed.",
+            "icon": "star",
+            "found": [
+                "Wishing Alps",
+                "|}",
+                "==Gems==",
+                "Gems are rare minerals what can be found by mining nodes with the pickaxe.",
+                "Each gem also has a \"shiny\" version which is larger and sells for 4x more coins. Sometimes nodes will have gems appear on them, and sometimes the gems will not appear until mined.",
+                "There are 2 largely overlapping categorizations related to Gems: Gems and Minerals. Minerals include all of the following listed in the table below. Gems include all of the following listed in the table below, with the exception of Vitalys Crystal, which only counts as a Mineral. Although Crystal is also a byproduct of mining, it is not categorized as either a Gem or a Mineral.",
+                "{",
+                "!Image",
+                "!Name",
+                "!Sell Price",
+                "!Location"
+            ],
+            "price": 2,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "mining"
             ],
@@ -6424,6 +6909,19 @@
             "price": 2
         },
         {
+            "name": "Tin",
+            "description": "A silvery metal that could be very useful for making things.",
+            "icon": "star",
+            "found": [
+                "Glittering Dunes"
+            ],
+            "price": 25,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "mining"
             ],
@@ -6462,6 +6960,19 @@
             "icon": "\ud83d\udc8e",
             "name": "Vitalys Crystal",
             "price": 12
+        },
+        {
+            "name": "Zinc",
+            "description": "A brittle metal that's useful for crafting.",
+            "icon": "star",
+            "found": [
+                "Wild Tangle"
+            ],
+            "price": 30,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
         }
     ],
     "poi": [
@@ -11253,7 +11764,7 @@
                     "name": "Dream On!",
                     "id": "joy.realm.2",
                     "objectives": [
-                        "alk to Joy.",
+                        "Talk to Joy.",
                         "Follow Joy.",
                         "Enter Joy's Dream Productions space.",
                         "Talk to Joy.",
@@ -11408,6 +11919,292 @@
                         "Unlock Kristoff",
                         "Unlock Donald Duck"
                     ]
+                }
+            ]
+        },
+        {
+            "icon": "star",
+            "name": "lady.friendship",
+            "quests": [
+                {
+                    "name": "Canine Cuisine",
+                    "id": "lady.friendship.1",
+                    "objectives": [
+                        "Go inside Chez Remy with Lady.",
+                        "Go back inside Chez Remy with Lady.",
+                        "Have some fun with Lady around the Valley!\r\n  \u2027 Follow Lady to a new smell she picked up in the Peaceful Meadow.",
+                        "Hang out with Lady.",
+                        "Have some fun with Lady around the Peaceful Meadow!\r\n  \u2027 Dig for 3 bones.\r\n  \u2027 Fetch 3 Villagers their favorite gifts.\r\n  \u2027 Feed a cute bunny.",
+                        "Return to Lady.",
+                        "Go to Chez Remy.",
+                        "Talk to Lady.",
+                        "Gather the Ingredients for the Doggy Donut.\r\n  \u2027 1 Purple Fruit fallen from a mad tree?\r\n  \u2027 2 Wheat.\r\n  \u2027 2 Peanut.\r\n  \u2027 2 Egg.",
+                        "Cook the Doggy Donut.",
+                        "Something is off about this Doggy Donut.\r\n  \u2027 Bring the strange Doggy Donut to Lady.\r\n  \u2027 Make sure you have the Doggy Donut in your Inventory.",
+                        "Lady has caught a strange scent...\r\n  \u2027 Follow Lady as she tracks the scent...\r\n  \u2027 Talk to Lady.",
+                        "Follow the purple cat tracks starting from the Dazzle Beach stairs.\r\n  \u2027 Find the source of the cat tracks.",
+                        "Follow the purple tracks on Dazzle Beach and enter the Cursed Cave...",
+                        "Cheshire Cat is behind this! Talk to him.",
+                        "Go to Cheshire Cat in the Cursed Cave.",
+                        "Make peace between Lady and the Cheshire Cat.\r\n  \u2027 Cook the proper Doggy Donut.",
+                        "Make peace between Lady and the Cheshire Cat.\r\n  \u2027 Place the Edwardian Dog Bowl near the Cheshire Cat's Tree.",
+                        "Return to the Cheshire Cat's Tree.",
+                        "Talk to Cheshire Cat at his tree."
+                    ],
+                    "rewards": [
+                        "Edwardian Dog Bowl"
+                    ],
+                    "dlc": false,
+                    "friendship": 2
+                },
+                {
+                    "name": "A Little Off the Top",
+                    "id": "lady.friendship.2",
+                    "objectives": [
+                        "Gather materials for the Pet Grooming Station.\r\n  \u2027 12 Hardwood.\r\n  \u2027 3 Gold Ingot.\r\n  \u2027 3 Fabric.\r\n  \u2027 3 Glass.\r\n  \u2027 Ask a fur-covered Villager for some Thick-Fur Shampoo.",
+                        "Craft the Pet Grooming Station.",
+                        "Make sure you have the items in your Inventory.\r\n  \u2027 Pet Grooming Station.\r\n  \u2027 Thick-Fur Shampoo.",
+                        "Give the Pet Grooming Station to Daisy.",
+                        "Gather dog grooming items in various Houses.\r\n  \u2027 Scissors and Brush Kit from the Boutique.\r\n  \u2027 Spa Towels from Arendelle Castle.\r\n  \u2027 Hair Brush and Soap from Minnie's House.",
+                        "Head back inside Daisy's House to check in on Lady's haircut.",
+                        "Talk to Lady.",
+                        "Clean up the 8 soap suds in Daisy's House using your Royal Watering Can.",
+                        "Place the grooming supplies on the Pet Grooming Station in Daisy's House.",
+                        "Talk to Lady near the Pet Grooming Station.",
+                        "Place the Edwardian Grooming Station in your House.",
+                        "Talk to Lady."
+                    ],
+                    "rewards": [
+                        "Edwardian Grooming Station"
+                    ],
+                    "dlc": false,
+                    "friendship": 4
+                },
+                {
+                    "name": "Getting on Like Cats and Dogs",
+                    "id": "lady.friendship.3",
+                    "objectives": [
+                        "Go to the Sunlit Plateau.",
+                        "Follow Lady as she tracks Nala's scent.",
+                        "Lady is having trouble following Nala's scent.\r\n  \u2027 Wear the Substitute Snout to help pick up Nala's trail again.",
+                        "Follow Nala's scent while wearing the Substitute Snout.\r\n  \u2027 Find Nala's training ground on the Sunlit Plateau.",
+                        "Enter Nala's training ground in the Vitalys Mines.",
+                        "Talk to Lady in the Vitalys Mines.",
+                        "Follow Nala's scent in the Vitalys Mines while wearing the Substitute Snout.\r\n  \u2027 Evade all the 6 enchanted spotlights.\r\n  \u2027 Catch your prey: the 5 Enchanted Squeaky Toys.",
+                        "You've found Nala in the Mines... or she found you!\r\n  \u2027 Talk to Nala.",
+                        "Continue to test your stealth and pouncing skills!\r\n  \u2027 Catch all the 5 moving Enchanted Squeaky Toys while not stepping under the spotlights.",
+                        "Lady also caught an Enchanted Squeaky Toy!\r\n  \u2027 Show Nala the Enchanted Squeaky Toys that you and Lady caught.",
+                        "Lady is proud of her accomplishment!\r\n  \u2027 Talk to Tramp to tell him about Lady's training.",
+                        "Scar took Tramp's favorite bones!\r\n  \u2027 Confront him.",
+                        "Find Tramp's Bones:\r\n  \u2027 Near the parent of glass where waves lap and turtles play.\r\n  \u2027 Swimming deep in mud and muck, where crocodiles roam.\r\n  \u2027 Seek the border between forest and frost and the gift that snow grants to flame.",
+                        "Track Scar's scent with the Substitute Snout.",
+                        "Make sure you have all the 3 Tramp's Favorite Bones",
+                        "Give all the Tramp's Favorite Bones to Tramp.",
+                        "Wear the Lady Bejeweled Necklace.",
+                        "This necklace really matches Lady and Tramp's medals!\r\n  \u2027 Take a selfie with Lady and Tramp in their House."
+                    ],
+                    "rewards": [
+                        "Lady Bejeweled Necklace"
+                    ],
+                    "dlc": false,
+                    "friendship": 7
+                },
+                {
+                    "name": "Portrait of a Lady",
+                    "id": "lady.friendship.4",
+                    "objectives": [
+                        "Find the Posh Furniture in the Lady and the Tramp Realm.\r\n  \u2027 Posh Chair.\r\n  \u2027 Posh Curtain Stand.\r\n  \u2027 Posh Curtains.\r\n  \u2027 Edwardian Portrait Frame.",
+                        "Meet Lady in her House to discuss the photo shoot.",
+                        "Place the Posh Furniture in the photo shoot setup.",
+                        "See if Lady likes the way you set up the Posh Furniture.",
+                        "Ask around about items for the photo shoot:\r\n  \u2027 Joy.\r\n  \u2027 Goofy.\r\n  \u2027 Alice.",
+                        "Find all the items for the photo shoot:\r\n  \u2027 4 Broken Photo Shoot Spotlight stuck in rocks in the Vitalys Mines.\r\n  \u2027 1 Broken Antique Camera in the Glade's river.\r\n  \u2027 1 Antique Camera Lens in Mickey's secret room in the Dream Castle.",
+                        "Gather materials to repair the Antique Camera and the Spotlights.\r\n  \u2027 5 Tinkering Parts.\r\n  \u2027 3 Hardwood.\r\n  \u2027 4 Glass.",
+                        "Repair the photography supplies at a Crafting Station.\r\n  \u2027 Antique Film Camera.\r\n  \u2027 Photo Shoot Spotlight.",
+                        "Return to Lady's House with the Antique Camera and Spotlights.",
+                        "Place the Antique Camera and Spotlights near the photo shoot setup.",
+                        "Talk to Lady to start the portrait shoot.\r\n  \u2027 Let Lady place herself for the photo shoot.",
+                        "Place the Lady and Tramp Portrait Photo Shoot. outside, anywhere in the Valley.\r\n  \u2027 (Optional) Unlock the Edwardian Photo Frame from your Inventory.",
+                        "Take a selfie with Lady and Tramp.",
+                        "Talk to Lady.",
+                        "Place the Canine Family Portrait on a wall in Lady and Tramp's House.",
+                        "Talk to Lady."
+                    ],
+                    "rewards": [
+                        "Lady Edwardian Hat and Hairstyle",
+                        "Lady Bow Boots",
+                        "Lady Edwardian Ensemble",
+                        "Lady Ruffled Parasol",
+                        "Edwardian Photo Frame",
+                        "Lady and Tramp Portrait",
+                        "Edwardian Chair and Curtains Set",
+                        "2x Photo Shoot Spotlight",
+                        "Antique Camera"
+                    ],
+                    "dlc": false,
+                    "friendship": 10
+                },
+                {
+                    "name": "The Spaghetti Incident",
+                    "id": "lady.friendship.5",
+                    "objectives": [
+                        "Is that a rolling ball of spaghetti?!\r\n  \u2027 Catch the 4 Rolling Spaghetti inside the Dream Castle.",
+                        "Make sure you have the 4 Rolling Spaghetti inside your Inventory.",
+                        "Show the Rolling Spaghetti to Lady.",
+                        "Locate the scent of spaghetti on the Beach.\r\n  \u2027 Wear the Substitute Snout to find the scent.",
+                        "Catch the 3 Rolling Spaghetti on the Beach.",
+                        "Make sure you have the 3 Rolling Spaghetti inside your Inventory.",
+                        "Show the Rolling Spaghetti to Lady.",
+                        "Locate the scent of more Rolling Spaghetti around the Beach.\r\n  \u2027 Wear the Substitute Snout to find the scent.",
+                        "Enter the Mystical Cave.",
+                        "Catch all of the Rolling Spaghetti in the Mystical Cave.\r\n  \u2027 Gather all the 3 Rolling Spaghetti.",
+                        "Return to Lady inside the entrance of the Mystical Cave.",
+                        "Make sure you have all of the 3 Rolling Spaghetti inside your Inventory.",
+                        "Give all the 3 Rolling Spaghetti to Lady.",
+                        "The smell of the 3 Rolling Spaghetti triggered a Memory!\r\n  \u2027 Open the Memory close to the entrance of the Mystical Cave.",
+                        "Return to Lady."
+                    ],
+                    "rewards": [
+                        "Uncooked Spaghetti Wall",
+                        "Edible Rolling Spaghetti",
+                        "Unlock Uncooked Spaghetti Wall recipe",
+                        "Dreamlight Valley Memory shard"
+                    ],
+                    "dlc": false,
+                    "friendship": 0
+                },
+                {
+                    "name": "Life's a (Meat)Ball",
+                    "id": "lady.friendship.6",
+                    "objectives": [
+                        "Are those giant meatballs in the middle of Lady and Tramp's House?\r\n  \u2027 Talk to Lady.",
+                        "Are those giant meatballs in the middle of Lady and Tramp's House?\r\n  \u2027 Dig out and gather the Magical Meatballs\r\n  \u2027 Show the Magical Meatballs to Lady.",
+                        "Lady smelled Magical Meatballs in Ursula's House.",
+                        "Check inside Ursula's House.",
+                        "Dig out and gather 9 more Magical Meatballs in Ursula's House.",
+                        "Bring the Magical Meatballs to Lady in Ursula's House.",
+                        "Investigate Goofy's House for Magical Meatballs.",
+                        "Dig out and gather 9 more Magical Meatballs in Goofy's House.",
+                        "Bring the Magical Meatballs to Lady in Goofy's House.",
+                        "Investigate Mickey's House for more Magical Meatballs.",
+                        "Dig out and gather 9 more Magical Meatballs in Mickey's House.",
+                        "Bring the Magical Meatballs to Lady.",
+                        "Another Memory appeared!\r\n  \u2027 Inspect the Memory in Mickey's House.",
+                        "Return to Lady."
+                    ],
+                    "rewards": [
+                        "Giant Meatball",
+                        "Edible Magic Meatball",
+                        "Unlock Giant Meatball recipe",
+                        "Dreamlight Valley Memory shard"
+                    ],
+                    "dlc": false,
+                    "friendship": 0
+                },
+                {
+                    "name": "A Curious Dish",
+                    "id": "lady.friendship.7",
+                    "objectives": [
+                        "You fished up a strange Shiny Tomato...?",
+                        "Talk to Lady.- ",
+                        "You fished up a strange Shiny Tomato...?\r\n  \u2027 Talk to a chef or a wizard about them.",
+                        "Fish out 6 more Shiny Tomatoes from the Peaceful Meadow, Glade of Trust, and Forest of Valor.",
+                        "Bring every Shiny Tomato you found to Lady.",
+                        "Cook a dish combining the Rolling Spaghetti, Magical Meatballs, and Shiny Tomato Sauce.",
+                        "Make sure to carry the Memorable Spaghetti and Meatballs in your Inventory.",
+                        "Go to Lady and Tramp's House with the Memorable Spaghetti and Meatballs.",
+                        "Give the Memorable Spaghetti and Meatballs plate to Lady.",
+                        "A Memory appeared in Lady and Tramp's House!\r\n  \u2027 Examine the Memory.",
+                        "A curious, shiny license appeared in Lady and Tramp's House!\r\n  \u2027 Pick up the Pluto's License.\r\n  \u2027 Show the the Pluto's License to Lady.",
+                        "Reassemble the Well-Worn Dog Collar and Pluto's License at a Crafting Station.\r\n  \u2027 Show Pluto's collar to Lady."
+                    ],
+                    "rewards": [
+                        "Saucery Extract",
+                        "Pluto's Collar",
+                        "Unlock Saucery Extract recipe",
+                        "Dreamlight Valley Memory shard"
+                    ],
+                    "dlc": false,
+                    "friendship": 0
+                }
+            ]
+        },
+        {
+            "icon": "star",
+            "name": "lady.realm",
+            "quests": [
+                {
+                    "name": "The Jailbreak",
+                    "id": "lady.realm.1",
+                    "objectives": [
+                        "Talk to Lady inside the dog pound.",
+                        "Find a tunnel to explore beyond your kennel.",
+                        "Collect items from the other kennel.\r\n  \u2027 Find the Old Rope.\r\n  \u2027 Remove the Coat Hook from the wall with your Pickaxe.\r\n  \u2027 Collect the Coat Hook.",
+                        "Craft the Old Rope and Coat Hook into a tool to retrieve the Kennel Key.",
+                        "Use the Improvised Grappling Hook to grab the Kennel Key in the corner of the cell.",
+                        "Pick up the Kennel Key.",
+                        "Talk to Lady to complete your escape plans.",
+                        "Use the Kennel Key in the kennel lock.",
+                        "Follow Lady to the dog pound exit.",
+                        "Talk to Lady.",
+                        "Open the door to escape the dog pound.",
+                        "Search for Tramp behind Tony's.",
+                        "Where could Tramp be? Check with Lady.",
+                        "Leave the Realm and check in with Merlin.",
+                        "Talk to Merlin for ideas on how to solve your sticky spaghetti issues.",
+                        "Collect the materials you need to craft a Substitute Snout.\r\n  \u2027 6 Raspberry.\r\n  \u2027 4 Blue Falling Penstemon.\r\n  \u2027 4 Purple Falling Penstemon.\r\n  \u2027 10 Soil.\r\n  \u2027 1 Topaz.",
+                        "Return to the Lady and the Tramp Realm to collect the final Ingredient for the Substitute Snout.",
+                        "Talk to Lady about creating the Substitute Snout.",
+                        "Collect 12 Saucery Extract to complete your Substitute Snout.",
+                        "Craft the Substitute Snout.",
+                        "Dress up with the Substitute Snout.",
+                        "Talk to Lady about sniffing out Tramp.",
+                        "Follow the scent trail to find Tramp.",
+                        "Tramp's stuck! Talk to Lady to figure out what to do.",
+                        "Use your Shovel to reach Tramp."
+                    ],
+                    "rewards": [
+                        "Substitute Snout"
+                    ],
+                    "dlc": false,
+                    "friendship": 0
+                },
+                {
+                    "name": "Critters and Compassion",
+                    "id": "lady.realm.2",
+                    "objectives": [
+                        "Talk to Lady. (Check the table behind Tony's Restaurant.)",
+                        "Re-order the jumbled Memory in the Lady and the Tramp Realm.\r\n  \u2027 (Either interact with the Puzzle Orb or check the Collection menu.)",
+                        "Talk to Lady about the fond memory.",
+                        "Go back inside the dog pound.",
+                        "Talk to Lady and work out an escape plan for the critters.",
+                        "Take a picture of the lock.",
+                        "Talk to Lady to show her the picture you took.",
+                        "Leave the dog pound.",
+                        "Talk to Lady about making a new key.",
+                        "Find and collect 5 Giant Cheeses:\r\n  \u2027 Massive Mozzarella.\r\n  \u2027 Gorgeous Gorgonzola.\r\n  \u2027 Perfect Parmesan.\r\n  \u2027 Fabulous Fontina.\r\n  \u2027 Astounding Asiago.",
+                        "Cook Magical Melted Cheese.",
+                        "Check with Lady whether she found any extra crafting materials.",
+                        "Craft the Cheese Key.",
+                        "Return to the dog pound to free the critters.",
+                        "Talk to Lady about the key.",
+                        "Use the Cheese Key to open the critters' kennel door.",
+                        "Talk to Lady about the critters.",
+                        "Something is odd about the dog bed at the back of the kennel. Investigate it.",
+                        "Talk to Lady about what you experienced.",
+                        "Time to get out of here! Leave the dog pound.",
+                        "Talk to Lady.",
+                        "Use your Pickaxe to break through to the Realm Exit.\r\n  \u2027 (Use your Substitute Snout for a hint where to go.)",
+                        "Meet up with Lady at the Realm Exit. (You may have to clear a path for both of you to get there.)",
+                        "Talk to Lady.",
+                        "Leave the Realm and return to Dreamlight Valley.",
+                        "Talk to Lady to see if she remembers this place."
+                    ],
+                    "rewards": [
+                        "Unlock Lady"
+                    ],
+                    "dlc": false,
+                    "friendship": 0
                 }
             ]
         },
@@ -14977,6 +15774,142 @@
         },
         {
             "icon": "star",
+            "name": "pocahontas.friendship",
+            "quests": [
+                {
+                    "name": "The Three Sisters Garden",
+                    "id": "pocahontas.friendship.1",
+                    "objectives": [
+                        "Gather the materials needed to set up Pocahontas's garden:\r\n  \u2027 12 Soil.\r\n  \u2027 10 Pebbles.\r\n  \u2027 10 Softwood.",
+                        "Craft the Garden Setup.",
+                        "Make sure you have the Garden Setup in your Inventory.",
+                        "Meet Pocahontas inside her Yehakin.",
+                        "Bring the Garden Setup to Pocahontas.",
+                        "Go to WALL-E's House.",
+                        "Talk to WALL-E.",
+                        "Gather the following:\r\n  \u2027 5 Seaweed.\r\n  \u2027 2 Shrimp.",
+                        "Bring the Seaweed and Shrimp to Pocahontas.",
+                        "Dig out the 3 Three Sisters Seeds near the river in the Forest of Valor.",
+                        "Bring the Three Sisters Seeds to Pocahontas.",
+                        "Gather the following Ingredients:\r\n  \u2027 Plant the 3 Three Sisters Seeds and harvest after 5 minutes.\r\n  \u2027 3 Onion.\r\n  \u2027 3 Any spice.",
+                        "Cook the 3 Succotash.",
+                        "Make sure the 3 Succotash is in your Inventory.",
+                        "Bring the 3 Succotash to Pocahontas.",
+                        "Place the Powhatan Picnic in the Valley.",
+                        "Gather together with Pocahontas and WALL-E.",
+                        "Talk to Pocahontas."
+                    ],
+                    "rewards": [
+                        "Powhatan Picnic"
+                    ],
+                    "dlc": false,
+                    "friendship": 2
+                },
+                {
+                    "name": "Working Together",
+                    "id": "pocahontas.friendship.2",
+                    "objectives": [
+                        "Go to the Dream Castle.",
+                        "Listen to Stitch and Cogsworth's argument.",
+                        "Talk to Pocahontas.",
+                        "Take pictures of the Valley to inspire Cogsworth and Stitch.\r\n  \u2027 The Wishing Well in the Plaza.\r\n  \u2027 One of the ponds in the Peaceful Meadow.\r\n  \u2027 The bridge of the Frosted Heights.",
+                        "Show the pictures to Pocahontas.",
+                        "Gather the flowers to create the Imperfect Bouquet.\r\n  \u2027 5 Dandelion.\r\n  \u2027 3 Black Passion Lily.\r\n  \u2027 3 Green Rising Penstemon.",
+                        "Bring the flowers to Pocahontas to create the Imperfect Bouquet.",
+                        "Get the materials for the Stage Repair Kit:\r\n  \u2027 Stage Blueprint (inside the Beast's House).\r\n  \u2027 10 Hardwood.\r\n  \u2027 4 Iron Ingot.\r\n  \u2027 3 Rope.",
+                        "Craft the Stage Repair Kit at a Crafting Station.",
+                        "Dress up in Casual clothes to help repair the stage:\r\n  \u2027 Casual Top.\r\n  \u2027 Casual Pants.",
+                        "Return to the Dream Castle.",
+                        "Watch Stitch and Cogsworth practicing.",
+                        "Give the Stage Repair Kit to Pocahontas.",
+                        "Place the Moontide Glow Stage on Dazzle Beach.",
+                        "Celebrate repairing the stage for the Celestial Celebration on Dazzle Beach.",
+                        "Talk to Pocahontas."
+                    ],
+                    "rewards": [
+                        "Imperfect Bouquet",
+                        "Moontide Glow Stage"
+                    ],
+                    "dlc": false,
+                    "friendship": 4
+                },
+                {
+                    "name": "A Little Algae Problem",
+                    "id": "pocahontas.friendship.3",
+                    "objectives": [
+                        "Ask some Villagers to help gather the Glowing Algae:\r\n  \u2027 Talk to Jasmine.\r\n  \u2027 Talk to Cinderella.\r\n  \u2027 Talk to Mother Gothel.",
+                        "Go to Pocahontas's Yehakin.",
+                        "Use the boating gear in Pocahontas's Yehakin to go to Moontide Island.",
+                        "Talk to Pocahontas.",
+                        "Clear the rocks on Moontide Island",
+                        "Talk to Pocahontas.",
+                        "Gather Glowing Algae by digging around Moontide Island",
+                        "Bring the Glowing Algae to Pocahontas.",
+                        "Gather the following materials:\r\n  \u2027 15 Softwood.\r\n  \u2027 10 Hardwood.\r\n  \u2027 6 Clay.\r\n  \u2027 4 Glass.\r\n  \u2027 1 Special Resin (inside Pocahontas's Yehakin).",
+                        "Bring the materials to Jasmine.",
+                        "Pocahontas went looking for the algae-eating creature! Find her on Moontide Island.",
+                        "Talk to Pocahontas.",
+                        "Remove the rocks to reach the beast hiding in the cave on Moontide Island.",
+                        "Talk to Mike Wazowski.",
+                        "Follow Mike to the boat.",
+                        "Get on the boat and fish around Moontide Island.\r\n  \u2027 5 Glowing Algae.",
+                        "(Optional) Talk with Mike Wazowski.\r\n  \u2027 5 Glowing Algae.",
+                        "Bring the Glowing Algae to Pocahontas.",
+                        "Take a picture with Pocahontas, Jasmine, Cinderella, and Mike on Moontide Island.",
+                        "Talk to Pocahontas."
+                    ],
+                    "rewards": [
+                        "Imperfect Bouquet",
+                        "Moontide Glow Stage"
+                    ],
+                    "dlc": false,
+                    "friendship": 7
+                },
+                {
+                    "name": "A Raccoon's Return",
+                    "id": "pocahontas.friendship.4",
+                    "objectives": [
+                        "Put the Moontide Glow decorations on Dazzle Beach:\r\n  \u2027 4 Moontide Glow Lamppost.\r\n  \u2027 1 Moontide Glow Banner.",
+                        "Talk to Pocahontas.",
+                        "Investigate inside the Cursed Cave.",
+                        "Take a picture of the paw prints inside the Cursed Cave.",
+                        "Talk to Pocahontas.",
+                        "Gather the following materials for the Moontide Glow Necklace:\r\n  \u2027 5 Glass.\r\n  \u2027 5 Fiber.\r\n  \u2027 5 White Impatiens.\r\n  \u2027 5 Glowing Algae\r\n\t\t(Hint: You can fish and dig for Glowing Algae on Dazzle Beach.)",
+                        "Bring the materials to Pocahontas.",
+                        "Bring a Moontide Glow Necklace to the following Villagers:\r\n  \u2027 Cinderella.\r\n  \u2027 Mike.\r\n  \u2027 WALL-E.",
+                        "Talk to Pocahontas in the Cursed Cave.",
+                        "Put on the Moontide Glow Necklace.",
+                        "Put on black clothes.",
+                        "Follow the paw prints on Dazzle Beach.",
+                        "Talk to Pocahontas.",
+                        "Talk to Merlin.",
+                        "Gather the following materials to make Raccoon Bait:\r\n  \u2027 3 Gooseberries.\r\n  \u2027 3 Raspberries.\r\n  \u2027 3 Blueberries.\r\n  \u2027 5 Fiber.\r\n  \u2027 5 Dream Shard.",
+                        "Craft the Raccoon Bait at a Crafting Station.",
+                        "Make sure the Raccoon Bait is in your Inventory.",
+                        "Bring the Raccoon Bait to Pocahontas.",
+                        "Follow Pocahontas to the dock on Dazzle Beach.",
+                        "Talk to Pocahontas.",
+                        "There was a letter stuck to Meeko's fur! Investigate the letter in your Inventory.",
+                        "Talk to Pocahontas."
+                    ],
+                    "rewards": [
+                        "Tan Embroidered Jacket",
+                        "Embroidered Jeans",
+                        "Embroidered Mukluks",
+                        "Beaded Earrings",
+                        "Moontide Glow Waves",
+                        "Meeko",
+                        "4 Moontide Glow Lamppost",
+                        "Moontide Glow Banner",
+                        "Glowing Necklace"
+                    ],
+                    "dlc": false,
+                    "friendship": 10
+                }
+            ]
+        },
+        {
+            "icon": "star",
             "name": "princeeric.friendship",
             "quests": [
                 {
@@ -18482,6 +19415,193 @@
         },
         {
             "icon": "star",
+            "name": "tramp.friendship",
+            "quests": [
+                {
+                    "name": "Not Your Average Squeaky Toy",
+                    "id": "tramp.friendship.1",
+                    "objectives": [
+                        "Talk to Woody.",
+                        "Visit Buzz's RV.",
+                        "Clean up the 5 mess in Buzz's RV.",
+                        "Talk to Woody in Buzz's RV.",
+                        "Gather Ingredients for the Plastic Filler:\r\n  \u2027 10 Sugarcane.\r\n  \u2027 10 Wheat.",
+                        "Make sure you have the Ingredients for the 'Plastic Filler to repair Buzz's RV.\r\n  \u2027 10 Sugarcane.\r\n  \u2027 10 Wheat.",
+                        "Bring the Ingredients for the Plastic Filler to Woody in Buzz's RV.",
+                        "Talk to Mirabel.",
+                        "Talk to Tramp.",
+                        "Put the 10 Elegant White Fences down anywhere in the Valley to make a dog park for Tramp. ",
+                        "Talk to Tramp.",
+                        "Visit Lady and Tramp's House.",
+                        "Pick up the 4 Dog Toy Wheels inside Lady and Tramp's House.",
+                        "Gather the remaining materials to craft the Edwardian Dog Toy:\r\n  \u2027 40 Stone.\r\n  \u2027 30 Fiber.\r\n  \u2027 4 Dog Toy Wheels.\r\n  \u2027 2 Peridot.",
+                        "Craft the Edwardian Dog Toy.",
+                        "Place the Edwardian Dog Toy anywhere in the Valley.",
+                        "Take a picture of Tramp near his new dog toy.",
+                        "Talk to Tramp."
+                    ],
+                    "rewards": [
+                        "Edwardian Dog Toy",
+                        "50 Elegant White Fence (50)",
+                        "Unlock Elegant White Fence"
+                    ],
+                    "dlc": true,
+                    "friendship": 2
+                },
+                {
+                    "name": "Cleanliness Is Next to Dogliness",
+                    "id": "tramp.friendship.2",
+                    "objectives": [
+                        "Go inside Lady and Tramp's House.",
+                        "Talk to Lady.",
+                        "Use your Royal Watering Can to clean up the mess in Lady and Tramp's House",
+                        "Pick up the special soil left behind from Tramp's mess",
+                        "Talk to Daisy inside her House.",
+                        "Plant the flower seeds that Daisy gave you:\r\n  \u2027 5 Fragrant Hydrangeas.\r\n  \u2027 5 Fragrant Purple Rising Penstemons.",
+                        "Water the flowers with the Royal Watering Can and wait 5 minutes as they grow.\r\n  \u2027 5 Fragrant Hydrangeas.\r\n  \u2027 5 Fragrant Purple Rising Penstemons.",
+                        "Harvest the Fragrant Flowers for Daisy.\r\n  \u2027 Return to Daisy's House to give her the Fragrant Flowers.\r\n  \u2027 5 Fragrant Hydrangeas.\r\n  \u2027 5 Fragrant Purple Rising Penstemons.",
+                        "Order an Edwardian Dog Bath from Scrooge for 5,000 Star Coins.",
+                        "Bring the Edwardian Dog Bath to Daisy.",
+                        "Bring the Edwardian Dog Bath to Daisy in her House.",
+                        "Put the Heavy-Duty Dog Shampoo in the Edwardian Dog Bath",
+                        "Gather Ingredients for Mike's cologne:\r\n  \u2027 Clam.\r\n  \u2027 Seaweed.\r\n  \u2027 Infused Rich Soil.\r\n  \u2027 Wet Fur.",
+                        "Cook the Eau-de-Chien-Soggy.",
+                        "Be sure to have the Eau-de-Chien-Soggy in your Inventory.",
+                        "Bring the Eau-de-Chien-Soggy to Mike Wazowski.",
+                        "Go see Daisy inside her House.",
+                        "Talk to Tramp."
+                    ],
+                    "rewards": [
+                        "Edwardian Dog Bath"
+                    ],
+                    "dlc": true,
+                    "friendship": 4
+                },
+                {
+                    "name": "And How Did That Make You Feel?",
+                    "id": "tramp.friendship.3",
+                    "objectives": [
+                        "Put flags in the Biomes for Timon and Tramp.\r\n  \u2027 Red Flag on the Sunlit Plateau.\r\n  \u2027 Blue Flag in the Forest of Valor.",
+                        "Talk to Tramp.",
+                        "Talk to Joy.",
+                        "Fish out Joy's Wet Blanket from a pond in the Peaceful Meadow.",
+                        "Be sure you have Joy's Wet Blanket with you.",
+                        "Bring Joy's Wet Blanket back to Joy.",
+                        "Go inside the Emotion's Headquarters.",
+                        "Set up the discussion zone with Joy's Comfy Blanket and Sadness's Tissue Box in the middle of the room.",
+                        "Talk to Tramp.",
+                        "Re-order the jumbled Memory by touching the Orb inside the Emotion's Headquarters.\r\n  \u2027 You can find the puzzle Memory inside the Quest Puzzles section of the Collection menu.",
+                        "Talk to Tramp.",
+                        "Gather resources to craft a Zoo Fountain:\r\n  \u2027 20 Dry Wood.\r\n  \u2027 20 Stone.\r\n  \u2027 5 Brick.",
+                        "Craft the Zoo Fountain.",
+                        "Place the Zoo Fountain in the Valley.",
+                        "Play in the Zoo Fountain with Tramp, Timon, and Pumbaa.",
+                        "Talk to Tramp."
+                    ],
+                    "rewards": [
+                        "Zoo Fountain"
+                    ],
+                    "dlc": true,
+                    "friendship": 7
+                },
+                {
+                    "name": "Canine Archaeology",
+                    "id": "tramp.friendship.4",
+                    "objectives": [
+                        "Follow Tramp to the mysterious buried object on the Sunlit Plateau.\r\n  \u2027 (Hint: Put on the Substitute Snout to sniff the location.)",
+                        "Dig out and pick up the mysterious buried object.",
+                        "Talk to Tramp.",
+                        "Follow Tramp to the next piece of the statue.",
+                        "Fish the object out of the water on Dazzle Beach.",
+                        "Talk to Tramp.",
+                        "Talk to Nala about the missing statue pieces.",
+                        "Follow Tramp.",
+                        "Chase away the 3 ravens from the final piece of the statue.",
+                        "Dig up the final piece of the statue.\r\n  \u2027 (Hint: Put on the Substitute Snout to sniff out the location too.)",
+                        "Visit Lady and Tramp's House.",
+                        "Assemble the pieces of the Lady and Tramp Statue.",
+                        "Talk to Tramp.",
+                        "Talk to Cogsworth.",
+                        "Use the Metal Polish to clean up the Lady and Tramp Statue inside their House.",
+                        "Talk to Tramp."
+                    ],
+                    "rewards": [
+                        "1790 Friendship",
+                        "Tramp Button-Down and Trousers",
+                        "Scruffy Cap",
+                        "Tramp Shoes",
+                        "Charming Tramp Goatee",
+                        "Charming Tramp Moustache",
+                        "Golden Lady and Tramp Statue"
+                    ],
+                    "dlc": true,
+                    "friendship": 10
+                }
+            ]
+        },
+        {
+            "icon": "star",
+            "name": "tramp.realm",
+            "quests": [
+                {
+                    "name": "Canine Courtship",
+                    "id": "tramp.realm.1",
+                    "objectives": [
+                        "Explore the Lady and the Tramp Realm.",
+                        "Tramp is here! Talk to him.",
+                        "Search through garbage cans surrounded by debris as well as the alleys and streets to find supplies to make a more suitable outfit.\r\n  \u2027 4 Old Stuffing.\r\n  \u2027 4 Old Paper.\r\n  \u2027 4 Fabric.",
+                        "Use the Crafting Station in the back alley to make a suitable outfit:\r\n  \u2027 Tony's Shirt.\r\n  \u2027 Tony's Apron.",
+                        "Dress up in your new outfit.\r\n  \u2027 Tony's Shirt.\r\n  \u2027 Tony's Apron.",
+                        "Show Tramp your new outfit.",
+                        "Open the gate to the right of Tony's to get behind the restaurant.",
+                        "Follow Tramp to the place where he wants to re-enact his first date with Lady.",
+                        "Talk to Lady about her first date with Tramp.",
+                        "Prepare for Lady and Tramp's date.\r\n  \u2027 Cook Spaghetti Especialle using some of the Ingredients from the stall.\r\n  \u2027 Find a nice tablecloth for the table.\r\n  \u2027 Find some candles to set a romantic mood.\r\n  \u2027 Place the Spaghetti Especialle, Red and White Tablecloth, and Romantic Candles on the table.",
+                        "Interact with the table to light the candles.",
+                        "What a beautiful night! Take a picture of Lady and Tramp together as a souvenir.",
+                        "Listen to Tramp and Lady.",
+                        "Oh no, the dogcatcher caught Lady! Talk to Tramp.",
+                        "Follow Tramp to the dog pound area.",
+                        "Avoid the spotlights to reach the lever that turns them off.",
+                        "Meet up with Tramp.\r\n  \u2027 Talk to Tramp.",
+                        "Move the ladder so you can reach the window.",
+                        "Use the ladder to enter the dog pound."
+                    ],
+                    "rewards": [
+                        "Tony's Apron",
+                        "Tony's Shirt"
+                    ],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Meatballs",
+                    "id": "tramp.realm.2",
+                    "objectives": [
+                        "Wear the Substitute Snout to sniff out trouble in the Lady and the Tramp Realm.",
+                        "Follow the scent trail to the source of the storm.",
+                        "Oops! The storm divided itself into many Spaghetti Tumbleweeds. Chase and eat them until you find the source of the storm.",
+                        "Pick up the Well-Worn Dog Collar.",
+                        "Make sure you have the Well-Worn Dog Collar in your Inventory.",
+                        "Show the Well-Loved Dog Collar to Tramp.",
+                        "Leave the Realm and return to Dreamlight Valley.",
+                        "Place Lady and Tramp's House.",
+                        "Use the Scrooge McDuck Sign to pay for the construction of Lady and Tramp's House.",
+                        "Welcome Tramp! But where's Lady?",
+                        "Tramp has arrived, but where's Lady? Check in with Tramp."
+                    ],
+                    "rewards": [
+                        "Unlock Tramp",
+                        "Lady and Tramp's House",
+                        "Well-Worn Dog Collar"
+                    ],
+                    "dlc": true,
+                    "friendship": 0
+                }
+            ]
+        },
+        {
+            "icon": "star",
             "name": "ursula.friendship",
             "quests": [
                 {
@@ -19188,6 +20308,30 @@
             "type": "Desserts"
         },
         {
+            "name": "101 Teeny Tiny Dalmatian Cupcakes",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 460,
+            "sellPrice": 460,
+            "energy": 862,
+            "ingredients": [
+                "Dark Chocolate Coffee Beans",
+                "Egg",
+                "Wheat",
+                "Sugarcane"
+            ],
+            "description": "Fortunately, these teeny tiny cupcakes are as tasty as they are tiny.",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "name": "A Very Unusual Tea Time",
             "type": "\u00a0Entr\u00e9es",
             "icon": "star",
@@ -19212,6 +20356,30 @@
             "rarity": "none"
         },
         {
+            "name": "Afternoon Tea Set",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 235,
+            "sellPrice": 235,
+            "energy": 985,
+            "ingredients": [
+                "Dark Chocolate Coffee Beans",
+                "Pearly Barley",
+                "Vegetables",
+                "Pincushion Peach"
+            ],
+            "description": "The perfect spread of delicate finger foods for a delightful sit-down.",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "name": "Ajiaco",
             "type": "\u00a0Entr\u00e9es",
             "icon": "star",
@@ -19229,6 +20397,28 @@
             ],
             "description": "A delicious Colombian soup made with chicken and potatoes. \n",
             "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Alpine Fishcakes",
+            "type": "Appetizers",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 1027,
+            "sellPrice": 1027,
+            "energy": 2370,
+            "ingredients": [
+                "Red Alpine Bass",
+                "Dill"
+            ],
+            "description": "These festive fishcakes are a Wishing Alps delicacy.",
+            "stars": 2,
             "activity": [
                 "recipes"
             ],
@@ -19581,6 +20771,28 @@
             "rarity": "none"
         },
         {
+            "name": "Baked Whitefish and Roasted Beets",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 66,
+            "sellPrice": 66,
+            "energy": 400,
+            "ingredients": [
+                "Mountain Whitefish",
+                "Beetroot"
+            ],
+            "description": "Fresh, moist whitefish on a bed of baked beets, garnished with lemon.",
+            "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "recipes"
             ],
@@ -19790,6 +21002,99 @@
             "type": "\u00a0Entr\u00e9es",
             "biome": "Dreamlight Valley",
             "sellPrice": 1
+        },
+        {
+            "name": "Beauty and the Beets Napoleon",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 1109,
+            "sellPrice": 1109,
+            "energy": 2782,
+            "ingredients": [
+                "Beetroot",
+                "Butter",
+                "Egg",
+                "Milk",
+                "Red Currants"
+            ],
+            "description": "A luscious treat with tangy red currants and earthy beets. Who says you can't have dessert before dinner?",
+            "stars": 5,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Beet Brownie Stack",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 363,
+            "sellPrice": 363,
+            "energy": 826,
+            "ingredients": [
+                "Beetroot",
+                "Egg",
+                "Sweets"
+            ],
+            "description": "These chewy chocolate brownies have a not-so-secret ingredient.",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Beet Sugar Sculpture",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 51,
+            "sellPrice": 51,
+            "energy": 223,
+            "ingredients": [
+                "Beetroot",
+                "Sugarcane"
+            ],
+            "description": "Is it dessert? Is it art? No matter what, it makes a beautiful centerpiece.",
+            "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Beet-iful Spaetzle",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 339,
+            "sellPrice": 339,
+            "energy": 778,
+            "ingredients": [
+                "Wheat",
+                "Beetroot",
+                "Egg"
+            ],
+            "description": "Chewy spaetzle noodles in a vivid purple beet sauce.",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
         },
         {
             "activity": [
@@ -20151,6 +21456,30 @@
             "rarity": "none"
         },
         {
+            "name": "Bread Bowl Pumpkin Soup",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 3901,
+            "sellPrice": 3901,
+            "energy": 4153,
+            "ingredients": [
+                "Tigger Fish",
+                "Fairy Kamut",
+                "Pumpkin",
+                "Milk"
+            ],
+            "description": "A creamy pumpkin soup served in a crusty bread bowl. So comforting!",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "name": "Bulgur Salad",
             "type": "\u00a0Appetizers",
             "icon": "star",
@@ -20219,6 +21548,52 @@
             ],
             "description": "Curried chicken marinated in spices, tomatoes, and butter, with some rice on the side. \n",
             "stars": 5,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Buttermilk Borscht",
+            "type": "Appetizers",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 766,
+            "sellPrice": 766,
+            "energy": 1656,
+            "ingredients": [
+                "Beetroot",
+                "Egg",
+                "Milk",
+                "Dill"
+            ],
+            "description": "This bright purple soup is best garnished with sour cream and fresh dill. Delicious hot or cold!",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Button Stew",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 135,
+            "sellPrice": 135,
+            "energy": 375,
+            "ingredients": [
+                "Button Mushroom",
+                "Carrot"
+            ],
+            "description": "A hearty stew of mushrooms and carrots - perfect for after a long day at the sewing machine.",
+            "stars": 2,
             "activity": [
                 "recipes"
             ],
@@ -21736,6 +23111,29 @@
             "rarity": "none"
         },
         {
+            "name": "Eton Mess",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 407,
+            "sellPrice": 407,
+            "energy": 1994,
+            "ingredients": [
+                "Red Currants",
+                "Pincushion Peach",
+                "Egg"
+            ],
+            "description": "A traditional English school meal, the Eton Mess balances tart fruit against a sweet meringue.",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "name": "Fabulous Fajitas",
             "type": "\u00a0Entr\u00e9es",
             "icon": "star",
@@ -21782,6 +23180,76 @@
             "rarity": "none"
         },
         {
+            "name": "Fairy Boot Cake",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 1212,
+            "sellPrice": 1212,
+            "energy": 2052,
+            "ingredients": [
+                "Fairy Kamut",
+                "Honey Coral",
+                "Egg",
+                "Butter",
+                "Dark Chocolate Coffee Beans"
+            ],
+            "description": "This boot is so realistic that some people have tried to wear it, only to get frosting stuck between their toes!",
+            "stars": 5,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Fairy Bread",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 243,
+            "sellPrice": 243,
+            "energy": 360,
+            "ingredients": [
+                "Fairy Kamut",
+                "Fairy Sprinkles"
+            ],
+            "description": "Slices of bread covered in sugary rainbow sprinkles. A sweet and crunchy treat!",
+            "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Fairy Wands",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 229,
+            "sellPrice": 229,
+            "energy": 1028,
+            "ingredients": [
+                "Bonsai Star Fruit",
+                "Lollipop Fruit",
+                "Fruit"
+            ],
+            "description": "They won't perform actual magic, but they do taste enchanting!",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "name": "Falafel",
             "type": "\u00a0Appetizers",
             "icon": "star",
@@ -21799,6 +23267,92 @@
             ],
             "description": "A tasty vegetarian dish made from fried chickpeas. \n",
             "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Felted Breakfast Spread",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 1022,
+            "sellPrice": 1022,
+            "energy": 2597,
+            "ingredients": [
+                "Button Mushroom",
+                "Egg",
+                "Satin-Finned Betta"
+            ],
+            "description": "A hearty breakfast spread of salted fish, eggs and mushrooms - just pick the threads from your teeth later.",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Festive Blueberry Hot Cocoa",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Dreamlight Valley"
+            ],
+            "biome": "Dreamlight Valley",
+            "price": 491,
+            "sellPrice": 491,
+            "energy": 1647,
+            "ingredients": [
+                "{{name|Sugarcane}}<br>\n{{name|Milk}}<br>\n{{name|Festive Cocoa Bean}}<br>\n{{name|Blueberry}}"
+            ],
+            "description": "|type=Meal",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Festive Cherry Hot Cocoa",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Dreamlight Valley"
+            ],
+            "biome": "Dreamlight Valley",
+            "price": 511,
+            "sellPrice": 511,
+            "energy": 1932,
+            "ingredients": [
+                "{{name|Sugarcane}}<br>\n{{name|Milk}}<br>\n{{name|Festive Cocoa Bean}}<br>\n{{name|Cherry}}"
+            ],
+            "description": "|type=Meal",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Festive Mint Hot Cocoa",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Dreamlight Valley"
+            ],
+            "biome": "Dreamlight Valley",
+            "price": 523,
+            "sellPrice": 523,
+            "energy": 1276,
+            "ingredients": [
+                "{{name|Sugarcane}}<br>\n{{name|Milk}}<br>\n{{name|Festive Cocoa Bean}}<br>\n{{name|Mint}}"
+            ],
+            "description": "|type=Meal",
+            "stars": 4,
             "activity": [
                 "recipes"
             ],
@@ -22052,6 +23606,53 @@
             "sellPrice": 412
         },
         {
+            "name": "Fishy Pineapple Jelly",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 2767,
+            "sellPrice": 2767,
+            "energy": 5625,
+            "ingredients": [
+                "Measuring-Tape Snail",
+                "Jellied Fish",
+                "Crab",
+                "Scarlet Kale",
+                "Fish"
+            ],
+            "description": "Though something of an acquired taste, this dish has quite the number of die-hard fans.",
+            "stars": 5,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Fizzy Nectar Soda",
+            "type": "Appetizers",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 247,
+            "sellPrice": 247,
+            "energy": 1197,
+            "ingredients": [
+                "Bonsai Star Fruit",
+                "Slush Ice"
+            ],
+            "description": "A fun drink full of sweet bubbles!",
+            "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "name": "Flying Fish Quenelles",
             "type": "\u00a0Entr\u00e9es",
             "icon": "star",
@@ -22115,6 +23716,30 @@
             ],
             "description": "Delectable French macarons with a classic filling. \n",
             "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Friendly Bento",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 2717,
+            "sellPrice": 2717,
+            "energy": 3877,
+            "ingredients": [
+                "Tigger Fish",
+                "Scarlet Kale",
+                "Honey Coral",
+                "Vegetables"
+            ],
+            "description": "A tidy lunchbox full of snacks shaped like good friends.",
+            "stars": 4,
             "activity": [
                 "recipes"
             ],
@@ -23004,6 +24629,52 @@
             "rarity": "none"
         },
         {
+            "name": "Honey Pancakes",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 555,
+            "sellPrice": 555,
+            "energy": 1263,
+            "ingredients": [
+                "Honey Coral",
+                "Wheat",
+                "Egg"
+            ],
+            "description": "A stack of sweet pancakes perfect for when your tumbly is rumbly.",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Honey-Glazed Carrots",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 362,
+            "sellPrice": 362,
+            "energy": 944,
+            "ingredients": [
+                "Honey Coral",
+                "Carrot",
+                "Dill"
+            ],
+            "description": "Carrots roasted with a sticky and shiny honey glaze.",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "name": "Honeydew Smoothie",
             "type": "\u00a0Appetizers",
             "icon": "star",
@@ -23042,6 +24713,29 @@
             ],
             "description": "A fondue that's as sweet as it is sour. \n",
             "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Horace's Ham Sandwich",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 326,
+            "sellPrice": 326,
+            "energy": 643,
+            "ingredients": [
+                "Pearly Barley",
+                "Cheese",
+                "Vegetables"
+            ],
+            "description": "Regretfully, the ham has already been stolen from this sandwich by a mischievous puppy.",
+            "stars": 3,
             "activity": [
                 "recipes"
             ],
@@ -23184,6 +24878,49 @@
             "rarity": "none"
         },
         {
+            "name": "Jellied Fish Terrine",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 1200,
+            "sellPrice": 1200,
+            "energy": 2450,
+            "ingredients": [
+                "Jellied Fish"
+            ],
+            "description": "An excellent picnic food - the terrine goes wonderfully with crackers or a fresh baguette.",
+            "stars": 1,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Jellied Salad",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 1337,
+            "sellPrice": 1337,
+            "energy": 2717,
+            "ingredients": [
+                "Jellied Fish",
+                "Scarlet Kale"
+            ],
+            "description": "Surprisingly, the crisp texture of the kale perfectly complements the soft jelly of the fish.",
+            "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "name": "Jerk Chicken",
             "type": "\u00a0Entr\u00e9es",
             "icon": "star",
@@ -23201,6 +24938,30 @@
                 "Any Spice"
             ],
             "description": "Chicken with a Jamaican twist! \n",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Joyful Meal",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Dreamlight Valley"
+            ],
+            "biome": "Dreamlight Valley",
+            "price": 120,
+            "sellPrice": 120,
+            "energy": 1938,
+            "ingredients": [
+                "Wheat",
+                "Blueberry",
+                "Raspberry",
+                "Banana"
+            ],
+            "description": "Something delicious to bring smiles to everyone!",
             "stars": 4,
             "activity": [
                 "recipes"
@@ -23226,6 +24987,28 @@
             ],
             "description": "You can taste the cinnamon just by looking at it. \n",
             "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Kanine Krunchies Cereal",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 107,
+            "sellPrice": 107,
+            "energy": 796,
+            "ingredients": [
+                "Pearly Barley",
+                "Pincushion Peach"
+            ],
+            "description": "This tasty cereal makes every meal a special treat! It can't be beat!",
+            "stars": 2,
             "activity": [
                 "recipes"
             ],
@@ -25205,6 +26988,55 @@
             "rarity": "none"
         },
         {
+            "name": "Pixie Ice Cream Dome Cake",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 554,
+            "sellPrice": 554,
+            "energy": 1489,
+            "ingredients": [
+                "Fairy Kamut",
+                "Fairy Sprinkles",
+                "Slush Ice",
+                "Red Currants"
+            ],
+            "description": "Every slice is bursting with tasty layers of cake, ice cream, and rainbow sprinkles.",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Pixie Pizza",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 718,
+            "sellPrice": 718,
+            "energy": 1268,
+            "ingredients": [
+                "Fairy Kamut",
+                "Cheese",
+                "Tomato",
+                "Fairy Sprinkles",
+                "Button Mushroom"
+            ],
+            "description": "Both flowery and floury, this pizza is topped with button mushrooms.",
+            "stars": 5,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "recipes"
             ],
@@ -25746,6 +27578,53 @@
             "sellPrice": 906
         },
         {
+            "name": "Red Currant Linzer Cookies",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 365,
+            "sellPrice": 365,
+            "energy": 1379,
+            "ingredients": [
+                "Wheat",
+                "Butter",
+                "Red Currants",
+                "Sugarcane"
+            ],
+            "description": "These special jam-filled cookies are a Wishblossom Ranch specialty.",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Red Currant Valley Cakes",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 676,
+            "sellPrice": 676,
+            "energy": 1895,
+            "ingredients": [
+                "Egg",
+                "Milk",
+                "Red Currants"
+            ],
+            "description": "Miniature cakes of iconic Valley buildings with red currants. (Your House never tasted so delicious!)",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "description": "A warm pie with a fruity red filling.",
             "energy": 1047,
             "icon": "star",
@@ -26035,6 +27914,27 @@
             "type": "\u00a0Desserts",
             "biome": "Dreamlight Valley",
             "sellPrice": 166
+        },
+        {
+            "name": "Rosehip Honey Tea",
+            "type": "Appetizers",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 210,
+            "sellPrice": 210,
+            "energy": 570,
+            "ingredients": [
+                "Honey Coral"
+            ],
+            "description": "This delicate and fragrant tea is enjoyed throughout the Wishblossom Mountains.",
+            "stars": 1,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
         },
         {
             "name": "Royal Burger",
@@ -26534,6 +28434,50 @@
             "type": "\u00a0Entr\u00e9es",
             "biome": "Dreamlight Valley",
             "sellPrice": 43
+        },
+        {
+            "name": "Scarlet Bouquet Salad",
+            "type": "Appetizers",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 34,
+            "sellPrice": 34,
+            "energy": 160,
+            "ingredients": [
+                "Scarlet Kale"
+            ],
+            "description": "This salad is so beautiful, you could send it in lieu of flowers.",
+            "stars": 1,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Scarlet Kale and Cheese Pinwheels",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 294,
+            "sellPrice": 294,
+            "energy": 694,
+            "ingredients": [
+                "Wheat",
+                "Scarlet Kale",
+                "Cheese"
+            ],
+            "description": "Crispy, cheesy, and kale-y. Delicious as an appetizer or snack!",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
         },
         {
             "name": "Schnitzel",
@@ -27040,6 +28984,30 @@
             "type": "\u00a0Entr\u00e9es",
             "biome": "Dreamlight Valley",
             "sellPrice": 380
+        },
+        {
+            "name": "Smoked Fish Charcuterie Spread",
+            "type": "Appetizers",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 191,
+            "sellPrice": 191,
+            "energy": 1321,
+            "ingredients": [
+                "Mountain Whitefish",
+                "Tuna",
+                "Fish",
+                "Wheat"
+            ],
+            "description": "This spread of smoked fish and local veggies is sure to please any party.",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
         },
         {
             "activity": [
@@ -27660,6 +29628,30 @@
             ],
             "description": "Squid sliced thinly and served with soy sauce. \n",
             "stars": 1,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Stargazy Pie",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 1953,
+            "sellPrice": 1953,
+            "energy": 5026,
+            "ingredients": [
+                "Measuring-Tape Snail",
+                "Satin-Finned Betta",
+                "Red Alpine Bass",
+                "Wheat"
+            ],
+            "description": "A classic English dish, the vertical position of the fish ensures that the oils properly flavor the pie.",
+            "stars": 4,
             "activity": [
                 "recipes"
             ],
@@ -28380,6 +30372,28 @@
             "rarity": "none"
         },
         {
+            "name": "Tigger Tails",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 253,
+            "sellPrice": 253,
+            "energy": 437,
+            "ingredients": [
+                "Lollipop Fruit",
+                "Fairy Sprinkles"
+            ],
+            "description": "The wonderful thing about Tigger Tails is you can have more than one!",
+            "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "name": "Tofu",
             "type": "\u00a0Entr\u00e9es",
             "icon": "star",
@@ -28936,6 +30950,31 @@
             "sellPrice": 427
         },
         {
+            "name": "Vintage Peach Trifle",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 544,
+            "sellPrice": 544,
+            "energy": 1752,
+            "ingredients": [
+                "Pincushion Peach",
+                "Milk",
+                "Pearly Barley",
+                "Sugarcane",
+                "Fruit"
+            ],
+            "description": "This variant on the traditional English treat uses Cruella's favorite Wishblossom ingredient - the Pincushion Peach.",
+            "stars": 5,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "recipes"
             ],
@@ -29194,6 +31233,48 @@
     ],
     "redeemables": [
         {
+            "code": "2025FRAMEANDMOTIFS",
+            "description": "rowspan=3 | These codes were shared by the developers during a 2025 Showcase stream.",
+            "icon": "star",
+            "items": [
+                "Dreamlight Photo Frame",
+                "Savannah Emblem Motif",
+                "Thorns Emblem Motif",
+                "Mushrooms Emblem Motif",
+                "Palm Trees Emblem Motif",
+                "Pillar Emblem Motif"
+            ],
+            "validy": "2025-11-18"
+        },
+        {
+            "code": "2025HEADBAND",
+            "description": "rowspan=3 | These codes were shared by the developers during a 2025 Showcase stream.",
+            "icon": "star",
+            "items": [
+                "Horsey Headband (2)"
+            ],
+            "validy": "2025-11-18"
+        },
+        {
+            "code": "2025SIGNPOST",
+            "description": "rowspan=3 | These codes were shared by the developers during a 2025 Showcase stream.",
+            "icon": "star",
+            "items": [
+                "Floral Alpine Signpost"
+            ],
+            "validy": "2025-11-18"
+        },
+        {
+            "code": "ARRPIRATETREASUREX",
+            "description": "Parts of the code were shared by the developers in a series of social media posts, each with a capitalized \"clue\". The details were shared in a developer news post titled \"The Great Social Treasure Hunt\".",
+            "icon": "star",
+            "items": [
+                "Treasure Hunt_2025_Frame"
+            ],
+            "validy": "2025-09-07",
+            "available": "2025-08-09"
+        },
+        {
             "code": "AUTUMNBUNDLE",
             "description": "x2 Pampas Grass Jug, x2 Bountiful Marigold Baske Autumn Wreath, Autumn Harvest Pennants",
             "icon": "star",
@@ -29281,6 +31362,17 @@
             "validy": "2024-11-20"
         },
         {
+            "code": "DDVPRIDE2026",
+            "description": "This code was shared by Gameloft in a news post titled \"Come celebrate Pride in the Valley\".",
+            "icon": "star",
+            "items": [
+                "Round Rainbow Garden",
+                "Butterfly Tiara"
+            ],
+            "validy": "9999-01-01",
+            "available": "2026-06-03"
+        },
+        {
             "code": "DDVPRIDE25",
             "description": "The codes were shared by the developers in a news post titled \"Celebrate Pride!\"",
             "icon": "star",
@@ -29302,6 +31394,21 @@
             "validy": "2024-11-20"
         },
         {
+            "code": "DDVUPDT17DRGLUON",
+            "description": "A series of codes were given to streamers, each with a different ending based on the streamer name. These codes share one redemption - after collecting items from one code the others will no longer redeem.",
+            "icon": "star",
+            "items": [
+                "5x Pixel Shard Duplicates",
+                "Miracle Fishing Bait",
+                "Miracle Growth Elixir",
+                "Miracle Pickaxe Polish",
+                "Miracle Shovel Varnish",
+                "Pixelized Cooking Flame"
+            ],
+            "validy": "2025-07-16",
+            "available": "2025-06-18"
+        },
+        {
             "code": "DDVUPDT17HYLIAN",
             "description": "A series of codes were given to streamers",
             "icon": "star",
@@ -29316,6 +31423,36 @@
             "validy": "9999-01-01"
         },
         {
+            "code": "DDVUPDT17JAMEST",
+            "description": "A series of codes were given to streamers, each with a different ending based on the streamer name. These codes share one redemption - after collecting items from one code the others will no longer redeem.",
+            "icon": "star",
+            "items": [
+                "5x Pixel Shard Duplicates",
+                "Miracle Fishing Bait",
+                "Miracle Growth Elixir",
+                "Miracle Pickaxe Polish",
+                "Miracle Shovel Varnish",
+                "Pixelized Cooking Flame"
+            ],
+            "validy": "2025-07-16",
+            "available": "2025-06-18"
+        },
+        {
+            "code": "DDVUPDT17TEEGSTAH",
+            "description": "A series of codes were given to streamers, each with a different ending based on the streamer name. These codes share one redemption - after collecting items from one code the others will no longer redeem.",
+            "icon": "star",
+            "items": [
+                "5x Pixel Shard Duplicates",
+                "Miracle Fishing Bait",
+                "Miracle Growth Elixir",
+                "Miracle Pickaxe Polish",
+                "Miracle Shovel Varnish",
+                "Pixelized Cooking Flame"
+            ],
+            "validy": "2025-07-16",
+            "available": "2025-06-18"
+        },
+        {
             "code": "DREAMLIGHTPARK",
             "description": "The code was shared inside a Disney Park Community Challenge blog post shared on the game's official website.",
             "icon": "star",
@@ -29324,6 +31461,16 @@
             ],
             "validy": "2023-05-31",
             "available": "2023-04-12"
+        },
+        {
+            "code": "EARTHDAY2026",
+            "description": "This code was shared by Gameloft in a social media post.",
+            "icon": "star",
+            "items": [
+                "Sycamore Tree"
+            ],
+            "validy": "9999-01-01",
+            "available": "2026-04-22"
         },
         {
             "code": "FOFCATCHDAY",
@@ -29571,6 +31718,16 @@
             "available": "2024-12-31"
         },
         {
+            "code": "INSIDEOUT2025GIFT",
+            "description": "Parts of the code were shared by the developers in a series of social media posts, each with a \"clue\". The code was shared in the fourth post.",
+            "icon": "star",
+            "items": [
+                "Memorable Rug"
+            ],
+            "validy": "2025-09-30",
+            "available": "2025-09-10"
+        },
+        {
             "code": "IO22024",
             "description": "Anxiety Emotion Bracelet, Embarrassment Emotion Bracelet, Ennui Emotio, Bracelet, Envy Emotion Bracelet",
             "icon": "star",
@@ -29582,6 +31739,71 @@
                 "Envy Emotion Bracelet"
             ],
             "validy": "2024-08-06"
+        },
+        {
+            "code": "JAMESTGIFT2025",
+            "description": "A series of codes were given to streamers, each with a different text based on the streamer name. These codes share one redemption - after collecting items from one code the others will no longer redeem.",
+            "icon": "star",
+            "items": [
+                "5x Pixel Shard Duplicates",
+                "Gingerbread House",
+                "Minnie's Gingerbread Cookies",
+                "Hot Cocoa",
+                "Fruitcake",
+                "Yule Log",
+                "Miracle Fishing Bait",
+                "Miracle Growth Elixir",
+                "Miracle Pickaxe Polish",
+                "Miracle Shovel Varnish",
+                "Pixelized Cooking Flame"
+            ],
+            "validy": "9999-01-01",
+            "available": "2025-12-10"
+        },
+        {
+            "code": "JNHRBEATEMUPS0603",
+            "description": "A welcome code given to streamers, each with a different text based on the streamer name. Other streamer codes share one redemption - after collecting items from one code the others will no longer redeem.",
+            "icon": "star",
+            "items": [
+                "5x Berry Salad",
+                "15x Stone",
+                "15x Softwood",
+                "10x Carrot Seed",
+                "10x Wheat Seed",
+                "10x Lettuce Seed"
+            ],
+            "validy": "9999-01-01",
+            "available": "2026-06-03"
+        },
+        {
+            "code": "JNHRMILADY0603",
+            "description": "A welcome code given to streamers, each with a different text based on the streamer name. Other streamer codes share one redemption - after collecting items from one code the others will no longer redeem.",
+            "icon": "star",
+            "items": [
+                "5x Berry Salad",
+                "15x Stone",
+                "15x Softwood",
+                "10x Carrot Seed",
+                "10x Wheat Seed",
+                "10x Lettuce Seed"
+            ],
+            "validy": "9999-01-01",
+            "available": "2026-06-03"
+        },
+        {
+            "code": "JNHRSYDMAC0603",
+            "description": "A welcome code given to streamers, each with a different text based on the streamer name. Other streamer codes share one redemption - after collecting items from one code the others will no longer redeem.",
+            "icon": "star",
+            "items": [
+                "5x Berry Salad",
+                "15x Stone",
+                "15x Softwood",
+                "10x Carrot Seed",
+                "10x Wheat Seed",
+                "10x Lettuce Seed"
+            ],
+            "validy": "9999-01-01",
+            "available": "2026-06-03"
         },
         {
             "code": "LOADING26",
@@ -29616,6 +31838,16 @@
                 "Park Banner Lamppost"
             ],
             "validy": "2024-05-01"
+        },
+        {
+            "code": "PAWSOMEPLUTO26",
+            "description": "This code was shared by Gameloft in a newsletter email.",
+            "icon": "star",
+            "items": [
+                "Photo Mode Frame"
+            ],
+            "validy": "9999-01-01",
+            "available": "2026-02-25"
         },
         {
             "code": "PIXL",
@@ -29797,6 +32029,16 @@
             "validy": "9999-01-01"
         },
         {
+            "code": "RUNAWORLDOFFROZEN",
+            "description": "This code was shared by Gameloft in a social media post.",
+            "icon": "star",
+            "items": [
+                "R\u00fana Handheld Purse"
+            ],
+            "validy": "9999-01-01",
+            "available": "2026-04-08"
+        },
+        {
             "code": "SG2023",
             "description": "x500 Moonstone",
             "icon": "star",
@@ -29830,6 +32072,19 @@
             "validy": "2024-02-01"
         },
         {
+            "code": "SGICEYITEMS",
+            "description": "The code was shared on the official discord on December 25, 2023 in association with the Season Of Giving Event.",
+            "icon": "star",
+            "items": [
+                "Ice Castle Vertical Tapestry",
+                "2x Icy Window",
+                "Ice Glazed Couch",
+                "Chilled Chair"
+            ],
+            "validy": "2024-02-05",
+            "available": "2023-12-25"
+        },
+        {
             "code": "SGMULTIPLAYER",
             "description": "Pixelized Cooking Flame and Glitchy Pixel Duplicate",
             "icon": "star",
@@ -29861,6 +32116,146 @@
             "validy": "2024-02-01"
         },
         {
+            "code": "SLEAPRFROGGY0409",
+            "description": "A welcome code given to streamers, each with a different text based on the streamer name. Other streamer codes share one redemption - after collecting items from one code the others will no longer redeem.",
+            "icon": "star",
+            "items": [
+                "3x Bouillabaisse",
+                "10x Corn Seed",
+                "10x Tomato Seed",
+                "10x Sugarcane"
+            ],
+            "validy": "9999-01-01",
+            "available": "2026-04-09"
+        },
+        {
+            "code": "SLEAPRSYDMAC0409",
+            "description": "A welcome code given to streamers, each with a different text based on the streamer name. Other streamer codes share one redemption - after collecting items from one code the others will no longer redeem.",
+            "icon": "star",
+            "items": [
+                "3x Bouillabaisse",
+                "10x Corn Seed",
+                "10x Tomato Seed",
+                "10x Sugarcane"
+            ],
+            "validy": "9999-01-01",
+            "available": "2026-04-09"
+        },
+        {
+            "code": "SLEAPRSYDNEE0409",
+            "description": "A welcome code given to streamers, each with a different text based on the streamer name. Other streamer codes share one redemption - after collecting items from one code the others will no longer redeem.",
+            "icon": "star",
+            "items": [
+                "3x Bouillabaisse",
+                "10x Corn Seed",
+                "10x Tomato Seed",
+                "10x Sugarcane"
+            ],
+            "validy": "9999-01-01",
+            "available": "2026-04-09"
+        },
+        {
+            "code": "SPIRITOFSPRING2026",
+            "description": "This code was shared by Gameloft in a social media post.",
+            "icon": "star",
+            "items": [
+                "Spirit of Spring Costume"
+            ],
+            "validy": "9999-01-01",
+            "available": "2026-04-30"
+        },
+        {
+            "code": "SYDMACGIFT2025",
+            "description": "A series of codes were given to streamers, each with a different text based on the streamer name. These codes share one redemption - after collecting items from one code the others will no longer redeem.",
+            "icon": "star",
+            "items": [
+                "5x Pixel Shard Duplicates",
+                "Gingerbread House",
+                "Minnie's Gingerbread Cookies",
+                "Hot Cocoa",
+                "Fruitcake",
+                "Yule Log",
+                "Miracle Fishing Bait",
+                "Miracle Growth Elixir",
+                "Miracle Pickaxe Polish",
+                "Miracle Shovel Varnish",
+                "Pixelized Cooking Flame"
+            ],
+            "validy": "9999-01-01",
+            "available": "2025-12-10"
+        },
+        {
+            "code": "TIME4SPAGHETTI2026",
+            "description": "This code was shared by Gameloft in a newsletter email.",
+            "icon": "star",
+            "items": [
+                "Photo Mode Frame",
+                "Spaghetti Motif"
+            ],
+            "validy": "9999-01-01",
+            "available": "2026-03-06"
+        },
+        {
+            "code": "UPD18DDVVIXELLA",
+            "description": "A series of codes were given to streamers, each with a different ending based on the streamer name. These codes share one redemption - after collecting items from one code the others will no longer redeem.",
+            "icon": "star",
+            "items": [
+                "5x Pixel Shard Duplicates",
+                "Miracle Fishing Bait",
+                "Miracle Growth Elixir",
+                "Miracle Pickaxe Polish",
+                "Miracle Shovel Varnish",
+                "Pixelized Cooking Flame"
+            ],
+            "validy": "9999-01-01",
+            "available": "2025-08-20"
+        },
+        {
+            "code": "UPDDDV18FROGGY",
+            "description": "A series of codes were given to streamers, each with a different ending based on the streamer name. These codes share one redemption - after collecting items from one code the others will no longer redeem.",
+            "icon": "star",
+            "items": [
+                "5x Pixel Shard Duplicates",
+                "Miracle Fishing Bait",
+                "Miracle Growth Elixir",
+                "Miracle Pickaxe Polish",
+                "Miracle Shovel Varnish",
+                "Pixelized Cooking Flame"
+            ],
+            "validy": "9999-01-01",
+            "available": "2025-08-20"
+        },
+        {
+            "code": "UPDDDV18JAMEST",
+            "description": "A series of codes were given to streamers, each with a different ending based on the streamer name. These codes share one redemption - after collecting items from one code the others will no longer redeem.",
+            "icon": "star",
+            "items": [
+                "5x Pixel Shard Duplicates",
+                "Miracle Fishing Bait",
+                "Miracle Growth Elixir",
+                "Miracle Pickaxe Polish",
+                "Miracle Shovel Varnish",
+                "Pixelized Cooking Flame"
+            ],
+            "validy": "9999-01-01",
+            "available": "2025-08-20"
+        },
+        {
+            "code": "UPDDDV18LBW",
+            "description": "A series of codes were given to streamers, each with a different ending based on the streamer name. These codes share one redemption - after collecting items from one code the others will no longer redeem.",
+            "icon": "star",
+            "items": [
+                "5x Pixel Shard Duplicates",
+                "Miracle Fishing Bait",
+                "Miracle Growth Elixir",
+                "Miracle Pickaxe Polish",
+                "Miracle Shovel Varnish",
+                "Pixelized Cooking Flame"
+            ],
+            "validy": "9999-01-01",
+            "available": "2025-08-20"
+        },
+        {
             "code": "VAMPIRETEETH2025",
             "description": "This code was shared by the developers in a Halloween social media post.",
             "icon": "star",
@@ -29887,6 +32282,31 @@
                 "x5 Red Velvet"
             ],
             "validy": "9999-01-01"
+        },
+        {
+            "code": "WISHBLOSSOMFRAME",
+            "description": "This code was shared by Gameloft in a newsletter email.",
+            "icon": "star",
+            "items": [
+                "Photo Mode Frame"
+            ],
+            "validy": "9999-01-01",
+            "available": "2026-01-07"
+        },
+        {
+            "code": "WLCMJAMESTURNER0326",
+            "description": "A welcome code given to streamers, each with a different text based on the streamer name. Other streamer codes share one redemption - after collecting items from one code the others will no longer redeem.",
+            "icon": "star",
+            "items": [
+                "5x Berry Salad",
+                "10x Stone",
+                "15x Softwoord",
+                "10x Carrot Seed",
+                "10x Wheat Seed",
+                "10x Cabbage Seed"
+            ],
+            "validy": "9999-01-01",
+            "available": "2026-03-19"
         }
     ],
     "resources": [
@@ -29914,6 +32334,30 @@
             "rarity": "none"
         },
         {
+            "name": "101 Teeny Tiny Dalmatian Cupcakes",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 460,
+            "sellPrice": 460,
+            "energy": 862,
+            "ingredients": [
+                "Dark Chocolate Coffee Beans",
+                "Egg",
+                "Wheat",
+                "Sugarcane"
+            ],
+            "description": "Fortunately, these teeny tiny cupcakes are as tasty as they are tiny.",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "name": "A Very Unusual Tea Time",
             "type": "Entr\u00e9es",
             "icon": "star",
@@ -29931,6 +32375,30 @@
                 "Sour Berries"
             ],
             "description": "An assortment of cakes and tea for the curious. \n",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Afternoon Tea Set",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 235,
+            "sellPrice": 235,
+            "energy": 985,
+            "ingredients": [
+                "Dark Chocolate Coffee Beans",
+                "Pearly Barley",
+                "Vegetables",
+                "Pincushion Peach"
+            ],
+            "description": "The perfect spread of delicate finger foods for a delightful sit-down.",
             "stars": 4,
             "activity": [
                 "recipes"
@@ -30020,6 +32488,28 @@
             ]
         },
         {
+            "name": "Alpine Fishcakes",
+            "type": "Appetizers",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 1027,
+            "sellPrice": 1027,
+            "energy": 2370,
+            "ingredients": [
+                "Red Alpine Bass",
+                "Dill"
+            ],
+            "description": "These festive fishcakes are a Wishing Alps delicacy.",
+            "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "digging"
             ],
@@ -30107,6 +32597,19 @@
             "price": 1500,
             "rarity": "Gold",
             "type": "Fish"
+        },
+        {
+            "name": "Antique Clothes Iron",
+            "description": "Filled with Wish Magic, certain veins of iron will spontaneously form into clothes irons.",
+            "icon": "star",
+            "found": [
+                "Glamour Gulch"
+            ],
+            "price": 20,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
         },
         {
             "name": "Aphrodite's Delight",
@@ -30543,6 +33046,42 @@
             "rarity": "none"
         },
         {
+            "name": "Baked Whitefish and Roasted Beets",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 66,
+            "sellPrice": 66,
+            "energy": 400,
+            "ingredients": [
+                "Mountain Whitefish",
+                "Beetroot"
+            ],
+            "description": "Fresh, moist whitefish on a bed of baked beets, garnished with lemon.",
+            "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Balloon Fish",
+            "description": "Balloon Fish is a resource in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Pixie Acres"
+            ],
+            "price": 60,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 0
+        },
+        {
             "name": "Bamboo",
             "type": "Vegetables",
             "icon": "star",
@@ -30898,6 +33437,99 @@
             "water": 1,
             "maxSpawns": 3,
             "gift": 0
+        },
+        {
+            "name": "Beauty and the Beets Napoleon",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 1109,
+            "sellPrice": 1109,
+            "energy": 2782,
+            "ingredients": [
+                "Beetroot",
+                "Butter",
+                "Egg",
+                "Milk",
+                "Red Currants"
+            ],
+            "description": "A luscious treat with tangy red currants and earthy beets. Who says you can't have dessert before dinner?",
+            "stars": 5,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Beet Brownie Stack",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 363,
+            "sellPrice": 363,
+            "energy": 826,
+            "ingredients": [
+                "Beetroot",
+                "Egg",
+                "Sweets"
+            ],
+            "description": "These chewy chocolate brownies have a not-so-secret ingredient.",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Beet Sugar Sculpture",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 51,
+            "sellPrice": 51,
+            "energy": 223,
+            "ingredients": [
+                "Beetroot",
+                "Sugarcane"
+            ],
+            "description": "Is it dessert? Is it art? No matter what, it makes a beautiful centerpiece.",
+            "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Beet-iful Spaetzle",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 339,
+            "sellPrice": 339,
+            "energy": 778,
+            "ingredients": [
+                "Wheat",
+                "Beetroot",
+                "Egg"
+            ],
+            "description": "Chewy spaetzle noodles in a vivid purple beet sauce.",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
         },
         {
             "activity": [
@@ -31586,6 +34218,30 @@
             "rarity": "none"
         },
         {
+            "name": "Bread Bowl Pumpkin Soup",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 3901,
+            "sellPrice": 3901,
+            "energy": 4153,
+            "ingredients": [
+                "Tigger Fish",
+                "Fairy Kamut",
+                "Pumpkin",
+                "Milk"
+            ],
+            "description": "A creamy pumpkin soup served in a crusty bread bowl. So comforting!",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "fishing"
             ],
@@ -31828,6 +34484,52 @@
             "activity": [
                 "ingredient"
             ]
+        },
+        {
+            "name": "Buttermilk Borscht",
+            "type": "Appetizers",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 766,
+            "sellPrice": 766,
+            "energy": 1656,
+            "ingredients": [
+                "Beetroot",
+                "Egg",
+                "Milk",
+                "Dill"
+            ],
+            "description": "This bright purple soup is best garnished with sour cream and fresh dill. Delicious hot or cold!",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Button Stew",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 135,
+            "sellPrice": 135,
+            "energy": 375,
+            "ingredients": [
+                "Button Mushroom",
+                "Carrot"
+            ],
+            "description": "A hearty stew of mushrooms and carrots - perfect for after a long day at the sewing machine.",
+            "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
         },
         {
             "activity": [
@@ -34524,6 +37226,29 @@
             "rarity": "none"
         },
         {
+            "name": "Eton Mess",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 407,
+            "sellPrice": 407,
+            "energy": 1994,
+            "ingredients": [
+                "Red Currants",
+                "Pincushion Peach",
+                "Egg"
+            ],
+            "description": "A traditional English school meal, the Eton Mess balances tart fruit against a sweet meringue.",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "mining"
             ],
@@ -34631,6 +37356,53 @@
             "gift": 0
         },
         {
+            "name": "Fairy Boot Cake",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 1212,
+            "sellPrice": 1212,
+            "energy": 2052,
+            "ingredients": [
+                "Fairy Kamut",
+                "Honey Coral",
+                "Egg",
+                "Butter",
+                "Dark Chocolate Coffee Beans"
+            ],
+            "description": "This boot is so realistic that some people have tried to wear it, only to get frosting stuck between their toes!",
+            "stars": 5,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Fairy Bread",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 243,
+            "sellPrice": 243,
+            "energy": 360,
+            "ingredients": [
+                "Fairy Kamut",
+                "Fairy Sprinkles"
+            ],
+            "description": "Slices of bread covered in sugary rainbow sprinkles. A sweet and crunchy treat!",
+            "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "digging"
             ],
@@ -34643,6 +37415,29 @@
             "maxSpawns": 0,
             "name": "Fairy Bubbles",
             "price": 15,
+            "rarity": "none"
+        },
+        {
+            "name": "Fairy Wands",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 229,
+            "sellPrice": 229,
+            "energy": 1028,
+            "ingredients": [
+                "Bonsai Star Fruit",
+                "Lollipop Fruit",
+                "Fruit"
+            ],
+            "description": "They won't perform actual magic, but they do taste enchanting!",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
             "rarity": "none"
         },
         {
@@ -34663,6 +37458,92 @@
             ],
             "description": "A tasty vegetarian dish made from fried chickpeas. \n",
             "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Felted Breakfast Spread",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 1022,
+            "sellPrice": 1022,
+            "energy": 2597,
+            "ingredients": [
+                "Button Mushroom",
+                "Egg",
+                "Satin-Finned Betta"
+            ],
+            "description": "A hearty breakfast spread of salted fish, eggs and mushrooms - just pick the threads from your teeth later.",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Festive Blueberry Hot Cocoa",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Dreamlight Valley"
+            ],
+            "biome": "Dreamlight Valley",
+            "price": 491,
+            "sellPrice": 491,
+            "energy": 1647,
+            "ingredients": [
+                "{{name|Sugarcane}}<br>\n{{name|Milk}}<br>\n{{name|Festive Cocoa Bean}}<br>\n{{name|Blueberry}}"
+            ],
+            "description": "|type=Meal",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Festive Cherry Hot Cocoa",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Dreamlight Valley"
+            ],
+            "biome": "Dreamlight Valley",
+            "price": 511,
+            "sellPrice": 511,
+            "energy": 1932,
+            "ingredients": [
+                "{{name|Sugarcane}}<br>\n{{name|Milk}}<br>\n{{name|Festive Cocoa Bean}}<br>\n{{name|Cherry}}"
+            ],
+            "description": "|type=Meal",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Festive Mint Hot Cocoa",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Dreamlight Valley"
+            ],
+            "biome": "Dreamlight Valley",
+            "price": 523,
+            "sellPrice": 523,
+            "energy": 1276,
+            "ingredients": [
+                "{{name|Sugarcane}}<br>\n{{name|Milk}}<br>\n{{name|Festive Cocoa Bean}}<br>\n{{name|Mint}}"
+            ],
+            "description": "|type=Meal",
+            "stars": 4,
             "activity": [
                 "recipes"
             ],
@@ -34921,6 +37802,53 @@
             "sellPrice": 412
         },
         {
+            "name": "Fishy Pineapple Jelly",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 2767,
+            "sellPrice": 2767,
+            "energy": 5625,
+            "ingredients": [
+                "Measuring-Tape Snail",
+                "Jellied Fish",
+                "Crab",
+                "Scarlet Kale",
+                "Fish"
+            ],
+            "description": "Though something of an acquired taste, this dish has quite the number of die-hard fans.",
+            "stars": 5,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Fizzy Nectar Soda",
+            "type": "Appetizers",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 247,
+            "sellPrice": 247,
+            "energy": 1197,
+            "ingredients": [
+                "Bonsai Star Fruit",
+                "Slush Ice"
+            ],
+            "description": "A fun drink full of sweet bubbles!",
+            "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "gardening",
                 "ingredient"
@@ -35086,6 +38014,30 @@
             ],
             "description": "Delectable French macarons with a classic filling. \n",
             "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Friendly Bento",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 2717,
+            "sellPrice": 2717,
+            "energy": 3877,
+            "ingredients": [
+                "Tigger Fish",
+                "Scarlet Kale",
+                "Honey Coral",
+                "Vegetables"
+            ],
+            "description": "A tidy lunchbox full of snacks shaped like good friends.",
+            "stars": 4,
             "activity": [
                 "recipes"
             ],
@@ -35650,6 +38602,20 @@
             "rarity": "none"
         },
         {
+            "name": "Goose Feathers",
+            "description": "Goose Feathers is a resource in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Pixie Acres"
+            ],
+            "price": 20,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 0
+        },
+        {
             "activity": [
                 "recipes"
             ],
@@ -35748,6 +38714,19 @@
             "water": 1,
             "maxSpawns": 3,
             "gift": 0
+        },
+        {
+            "name": "Grassy Ore",
+            "description": "An ore that can be mined in the Wishblossom Mountains. Please don't try to run a lawnmower on it.",
+            "icon": "star",
+            "found": [
+                "Pixie Acres"
+            ],
+            "price": 25,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
         },
         {
             "activity": [
@@ -36483,6 +39462,79 @@
             "type": "Seafood"
         },
         {
+            "name": "Honey Coral",
+            "description": "Honey Coral is a sweets in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Pixie Acres"
+            ],
+            "price": 175,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 325
+        },
+        {
+            "name": "Honey Pancakes",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 555,
+            "sellPrice": 555,
+            "energy": 1263,
+            "ingredients": [
+                "Honey Coral",
+                "Wheat",
+                "Egg"
+            ],
+            "description": "A stack of sweet pancakes perfect for when your tumbly is rumbly.",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Honey-Glazed Carrots",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 362,
+            "sellPrice": 362,
+            "energy": 944,
+            "ingredients": [
+                "Honey Coral",
+                "Carrot",
+                "Dill"
+            ],
+            "description": "Carrots roasted with a sticky and shiny honey glaze.",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Honeycomb Stone",
+            "description": "Despite its delicious appearance, this hexagonal crystal isn't edible. Please don't lick the rock.",
+            "icon": "star",
+            "found": [
+                "Pixie Acres"
+            ],
+            "price": 550,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "gardening",
                 "ingredient"
@@ -36550,6 +39602,29 @@
             ],
             "description": "A fondue that's as sweet as it is sour. \n",
             "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Horace's Ham Sandwich",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 326,
+            "sellPrice": 326,
+            "energy": 643,
+            "ingredients": [
+                "Pearly Barley",
+                "Cheese",
+                "Vegetables"
+            ],
+            "description": "Regretfully, the ham has already been stolen from this sandwich by a mischievous puppy.",
+            "stars": 3,
             "activity": [
                 "recipes"
             ],
@@ -36767,6 +39842,76 @@
             "rarity": "none"
         },
         {
+            "name": "Jasper",
+            "description": "The delicate stripes in this stone make it a perfect candidate for premium accessories.",
+            "icon": "star",
+            "found": [
+                "Glamour Gulch"
+            ],
+            "price": 400,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Jellied Fish Terrine",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 1200,
+            "sellPrice": 1200,
+            "energy": 2450,
+            "ingredients": [
+                "Jellied Fish"
+            ],
+            "description": "An excellent picnic food - the terrine goes wonderfully with crackers or a fresh baguette.",
+            "stars": 1,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Jellied Fish",
+            "description": "Another result of Cruella's wishes, this fish is transparent, jiggly, and tastes faintly of mint.",
+            "icon": "star",
+            "found": [
+                "Glamour Gulch"
+            ],
+            "price": 1000,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 1500
+        },
+        {
+            "name": "Jellied Salad",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 1337,
+            "sellPrice": 1337,
+            "energy": 2717,
+            "ingredients": [
+                "Jellied Fish",
+                "Scarlet Kale"
+            ],
+            "description": "Surprisingly, the crisp texture of the kale perfectly complements the soft jelly of the fish.",
+            "stars": 2,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "name": "Jerk Chicken",
             "type": "Entr\u00e9es",
             "icon": "star",
@@ -36833,6 +39978,28 @@
             ],
             "description": "You can taste the cinnamon just by looking at it. \n",
             "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Kanine Krunchies Cereal",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 107,
+            "sellPrice": 107,
+            "energy": 796,
+            "ingredients": [
+                "Pearly Barley",
+                "Pincushion Peach"
+            ],
+            "description": "This tasty cereal makes every meal a special treat! It can't be beat!",
+            "stars": 2,
             "activity": [
                 "recipes"
             ],
@@ -37801,6 +40968,20 @@
             "rarity": "none"
         },
         {
+            "name": "Measuring-Tape Snail",
+            "description": "This aquatic snail\u2019s tape measure marks its age \u2014 much like the rings of a tree.",
+            "icon": "star",
+            "found": [
+                "Glamour Gulch"
+            ],
+            "price": 100,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 400
+        },
+        {
             "name": "Meat Pie",
             "type": "Entr\u00e9es",
             "icon": "star",
@@ -38369,6 +41550,20 @@
             "rarity": "none"
         },
         {
+            "name": "Mountain Whitefish",
+            "description": "Mountain Whitefish is a fish in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Wishing Alps"
+            ],
+            "price": 30,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 150
+        },
+        {
             "activity": [
                 "digging"
             ],
@@ -38816,6 +42011,20 @@
             "growthTime": 2,
             "maxSpawns": 3,
             "gift": 0
+        },
+        {
+            "name": "Old Braided Rope",
+            "description": "Old Braided Rope is a resource in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Wishing Alps"
+            ],
+            "price": 20,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 0
         },
         {
             "activity": [
@@ -40138,6 +43347,70 @@
             "rarity": "none"
         },
         {
+            "name": "Pixie Dust",
+            "description": "This magical dust comes from deep inside the Wishblossom Mountains. Its magic helps living Wishblossoms grant wishes!",
+            "icon": "star",
+            "found": [
+                "Wishing Alps",
+                "Glamour Gulch",
+                "Pixie Acres"
+            ],
+            "price": 15,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Pixie Ice Cream Dome Cake",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 554,
+            "sellPrice": 554,
+            "energy": 1489,
+            "ingredients": [
+                "Fairy Kamut",
+                "Fairy Sprinkles",
+                "Slush Ice",
+                "Red Currants"
+            ],
+            "description": "Every slice is bursting with tasty layers of cake, ice cream, and rainbow sprinkles.",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Pixie Pizza",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 718,
+            "sellPrice": 718,
+            "energy": 1268,
+            "ingredients": [
+                "Fairy Kamut",
+                "Cheese",
+                "Tomato",
+                "Fairy Sprinkles",
+                "Button Mushroom"
+            ],
+            "description": "Both flowery and floury, this pizza is topped with button mushrooms.",
+            "stars": 5,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "recipes"
             ],
@@ -40806,6 +44079,19 @@
             "sellPrice": 151
         },
         {
+            "name": "Pyrite",
+            "description": "This golden stone is sometimes called \"fool's gold.\"",
+            "icon": "star",
+            "found": [
+                "Wishing Alps"
+            ],
+            "price": 250,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "foraging"
             ],
@@ -41179,6 +44465,20 @@
             "rarity": "none"
         },
         {
+            "name": "Red Alpine Bass",
+            "description": "Red Alpine Bass is a fish in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Wishing Alps"
+            ],
+            "price": 750,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 1250
+        },
+        {
             "activity": [
                 "foraging"
             ],
@@ -41219,6 +44519,53 @@
             "maxSpawns": 6,
             "name": "Red Bromeliad",
             "price": 27,
+            "rarity": "none"
+        },
+        {
+            "name": "Red Currant Linzer Cookies",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 365,
+            "sellPrice": 365,
+            "energy": 1379,
+            "ingredients": [
+                "Wheat",
+                "Butter",
+                "Red Currants",
+                "Sugarcane"
+            ],
+            "description": "These special jam-filled cookies are a Wishblossom Ranch specialty.",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Red Currant Valley Cakes",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 676,
+            "sellPrice": 676,
+            "energy": 1895,
+            "ingredients": [
+                "Egg",
+                "Milk",
+                "Red Currants"
+            ],
+            "description": "Miniature cakes of iconic Valley buildings with red currants. (Your House never tasted so delicious!)",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
             "rarity": "none"
         },
         {
@@ -41767,6 +45114,27 @@
             "name": "Rope",
             "price": 0,
             "sellPrice": 60,
+            "rarity": "none"
+        },
+        {
+            "name": "Rosehip Honey Tea",
+            "type": "Appetizers",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 210,
+            "sellPrice": 210,
+            "energy": 570,
+            "ingredients": [
+                "Honey Coral"
+            ],
+            "description": "This delicate and fragrant tea is enjoyed throughout the Wishblossom Mountains.",
+            "stars": 1,
+            "activity": [
+                "recipes"
+            ],
             "rarity": "none"
         },
         {
@@ -42330,6 +45698,20 @@
             "rarity": "none"
         },
         {
+            "name": "Satin-Finned Betta",
+            "description": "Satin-Finned Betta is a fish in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Glamour Gulch"
+            ],
+            "price": 450,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 950
+        },
+        {
             "name": "Sausage and Sauerkraut Platter",
             "type": "Entr\u00e9es",
             "icon": "star",
@@ -42455,6 +45837,50 @@
             "growthTime": 0,
             "water": 0,
             "yield": 4
+        },
+        {
+            "name": "Scarlet Bouquet Salad",
+            "type": "Appetizers",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 34,
+            "sellPrice": 34,
+            "energy": 160,
+            "ingredients": [
+                "Scarlet Kale"
+            ],
+            "description": "This salad is so beautiful, you could send it in lieu of flowers.",
+            "stars": 1,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Scarlet Kale and Cheese Pinwheels",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 294,
+            "sellPrice": 294,
+            "energy": 694,
+            "ingredients": [
+                "Wheat",
+                "Scarlet Kale",
+                "Cheese"
+            ],
+            "description": "Crispy, cheesy, and kale-y. Delicious as an appetizer or snack!",
+            "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
         },
         {
             "name": "Schnitzel",
@@ -43208,6 +46634,19 @@
             "rarity": "none"
         },
         {
+            "name": "Shiny Honeycomb Stone",
+            "description": "Despite its delicious appearance, this hexagonal crystal isn't edible. Fortunately, it's not sticky either.",
+            "icon": "star",
+            "found": [
+                "Pixie Acres"
+            ],
+            "price": 2200,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "mining"
             ],
@@ -43220,6 +46659,19 @@
             "icon": "star",
             "name": "Shiny Jade",
             "price": 1000,
+            "rarity": "none"
+        },
+        {
+            "name": "Shiny Jasper",
+            "description": "The delicate stripes in this shiny stone make it a perfect candidate for premium accessories.",
+            "icon": "star",
+            "found": [
+                "Glamour Gulch"
+            ],
+            "price": 1600,
+            "activity": [
+                "mining"
+            ],
             "rarity": "none"
         },
         {
@@ -43277,6 +46729,26 @@
             "icon": "star",
             "name": "Shiny Pure Ice",
             "price": 1200,
+            "rarity": "none"
+        },
+        {
+            "name": "Shiny Pyrite",
+            "description": "This gleaming stone is so bright and shiny, it could be mistaken for real gold.",
+            "icon": "star",
+            "found": [
+                "Wishing Alps",
+                "|}",
+                "==All Mining Artifacts by Biome\/Region==",
+                "{",
+                "! Location",
+                "! Rock Spots",
+                "! Possible Artifacts",
+                "! Minerals"
+            ],
+            "price": 1000,
+            "activity": [
+                "mining"
+            ],
             "rarity": "none"
         },
         {
@@ -43452,6 +46924,29 @@
             "type": "Seafood"
         },
         {
+            "name": "Silver Ore",
+            "description": "This flashy ore can be mined in the Wishblossom Mountains then crafted into very shiny things indeed.",
+            "icon": "star",
+            "found": [
+                "Wishing Alps",
+                "|}",
+                "==Gems==",
+                "Gems are rare minerals what can be found by mining nodes with the pickaxe.",
+                "Each gem also has a \"shiny\" version which is larger and sells for 4x more coins. Sometimes nodes will have gems appear on them, and sometimes the gems will not appear until mined.",
+                "There are 2 largely overlapping categorizations related to Gems: Gems and Minerals. Minerals include all of the following listed in the table below. Gems include all of the following listed in the table below, with the exception of Vitalys Crystal, which only counts as a Mineral. Although Crystal is also a byproduct of mining, it is not categorized as either a Gem or a Mineral.",
+                "{",
+                "!Image",
+                "!Name",
+                "!Sell Price",
+                "!Location"
+            ],
+            "price": 2,
+            "activity": [
+                "mining"
+            ],
+            "rarity": "none"
+        },
+        {
             "name": "Simple Chia Pudding",
             "type": "Appetizers",
             "icon": "star",
@@ -43548,6 +47043,30 @@
             "activity": [
                 "ingredient"
             ]
+        },
+        {
+            "name": "Smoked Fish Charcuterie Spread",
+            "type": "Appetizers",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 191,
+            "sellPrice": 191,
+            "energy": 1321,
+            "ingredients": [
+                "Mountain Whitefish",
+                "Tuna",
+                "Fish",
+                "Wheat"
+            ],
+            "description": "This spread of smoked fish and local veggies is sure to please any party.",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
         },
         {
             "activity": [
@@ -44453,6 +47972,30 @@
             "rarity": "none"
         },
         {
+            "name": "Stargazy Pie",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 1953,
+            "sellPrice": 1953,
+            "energy": 5026,
+            "ingredients": [
+                "Measuring-Tape Snail",
+                "Satin-Finned Betta",
+                "Red Alpine Bass",
+                "Wheat"
+            ],
+            "description": "A classic English dish, the vertical position of the fish ensures that the oils properly flavor the pie.",
+            "stars": 4,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "recipes"
             ],
@@ -44570,7 +48113,7 @@
             "ingredients": [
                 "Blue Bird Snippet",
                 "Blue Demon Snippet",
-                "Green Bird Snippet ",
+                "Green Bird Snippet",
                 "Green Demon Snippet",
                 "Green Frog Snippet",
                 "Pink Demon Snippet",
@@ -45320,6 +48863,42 @@
             ],
             "description": "Will you be brave enough to taste these skewers? \n",
             "stars": 3,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
+            "name": "Tigger Fish",
+            "description": "Tigger Fish is a fish in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Pixie Acres"
+            ],
+            "price": 1600,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 1600
+        },
+        {
+            "name": "Tigger Tails",
+            "type": "Desserts",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 253,
+            "sellPrice": 253,
+            "energy": 437,
+            "ingredients": [
+                "Lollipop Fruit",
+                "Fairy Sprinkles"
+            ],
+            "description": "The wonderful thing about Tigger Tails is you can have more than one!",
+            "stars": 2,
             "activity": [
                 "recipes"
             ],
@@ -46176,6 +49755,31 @@
             "rarity": "none"
         },
         {
+            "name": "Vintage Peach Trifle",
+            "type": "Entr\u00e9es",
+            "icon": "star",
+            "found": [
+                "Wishblossom Mountains"
+            ],
+            "biome": "Wishblossom Mountains",
+            "price": 544,
+            "sellPrice": 544,
+            "energy": 1752,
+            "ingredients": [
+                "Pincushion Peach",
+                "Milk",
+                "Pearly Barley",
+                "Sugarcane",
+                "Fruit"
+            ],
+            "description": "This variant on the traditional English treat uses Cruella's favorite Wishblossom ingredient - the Pincushion Peach.",
+            "stars": 5,
+            "activity": [
+                "recipes"
+            ],
+            "rarity": "none"
+        },
+        {
             "activity": [
                 "mining"
             ],
@@ -46565,6 +50169,20 @@
             "price": 1250,
             "rarity": "Gold",
             "type": "Fish"
+        },
+        {
+            "name": "Wire Coat Hanger",
+            "description": "Wire Coat Hanger is a resource in Disney Dreamlight Valley.",
+            "icon": "star",
+            "found": [
+                "Glamour Gulch"
+            ],
+            "price": 20,
+            "activity": [
+                "fishing"
+            ],
+            "rarity": "none",
+            "energy": 0
         },
         {
             "activity": [

@@ -1,0 +1,23 @@
+{
+    "name": "Scarlet Kale and Cheese Pinwheels",
+    "type": "Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 294,
+    "sellPrice": 294,
+    "energy": 694,
+    "ingredients": [
+        "Wheat",
+        "Scarlet Kale",
+        "Cheese"
+    ],
+    "description": "Crispy, cheesy, and kale-y. Delicious as an appetizer or snack!",
+    "stars": 3,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

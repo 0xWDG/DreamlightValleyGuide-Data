@@ -1,0 +1,14 @@
+{
+    "name": "Balloon Fish",
+    "description": "Balloon Fish is a resource in Disney Dreamlight Valley.",
+    "icon": "star",
+    "found": [
+        "Pixie Acres"
+    ],
+    "price": 60,
+    "activity": [
+        "fishing"
+    ],
+    "rarity": "none",
+    "energy": 0
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Marble",
+    "description": "This marble is smooth as Hades himself!",
+    "icon": "star",
+    "found": [
+        "Mythopia"
+    ],
+    "price": 30,
+    "activity": [
+        "mining"
+    ],
+    "rarity": "none"
+}

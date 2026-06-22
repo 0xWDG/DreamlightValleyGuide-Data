@@ -1,0 +1,22 @@
+{
+    "name": "Beet Sugar Sculpture",
+    "type": "Desserts",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 51,
+    "sellPrice": 51,
+    "energy": 223,
+    "ingredients": [
+        "Beetroot",
+        "Sugarcane"
+    ],
+    "description": "Is it dessert? Is it art? No matter what, it makes a beautiful centerpiece.",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

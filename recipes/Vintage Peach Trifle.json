@@ -1,0 +1,25 @@
+{
+    "name": "Vintage Peach Trifle",
+    "type": "Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 544,
+    "sellPrice": 544,
+    "energy": 1752,
+    "ingredients": [
+        "Pincushion Peach",
+        "Milk",
+        "Pearly Barley",
+        "Sugarcane",
+        "Fruit"
+    ],
+    "description": "This variant on the traditional English treat uses Cruella's favorite Wishblossom ingredient - the Pincushion Peach.",
+    "stars": 5,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

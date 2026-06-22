@@ -1,0 +1,14 @@
+{
+    "name": "Measuring-Tape Snail",
+    "description": "Measuring-Tape Snail is a seafood in Disney Dreamlight Valley.",
+    "icon": "star",
+    "found": [
+        "Glamour Gulch"
+    ],
+    "price": 100,
+    "activity": [
+        "fishing"
+    ],
+    "rarity": "none",
+    "energy": 400
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Scarlet Bouquet Salad",
+    "type": "Appetizers",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 34,
+    "sellPrice": 34,
+    "energy": 160,
+    "ingredients": [
+        "Scarlet Kale"
+    ],
+    "description": "This salad is so beautiful, you could send it in lieu of flowers.",
+    "stars": 1,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

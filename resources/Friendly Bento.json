@@ -1,0 +1,24 @@
+{
+    "name": "Friendly Bento",
+    "type": "Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 2717,
+    "sellPrice": 2717,
+    "energy": 3877,
+    "ingredients": [
+        "Tigger Fish",
+        "Scarlet Kale",
+        "Honey Coral",
+        "Vegetables"
+    ],
+    "description": "A tidy lunchbox full of snacks shaped like good friends.",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

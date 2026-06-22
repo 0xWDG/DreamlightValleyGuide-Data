@@ -1,0 +1,24 @@
+{
+    "name": "Red Currant Linzer Cookies",
+    "type": "Desserts",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 365,
+    "sellPrice": 365,
+    "energy": 1379,
+    "ingredients": [
+        "Wheat",
+        "Butter",
+        "Red Currants",
+        "Sugarcane"
+    ],
+    "description": "These special jam-filled cookies are a Wishblossom Ranch specialty.",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Fairy Bread",
+    "type": "Desserts",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 243,
+    "sellPrice": 243,
+    "energy": 360,
+    "ingredients": [
+        "Fairy Kamut",
+        "Fairy Sprinkles"
+    ],
+    "description": "Slices of bread covered in sugary rainbow sprinkles. A sweet and crunchy treat!",
+    "stars": 2,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

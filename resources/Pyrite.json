@@ -1,0 +1,13 @@
+{
+    "name": "Pyrite",
+    "description": "This golden stone is sometimes called \"fool's gold.\"",
+    "icon": "star",
+    "found": [
+        "Wishing Alps"
+    ],
+    "price": 250,
+    "activity": [
+        "mining"
+    ],
+    "rarity": "none"
+}

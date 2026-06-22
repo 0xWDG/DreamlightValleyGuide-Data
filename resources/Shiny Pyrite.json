@@ -1,0 +1,20 @@
+{
+    "name": "Shiny Pyrite",
+    "description": "This gleaming stone is so bright and shiny, it could be mistaken for real gold.",
+    "icon": "star",
+    "found": [
+        "Wishing Alps",
+        "|}",
+        "==All Mining Artifacts by Biome/Region==",
+        "{",
+        "! Location",
+        "! Rock Spots",
+        "! Possible Artifacts",
+        "! Minerals"
+    ],
+    "price": 1000,
+    "activity": [
+        "mining"
+    ],
+    "rarity": "none"
+}

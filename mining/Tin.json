@@ -1,0 +1,13 @@
+{
+    "name": "Tin",
+    "description": "A silvery metal that could be very useful for making things.",
+    "icon": "star",
+    "found": [
+        "Glittering Dunes"
+    ],
+    "price": 25,
+    "activity": [
+        "mining"
+    ],
+    "rarity": "none"
+}

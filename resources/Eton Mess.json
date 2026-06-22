@@ -1,0 +1,23 @@
+{
+    "name": "Eton Mess",
+    "type": "Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 407,
+    "sellPrice": 407,
+    "energy": 1994,
+    "ingredients": [
+        "Red Currants",
+        "Pincushion Peach",
+        "Egg"
+    ],
+    "description": "A traditional English school meal, the Eton Mess balances tart fruit against a sweet meringue.",
+    "stars": 3,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

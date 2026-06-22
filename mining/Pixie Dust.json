@@ -1,0 +1,15 @@
+{
+    "name": "Pixie Dust",
+    "description": "This magical dust comes from deep inside the Wishblossom Mountains. Its magic helps living Wishblossoms grant wishes!",
+    "icon": "star",
+    "found": [
+        "Wishing Alps",
+        "Glamour Gulch",
+        "Pixie Acres"
+    ],
+    "price": 15,
+    "activity": [
+        "mining"
+    ],
+    "rarity": "none"
+}

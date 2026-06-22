@@ -1,0 +1,24 @@
+{
+    "name": "Afternoon Tea Set",
+    "type": "Entr\u00e9es",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 235,
+    "sellPrice": 235,
+    "energy": 985,
+    "ingredients": [
+        "Dark Chocolate Coffee Beans",
+        "Pearly Barley",
+        "Vegetables",
+        "Pincushion Peach"
+    ],
+    "description": "The perfect spread of delicate finger foods for a delightful sit-down.",
+    "stars": 4,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

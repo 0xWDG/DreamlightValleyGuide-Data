@@ -1,0 +1,13 @@
+{
+    "name": "Zinc",
+    "description": "A brittle metal that's useful for crafting.",
+    "icon": "star",
+    "found": [
+        "Wild Tangle"
+    ],
+    "price": 30,
+    "activity": [
+        "mining"
+    ],
+    "rarity": "none"
+}

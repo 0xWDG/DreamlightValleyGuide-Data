@@ -1,0 +1,23 @@
+{
+    "name": "Fairy Wands",
+    "type": "Desserts",
+    "icon": "star",
+    "found": [
+        "Wishblossom Mountains"
+    ],
+    "biome": "Wishblossom Mountains",
+    "price": 229,
+    "sellPrice": 229,
+    "energy": 1028,
+    "ingredients": [
+        "Bonsai Star Fruit",
+        "Lollipop Fruit",
+        "Fruit"
+    ],
+    "description": "They won't perform actual magic, but they do taste enchanting!",
+    "stars": 3,
+    "activity": [
+        "recipes"
+    ],
+    "rarity": "none"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Red Alpine Bass",
+    "description": "Red Alpine Bass is a fish in Disney Dreamlight Valley.",
+    "icon": "star",
+    "found": [
+        "Wishing Alps"
+    ],
+    "price": 750,
+    "activity": [
+        "fishing"
+    ],
+    "rarity": "none",
+    "energy": 1250
+}
