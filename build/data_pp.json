@@ -1,6 +1,6 @@
 {
-    "version": "20260720.0458",
-    "release": "2026-07-20T04:58:00+00:00",
+    "version": "20260720.0503",
+    "release": "2026-07-20T05:03:02+00:00",
     "biomes": [
         {
             "characters": [
@@ -762,7 +762,9 @@
             "icon": "star",
             "name": "Eeyore",
             "origin": "Winnie the Pooh",
-            "quests": [],
+            "quests": [
+                "honeyglow.story"
+            ],
             "rewards": [
                 "",
                 "Character Unlocked",
@@ -1498,7 +1500,9 @@
             "icon": "star",
             "name": "Piglet",
             "origin": "Winnie the Pooh",
-            "quests": [],
+            "quests": [
+                "honeyglow.story"
+            ],
             "rewards": [
                 "",
                 "Character Unlocked",
@@ -2105,7 +2109,9 @@
             "icon": "star",
             "name": "Winnie the Pooh",
             "origin": "Winnie the Pooh",
-            "quests": [],
+            "quests": [
+                "honeyglow.story"
+            ],
             "rewards": [
                 "",
                 "Character Unlocked",
@@ -11063,6 +11069,156 @@
                         "600 Friendship"
                     ],
                     "dlc": false,
+                    "friendship": 0
+                }
+            ]
+        },
+        {
+            "icon": "star",
+            "name": "honeyglow.story",
+            "quests": [
+                {
+                    "name": "Prologue: Childhood Treasures",
+                    "id": "honeyglow.story.1",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Chapter 1: All You Need Is Honey",
+                    "id": "honeyglow.story.2",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Chapter 2: About Thought, Fog, and Light",
+                    "id": "honeyglow.story.3",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Chapter 3: A Very Satisfied Bear",
+                    "id": "honeyglow.story.4",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Interlude: The Misplaced Honey",
+                    "id": "honeyglow.story.5",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Chapter 4: A Tail Tale",
+                    "id": "honeyglow.story.6",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Chapter 5: The Big Red Monster",
+                    "id": "honeyglow.story.7",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Chapter 6: A Place for Eeyore",
+                    "id": "honeyglow.story.8",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Interlude 2: The Gloomy Hollow",
+                    "id": "honeyglow.story.9",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Chapter 7: A Voice Behind the Door",
+                    "id": "honeyglow.story.10",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Chapter 8: The Little Big Forest",
+                    "id": "honeyglow.story.11",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Chapter 9: How to Meet a Best Friend (Again)",
+                    "id": "honeyglow.story.12",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Interlude 3: The Shadowy Surprise",
+                    "id": "honeyglow.story.13",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Chapter 10: Most Grand Adventure",
+                    "id": "honeyglow.story.14",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Chapter 11: The Anti-Monster Camp",
+                    "id": "honeyglow.story.15",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Chapter 12: Old Plans, New Wind",
+                    "id": "honeyglow.story.16",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Interlude 4: Curiosity Satisfied",
+                    "id": "honeyglow.story.17",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
+                    "friendship": 0
+                },
+                {
+                    "name": "Epilogue: See You Next Summer",
+                    "id": "honeyglow.story.18",
+                    "objectives": [],
+                    "rewards": [],
+                    "dlc": true,
                     "friendship": 0
                 }
             ]

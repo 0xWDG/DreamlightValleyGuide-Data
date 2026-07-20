@@ -4,7 +4,9 @@
     "icon": "star",
     "name": "Eeyore",
     "origin": "Winnie the Pooh",
-    "quests": [],
+    "quests": [
+        "honeyglow.story"
+    ],
     "rewards": [
         "",
         "Character Unlocked",
