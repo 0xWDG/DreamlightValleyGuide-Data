@@ -1,6 +1,6 @@
 {
-    "version": "20260622.1846",
-    "release": "2026-06-22T18:46:13+00:00",
+    "version": "20260720.0458",
+    "release": "2026-07-20T04:58:00+00:00",
     "biomes": [
         {
             "characters": [
@@ -757,6 +757,27 @@
             ]
         },
         {
+            "description": "Eeyore is a character from Disney's Winnie the Pooh franchise.",
+            "house": "",
+            "icon": "star",
+            "name": "Eeyore",
+            "origin": "Winnie the Pooh",
+            "quests": [],
+            "rewards": [
+                "",
+                "Character Unlocked",
+                "Wallpaper \/ Furniture \/ Clothing",
+                "Design Motif",
+                "StarCoins 500",
+                "Furniture",
+                "Design Motif",
+                "StarCoins 1000",
+                "Furniture",
+                "Design Motif",
+                "Clothing"
+            ]
+        },
+        {
             "description": "Elsa is a character from the Disney films Frozen (2013), Frozen II (2019).",
             "house": "Ice Cavern",
             "icon": "star",
@@ -1472,6 +1493,27 @@
             ]
         },
         {
+            "description": "Piglet is a character from Disney's Winnie the Pooh franchise.",
+            "house": "",
+            "icon": "star",
+            "name": "Piglet",
+            "origin": "Winnie the Pooh",
+            "quests": [],
+            "rewards": [
+                "",
+                "Character Unlocked",
+                "Wallpaper \/ Furniture \/ Clothing",
+                "Design Motif",
+                "StarCoins 500",
+                "Furniture",
+                "Design Motif",
+                "StarCoins 1000",
+                "Furniture",
+                "Design Motif",
+                "Clothing"
+            ]
+        },
+        {
             "description": "Pocahontas is a character from the Disney animated film Pocahontas (1995). She is known for her adventurous spirit and deep connection to nature.",
             "house": "Pocahontas's Yehakin",
             "icon": "star",
@@ -2055,6 +2097,27 @@
                 "Vintage Advertising Posters",
                 "WALL-E Motif",
                 "WALL-E Companion Pack"
+            ]
+        },
+        {
+            "description": "Winnie the Pooh is a character from Disney's Winnie the Pooh franchise.",
+            "house": "",
+            "icon": "star",
+            "name": "Winnie the Pooh",
+            "origin": "Winnie the Pooh",
+            "quests": [],
+            "rewards": [
+                "",
+                "Character Unlocked",
+                "Wallpaper \/ Furniture \/ Clothing",
+                "Design Motif",
+                "StarCoins 500",
+                "Furniture",
+                "Design Motif",
+                "StarCoins 1000",
+                "Furniture",
+                "Design Motif",
+                "Clothing"
             ]
         },
         {
@@ -51245,7 +51308,12 @@
             "price": 0
         },
         {
-            "characters": [],
+            "characters": [
+                "Eeyore",
+                "Piglet",
+                "Tigger",
+                "Winnie the Pooh"
+            ],
             "description": "Winnie the Pooh (Universe) is a Universe in Disney Dreamlight Valley based on the animated Winnie the Pooh shorts and films, which in turn, are based on the books by A.A. Milne.",
             "icon": "star",
             "name": "Winnie the Pooh",

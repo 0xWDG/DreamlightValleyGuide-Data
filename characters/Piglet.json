@@ -1,0 +1,21 @@
+{
+    "description": "Piglet is a character from Disney's Winnie the Pooh franchise.",
+    "house": "",
+    "icon": "star",
+    "name": "Piglet",
+    "origin": "Winnie the Pooh",
+    "quests": [],
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Wallpaper / Furniture / Clothing",
+        "Design Motif",
+        "StarCoins 500",
+        "Furniture",
+        "Design Motif",
+        "StarCoins 1000",
+        "Furniture",
+        "Design Motif",
+        "Clothing"
+    ]
+}
