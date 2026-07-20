@@ -1,0 +1,78 @@
+{
+    "icon": "star",
+    "name": "piglet.story",
+    "quests": [
+        {
+            "name": "Chapter 7: A Voice Behind the Door",
+            "id": "piglet.story.1",
+            "objectives": [],
+            "rewards": [],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Chapter 8: The Little Big Forest",
+            "id": "piglet.story.2",
+            "objectives": [],
+            "rewards": [],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Chapter 9: How to Meet a Best Friend (Again)",
+            "id": "piglet.story.3",
+            "objectives": [],
+            "rewards": [],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Interlude 3: The Shadowy Surprise",
+            "id": "piglet.story.4",
+            "objectives": [],
+            "rewards": [],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Chapter 10: Most Grand Adventure",
+            "id": "piglet.story.5",
+            "objectives": [],
+            "rewards": [],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Chapter 11: The Anti-Monster Camp",
+            "id": "piglet.story.6",
+            "objectives": [],
+            "rewards": [],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Chapter 12: Old Plans, New Wind",
+            "id": "piglet.story.7",
+            "objectives": [],
+            "rewards": [],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Interlude 4: Curiosity Satisfied",
+            "id": "piglet.story.8",
+            "objectives": [],
+            "rewards": [],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Epilogue: See You Next Summer",
+            "id": "piglet.story.9",
+            "objectives": [],
+            "rewards": [],
+            "dlc": true,
+            "friendship": 0
+        }
+    ]
+}

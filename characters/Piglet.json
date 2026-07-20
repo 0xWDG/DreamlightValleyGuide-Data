@@ -5,7 +5,7 @@
     "name": "Piglet",
     "origin": "Winnie the Pooh",
     "quests": [
-        "honeyglow.story"
+        "piglet.story"
     ],
     "rewards": [
         "",
