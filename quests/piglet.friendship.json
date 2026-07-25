@@ -1,0 +1,131 @@
+{
+    "icon": "star",
+    "name": "piglet.friendship",
+    "quests": [
+        {
+            "name": "The Most Unexpected Friend",
+            "id": "piglet.friendship.1",
+            "objectives": [
+                "Take a picture of the dried-up flowers in Piglet's House .",
+                "Show Merlin the picture and explain what's going on.",
+                "Talk to Ursula .",
+                "Gather Ingredients to cook Honey-Glazed Plush Fish to impress Ursula :\r\n  ‧ Plush Fish. Any vegetable. Golden Honey.",
+                "Cook Honey-Glazed Plush Fish to impress Ursula .",
+                "Make sure you have the Honey-Glazed Plush Fish in your Inventory.",
+                "Bring the Honey-Glazed Plush Fish to Ursula .",
+                "Talk to Winnie the Pooh about gift ideas.",
+                "Gather materials to craft the Rustic Jacuzzi :\r\n  ‧ Driftwood. (8) Sweet Jelly. (2) Purple Thistle. (3) Red Thistle. (3) White Thistle. (3)",
+                "Craft Rustic Jacuzzi .",
+                "Talk to Piglet . He might have an idea to make the gift even better.",
+                "Take pictures of peaceful locations near water:\r\n  ‧ In Drowsybloom Acre. In the Gloommeadow. In Braveheart Grove.",
+                "Show the photos to Piglet so he can choose the best spot.",
+                "Decorate any area in the Honeyglow Woods to suit Ursula 's tastes:\r\n  ‧ Place Rustic Jacuzzi. Add any Rustic furniture. (2) Add any Delicate furniture. (2) Add any Wondrous furniture. (2)",
+                "Take a picture of the Rustic Jacuzzi in the decorated area.",
+                "Talk to Ursula and show her the photo.",
+                "Use Ursula's Flower Potion to upgrade your Watering Can .",
+                "Go inside Piglet's House to water the flowers.",
+                "Water Piglet's dried-up flowers with your Watering Can .",
+                "Talk to Piglet ."
+            ],
+            "rewards": [
+                "Rustic Jacuzzi"
+            ],
+            "dlc": true,
+            "friendship": 2
+        },
+        {
+            "name": "After the Rain",
+            "id": "piglet.friendship.2",
+            "objectives": [
+                "Gather materials to craft the Floating Umbrella :\r\n  ‧ Driftwood. (1) Oak Leaves. (4) Tree Resin. (2)",
+                "Craft Floating Umbrella .",
+                "Make sure you have the Floating Umbrella in your Inventory.",
+                "Bring Floating Umbrella to Piglet .",
+                "Talk to WALL-E .",
+                "Reinforce river banks by planting:\r\n  ‧ Pufflebud Pods by the river in Drowsybloom Acre. (5) Parsnip by the river in the Gloommeadow. (5) Golden Pattypan by the river in Braveheart Grove. (5)",
+                "Talk to Moana .",
+                "Gather materials to craft the Rainy Day Safety Kits for the Villagers:\r\n  ‧ Driftwood. (8) Parsnip. (5) Purple & White Foxglove. (1) Rose & Cream Foxglove. (1) White & Pink Foxglove. (1) Yellow & Orange Foxglove. (1)",
+                "Craft Rainy Day Safety Kits . (5)",
+                "Make sure you have Rainy Day Safety Kits in your Inventory.",
+                "Bring Rainy Day Safety Kit to Piglet .",
+                "Visit Winnie the Pooh's House .",
+                "Talk to Winnie the Pooh .",
+                "Gather Ingredients to cook a tasty treat:\r\n  ‧ Any Fish. (2) Any Protein. (2) Juniper Berry. (2) Truffle. (2) Golden Pattypan. (2)",
+                "Cook Foresty Quiche to share with WALL-E and Moana . (2)",
+                "Make sure you have Foresty Quiche the in your Inventory.",
+                "Bring Foresty Quiche to WALL-E .",
+                "Make sure you have Foresty Quiche the in your Inventory.",
+                "Bring Foresty Quiche to Moana ."
+            ],
+            "rewards": [
+                "Bumble Breeze Umbrella"
+            ],
+            "dlc": true,
+            "friendship": 4
+        },
+        {
+            "name": "Collecting Little Wins",
+            "id": "piglet.friendship.3",
+            "objectives": [
+                "Talk to Joy .",
+                "Help Piglet tidy up the Honeyglow Woods by removing:\r\n  ‧ Twistroots. (5) Amber Brushwoods. (5) Corrupted Honey Swirls. (5)",
+                "One little win down! Talk to Joy about your progress.",
+                "Make sure you have Golden Honey in your Inventory.",
+                "Share Golden Honey with The Beast .",
+                "Talk to Vanellope about her record-breaking race.",
+                "Grab some super-soft Safety Pillows from:\r\n  ‧ Pooh's House. Piglet's House.",
+                "Make sure you have Safety Pillows in your Inventory.",
+                "Bring Safety Pillows to Piglet .",
+                "Use Furniture Mode to place the Safety Pillows to make each area safer:\r\n  ‧ Drowsybloom Acre. The Gloommeadow. Braveheart Grove.",
+                "Talk to Piglet .",
+                "Put on Heroic Helmet .",
+                "Talk to Piglet and make sure everything is ready.",
+                "Follow Piglet to the starting point of the race near the Honeyglow Woods entrance .",
+                "Run the race route and check each section:\r\n  ‧ In Drowsybloom Acre. In the Gloommeadow. Across the Pooh Sticks bridge. In Braveheart Grove. Near the Everoak Tree in Braveheart Grove.",
+                "Talk to Vanellope and friends after the race.",
+                "Gather materials to craft the Little Wins Leaderboard .\r\n  ‧ Driftwood. (8) Purple & White Foxglove. (1) Rose & Cream Foxglove. (1) White & Pink Foxglove. (1) Yellow & Orange Foxglove. (1)",
+                "Craft Little Wins Leaderboard to celebrate Piglet 's little wins.",
+                "Place Little Wins Leaderboard anywhere in the Honeyglow Woods .",
+                "Take a photo with everyone to remember this moment!",
+                "Talk to Piglet to reflect on everything you've done."
+            ],
+            "rewards": [
+                "Safety Pillow (3)",
+                "Little Wins Leaderboard"
+            ],
+            "dlc": true,
+            "friendship": 7
+        },
+        {
+            "name": "Piglet the Caretaker",
+            "id": "piglet.friendship.4",
+            "objectives": [
+                "Visit Piglet's House and start planning your next steps.",
+                "Talk to Piglet and friends inside Piglet's House.",
+                "Gather the Valley critters ' favorite treats:\r\n  ‧ Peanut. Carrot. Blueberry.",
+                "Together with Piglet , feed the Valley's critters their favorite treats:\r\n  ‧ Rabbit. Squirrel. Raccoon.",
+                "Talk to Piglet and friends about how it went with the critters .",
+                "Gather Ingredients to cook tasty treats for the new club members:\r\n  ‧ Golden Honey. (3) Sweet Jelly. (3) Any grain. (3) Sweet Chestnut. (3)",
+                "Cook Honey Macarons to invite new Small Animal Care Club members. (3)",
+                "Invite Villagers to the Small Animal Care Club by sharing Honey Macarons :\r\n  ‧ Pocahontas Kristoff Scar",
+                "Talk to Piglet about the club's next plans.",
+                "Gather materials to craft the Club Meeting Podium for the first meeting:\r\n  ‧ Hardwood. (5) Driftwood. (4) Soft Limestone. (10) Purple Thistle. (2) White Thistle. (2)",
+                "Craft the Club Meeting Podium for the club's first meeting.",
+                "Decorate a meeting spot for the club's first gathering anywhere in the Honeyglow Woods :\r\n  ‧ Place the Club Meeting Podium. (Optional) Add any furniture. (4)",
+                "Take a group photo to capture your first Small Animal Care Club meeting!",
+                "Talk to Piglet to reflect on your first meeting."
+            ],
+            "rewards": [
+                "Blush-Pink Brave Hat",
+                "Green Brave Scarf",
+                "Blush-Pink Brave Jeans",
+                "Blush-Pink Brave Sneakers",
+                "Blush-Pink Brave Vest",
+                "Blush-Pink Brave Bomber Jacket",
+                "Club Meeting Podium"
+            ],
+            "dlc": true,
+            "friendship": 10
+        }
+    ]
+}

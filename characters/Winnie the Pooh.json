@@ -5,19 +5,20 @@
     "name": "Winnie the Pooh",
     "origin": "Winnie the Pooh",
     "quests": [
-        "winniethepooh.story"
+        "winniethepooh.story",
+        "winniethepooh.friendship"
     ],
     "rewards": [
         "",
         "Character Unlocked",
-        "Wallpaper / Furniture / Clothing",
-        "Design Motif",
+        "Cozy Woodland Armchair",
+        "Winnie the Pooh Patch Motif",
         "StarCoins 500",
-        "Furniture",
-        "Design Motif",
+        "Woodland Patchwork Bed",
+        "Honeycomb Quilt Motif",
         "StarCoins 1000",
-        "Furniture",
-        "Design Motif",
-        "Clothing"
+        "Honeyglow Cooking Station",
+        "Beekeeping Pattern Motiff",
+        "Silly Bear Pinafore\r\nBlue Daisy Knee Socks\r\nYellow Daisy Ankle Boots"
     ]
 }

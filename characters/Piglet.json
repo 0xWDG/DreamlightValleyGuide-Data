@@ -5,19 +5,20 @@
     "name": "Piglet",
     "origin": "Winnie the Pooh",
     "quests": [
-        "piglet.story"
+        "piglet.story",
+        "piglet.friendship"
     ],
     "rewards": [
         "",
         "Character Unlocked",
-        "Wallpaper / Furniture / Clothing",
-        "Design Motif",
+        "Cozy Woodland Lamp",
+        "Piglet Patch Motif",
         "StarCoins 500",
-        "Furniture",
-        "Design Motif",
+        "Woodland Stone Fireplace",
+        "Cozy Sweater Pattern Motif",
         "StarCoins 1000",
-        "Furniture",
-        "Design Motif",
-        "Clothing"
+        "Honeyglow Crafting Station",
+        "Forest Leaves Motif",
+        "Green Brave Scarf\r\nBlush-Pink Brave Vest\r\nBlush-Pink Brave Bomber Jacket\r\nBlush-Pink Brave Jeans\r\nBlush-Pink Brave Sneakers"
     ]
 }

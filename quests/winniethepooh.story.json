@@ -1,0 +1,316 @@
+{
+    "icon": "star",
+    "name": "winniethepooh.story",
+    "quests": [
+        {
+            "name": "Prologue: Childhood Treasures",
+            "id": "winniethepooh.story.1",
+            "objectives": [
+                "Check your mailbox and claim the message \"A VERY IMPORTANT PARCEL!!!\"",
+                "Interact with the Childhood Treasure Box in your Inventory.",
+                "Use Furniture Mode to place the curious Tree Sprout in the Valley.",
+                "Step into the glowing tree ."
+            ],
+            "rewards": [
+                "Honeyglow Tree Gate"
+            ],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Chapter 1: All You Need Is Honey",
+            "id": "winniethepooh.story.2",
+            "objectives": [
+                "Explore this strange misty area. Someone may be waiting for you inside the fog...",
+                "Talk to Winnie the Pooh . He looks confused and hungry.",
+                "Play Cutscene.",
+                "Remove the corrupted Honey Swirls around Winnie the Pooh and find something for him.",
+                "Make sure you have a Honeypot in your inventory.",
+                "Play hide-and-seek with Winnie the Pooh . Find him and take a picture.",
+                "You found Winnie the Pooh ! Speak with him before he hides again.",
+                "Play hide-and-seek with Winnie the Pooh . Find him and take a picture.",
+                "Talk to Winnie the Pooh to begin another round of hide-and-seek.",
+                "Play hide-and-seek with Winnie the Pooh . Find him and take a picture.",
+                "Find Winnie the Pooh , talk to him, and let the game continue.",
+                "Play hide-and-seek with Winnie the Pooh . Find him and take a picture.",
+                "You found Winnie the Pooh again! Talk to him to wrap up the game.",
+                "The game stirred up a Memory near the last hiding spot. Reach out and see what it reveals.",
+                "Talk to Winnie the Pooh about what you just saw.",
+                "Follow Winnie the Pooh the place shown in the Memory.",
+                "There's a Note near the overgrown Twistroots. Pick it up and see if it says anything useful.",
+                "Talk to Winnie the Pooh about what you just saw on the picture.",
+                "Find the Ingredients needed to remove the overgrown Twistroots.\r\n  ‧ Gather Oak Leaves beneath the trees. (3) Fish for Driftwood outside the ripples. (2) Mine the Shiny Honey Agate. (1)",
+                "Bring the gathered Ingredients to Winnie the Pooh .",
+                "The mixture worked! Use the Diggy-Wiggy Potion from your Inventory.",
+                "Use your upgraded Shovel to remove overgrown Twistroots. (4)",
+                "Find all the pieces of the Busy Bees' House :\r\n  ‧ Dig up some pieces near the river. (2) Fish by the bridge for missing parts. (2)",
+                "Craft the Busy Bees' House .",
+                "Bring the Busy Bees' House to Winnie the Pooh to make sure it's ready to welcome the bees.",
+                "Use Furniture Mode to place the Busy Bees' House somewhere in Drowsybloom Acre. Make sure there is space around for flowers.",
+                "Place flowers from Drowsybloom Acre around the Busy Bees' House . Drop flowers nearby or move them using Furniture Mode. Make sure the Busy Bees' House is active. (3)",
+                "Look inside the Busy Bees' House to see if there is any Golden Honey .",
+                "Talk to Winnie the Pooh .",
+                "Wait for the Busy Bees' House to produce Golden Honey .\r\n  ‧ Claim Golden Honey from the Busy Bees' House. (1)",
+                "(Optional) While you wait, clear:\r\n  ‧ Honey Swirls. (5)",
+                "(Optional) While you wait, tidy up the area:\r\n  ‧ Pick up Oak Leaves. (5)",
+                "Gather Driftwood (Remember: You can always fish some out outside the ripples.) (5)",
+                "Gather the Ingredients to surprise Pooh with his favorite Honeycrunch Bar . Remember: More flowers around the Busy Bees' House equals faster Golden Honey production.\r\n  ‧ Golden Honey. (1) Sweet Chestnut. (1)",
+                "Cook the Honeycrunch Bar .",
+                "Give the Honeycrunch Bar to Winnie the Pooh .",
+                "Give the Honeycrunch Bar to Winnie the Pooh ."
+            ],
+            "rewards": [
+                "The Busy Bees' House"
+            ],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Chapter 2: About Thought, Fog, and Light",
+            "id": "winniethepooh.story.3",
+            "objectives": [
+                "Talk to Winnie the Pooh .",
+                "Follow Winnie the Pooh into the foggy part of the Woods.",
+                "Talk to Winnie the Pooh about the fog.",
+                "Talking about honey, light, and magic awakened a Memory near the foggy area. Explore it to see what it reveals.",
+                "Gather Ingredients to make the Honeyglow Elixir .\r\n  ‧ Harvest Sweet Chestnut. Grow and harvest Parsnip. (You can get Parsnip Seeds from the stall in the Honeyglow Woods. Make sure the stall is active using the Shopping List nearby.) Dig up Tree Resin. Search the foggy area to find Fog Dust. Check the Busy Bees' House for Golden Honey.",
+                "Cook the Honeyglow Elixir .",
+                "Use the Honeyglow Elixir in your Inventory.",
+                "Water the lantern near Winnie the Pooh .",
+                "Follow Winnie the Pooh up the path revealed by the light.",
+                "Talk to Winnie the Pooh about the place revealed by the light.",
+                "Gather materials to repair the Thoughtful Spot .\r\n  ‧ Golden Honey (more flowers around the Busy Bees' House help produce more honey). (3) Tree Resin. (15) Driftwood. (Remember: You can always fish some out outside the ripples.) (12) Oak Leaves. (10) Soft Limestone. (15)",
+                "Interact with the Thoughtful Spot in the Drowsybloom Acre to begin repairing it.",
+                "Talk to Winnie the Pooh ."
+            ],
+            "rewards": [
+                "Pooh's Thoughtful Spot"
+            ],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Chapter 3: A Very Satisfied Bear",
+            "id": "winniethepooh.story.4",
+            "objectives": [
+                "Rain clouds are rolling in. Talk to Winnie the Pooh near the Thoughtful Spot .",
+                "Put on your bright Rain Boots .",
+                "Run through the puddles and follow Winnie the Pooh along the splashing path. (6)",
+                "There is something near the last puddle by Pooh's House . Pick it up.",
+                "Talk to Winnie the Pooh about what you found.",
+                "Water the lantern near Pooh's House .",
+                "Place the Doorbell back on the door of Pooh's House .",
+                "Step inside Pooh's House .",
+                "Talk to Winnie the Pooh inside his House .",
+                "Tidy up Pooh's House by removing the mess.",
+                "Pick up the Box of Colorful Crayons .",
+                "Talk to Winnie the Pooh about the Box of Colorful Crayons you've found.",
+                "Welcome Winnie the Pooh to the Honeyglow Woods ."
+            ],
+            "rewards": [
+                "Yellow Rain Boots",
+                "Box of Colorful Crayons",
+                "Unlock Winnie the Pooh"
+            ],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Interlude: The Misplaced Honey",
+            "id": "winniethepooh.story.5",
+            "objectives": [
+                "Return to the Everoak Tree.",
+                "Use the Colorful Crayons on the empty drawing space near the Everoak Tree.",
+                "Enter the hollow inside the Everoak Tree.",
+                "Talk to Winnie the Pooh about the honey-filled hollow.",
+                "Explore the honey-filled hollow.",
+                "Read the note on the wall.",
+                "Talk to Winnie the Pooh about the odd note.",
+                "Pick up any honeypot and bring it to Winnie the Pooh for a taste.",
+                "A Memory appeared! Pick it up.\r\n  ‧ Interact with the Memory in the Everoak Tree.",
+                "Talk to Winnie the Pooh about his Memory .",
+                "Dig out a honeypot from behind a shelf.",
+                "Bring the special honeypot to Winnie the Pooh .",
+                "Another Memory appeared! Pick it up.\r\n  ‧ Interact with the Memory in the Everoak Tree.",
+                "Talk to Winnie the Pooh about his Memory .",
+                "Catch up with the hungry bear.",
+                "Use the Ingredients on the table to cook up some Tummy Tonic for Winnie the Pooh .",
+                "Make sure you have Tummy Tonic in your Inventory.",
+                "Bring the Tummy Tonic to Winnie the Pooh .",
+                "A third Memory has appeared! Pick it up.\r\n  ‧ Interact with the Memory in the Everoak Tree.",
+                "Talk to Winnie the Pooh about his Memory .",
+                "Search for the pot of Sun-Glow Honey . (It's the same one as in the Memory .)\r\n  ‧ Pick up the Sun-Glow Honey.",
+                "Place the Sun-Glow Honey in the alcove at the top of the stairs.",
+                "Another Memory appeared... from the Everoak Tree itself? Go see what that's about.\r\n  ‧ Pick up the Memory in the Everoak Tree.",
+                "Talk to Winnie the Pooh about the Memory you found.",
+                "Leave the Everoak Tree and return to Drowsybloom Acre .",
+                "Talk to Winnie the Pooh about the change in the air.",
+                "Follow Pooh Bear to the entrance of the Gloommeadow .",
+                "Clear the Corrupted Honey Wall to reach the Gloommeadow .",
+                "(Optional) Restore the Chez Remy Tree .",
+                "(Optional) Help Winnie the Pooh by completing his first Friendship Quest .",
+                "(Optional) Add decor to Drowsybloom Acre . (10)"
+            ],
+            "rewards": [],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Chapter 10: Most Grand Adventure",
+            "id": "winniethepooh.story.6",
+            "objectives": [
+                "Enter the misty Nectar Apiary .",
+                "Explore the misty Nectar Apiary .",
+                "Talk to Winnie the Pooh and friends.",
+                "Put flags on their poles:\r\n  ‧ Green Flag. Orange Flag. Blue Flag. Yellow Flag.",
+                "A strong gust blew the Red Flag away in the Nectar Apiary . Catch it!",
+                "Set the Red Flag back on its pole.",
+                "Dig up what's hidden beneath the final flag in the Nectar Apiary.",
+                "Open the Time Capsule and discover what's inside.",
+                "Take a closer look at the Old Map from the time capsule.",
+                "Talk to Winnie the Pooh and friends about your findings.",
+                "Head to the Campsite shown on the map in the Nectar Apiary.",
+                "Talk to Eeyore and friends near the Campsite .",
+                "Find Ingredients for a Bright Imagination Potion :\r\n  ‧ Rainbow Foxglove in the Braveheart Grove. Soft Pillow in Pooh's House.",
+                "Now you can craft a Bright Imagination Potion to upgrade your Pickaxe.",
+                "Use the Bright Imagination Potion from your Inventory.",
+                "Clear the area around the Campsite . (6)",
+                "Talk to Winnie the Pooh and friends.",
+                "Gather materials to repair the Campsite .\r\n  ‧ Driftwood. (10) Tree Resin. (8) Soft Limestone. (10)",
+                "Interact with the Campsite in the Nectar Apiary to begin repairing it."
+            ],
+            "rewards": [
+                "Campsite",
+                "Blue Flag on Pole",
+                "Green Flag on Pole",
+                "Orange Flag on Pole",
+                "Yellow Flag on Pole"
+            ],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Chapter 11: The Anti-monster Camp",
+            "id": "winniethepooh.story.7",
+            "objectives": [
+                "Talk to Winnie the Pooh .",
+                "Cook Toasted Picnic Sandwiches to share with your friends. (4)",
+                "Give the Toasted Picnic Sandwiches to your friends and share stories by the fire. (3)",
+                "Enjoy a sandwich yourself!",
+                "When the Toasted Picnic Sandwiches are ready, share them with your friends around the campfire.",
+                "Gather materials to craft a Welcoming Signpost and Welcoming Picnic Blanket .\r\n  ‧ Driftwood. (5) White & Pink Foxglove. (5) Tree Resin. (3) Golden Honey. (1) Oak Leaves. (5) Welcoming Honey Treat. (1) Rose & Cream Foxglove. (5) White Thistle. (5)",
+                "Craft some decorations to make the area near the fog more inviting:\r\n  ‧ Welcoming Signpost. Welcoming Picnic Blanket.",
+                "Talk to Piglet .",
+                "Follow Piglet to the edge of the thick fog in the Nectar Apiary .",
+                "Set up a picnic near the fog to make the area more inviting:\r\n  ‧ Welcoming Signpost. Welcoming Picnic Blanket.",
+                "Return to the Campsite .",
+                "Talk to Eeyore .",
+                "Hurry to the picnic near the fog and see what made that sound!",
+                "The honey is gone! Find out who took the bait.\r\n  ‧ Talk to Piglet. Talk to Eeyore. Talk to Winnie the Pooh."
+            ],
+            "rewards": [
+                "Welcoming Picnic Blanket",
+                "Welcoming Signpost"
+            ],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Chapter 12: Old Plans, New Wind",
+            "id": "winniethepooh.story.8",
+            "objectives": [
+                "See what might be causing the fog.",
+                "Try to water the corrupted lantern .",
+                "The lantern didn't light up, but a Memory appeared. Pick it up and see what it reveals.",
+                "Talk to Winnie the Pooh about how to clear the lantern's corruption.",
+                "Collect Golden Honey from the Busy Bees' House to make Honeyed Memories . (18)",
+                "Craft Honeyed Memories to share with your friends. (3)",
+                "Gift Honeyed Memories to:\r\n  ‧ Eeyore. Piglet. Winnie the Pooh.",
+                "Return to the Honeyglow Woods to see what changed.",
+                "Water the lantern again and see if anything changes.",
+                "Explore the area beyond the cleared fog!",
+                "There's a Worn Scout's Journal lying here. Pick it up and take a closer look.",
+                "Explore the Memory from the Worn Scout's Journal .",
+                "Talk to Winnie the Pooh and friends about the Worn Scout's Journal .",
+                "Gather materials to repair the Old Windmill .\r\n  ‧ Golden Honey. (5) Driftwood. (10) Tree Resin. (10) Soft Limestone. (15) Oak Leaves. (10)",
+                "Interact with the Old Windmill in the Nectar Apiary to begin repairing it.",
+                "Look around the Old Windmill . There's a Faded Old Photo nearby.",
+                "Make sure you have the Faded Old Photo in your Inventory.",
+                "Show the Faded Old Photo to Winnie the Pooh .",
+                "Take a new picture near the Old Windmill .",
+                "Talk to Winnie the Pooh about the new picture you made."
+            ],
+            "rewards": [
+                "Great Summer List",
+                "Old Windmill"
+            ],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Interlude 4: Curiosity Satisfied",
+            "id": "winniethepooh.story.9",
+            "objectives": [
+                "Follow to Winnie the Pooh the Everoak Tree.",
+                "Use the Bright New Photo on the Art-full Place.",
+                "Enter the Everoak Tree from the Nectar Apiary .",
+                "There doesn't seem to be an alcove or a note here. Check the back wall just in case.",
+                "Talk to Winnie the Pooh about what seems to be missing.",
+                "Catch the flying Honey Bee Pots . (5)",
+                "Make sure you have the Honey Bee Pots in your Inventory. (5)",
+                "Bring the Honey Bee Pots to Winnie the Pooh .",
+                "Check in with Eeyore about another possible orb piece.",
+                "Fill up the honey pond.\r\n  ‧ Find a way to unblock the flow of honey.",
+                "Find a way to retrieve the Second Broken Orb Piece from the honey pond.",
+                "Talk to Eeyore about what you've found so far.",
+                "Pick up the Giant Honeypots .",
+                "Talk to Piglet about the frightened hedgehog.",
+                "Cook a Hedgehog Treat to comfort the hedgehog.",
+                "Make sure you have the Hedgehog Treat in your Inventory.",
+                "Bring the Hedgehog Treat to Hedgehog .",
+                "Pick up the Third Broken Orb Piece .",
+                "Talk to Winnie the Pooh about what you've found so far.",
+                "Place the orb pieces in the Pillar .",
+                "The pieces are in place, but nothing is happening yet. Talk to Winnie the Pooh .",
+                "Redirect the flow of honey to the Pillar .\r\n  ‧ Remove any remaining honeypots blocking the flow of honey. (5)",
+                "A new Memory appeared. Pick it up.\r\n  ‧ Interact with the Memory in the Everoak Tree.",
+                "Talk to Winnie the Pooh and friends about what just happened.",
+                "Step outside the Everoak Tree and see how the Nectar Apiary is doing.",
+                "Talk to Winnie the Pooh about your success."
+            ],
+            "rewards": [
+                "Honeyglow Woods Map"
+            ],
+            "dlc": true,
+            "friendship": 0
+        },
+        {
+            "name": "Epilogue: See You Next Summer",
+            "id": "winniethepooh.story.10",
+            "objectives": [
+                "Talk to Winnie the Pooh and friends.",
+                "Cook a special Honey Hero Cake .",
+                "Gather the materials needed to make a Party Table :\r\n  ‧ Oak Leaves. (5) Tree Resin. (4) Driftwood. (7) White & Pink Foxglove. (5) Honey Hero Cake. (1)",
+                "Craft a Party Table .",
+                "Place the Party Table anywhere in Drowsybloom Acre .",
+                "Talk to Piglet about party decorations.",
+                "Gather materials to craft Honeyglow Flower Pots :\r\n  ‧ Purple Thistle. (1) Red Thistle. (1) White & Pink Foxglove. (1) Yellow & Orange Foxglove. (1) Purple & White Foxglove. (1) Rose & Cream Foxglove. (1) White Thistle. (1) Yellow Thistle. (1) Golden Honey. (4)",
+                "Craft 4 different Honeyglow Flower Pots .\r\n  ‧ Purple. Red. Pink. Yellow.",
+                "Go back to the party area to check if everything is ready.",
+                "Talk to Piglet . He seems worried.",
+                "Talk to Winnie the Pooh and friends about the missing cake.",
+                "Decorate the party area with Flower Pots :\r\n  ‧ Purple Honeyglow Flower Pot. Red Honeyglow Flower Pot. Pink Honeyglow Flower Pot. Yellow Honeyglow Flower Pot.",
+                "Enjoy the Heroes' Party with your friends.",
+                "Talk to Winnie the Pooh and friends.",
+                "Craft a Paper Boat from the Summer Plans list .",
+                "Set the Paper Boat sailing near the bridge in Drowsybloom Acre .",
+                "Talk to Winnie the Pooh and friends about what awaits you next."
+            ],
+            "rewards": [
+                "Party Table"
+            ],
+            "dlc": true,
+            "friendship": 0
+        }
+    ]
+}

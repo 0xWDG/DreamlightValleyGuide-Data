@@ -5,19 +5,20 @@
     "name": "Eeyore",
     "origin": "Winnie the Pooh",
     "quests": [
-        "eeyore.story"
+        "eeyore.story",
+        "eeyore.friendship"
     ],
     "rewards": [
         "",
         "Character Unlocked",
-        "Wallpaper / Furniture / Clothing",
-        "Design Motif",
+        "Wildflower Garden Box",
+        "Eeyore Patch Motif",
         "StarCoins 500",
-        "Furniture",
-        "Design Motif",
+        "Entwined Woodland Bench",
+        "Eeyore Zig-Zag Motif",
         "StarCoins 1000",
-        "Furniture",
-        "Design Motif",
-        "Clothing"
+        "Entwined Woodland Bed",
+        "Thistle Flowers Motif",
+        "Gloomy Cable-Knit Top\r\nGloomy Plaid Jacket\r\nGloomy Plaid Shorts\r\nGloomy Slouchy Socks\r\nGloomy Chunky Shoes"
     ]
 }
