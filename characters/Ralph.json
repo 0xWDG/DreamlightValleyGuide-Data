@@ -1,0 +1,23 @@
+{
+    "description": "Ralph is a character from the Disney films Wreck-It Ralph (2012) and Ralph Breaks the Internet (2018).",
+    "house": "Ralph's House",
+    "icon": "star",
+    "name": "Ralph",
+    "origin": "Wreck-It Ralph",
+    "quests": [
+        "ralph.friendship"
+    ],
+    "rewards": [
+        "",
+        "Character Unlocked",
+        "Pixel Tree",
+        "Ralph Pixel Sprite Motif",
+        "StarCoins 500",
+        "Wreck-It Ralph Party Cake",
+        "Felix Name Patch Motif",
+        "StarCoins 1000",
+        "Fix-It Felix Station",
+        "Wreck-It Ralph Pixel Art Rewards Motif",
+        "Fix-It Drafting Cap\r\nFix-It Patched Buttondown\r\nFix-It Tobi Trousers"
+    ]
+}
