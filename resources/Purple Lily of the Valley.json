@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "These delicate bell-shaped blooms have a sweet scent.",
+    "energy": 0,
+    "found": [
+        "Pixie Acres"
+    ],
+    "icon": "star",
+    "name": "Purple Lily of the Valley",
+    "price": 62,
+    "rarity": "none",
+    "type": "Flowers"
+}

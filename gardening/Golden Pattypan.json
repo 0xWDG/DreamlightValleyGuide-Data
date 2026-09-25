@@ -1,0 +1,25 @@
+{
+    "activity": [
+        "gardening"
+    ],
+    "biome": "Honeyglow Woods",
+    "coins": "1.9",
+    "description": "A sunny squash that cooks up tender and delicious.",
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "grow": "20min",
+    "growTime": 20,
+    "icon": "star",
+    "name": "Golden Pattypan",
+    "price": 44,
+    "profit": 38,
+    "seed": 50,
+    "seedPrice": 50,
+    "sell": 44,
+    "sellPrice": 44,
+    "type": "Vegetables",
+    "water": 2,
+    "waterings": 2,
+    "yield": 2
+}

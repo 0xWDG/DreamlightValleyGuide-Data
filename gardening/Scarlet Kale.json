@@ -1,0 +1,25 @@
+{
+    "activity": [
+        "gardening"
+    ],
+    "biome": "Wishing Alps",
+    "coins": "4.4",
+    "description": "This hardy green is certainly less green than some other kales.",
+    "found": [
+        "Wishing Alps"
+    ],
+    "grow": "10min",
+    "growTime": 10,
+    "icon": "star",
+    "name": "Scarlet Kale",
+    "price": 29,
+    "profit": 44,
+    "seed": 15,
+    "seedPrice": 15,
+    "sell": 29,
+    "sellPrice": 29,
+    "type": "Vegetables",
+    "water": 1,
+    "waterings": 1,
+    "yield": 2
+}

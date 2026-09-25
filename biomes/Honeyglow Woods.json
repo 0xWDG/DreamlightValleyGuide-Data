@@ -1,0 +1,13 @@
+{
+    "characters": [
+        "Winnie the Pooh",
+        "Eeyore",
+        "Piglet"
+    ],
+    "description": "Honeyglow Woods is a game area which is unlocked for players who have purchased the paid expansion \"Honeyglow Woods\".",
+    "icon": "star",
+    "island": "Honeyglow Woods",
+    "name": "Honeyglow Woods",
+    "price": 0,
+    "critters": "Classic Hedgehogs"
+}

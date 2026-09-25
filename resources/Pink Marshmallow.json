@@ -1,0 +1,16 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "Pillow soft and faintly pink. Perfect for making campfire treats!",
+    "energy": 450,
+    "found": [
+        "Plaza",
+        "Peaceful Meadow"
+    ],
+    "icon": "star",
+    "name": "Pink Marshmallow",
+    "price": 50,
+    "rarity": "none",
+    "type": "Sweets"
+}

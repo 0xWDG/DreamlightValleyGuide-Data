@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "This wispy green herb is delicious in all sorts of culinary applications, from dips, to soups and beyond.",
+    "energy": 115,
+    "found": [
+        "Wishing Alps"
+    ],
+    "icon": "star",
+    "name": "Dill",
+    "price": 40,
+    "rarity": "none",
+    "type": "Spices"
+}

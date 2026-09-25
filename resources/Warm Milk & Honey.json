@@ -1,0 +1,22 @@
+{
+    "activity": [
+        "recipes"
+    ],
+    "biome": "Honeyglow Woods",
+    "description": "A cozy cup of milk with a touch of golden sweetness.",
+    "energy": 1316,
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "icon": "star",
+    "ingredients": [
+        "Milk",
+        "Golden Honey"
+    ],
+    "name": "Warm Milk & Honey",
+    "price": 344,
+    "rarity": "none",
+    "sellPrice": 344,
+    "stars": 2,
+    "type": "Appetizers"
+}

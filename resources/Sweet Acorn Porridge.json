@@ -1,0 +1,23 @@
+{
+    "activity": [
+        "recipes"
+    ],
+    "biome": "Honeyglow Woods",
+    "description": "A warm porridge made with sweet, roasted acorns.",
+    "energy": 661,
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "icon": "star",
+    "ingredients": [
+        "Acorn Snail",
+        "Any Fruit",
+        "Any Grain"
+    ],
+    "name": "Sweet Acorn Porridge",
+    "price": 119,
+    "rarity": "none",
+    "sellPrice": 119,
+    "stars": 3,
+    "type": "Appetizers"
+}

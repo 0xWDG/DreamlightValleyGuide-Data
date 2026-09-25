@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "Just the sight of this sweet green clover can put a spring in your step.",
+    "energy": 0,
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "icon": "star",
+    "name": "Three-Leaf Clover",
+    "price": 25,
+    "rarity": "none",
+    "type": "Crafting Materials"
+}

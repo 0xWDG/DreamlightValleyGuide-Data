@@ -1,0 +1,16 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "A floral Dreamlight Parks Fest button. How perfect!",
+    "energy": 0,
+    "found": [
+        "Plaza",
+        "Peaceful Meadow"
+    ],
+    "icon": "star",
+    "name": "Flower Button",
+    "price": 50,
+    "rarity": "none",
+    "type": "Flowers"
+}

@@ -1,0 +1,12 @@
+{
+    "activity": [
+        "digging"
+    ],
+    "description": "With a little elbow grease, this rusty hinge can be re-purposed into something great.",
+    "found": [
+        "Wishing Alps"
+    ],
+    "icon": "star",
+    "name": "Rusty Hinge",
+    "price": 25
+}

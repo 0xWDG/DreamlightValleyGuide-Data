@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "fishing"
+    ],
+    "description": "Bass can be festive just about everywhere!",
+    "energy": 150,
+    "found": [
+        "Peaceful Meadow"
+    ],
+    "icon": "star",
+    "name": "Festive Bass",
+    "price": 0,
+    "rarity": "Red & Green",
+    "type": "Fish"
+}

@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "fishing"
+    ],
+    "description": "These festive fish will swim upstream to celebrate holidays with their family.",
+    "energy": 500,
+    "found": [
+        "Sunlit Plateau"
+    ],
+    "icon": "star",
+    "name": "Festive Salmon",
+    "price": 0,
+    "rarity": "Red & Green",
+    "type": "Fish"
+}

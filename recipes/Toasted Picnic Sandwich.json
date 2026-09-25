@@ -1,0 +1,25 @@
+{
+    "activity": [
+        "recipes"
+    ],
+    "biome": "Honeyglow Woods",
+    "description": "A crispy sandwich packed with simple, picnic-ready fillings.",
+    "energy": 1208,
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "icon": "star",
+    "ingredients": [
+        "Golden Honey",
+        "Parsnip",
+        "Any Dairy and Oil",
+        "Tree Resin",
+        "Any Spice"
+    ],
+    "name": "Toasted Picnic Sandwich",
+    "price": 173,
+    "rarity": "none",
+    "sellPrice": 173,
+    "stars": 5,
+    "type": "Entrées"
+}

@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "Sweet and tart, these beautiful little berries make great jams.",
+    "energy": 350,
+    "found": [
+        "Wishing Alps"
+    ],
+    "icon": "star",
+    "name": "Red Currants",
+    "price": 33,
+    "rarity": "none",
+    "type": "Fruit"
+}

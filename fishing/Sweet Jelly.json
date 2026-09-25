@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "fishing"
+    ],
+    "description": "A wobbly, sugary goodie with a bright honey flavor that makes any dessert a little more magical.",
+    "energy": 900,
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "icon": "star",
+    "name": "Sweet Jelly",
+    "price": 450,
+    "rarity": "Blue, can be White",
+    "type": "Sweets"
+}

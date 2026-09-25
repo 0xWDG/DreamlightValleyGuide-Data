@@ -1,0 +1,22 @@
+{
+    "activity": [
+        "recipes"
+    ],
+    "biome": "Honeyglow Woods",
+    "description": "A sweet and crunchy honey snack that Pooh simply can't resist.",
+    "energy": 1410,
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "icon": "star",
+    "ingredients": [
+        "Sweet Chestnut",
+        "Golden Honey"
+    ],
+    "name": "Honeycrunch Bar",
+    "price": 107,
+    "rarity": "none",
+    "sellPrice": 107,
+    "stars": 2,
+    "type": "Appetizers"
+}

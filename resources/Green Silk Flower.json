@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "Soft and delicate, this green flower has a faint scent of fabric dye.",
+    "energy": 0,
+    "found": [
+        "Glamour Gulch"
+    ],
+    "icon": "star",
+    "name": "Green Silk Flower",
+    "price": 73,
+    "rarity": "none",
+    "type": "Flowers"
+}

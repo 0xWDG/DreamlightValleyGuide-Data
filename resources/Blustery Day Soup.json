@@ -1,0 +1,24 @@
+{
+    "activity": [
+        "recipes"
+    ],
+    "biome": "Honeyglow Woods",
+    "description": "Hearty, comforting, and warm soups designed for cold, windy, or rainy weather.",
+    "energy": 1339,
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "icon": "star",
+    "ingredients": [
+        "Any Dairy and Oil",
+        "Mushroom",
+        "Truffle",
+        "Golden Honey"
+    ],
+    "name": "Blustery Day Soup",
+    "price": 226,
+    "rarity": "none",
+    "sellPrice": 226,
+    "stars": 4,
+    "type": "Appetizers"
+}

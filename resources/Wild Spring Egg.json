@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "These eggs are popping up all over the Village! Keep searching and you're sure to find more.",
+    "energy": 100,
+    "found": [
+        "none"
+    ],
+    "icon": "star",
+    "name": "Wild Spring Egg",
+    "price": 25,
+    "rarity": "none",
+    "type": "Dairy and Oil"
+}

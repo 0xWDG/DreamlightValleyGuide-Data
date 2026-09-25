@@ -1,0 +1,27 @@
+{
+    "activity": [
+        "gardening",
+        "ingredient"
+    ],
+    "biome": "Wishing Alps",
+    "coins": "2.4",
+    "description": "A strange hybrid of cacao and coffee, anything brewed from these beans is sure to wake you up.",
+    "found": [
+        "Wishing Alps"
+    ],
+    "grow": "30min",
+    "growTime": 30,
+    "icon": "star",
+    "name": "Dark Chocolate Coffee Beans",
+    "price": 66,
+    "profit": 72,
+    "seed": 60,
+    "seedPrice": 60,
+    "sell": 66,
+    "sellPrice": 66,
+    "type": "Fruit",
+    "water": 2,
+    "waterings": 2,
+    "yield": 2,
+    "rarity": "none"
+}

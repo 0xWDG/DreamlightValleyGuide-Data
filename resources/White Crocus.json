@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "These sweet white blooms are often the first sign of spring thaw.",
+    "energy": 0,
+    "found": [
+        "Wishing Alps"
+    ],
+    "icon": "star",
+    "name": "White Crocus",
+    "price": 41,
+    "rarity": "none",
+    "type": "Flowers"
+}

@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "A splendid bouquet of roses that can take on a variety of colors.",
+    "energy": 0,
+    "found": [
+        "Beast's Greenhouse"
+    ],
+    "icon": "star",
+    "name": "Rainbow Rose Bouquet",
+    "price": 40,
+    "rarity": "none",
+    "type": "Crafting Materials"
+}

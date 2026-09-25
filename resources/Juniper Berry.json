@@ -1,0 +1,16 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "A piney, pungent berry that you can pick from bushes.",
+    "energy": 300,
+    "found": [
+        "Gloommeadow",
+        "Braveheart Grove"
+    ],
+    "icon": "star",
+    "name": "Juniper Berry",
+    "price": 25,
+    "rarity": "none",
+    "type": "Fruit"
+}

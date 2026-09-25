@@ -1,0 +1,12 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "These whirly twirly seeds can be found in the Wishblossom Mountains.",
+    "found": [
+        "Pixie Acres"
+    ],
+    "icon": "star",
+    "name": "Copter Seeds",
+    "price": 70
+}

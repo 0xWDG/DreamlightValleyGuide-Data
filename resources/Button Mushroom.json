@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "Rather woody in their natural state, these buttons can be used on clothing or stewed until they're soft and tasty.",
+    "energy": 135,
+    "found": [
+        "Glamour Gulch"
+    ],
+    "icon": "star",
+    "name": "Button Mushroom",
+    "price": 60,
+    "rarity": "none",
+    "type": "Spices"
+}

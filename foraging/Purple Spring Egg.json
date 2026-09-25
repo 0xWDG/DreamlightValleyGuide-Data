@@ -1,0 +1,14 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "These purple eggs seem to be springing up all over the Valley. What are they for?",
+    "found": [
+        "Moana (Universe)",
+        "Toy Story",
+        "WALL-E (Universe)"
+    ],
+    "icon": "star",
+    "name": "Purple Spring Egg",
+    "price": 30
+}

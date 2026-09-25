@@ -1,0 +1,18 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "A tasty and crunchy snack that you can pick from bushes.",
+    "energy": 400,
+    "found": [
+        "Drowsybloom Acre",
+        "Gloommeadow",
+        "Braveheart Grove",
+        "Nectar Apiary"
+    ],
+    "icon": "star",
+    "name": "Sweet Chestnut",
+    "price": 48,
+    "rarity": "none",
+    "type": "Fruit"
+}

@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "A prickly but pretty flower.",
+    "energy": 0,
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "icon": "star",
+    "name": "Purple Thistle",
+    "price": 0,
+    "rarity": "none",
+    "type": "Flowers"
+}

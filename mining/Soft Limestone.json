@@ -1,0 +1,12 @@
+{
+    "activity": [
+        "mining"
+    ],
+    "description": "A relatively soft and carvable rock. Useful for crafting.",
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "icon": "star",
+    "name": "Soft Limestone",
+    "price": 20
+}

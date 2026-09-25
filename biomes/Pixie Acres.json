@@ -1,0 +1,11 @@
+{
+    "characters": [
+        "Tigger"
+    ],
+    "description": "Pixie Acres is a biome in the Wishblossom Mountains, available after unlocking the paid expansion \"Wishblossom Ranch\". It is located on the east side of the Wishblossom Mountains, and is connected to the other two biomes - Wishing Alps and Glamour Gulch.",
+    "icon": "star",
+    "island": "Wishblossom Mountains",
+    "name": "Pixie Acres",
+    "price": 0,
+    "critters": "Sweet Bees"
+}

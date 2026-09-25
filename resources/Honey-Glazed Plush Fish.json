@@ -1,0 +1,23 @@
+{
+    "activity": [
+        "recipes"
+    ],
+    "biome": "Honeyglow Woods",
+    "description": "A delicate catch drizzled with warm, sticky honey.",
+    "energy": 3507,
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "icon": "star",
+    "ingredients": [
+        "Plush Fish",
+        "Any Vegetable",
+        "Golden Honey"
+    ],
+    "name": "Honey-Glazed Plush Fish",
+    "price": 1320,
+    "rarity": "none",
+    "sellPrice": 1320,
+    "stars": 3,
+    "type": "Entrées"
+}

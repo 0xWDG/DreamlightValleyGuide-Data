@@ -1,0 +1,13 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "A piney, pungent berry that you can pick from bushes.",
+    "found": [
+        "Gloommeadow",
+        "Braveheart Grove"
+    ],
+    "icon": "star",
+    "name": "Juniper Berry",
+    "price": 25
+}

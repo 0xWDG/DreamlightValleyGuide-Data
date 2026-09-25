@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "Purple & White Foxglove is a flower type that can be found growing wild in all regions of Honeyglow Woods.",
+    "energy": 0,
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "icon": "star",
+    "name": "Purple & White Foxglove",
+    "price": 0,
+    "rarity": "none",
+    "type": "Flowers"
+}

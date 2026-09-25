@@ -1,0 +1,12 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "Wood from barns in the past, perfect for building new things!",
+    "found": [
+        "Wishing Alps"
+    ],
+    "icon": "star",
+    "name": "Reclaimed Barn Wood",
+    "price": 30
+}

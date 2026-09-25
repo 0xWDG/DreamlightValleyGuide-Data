@@ -1,0 +1,25 @@
+{
+    "activity": [
+        "gardening"
+    ],
+    "biome": "Honeyglow Woods",
+    "coins": "2.25",
+    "description": "These look like they would make a pretty bouquet, but are more useful as a cooking ingredient.",
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "grow": "40min",
+    "growTime": 40,
+    "icon": "star",
+    "name": "Pufflebud Pods",
+    "price": 80,
+    "profit": 90,
+    "seed": 150,
+    "seedPrice": 150,
+    "sell": 80,
+    "sellPrice": 80,
+    "type": "Fruit",
+    "water": 2,
+    "waterings": 2,
+    "yield": 3
+}

@@ -1,0 +1,13 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "Sweet, puffy, soft, and faintly blue. Perfect for making campfire treats!",
+    "found": [
+        "Plaza",
+        "Peaceful Meadow"
+    ],
+    "icon": "star",
+    "name": "Blue Marshmallow",
+    "price": 50
+}

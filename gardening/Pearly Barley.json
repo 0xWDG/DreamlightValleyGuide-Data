@@ -1,0 +1,25 @@
+{
+    "activity": [
+        "gardening"
+    ],
+    "biome": "Wishing Alps",
+    "coins": "2",
+    "description": "When dried, husked and polished, this edible grain has a beautiful pearlescent sheen to it.",
+    "found": [
+        "Wishing Alps"
+    ],
+    "grow": "20min",
+    "growTime": 20,
+    "icon": "star",
+    "name": "Pearly Barley",
+    "price": 45,
+    "profit": 40,
+    "seed": 50,
+    "seedPrice": 50,
+    "sell": 45,
+    "sellPrice": 45,
+    "type": "Grains",
+    "water": 2,
+    "waterings": 2,
+    "yield": 2
+}

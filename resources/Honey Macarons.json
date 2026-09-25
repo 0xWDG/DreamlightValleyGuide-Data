@@ -1,0 +1,24 @@
+{
+    "activity": [
+        "recipes"
+    ],
+    "biome": "Honeyglow Woods",
+    "description": "Crisp macarons paired with a rich, honeyed filling.",
+    "energy": 3316,
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "icon": "star",
+    "ingredients": [
+        "Golden Honey",
+        "Sweet Jelly",
+        "Any Grain",
+        "Sweet Chestnut"
+    ],
+    "name": "Honey Macarons",
+    "price": 802,
+    "rarity": "none",
+    "sellPrice": 802,
+    "stars": 4,
+    "type": "Desserts"
+}

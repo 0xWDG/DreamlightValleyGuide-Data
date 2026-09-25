@@ -1,0 +1,12 @@
+{
+    "activity": [
+        "digging"
+    ],
+    "description": "A sticky, nutritious extract from trees, found underground in the Honeyglow Woods.",
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "icon": "star",
+    "name": "Tree Resin",
+    "price": 20
+}

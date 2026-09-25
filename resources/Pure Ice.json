@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "mining"
+    ],
+    "description": "This ice froze so solidly it now won't melt in warmer temperatures.",
+    "energy": 0,
+    "found": [
+        "Everafter"
+    ],
+    "icon": "star",
+    "name": "Pure Ice",
+    "price": 300,
+    "rarity": "none",
+    "type": "Gem"
+}

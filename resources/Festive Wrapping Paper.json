@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "A festive roll of paper to wrap gifts.",
+    "energy": 0,
+    "found": [
+        "Foraging near Scrooge's Store"
+    ],
+    "icon": "star",
+    "name": "Festive Wrapping Paper",
+    "price": 0,
+    "rarity": "none",
+    "type": "Crafting Material"
+}

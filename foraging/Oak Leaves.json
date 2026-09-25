@@ -1,0 +1,12 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "Leaves from a mighty oak tree. Useful for crafting.",
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "icon": "star",
+    "name": "Oak Leaves",
+    "price": 15
+}

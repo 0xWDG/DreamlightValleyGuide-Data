@@ -1,0 +1,13 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "A shiny red Dreamlight Parks Fest button.",
+    "found": [
+        "Dreamlight Valley",
+        "near houses"
+    ],
+    "icon": "star",
+    "name": "Red Button",
+    "price": 50
+}

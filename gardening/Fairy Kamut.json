@@ -1,0 +1,25 @@
+{
+    "activity": [
+        "gardening"
+    ],
+    "biome": "Pixie Acres",
+    "coins": "2.42",
+    "description": "This grain is ancient AND filled with fairy magic.",
+    "found": [
+        "Pixie Acres"
+    ],
+    "grow": "50min",
+    "growTime": 50,
+    "icon": "star",
+    "name": "Fairy Kamut",
+    "price": 107,
+    "profit": 121,
+    "seed": 200,
+    "seedPrice": 200,
+    "sell": 107,
+    "sellPrice": 107,
+    "type": "Grains",
+    "water": 3,
+    "waterings": 3,
+    "yield": 3
+}

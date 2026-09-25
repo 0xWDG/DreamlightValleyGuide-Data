@@ -1,0 +1,12 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "A prickly but pretty flower.",
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "icon": "star",
+    "name": "White Thistle",
+    "price": 0
+}

@@ -1,0 +1,25 @@
+{
+    "activity": [
+        "gardening"
+    ],
+    "biome": "Dreamlight Valley",
+    "coins": "4.17",
+    "description": "Upon closer eggs-amination, these don't seem to be vegetables at all.",
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "grow": "30min",
+    "growTime": 30,
+    "icon": "star",
+    "name": "Spring V-EGG-etable",
+    "price": 125,
+    "profit": 125,
+    "seed": 0,
+    "seedPrice": 0,
+    "sell": 125,
+    "sellPrice": 125,
+    "type": "Dairy and Oil",
+    "water": 2,
+    "waterings": 2,
+    "yield": 1
+}

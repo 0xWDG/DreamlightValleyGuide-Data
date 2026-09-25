@@ -1,0 +1,15 @@
+{
+    "activity": [
+        "foraging"
+    ],
+    "description": "A pretty purple Dreamlight Parks Fest button.",
+    "energy": 0,
+    "found": [
+        "Dreamlight Valley"
+    ],
+    "icon": "star",
+    "name": "Purple Button",
+    "price": 50,
+    "rarity": "none",
+    "type": "Crafting Materials"
+}

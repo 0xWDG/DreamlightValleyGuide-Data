@@ -1,0 +1,25 @@
+{
+    "activity": [
+        "recipes"
+    ],
+    "biome": "Honeyglow Woods",
+    "description": "A comforting pie made with the finest harvest from the garden.",
+    "energy": 448,
+    "found": [
+        "Honeyglow Woods"
+    ],
+    "icon": "star",
+    "ingredients": [
+        "Golden Pattypan",
+        "Parsnip",
+        "Pufflebud Pods",
+        "Carrot",
+        "Any Grain"
+    ],
+    "name": "Rabbit's Garden Pie",
+    "price": 323,
+    "rarity": "none",
+    "sellPrice": 323,
+    "stars": 5,
+    "type": "Entrées"
+}
