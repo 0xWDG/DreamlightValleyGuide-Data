@@ -67,6 +67,32 @@
             "rewards": [],
             "dlc": false,
             "friendship": 0
+        },
+        {
+            "name": "A Hero of Ink and Paper",
+            "id": "thelorekeeper.story.3",
+            "objectives": [
+                "The Lorekeeper was the last person who saw Aurora.",
+                "Talk to the Lorekeeper.",
+                "Interact with the tapestry behind the Lorekeeper.",
+                "Well, that didn't work...",
+                "Talk to the Lorekeeper.",
+                "Find Aurora's Notes in the secret chamber beneath the bridge in the Bind.",
+                "Search the Vale for the pieces of the Fairy Tale Book:\r\n  \u2027 Near the Fallen Fortress's crumbling walls.\r\n  \u2027 Near a windmill in Mythopia.",
+                "Bring all the volumes of the Fairy Tale Book back to the Lorekeeper.",
+                "Talk to the following Villagers:\r\n  \u2027 Maleficent.\r\n  \u2027 Hades.\r\n  \u2027 Flynn.\r\n  \u2027 Merida.",
+                "Gather the following materials:\r\n  \u2027 Yellow Tale Cone Flowers. (4)\r\n  \u2027 Blue Tale Cone Flower. (4)\r\n  \u2027 Olive Green Tale Cone Flower. (4)\r\n  \u2027 Beige Tale Cone Flower. (4)\r\n  \u2027 Posidonia. (10)\r\n  \u2027 Blue Bird Snippet. (4)\r\n  \u2027 Red Demon Snippet. (4)\r\n  \u2027 Green Frog Snippet. (4)",
+                "Craft the \"Hero of the Vale\" Costume at a Crafting Station.",
+                "Make sure the \"Hero of the Vale\" Costume is in your Inventory.",
+                "Bring the \"Hero of the Vale\" Costume to the Lorekeeper.",
+                "Put on the Hero of the Vale Coat.",
+                "Interact with the tapestry in the center of the Library of Lore."
+            ],
+            "rewards": [
+                "Hero of the Vale Coat"
+            ],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }
