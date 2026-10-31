@@ -62,6 +62,20 @@
                 "Make sure you have Maleficent's Second Anchor Moment in your Inventory.",
                 "Bring Maleficent her Second Anchor Moment."
             ],
+            "spoilers": [
+                {
+                    "title": "How many seats are in the waiting room?",
+                    "objective": "There are 44 seats in the waiting room."
+                },
+                {
+                    "title": "How many Magic Quills are currently on duty in the Unwritten Realms, including myself?",
+                    "objective": "There are 4 Magic Quills on duty."
+                },
+                {
+                    "title": "Which floor of the Reviews and Processing Department are we on right now?",
+                    "objective": "Floor 2."
+                }
+            ],
             "rewards": [],
             "dlc": false,
             "friendship": 0
