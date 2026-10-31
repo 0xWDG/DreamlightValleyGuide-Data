@@ -93,6 +93,27 @@
             ],
             "dlc": false,
             "friendship": 0
+        },
+        {
+            "name": "The Ink-Stained World",
+            "id": "thelorekeeper.story.4",
+            "objectives": [
+                "Explore the Storybook World.",
+                "Reach the door at the back of the room.",
+                "Talk to the Enchanted Stained Glass.",
+                "Search for the first chamber.",
+                "Complete Merryweather's Trial of Virtue.",
+                "Find the next chamber to complete the next Trial.",
+                "Complete Fauna's Trial of Truth.",
+                "Find the final chamber inside the Storybook Castle.",
+                "Complete Flora's Trial of Song.",
+                "Talk to Flora back in the entrance hall.",
+                "Put on all of the Enchanted Gifts:\r\n  \u2027 The Sword and Shield of Truth and Virtue.\r\n  \u2027 The Cap of Song.\r\n  \u2027 The Hero of the Vale Coat.",
+                "Explore the tower in the Storybook Castle."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }

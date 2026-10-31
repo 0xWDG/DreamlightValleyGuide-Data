@@ -139,6 +139,62 @@
                 "875 Friendship"
             ],
             "friendship": 0
+        },
+        {
+            "name": "Olaf's Grand Exhibition",
+            "id": "olaf.friendship.extra.2",
+            "objectives": [
+                "Talk to Olaf.",
+                "Place the Grand Exhibition building in your Valley.",
+                "Unlock the Grand Exhibition using the Scrooge McDuck construction sign.",
+                "Talk to Olaf inside the Grand Exhibition.",
+                "Follow Olaf to the Peaceful Meadow door.",
+                "Talk to Olaf.",
+                "Meet Olaf inside the Peaceful Meadow room in the Grand Exhibition.",
+                "Talk to Olaf inside the Peaceful Meadow room in the Grand Exhibition.",
+                "Complete the Peaceful Meadow Aquarium, Diorama, and Habitat in Olaf's Grand Exhibition.",
+                "Talk to Olaf."
+            ],
+            "rewards": [
+                "The Grand Exhibition",
+                "Peaceful Meadow Green Ensemble"
+            ],
+            "friendship": 0
+        },
+        {
+            "name": "Grand Exhibition: Aquarium",
+            "id": "olaf.friendship.extra.3",
+            "objectives": [
+                "Gather gemstones found in the Peaceful Meadow:\r\n  \u2027 Garnet.\r\n  \u2027 Shiny Garnet.\r\n  \u2027 Peridot.\r\n  \u2027 Shiny Peridot.\r\n  \u2027 Onyx.",
+                "Add Peaceful Meadow gemstones to the display in front of the Aquarium in the Grand Exhibition.",
+                "Catch fish from the Peaceful Meadow:\r\n  \u2027 Bass.\r\n  \u2027 Bream.\r\n  \u2027 Catfish.\r\n  \u2027 Rainbow Trout.",
+                "Add fish from the Peaceful Meadow to the Grand Exhibition Aquarium."
+            ],
+            "rewards": [],
+            "friendship": 0
+        },
+        {
+            "name": "Grand Exhibition: Diorama",
+            "id": "olaf.friendship.extra.4",
+            "objectives": [
+                "Gather flowers from the Peaceful Meadow:\r\n  \u2027 Purple Rising Penstemon.\r\n  \u2027 Green Rising Penstemon.\r\n  \u2027 Yellow Daisy.\r\n  \u2027 Red Daisy.\r\n  \u2027 White Daisy.",
+                "Fill the Diorama display case with Peaceful Meadow flowers in the Grand Exhibition.",
+                "Talk to Olaf inside the Peaceful Meadow room in the Grand Exhibition.",
+                "Repair each Diorama Blueprint:\r\n  \u2027 Left panel.\r\n  \u2027 Left center panel.\r\n  \u2027 Right center panel.\r\n  \u2027 Right panel."
+            ],
+            "rewards": [],
+            "friendship": 0
+        },
+        {
+            "name": "Grand Exhibition: Habitat",
+            "id": "olaf.friendship.extra.5",
+            "objectives": [
+                "Forage wild foods and grow crops found in the Peaceful Meadow:\r\n  \u2027 Banana.\r\n  \u2027 Carrot.\r\n  \u2027 Raspberry.\r\n  \u2027 Wheat.\r\n  \u2027 Lettuce.\r\n  \u2027 Basil.",
+                "Fill the Habitat display case with food from the Peaceful Meadow in the Grand Exhibition.",
+                "Add critters from the Peaceful Meadow to the Habitat in the Grand Exhibition."
+            ],
+            "rewards": [],
+            "friendship": 0
         }
     ]
 }

@@ -140,6 +140,28 @@
             ],
             "dlc": false,
             "friendship": 0
+        },
+        {
+            "name": "The Marble Colossus",
+            "id": "hades.story.6",
+            "objectives": [
+                "Explore the Statue's Shadow.",
+                "Try to extend the bridge to reach the statue by interacting with the panel nearby.",
+                "Explore the Elysian Fields to find a Villager who can help you.",
+                "Talk to Hades.",
+                "Gather the materials necessary to rebuild the missing pillars:\r\n  \u2027 Marble. (10)\r\n  \u2027 Gold Ingot. (4)\r\n  \u2027 Squid. (4)",
+                "Craft the Pain & Panic Vase. (2)",
+                "Place the Pain Vase on the left.",
+                "Place the Panic Vase on the right.",
+                "Try to lower the bridge by interacting with the panel.",
+                "Activate the gateway to the Mythic Trial with your Royal Net."
+            ],
+            "rewards": [
+                "600 Friendship",
+                "250 Storybook Magic"
+            ],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }

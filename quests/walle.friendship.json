@@ -70,7 +70,7 @@
             "friendship": 6
         },
         {
-            "name": "The Broken Memory",
+            "name": "A Friendly Exchange",
             "id": "walle.friendship.5",
             "objectives": [
                 "Go see WALL-E",
@@ -82,7 +82,7 @@
                 "Return to WALL-E"
             ],
             "rewards": [
-                "700 Friendship"
+                "720 Friendship"
             ],
             "friendship": 8
         },

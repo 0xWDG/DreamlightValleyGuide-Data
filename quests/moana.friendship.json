@@ -66,7 +66,7 @@
             "friendship": 6
         },
         {
-            "name": "The Remembering",
+            "name": "The Search for Pua",
             "id": "moana.friendship.4",
             "objectives": [
                 "Follow Moana to the Fishing Boat",
@@ -81,7 +81,7 @@
                 "Give Moana the new Leader Shard."
             ],
             "rewards": [
-                "700 Friendship",
+                "720 Friendship",
                 "Unlock Pua as a companion pet"
             ],
             "friendship": 8
@@ -103,6 +103,47 @@
                 "Tropical Flourish Gown"
             ],
             "friendship": 10
+        },
+        {
+            "name": "Whispers in the Wind",
+            "id": "moana.friendship.6",
+            "objectives": [
+                "Make sure the Glowing Algae is in your Inventory.",
+                "Bring the Glowing Algae to Moana.",
+                "Meet Moana in her House.",
+                "Use the boating equipment in Moana's House.",
+                "Talk to Moana.",
+                "Investigate the Mystery Island for the Swirling Petal Winds.",
+                "Talk to Moana near the Swirling Flower Petal Winds.",
+                "Pick up the Memory Orb near the Swirling Flower Petal Winds.",
+                "Talk to Moana near the Swirling Flower Petal Winds.",
+                "Search the Mystery Island for dig spots. (2)",
+                "Bring the Jewelry Pieces to Moana near the Swirling Flower Petal Winds.",
+                "Re-order the jumbled Memory by touching the Orb on the Mystery Island.",
+                "Talk to Moana near the Swirling Flower Petal Winds.",
+                "Follow Moana to the boat on the dock.",
+                "Interact with the boat on the Mystery Island and head out to sea to find the location in the Memory.",
+                "Talk to Moana on the boat.",
+                "Explore the surroundings of the Mystery Island with the boat to find floating planks. (3)",
+                "Bring the planks to Moana.",
+                "Return to the glowing whirlpool by sailing east.",
+                "Place the planks on the boat.",
+                "Fish out the last Jewelry Piece in the glowing whirlpool by the Mystery Island rocks to the east.",
+                "Interact with the boat to return to the Mystery Island.",
+                "Repair the Jewelry Pieces at a Crafting Station.",
+                "Bring the Repaired Necklace to Moana near the Swirling Flower Petal Winds.",
+                "Talk to Pocahontas.",
+                "Return to the Valley using the boating gear near the dock.",
+                "Place Pocahontas's Yehakin in the Valley.",
+                "Unlock Pocahontas's Yehakin.",
+                "Welcome Pocahontas to the Valley.",
+                "Talk to Pocahontas."
+            ],
+            "rewards": [
+                "Unlock Pocahontas",
+                "Pocahontas's Yehakin"
+            ],
+            "friendship": 0
         }
     ]
 }

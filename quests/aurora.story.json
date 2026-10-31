@@ -34,6 +34,53 @@
             ],
             "dlc": false,
             "friendship": 0
+        },
+        {
+            "name": "The Trial of Virtue",
+            "id": "aurora.story.2",
+            "objectives": [
+                "Talk to the stained glass Merryweather window in the chamber.",
+                "Find and place the missing elements:\r\n  \u2027 Dragon's Flame.\r\n  \u2027 Knight's Arms.",
+                "Open Furniture Mode and arrange the elements to protect the knight from the dragon.",
+                "Pick up the Shield of Virtue.",
+                "Make sure the Shield of Virtue is in your Inventory.",
+                "Bring the Shield of Virtue to Merryweather in the chamber."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "The Trial of Truth",
+            "id": "aurora.story.3",
+            "objectives": [
+                "Talk to the stained glass Fauna in the chamber.",
+                "Open your Furniture menu and place everything in the right spots so the critters aren't scared of the shadows of the lion and the bird of prey.",
+                "Cook the right meal for the Rabbit.",
+                "Bring the Carrot Salad to the Rabbit.",
+                "Cook the right meal for the Pegasus.",
+                "Bring the Barley Salad to the Pegasus.",
+                "Pick up the Sword of Truth.",
+                "Bring the Sword of Truth to Fauna."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "The Trial of Song",
+            "id": "aurora.story.4",
+            "objectives": [
+                "Talk to the stained glass Flora in the grand ballroom.",
+                "Find a way to position the dancer's shadows.",
+                "Open your Furniture mode and arrange the instruments in the right spots:\r\n  \u2027 Piano.\r\n  \u2027 Cello.\r\n  \u2027 Harp.\r\n  \u2027 Lute.",
+                "Pick up the Cap of Song.",
+                "Make sure the Cap of Song is in your Inventory.",
+                "Bring the Cap of Song to Flora."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }

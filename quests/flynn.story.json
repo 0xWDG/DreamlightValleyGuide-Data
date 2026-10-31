@@ -106,6 +106,33 @@
             ],
             "dlc": false,
             "friendship": 0
+        },
+        {
+            "name": "Not by the Hair on My Chinny Chin Chin",
+            "id": "flynn.story.6",
+            "objectives": [
+                "Investigate the room full of building materials.",
+                "Place the right building material in the right construction site.",
+                "Hay. (1)",
+                "Wood. (1)",
+                "Bricks. (1)",
+                "Pick up the Howling Gramophone."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
+        },
+        {
+            "name": "The Missing Princess",
+            "id": "flynn.story.7",
+            "objectives": [
+                "Talk to Flynn.",
+                "Dig up and open the pages of Aurora's Diary:\r\n  \u2027 Near a waterfall on the west side of the Bind.\r\n  \u2027 Near a beanstalk root by Maleficent's castle.\r\n  \u2027 By some water in the Elysian Fields.",
+                "Return to Flynn."
+            ],
+            "rewards": [],
+            "dlc": false,
+            "friendship": 0
         }
     ]
 }
